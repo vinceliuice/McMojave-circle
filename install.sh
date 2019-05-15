@@ -25,12 +25,12 @@ install() {
 
   echo "Installing '${THEME_DIR}'..."
 
-  cp -r ${SRC_DIR}/${name}${color}                                 ${THEME_DIR}
+  cp -ur ${SRC_DIR}/${name}${color}                                                    ${THEME_DIR}
   cp -ur ${SRC_DIR}/COPYING                                                            ${THEME_DIR}
   cp -ur ${SRC_DIR}/AUTHORS                                                            ${THEME_DIR}
 
-  cd ${dest}
-  gtk-update-icon-cache ${name}${color}
+#  cd ${dest}
+#  gtk-update-icon-cache ${name}${color}
 }
 
 for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
