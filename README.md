@@ -21,5 +21,5 @@ Mojave-gtk-theme: https://github.com/vinceliuice/Mojave-gtk-theme
 McMojave-kde: https://github.com/vinceliuice/McMojave-kde
 
 ## Preview
-![1](../master/Preview.png)
-![2](../master/Preview01.png)
+![1](../master/preview.png)
+![2](../master/preview01.png)
