@@ -1,0 +1,45 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c">
+   <stop stop-color="#8c59d9" offset="0"/>
+   <stop stop-color="#8f76e4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="99.036" x2="99.036" y1="-.50472" y2="199.84" gradientTransform="matrix(4.7813 0 0 4.7813 33.875 62.237)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3b3b3b" offset="0"/>
+   <stop stop-color="#666" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="522.44" x2="510.59" y1="24.766" y2="1052.4" gradientTransform="matrix(.99609 0 0 .99609 2 2.1108)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#111" offset="0"/>
+   <stop stop-color="#3b3b3b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="23.487" x2="23.487" y1="15.18" y2="32.913" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <linearGradient id="b" x1="520" x2="520" y1="272.36" y2="792.36" gradientTransform="matrix(.99609 0 0 .99609 2 2.1108)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7839b7" offset="0"/>
+   <stop stop-color="#2f5fdd" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.34375"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <g transform="matrix(.062745 0 0 .062745 -.12549 986.46)" stroke-width="15.938">
+   <g>
+    <circle cx="512" cy="540.36" r="478.12" color="#000000" filter="url(#f)" opacity=".25"/>
+    <circle cx="512" cy="540.36" r="478.12" color="#000000" fill="url(#e)"/>
+    <circle cx="511" cy="541.36" r="448.24" fill="url(#d)" stroke-width="340.18"/>
+   </g>
+   <g transform="matrix(21.345 0 0 21.345 -1.2729 29.081)" stroke-width="15.938">
+    <circle cx="24" cy="24" r="18" fill="#4d4d4d" stroke-width="15.938"/>
+   </g>
+   <g transform="matrix(21.345 0 0 21.345 -1.2729 29.081)" fill="#333" stroke-width="15.938">
+    <circle cx="24" cy="24" r="15" fill="#333" stroke-width="15.938"/>
+   </g>
+   <circle cx="511" cy="541.36" r="256.14" fill="url(#b)" stroke-width="340.18"/>
+   <g transform="matrix(21.345 0 0 21.345 -1.2729 29.081)" fill="url(#a)" stroke-width="15.938">
+    <circle cx="24" cy="24" r="9" fill="url(#a)" stroke-width="15.938"/>
+   </g>
+   <circle cx="596.38" cy="438.71" r="106.72" fill="#fff" opacity=".5" stroke-width="340.18"/>
+   <circle cx="361.36" cy="669.43" r="53.362" fill="#fff" opacity=".5" stroke-width="340.18"/>
+  </g>
+ </g>
+</svg>

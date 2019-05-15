@@ -1,0 +1,27 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="99.036" x2="99.036" y1="-.50472" y2="199.84" gradientTransform="matrix(4.705 0 0 4.705 41 70.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff8876" offset="0"/>
+   <stop stop-color="#f52834" offset=".5"/>
+   <stop stop-color="#e41249" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="100" x2="100" y1="852.36" y2="1052.4" gradientTransform="matrix(3.9491 0 0 3.9491 120.62 -3195)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#d7d7d7" offset="1"/>
+  </linearGradient>
+  <filter id="d" x="-.040073" y="-.032678" width="1.0801" height="1.0654" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.7721544"/>
+  </filter>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.115"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <g transform="matrix(.063762 0 0 .063762 -.61424 985.88)" stroke-width="15.683">
+   <circle cx="511.5" cy="540.86" r="470.5" color="#000000" filter="url(#c)" opacity=".25"/>
+   <circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#a)"/>
+   <path d="m406.93 592.43c0 71.534 1.3497 96.504-44.54 96.504-45.89 0-82.332 14.847-82.332 56.688 0 41.841 43.191 62.086 70.185 62.086 26.994 0 80.308-18.896 80.308-75.583v-256.44l229.45-53.313v196.38s2.6994 23.62-27.669 23.62c-30.368 0-97.179-8.7732-97.179 55.338 0 64.111 64.786 60.062 74.909 60.062 10.123 0 75.584-10.798 75.584-87.056v-360.37l-280.06 53.988z" filter="url(#d)" opacity=".2"/>
+   <path d="m406.93 582.43c0 71.534 1.3497 96.504-44.54 96.504-45.89 0-82.332 14.847-82.332 56.688 0 41.841 43.191 62.086 70.185 62.086 26.994 0 80.308-18.896 80.308-75.583v-256.44l229.45-53.313v196.38s2.6994 23.62-27.669 23.62c-30.368 0-97.179-8.7732-97.179 55.338 0 64.111 64.786 60.062 74.909 60.062 10.123 0 75.584-10.798 75.584-87.056v-360.37l-280.06 53.988z" fill="url(#b)"/>
+  </g>
+ </g>
+</svg>

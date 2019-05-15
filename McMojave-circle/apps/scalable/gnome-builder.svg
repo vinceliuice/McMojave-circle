@@ -1,0 +1,91 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="f">
+   <stop stop-color="#444b58" offset="0"/>
+   <stop stop-color="#7a8599" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a">
+   <stop stop-color="#3c3a42" offset="0"/>
+   <stop stop-color="#58565e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e">
+   <stop stop-color="#525252" offset="0"/>
+   <stop stop-color="#a6a6a6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d">
+   <stop stop-color="#f6c317" offset="0"/>
+   <stop stop-color="#f9f06b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <linearGradient id="o" x1="17.001" x2="17.001" y1="44.666" y2="20.667" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="n" x1="34.334" x2="34.334" y1="24.667" y2="6.0004" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="m" x1="49" x2="49" y1="36.666" y2="24.667" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="l" x1="7.6681" x2="23.668" y1="43.333" y2="43.333" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
+  <linearGradient id="k" x1="3.9988" x2="29.001" y1="52.999" y2="52.999" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
+  <linearGradient id="j" x1="3.9988" x2="29.001" y1="56" y2="56" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#262626" offset="0"/>
+   <stop stop-color="#7c7c7c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="i" x1="17.001" x2="17.001" y1="39.333" y2="26" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="h" x1="34.334" x2="34.334" y1="20.667" y2="10" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="49" x2="49" y1="35.333" y2="27.333" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="q" x1="53.659" x2="59.997" y1="42.139" y2="42.139" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <linearGradient id="p" x1="38.866" x2="45.208" y1="42.139" y2="42.139" gradientTransform="matrix(.75002 0 0 .75002 9.2488 5.4996)" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <filter id="r" x="-.034716" y="-.037383" width="1.0694" height="1.0748" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.81001595"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(1.0115 0 0 1.0115 -389.32 -489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#b)" stroke-width="1.0115"/>
+ <g transform="matrix(.75002 0 0 .75002 9.2488 5.4996)" filter="url(#r)" opacity=".25">
+  <path d="m32.181 11.867-21.128 21.132 5.9718 5.9756 21.136-21.128z" fill="none" font-weight="400" overflow="visible" stroke="#000" stroke-opacity=".87135" stroke-width="5.3316" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <g stroke-width="5.0393">
+   <path d="m3.9988 53.999h25.002v4.0026h-25.002z"/>
+   <path d="m10.25 30.167v16.668c0 2.3018-1.8671 4.1651-4.1651 4.1651h-2.0863v4.0007h25.002v-4.0007h-2.0826c-2.3018 0.0021-4.1689-1.8633-4.1689-4.1651v-16.668z" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m3.9988 50.998h25.002v4.0026h-25.002z"/>
+  </g>
+  <path d="m40.978 40.018 8.4512-8.4512 8.455 8.4512" fill="none" stroke="#000" stroke-width="5.3331"/>
+  <path d="m56.826 35.797a3.1749 3.1749 0 0 1 3.1711 3.1711v6.3384l-3.1711 3.1749h-3.1673v-9.5133c0-1.75 1.4174-3.1711 3.1673-3.1711z" stroke-width="5.0393"/>
+  <circle cx="17.001" cy="33" r="12" stroke-width="5.0393"/>
+  <path d="m51.675 32.626-16.902-16.906" fill="none" stroke="#030303" stroke-width="5.3316"/>
+  <g stroke-width="5.0393">
+   <circle cx="34.5" cy="15.5" r="9.5019"/>
+   <circle cx="49.003" cy="31" r="5.9982"/>
+   <path d="m42.033 35.797a3.1711 3.1711 0 0 0-3.1673 3.1711v6.3384l3.1673 3.1749h3.1749v-9.5133a3.1711 3.1711 0 0 0-3.1749-3.1711z"/>
+  </g>
+ </g>
+ <path d="m33.385 14.4-15.846 15.849 4.4789 4.4818 15.852-15.846z" fill="none" font-weight="400" overflow="visible" stroke="#dcb500" stroke-width="3.9988" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <g stroke-width="3.7796">
+  <path d="m12.248 46h18.752v3.002h-18.752z" fill="url(#j)"/>
+  <path d="m16.937 28.125v12.501c0 1.7264-1.4004 3.1239-3.1239 3.1239h-1.5648v3.0006h18.752v-3.0006h-1.562c-1.7264 0.0016-3.1268-1.3975-3.1268-3.1239v-12.501z" fill="url(#l)" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m12.248 43.749h18.752v3.002h-18.752z" fill="url(#k)"/>
+ </g>
+ <path d="m39.983 35.514 6.3386-6.3386 6.3414 6.3386" fill="none" stroke="#424048" stroke-width="4"/>
+ <g stroke-width="3.7796">
+  <path d="m51.87 32.348a2.3812 2.3812 0 0 1 2.3784 2.3784v4.7539l-2.3784 2.3812h-2.3755v-7.1351c0-1.3125 1.063-2.3784 2.3755-2.3784z" fill="url(#q)"/>
+  <path d="m33.781 14.253-15.846 15.852 4.4789 4.4789 15.852-15.846z" fill="none" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <circle cx="22" cy="30.25" r="9.0004" fill="url(#o)"/>
+ </g>
+ <path d="m48.006 29.969-12.677-12.68" fill="#424048" stroke="#424048" stroke-width="3.9988"/>
+ <g stroke-width="3.7796">
+  <circle cx="35.125" cy="17.125" r="7.1266" fill="url(#n)"/>
+  <circle cx="46.002" cy="28.75" r="4.4988" fill="url(#m)"/>
+  <circle cx="35.125" cy="17.125" r="4.1246" fill="url(#h)"/>
+  <circle cx="22" cy="30.25" r="5.25" fill="url(#i)"/>
+ </g>
+ <g stroke-width="3.7796">
+  <circle cx="22" cy="30.25" r="2.9992" fill="#1a1723"/>
+  <circle cx="35.125" cy="17.125" r="1.8738" fill="#1a1723"/>
+  <circle cx="46.002" cy="28.75" r="2.9992" fill="url(#g)"/>
+  <circle cx="46.002" cy="28.75" r="1.4996" fill="#1a1723"/>
+  <circle cx="51.87" cy="34.726" r=".79374" fill="#2e3436"/>
+  <path d="m40.774 32.348a2.3784 2.3784 0 0 0-2.3755 2.3784v4.7539l2.3755 2.3812h2.3812v-7.1351a2.3784 2.3784 0 0 0-2.3812-2.3784z" fill="url(#p)"/>
+  <circle transform="scale(-1,1)" cx="-40.774" cy="34.726" r=".79374" fill="#2e3436"/>
+ </g>
+</svg>

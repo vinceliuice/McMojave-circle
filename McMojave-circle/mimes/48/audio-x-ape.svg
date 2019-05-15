@@ -1,0 +1,67 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="d">
+   <stop stop-color="#f44f76" offset="0"/>
+   <stop stop-color="#a77bc8" offset=".5"/>
+   <stop stop-color="#5cd5fa" offset="1"/>
+  </linearGradient>
+  <mask id="f" maskUnits="userSpaceOnUse">
+   <rect transform="rotate(90)" x="873.33" y="-87.017" width="78.035" height="78.035" rx="39.017" ry="39.017" fill="url(#g)"/>
+  </mask>
+  <linearGradient id="g" x1="8.9827" x2="87.017" y1="912.36" y2="912.36" gradientTransform="translate(864.35 -960.36)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#4e4e4e" offset=".5"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <radialGradient id="e" cx="46.286" cy="1004.5" r="38" gradientTransform="matrix(1.0152 0 0 1.3574 1.6551 -355.69)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" offset=".61574"/>
+   <stop stop-color="#fff" offset=".6528"/>
+   <stop stop-color="#fff" offset="1"/>
+  </radialGradient>
+  <linearGradient id="i" x1="6" x2="90" y1="1004.4" y2="1004.4" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="h" x1="26.383" x2="67.323" y1="1003.1" y2="1003.1" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="b" x1="25.132" x2="25.132" y1=".98521" y2="47.013" gradientTransform="matrix(1 0 0 .95617 9.9862e-8 -.51792)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dadada" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <radialGradient id="a" cx="26.53" cy="23.566" r="17.5" gradientTransform="matrix(-1.7302 -.0033869 .0034626 -1.7689 87.322 43.647)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".65926" offset="0"/>
+   <stop stop-color="#cecece" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="c" x1="91.308" x2="95.182" y1="98.192" y2="102.07" gradientTransform="matrix(.56521 0 0 -.60266 -19.183 70.781)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fcfcfc" offset="0"/>
+   <stop stop-color="#c1c1c1" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m6.5 1.8722c5.8015 0 21.021 0.00228 21.021 0.00228l13.979 14.352 3.6e-5 29.651h-35v-44.006z" fill="none" stroke="#000" stroke-opacity=".54902"/>
+ <path d="m6.5 1.8942c5.8015 0 20.954 0.00228 20.954 0.00228l14.046 14.33 3.6e-5 29.673h-35v-44.006z" fill="url(#b)"/>
+ <g transform="matrix(.27841 0 0 .27799 10.636 -260.76)">
+  <g transform="matrix(.94271 0 0 .94435 2.7497 57.29)" fill="none" stroke="#000">
+   <g>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="12"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="11"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="10"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="9"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="8"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="7"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="6"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="5"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="4"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="3"/>
+    <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03" stroke-width="2"/>
+   </g>
+   <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" opacity=".03"/>
+  </g>
+  <g>
+   <rect x="6" y="962.36" width="84" height="84" rx="42" ry="42" fill="url(#i)"/>
+   <rect x="8.9827" y="965.34" width="78.035" height="78.035" rx="39.017" ry="39.017" fill="url(#e)"/>
+   <rect transform="translate(0,92)" x="8.9827" y="873.34" width="78.035" height="78.035" rx="39.017" ry="39.017" fill="#f9f9f9" mask="url(#f)" opacity=".507"/>
+  </g>
+  <path d="m65.353 977.87-23.233 6.0151c-1.7454 0.46839-3.1521 2.331-3.1521 4.1407v28.695c-1.7699-0.9281-4.0435-1.3038-6.4-0.6906-4.2525 1.1066-6.9176 4.6843-6.006 7.9882 0.91156 3.304 5.1027 5.1487 9.3552 4.0421 3.3926-0.8828 5.7316-3.3811 6.1045-6.0151l0.0985-27.116 22.051-5.9165v21.397c-1.7699-0.9282-4.0407-1.3038-6.3973-0.6906-4.2525 1.1066-6.9176 4.6843-6.006 7.9882 0.91156 3.3039 5.1 5.1487 9.3524 4.0421 3.3926-0.8828 5.7316-3.3811 6.1045-6.0151l0.0985-35.299c0-1.3573-0.83856-2.3741-1.9701-2.565z" color="#bebebe" fill="url(#h)"/>
+ </g>
+ <path d="m6.5 1.8942c5.8015 0 20.954 0.00228 20.954 0.00228l14.046 14.33 3.6e-5 29.673h-35v-44.006z" fill="url(#a)"/>
+ <rect x="19.632" y="1.8722" width="21.868" height="24.125" fill="none"/>
+ <path d="m29.349 14.212c-0.04524-3.4428 0.09264-9.2334-1.8427-12.276 0 0 12.641 12.709 13.994 14.29 0 0-2.3483-1.8776-12.152-2.0143z" fill="url(#c)"/>
+ <text x="14.742907" y="42.265625" fill="#575757" font-family="'Lucida Grande'" letter-spacing="0px" word-spacing="0px" style="line-height:0%" xml:space="preserve"><tspan x="14.742907" y="42.265625" font-size="10px" style="line-height:1.25">APE</tspan></text>
+</svg>

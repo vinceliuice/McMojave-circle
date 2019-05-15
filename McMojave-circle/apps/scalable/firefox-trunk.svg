@@ -1,0 +1,529 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="e">
+   <stop stop-color="#007fe6" offset="0"/>
+   <stop stop-color="#00aefc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d">
+   <stop stop-color="#178aff" offset="0"/>
+   <stop stop-color="#1bbded" offset="1"/>
+  </linearGradient>
+  <linearGradient id="k">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientUnits="userSpaceOnUse" xlink:href="#k"/>
+  <linearGradient id="a" x1="402.81" x2="402.81" y1="537.65" y2="494.02" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="f">
+   <stop stop-color="#fc5500" offset="0"/>
+   <stop stop-color="#ffad00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="i" x1="-333.46" x2="-298.75" y1="123.69" y2="88.801" gradientTransform="translate(-2.4494 -3.2026)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
+  <linearGradient id="j">
+   <stop stop-color="#ec3a00" offset="0"/>
+   <stop stop-color="#fd6a00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x1="-226.75" x2="-170.39" y1="146.52" y2="146.52" gradientTransform="translate(0 -1.9779)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
+  <linearGradient id="h" x1="-263.84" x2="-148.44" y1="247.6" y2="232.22" gradientTransform="matrix(1 0 0 1.0085 2.7468 1.1663)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#007fe6" offset="0"/>
+   <stop stop-color="#00abe5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="383.21" x2="409.16" y1="527.01" y2="525.51" gradientUnits="userSpaceOnUse" xlink:href="#j"/>
+  <linearGradient id="n" x1="395.93" x2="396.05" y1="539.09" y2="513.03" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0c275c" offset="0"/>
+   <stop stop-color="#1072c0" offset="1"/>
+  </linearGradient>
+  <linearGradient x1="410.3" x2="384.3" y1="540.06" y2="510.81" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="m" x1="276.07" x2="263.68" y1="521.3" y2="24.896" gradientUnits="userSpaceOnUse" xlink:href="#f"/>
+  <linearGradient id="l" x1="253.92" x2="263.68" y1="519.71" y2="24.896" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#08f" offset="0"/>
+   <stop stop-color="#02c3ff" offset="1"/>
+  </linearGradient>
+  <filter id="p" x="-.037422" y="-.037422" width="1.0748" height="1.0748" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41812018"/>
+  </filter>
+  <filter id="o" x="-.035315" y="-.039758" width="1.0706" height="1.0795" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.8478942"/>
+  </filter>
+ </defs>
+ <g transform="translate(-384.57 -483.8)">
+  <g transform="matrix(.090211 0 0 .090211 438.34 482.08)">
+   <g transform="matrix(1.2041 0 0 1.2041 -42.995 -139.04)">
+    <g transform="matrix(9.2063 0 0 9.2063 -4262.7 -3635.2)">
+     <g transform="matrix(.090211 0 0 .090211 438.34 482.08)">
+      <g transform="matrix(1.2041 0 0 1.2041 63.521 -89.411)">
+       <g transform="matrix(15.075 0 0 15.075 -6218.9 -8263.6)">
+        <circle cx="400.57" cy="531.8" r="0" fill="url(#c)"/>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g transform="translate(-14.074 -2.0105)">
+     <g transform="matrix(.95946 0 0 .95946 -17.711 32.814)">
+      <g transform="matrix(1.0599 0 0 1.0599 -35.466 -27.919)">
+       <g transform="matrix(8.7971 0 0 8.7971 -3703.3 -4050.1)" fill="url(#a)" stroke-width=".89112">
+        <g fill="#000000" font-family="'Bitstream Vera Sans'" font-size="13.035px">
+         <text x="1073.4832" y="497.81674" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1073.4832" y="497.81674"/></text>
+         <text x="1098.1416" y="455.88904" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1098.1416" y="455.88904"/></text>
+         <text x="-415.22406" y="424.93533" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-415.22406" y="424.93533"/></text>
+         <text x="-2291.9968" y="1192.1915" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2291.9968" y="1192.1915"/></text>
+         <text x="-297.40021" y="28.397837" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-297.40021" y="28.397837"/></text>
+         <text x="533.71094" y="-397.10825" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="533.71094" y="-397.10825"/></text>
+         <text x="558.36938" y="-439.03592" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="558.36938" y="-439.03592"/></text>
+         <text x="-976.5097" y="-446.45569" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-976.5097" y="-446.45569"/></text>
+         <text x="526.54889" y="-727.64362" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="526.54889" y="-727.64362"/></text>
+         <text x="2055.9329" y="-82.709473" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2055.9329" y="-82.709473"/></text>
+         <text x="2080.5911" y="-124.63721" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2080.5911" y="-124.63721"/></text>
+         <text x="545.7121" y="-132.05699" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="545.7121" y="-132.05699"/></text>
+         <text x="2048.7708" y="-413.24472" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2048.7708" y="-413.24472"/></text>
+         <text x="-419.40369" y="-181.54822" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-419.40369" y="-181.54822"/></text>
+         <text x="-2296.176" y="585.70813" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2296.176" y="585.70813"/></text>
+         <text x="-531.50482" y="681.28369" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-531.50482" y="681.28369"/></text>
+         <text x="609.80273" y="496.88565" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="609.80273" y="496.88565"/></text>
+         <text x="634.46118" y="454.95798" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="634.46118" y="454.95798"/></text>
+         <text x="-900.41791" y="447.53812" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-900.41791" y="447.53812"/></text>
+         <text x="602.64069" y="166.35031" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="602.64069" y="166.35031"/></text>
+         <text x="-455.01086" y="444.74484" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-455.01086" y="444.74484"/></text>
+         <text x="-2331.7837" y="1212.0011" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2331.7837" y="1212.0011"/></text>
+         <text x="-299.51956" y="-441.86444" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-299.51956" y="-441.86444"/></text>
+         <text x="531.59155" y="-867.37061" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="531.59155" y="-867.37061"/></text>
+         <text x="556.24994" y="-909.29828" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="556.24994" y="-909.29828"/></text>
+         <text x="-978.62909" y="-916.71814" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-978.62909" y="-916.71814"/></text>
+         <text x="524.42944" y="-1197.906" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="524.42944" y="-1197.906"/></text>
+         <text x="2053.8132" y="-552.97198" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2053.8132" y="-552.97198"/></text>
+         <text x="2078.4717" y="-594.89954" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2078.4717" y="-594.89954"/></text>
+         <text x="543.59265" y="-602.3194" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="543.59265" y="-602.3194"/></text>
+         <text x="2046.6512" y="-883.50726" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2046.6512" y="-883.50726"/></text>
+         <text x="-421.5231" y="-651.81061" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-421.5231" y="-651.81061"/></text>
+         <text x="-2298.2957" y="115.44569" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2298.2957" y="115.44569"/></text>
+         <text x="-533.62427" y="211.02133" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-533.62427" y="211.02133"/></text>
+         <text x="330.84277" y="458.94843" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="330.84277" y="458.94843"/></text>
+         <text x="355.50122" y="417.02072" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="355.50122" y="417.02072"/></text>
+         <text x="-951.2793" y="217.34399" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-951.2793" y="217.34399"/></text>
+         <text x="-120.16832" y="-208.16211" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-120.16832" y="-208.16211"/></text>
+         <text x="-95.509888" y="-250.08978" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-95.509888" y="-250.08978"/></text>
+         <text x="-1630.3889" y="-257.50955" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1630.3889" y="-257.50955"/></text>
+         <text x="-127.33035" y="-538.69745" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-127.33035" y="-538.69745"/></text>
+         <text x="1402.0535" y="106.23669" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1402.0535" y="106.23669"/></text>
+         <text x="1426.7118" y="64.308983" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1426.7118" y="64.308983"/></text>
+         <text x="-108.16717" y="56.889141" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-108.16717" y="56.889141"/></text>
+         <text x="1394.8915" y="-224.29866" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1394.8915" y="-224.29866"/></text>
+         <text x="-1073.283" y="7.3979464" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1073.283" y="7.3979464"/></text>
+         <text x="-2950.0554" y="774.6543" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2950.0554" y="774.6543"/></text>
+        </g>
+        <g transform="matrix(.93109 0 0 .93109 -566.89 -209.29)" fill="url(#a)">
+         <text x="-664.2738" y="1159.4154" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="14px" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-664.2738" y="1159.4154"/></text>
+        </g>
+        <g fill="#000000" font-family="'Bitstream Vera Sans'" font-size="13.035px">
+         <text x="1073.4832" y="505.26541" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1073.4832" y="505.26541"/></text>
+         <text x="1098.1416" y="463.33774" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1098.1416" y="463.33774"/></text>
+         <text x="-415.22406" y="432.38403" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-415.22406" y="432.38403"/></text>
+         <text x="-2291.9968" y="1199.6403" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2291.9968" y="1199.6403"/></text>
+         <text x="-297.40021" y="35.846539" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-297.40021" y="35.846539"/></text>
+         <text x="533.71094" y="-389.65952" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="533.71094" y="-389.65952"/></text>
+         <text x="558.36938" y="-431.58725" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="558.36938" y="-431.58725"/></text>
+         <text x="-976.5097" y="-439.00702" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-976.5097" y="-439.00702"/></text>
+         <text x="526.54889" y="-720.19489" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="526.54889" y="-720.19489"/></text>
+         <text x="2055.9329" y="-75.260803" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2055.9329" y="-75.260803"/></text>
+         <text x="2080.5911" y="-117.18854" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2080.5911" y="-117.18854"/></text>
+         <text x="545.7121" y="-124.60831" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="545.7121" y="-124.60831"/></text>
+         <text x="2048.7708" y="-405.79599" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2048.7708" y="-405.79599"/></text>
+         <text x="-419.40369" y="-174.09955" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-419.40369" y="-174.09955"/></text>
+         <text x="-2296.176" y="593.1568" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2296.176" y="593.1568"/></text>
+         <text x="-531.50482" y="688.73242" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-531.50482" y="688.73242"/></text>
+         <text x="609.80273" y="504.33432" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="609.80273" y="504.33432"/></text>
+         <text x="634.46118" y="462.40665" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="634.46118" y="462.40665"/></text>
+         <text x="-900.41791" y="454.98679" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-900.41791" y="454.98679"/></text>
+         <text x="602.64069" y="173.79901" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="602.64069" y="173.79901"/></text>
+         <text x="-455.01086" y="452.19354" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-455.01086" y="452.19354"/></text>
+         <text x="-2331.7837" y="1219.4498" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2331.7837" y="1219.4498"/></text>
+         <text x="-299.51956" y="-434.41577" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-299.51956" y="-434.41577"/></text>
+         <text x="531.59155" y="-859.92188" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="531.59155" y="-859.92188"/></text>
+         <text x="556.24994" y="-901.84967" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="556.24994" y="-901.84967"/></text>
+         <text x="-978.62909" y="-909.26941" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-978.62909" y="-909.26941"/></text>
+         <text x="524.42944" y="-1190.4573" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="524.42944" y="-1190.4573"/></text>
+         <text x="2053.8132" y="-545.52332" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2053.8132" y="-545.52332"/></text>
+         <text x="2078.4717" y="-587.45093" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2078.4717" y="-587.45093"/></text>
+         <text x="543.59265" y="-594.87067" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="543.59265" y="-594.87067"/></text>
+         <text x="2046.6512" y="-876.05853" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2046.6512" y="-876.05853"/></text>
+         <text x="-421.5231" y="-644.36188" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-421.5231" y="-644.36188"/></text>
+         <text x="-2298.2957" y="122.89439" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2298.2957" y="122.89439"/></text>
+         <text x="-533.62427" y="218.47003" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-533.62427" y="218.47003"/></text>
+         <text x="330.84277" y="466.39709" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="330.84277" y="466.39709"/></text>
+         <text x="355.50122" y="424.46939" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="355.50122" y="424.46939"/></text>
+         <text x="-951.2793" y="224.79271" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-951.2793" y="224.79271"/></text>
+         <text x="-120.16832" y="-200.71344" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-120.16832" y="-200.71344"/></text>
+         <text x="-95.509888" y="-242.64111" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-95.509888" y="-242.64111"/></text>
+         <text x="-1630.3889" y="-250.06094" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1630.3889" y="-250.06094"/></text>
+         <text x="-127.33035" y="-531.24872" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-127.33035" y="-531.24872"/></text>
+         <text x="1402.0535" y="113.68536" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1402.0535" y="113.68536"/></text>
+         <text x="1426.7118" y="71.757652" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1426.7118" y="71.757652"/></text>
+         <text x="-108.16717" y="64.337845" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-108.16717" y="64.337845"/></text>
+         <text x="1394.8915" y="-216.84999" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1394.8915" y="-216.84999"/></text>
+         <text x="-1073.283" y="14.846648" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1073.283" y="14.846648"/></text>
+         <text x="-2950.0554" y="782.10297" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2950.0554" y="782.10297"/></text>
+        </g>
+        <g transform="matrix(.93109 0 0 .93109 -566.89 -201.84)" fill="url(#a)">
+         <text x="-664.2738" y="1159.4154" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="14px" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-664.2738" y="1159.4154"/></text>
+        </g>
+        <g fill="#000000" font-size="13.035px">
+         <text x="619.31451" y="114.94878" font-family="'Droid Sans'" style="line-height:0%" xml:space="preserve"><tspan x="619.31451" y="114.94878"/><tspan x="619.31451" y="131.24275"/></text>
+         <g font-family="'Bitstream Vera Sans'">
+          <text x="1098.0398" y="-381.1279" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1098.0398" y="-381.1279"/></text>
+          <text x="-778.73297" y="386.12833" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-778.73297" y="386.12833"/></text>
+          <text x="1846.2843" y="-674.41986" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1846.2843" y="-674.41986"/></text>
+          <text x="1870.9426" y="-716.34753" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1870.9426" y="-716.34753"/></text>
+          <text x="336.06357" y="-723.7674" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="336.06357" y="-723.7674"/></text>
+          <text x="1839.1222" y="-1004.9553" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1839.1222" y="-1004.9553"/></text>
+         </g>
+        </g>
+        <g transform="translate(47.076 .46089)">
+         <g transform="matrix(1.2939 0 0 1.2939 -156.08 -160.91)" fill="url(#a)">
+          <g transform="matrix(.94351 0 0 .94351 -20.728 35.457)" fill="none"></g>
+          <g transform="matrix(1.6781 0 0 1.6781 -263.87 -367.89)">
+           <circle cx="396.62" cy="526.61" r="13.408" fill="#000" filter="url(#p)" opacity=".25"/>
+           <circle cx="396.62" cy="526.61" r="13.408" fill="url(#n)"/>
+           <g transform="matrix(.61324 0 0 .61324 97.316 203.04)" fill="url(#b)" stroke-width=".42481">
+            <g transform="matrix(.10208 0 0 .10208 428.68 477.14)" fill="url(#b)" stroke-width=".42481">
+             <g transform="matrix(1.2041 0 0 1.2041 -42.995 -139.04)" fill="url(#b)" stroke-width=".42481">
+              <g transform="matrix(9.2063 0 0 9.2063 -4262.7 -3635.2)">
+               <g transform="matrix(.090211 0 0 .090211 438.34 482.08)" fill="url(#b)" stroke-width=".42481">
+                <g transform="matrix(1.2041 0 0 1.2041 63.521 -89.411)" fill="url(#b)" stroke-width=".42481">
+                 <g transform="matrix(15.075 0 0 15.075 -6218.9 -8263.6)" fill="url(#b)" stroke-width=".42481">
+                  <circle cx="400.57" cy="531.8" r="0" fill="url(#c)"/>
+                 </g>
+                </g>
+               </g>
+              </g>
+              <g transform="translate(-14.074 -2.0105)">
+               <g transform="matrix(.95946 0 0 .95946 -17.711 32.814)" stroke-width=".42481">
+                <g transform="matrix(8.7971 0 0 8.7971 -4153.7 -3989.9)" fill="none"></g>
+                <g transform="matrix(8.4792 0 0 8.4792 -2500.2 -3903.4)" fill="url(#b)" stroke-width=".42481">
+                 <g transform="matrix(.090211 0 0 .090211 438.34 482.08)" fill="url(#b)" stroke-width=".42481">
+                  <g transform="matrix(1.2041 0 0 1.2041 -42.995 -139.04)" fill="url(#b)" stroke-width=".42481">
+                   <g transform="matrix(9.2063 0 0 9.2063 -4262.7 -3635.2)">
+                    <g transform="matrix(.090211 0 0 .090211 438.34 482.08)" fill="url(#b)" stroke-width=".42481">
+                     <g transform="matrix(1.2041 0 0 1.2041 63.521 -89.411)" fill="url(#b)" stroke-width=".42481">
+                      <g transform="matrix(15.075 0 0 15.075 -6218.9 -8263.6)" fill="url(#b)" stroke-width=".42481">
+                       <circle cx="400.57" cy="531.8" r="0" fill="url(#c)"/>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                   <g transform="translate(-14.074 -2.0105)">
+                    <g transform="matrix(.95946 0 0 .95946 -17.711 32.814)" stroke-width=".42481">
+                     <g transform="matrix(8.7971 0 0 8.7971 -4153.7 -3989.9)" fill="none"></g>
+                     <g transform="matrix(1.0599 0 0 1.0599 -35.466 -27.919)" fill="url(#b)" stroke-width=".42481">
+                      <g transform="matrix(8.7971 0 0 8.7971 -3703.3 -4050.1)" stroke-width=".7129">
+                       <g fill="#000000" font-family="'Bitstream Vera Sans'" font-size="13.035px">
+                        <text x="1073.4832" y="497.81674" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1073.4832" y="497.81674" stroke-width=".7129"/></text>
+                        <text x="1098.1416" y="455.88904" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1098.1416" y="455.88904" stroke-width=".7129"/></text>
+                        <text x="-415.22406" y="424.93533" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-415.22406" y="424.93533" stroke-width=".7129"/></text>
+                        <text x="-2291.9968" y="1192.1915" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2291.9968" y="1192.1915" stroke-width=".7129"/></text>
+                        <text x="-297.40021" y="28.397837" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-297.40021" y="28.397837" stroke-width=".7129"/></text>
+                        <text x="533.71094" y="-397.10825" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="533.71094" y="-397.10825" stroke-width=".7129"/></text>
+                        <text x="558.36938" y="-439.03592" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="558.36938" y="-439.03592" stroke-width=".7129"/></text>
+                        <text x="-976.5097" y="-446.45569" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-976.5097" y="-446.45569" stroke-width=".7129"/></text>
+                        <text x="526.54889" y="-727.64362" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="526.54889" y="-727.64362" stroke-width=".7129"/></text>
+                        <text x="2055.9329" y="-82.709473" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2055.9329" y="-82.709473" stroke-width=".7129"/></text>
+                        <text x="2080.5911" y="-124.63721" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2080.5911" y="-124.63721" stroke-width=".7129"/></text>
+                        <text x="545.7121" y="-132.05699" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="545.7121" y="-132.05699" stroke-width=".7129"/></text>
+                        <text x="2048.7708" y="-413.24472" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2048.7708" y="-413.24472" stroke-width=".7129"/></text>
+                        <text x="-419.40369" y="-181.54822" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-419.40369" y="-181.54822" stroke-width=".7129"/></text>
+                        <text x="-2296.176" y="585.70813" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2296.176" y="585.70813" stroke-width=".7129"/></text>
+                        <text x="-531.50482" y="681.28369" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-531.50482" y="681.28369" stroke-width=".7129"/></text>
+                        <text x="609.80273" y="496.88565" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="609.80273" y="496.88565" stroke-width=".7129"/></text>
+                        <text x="634.46118" y="454.95798" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="634.46118" y="454.95798" stroke-width=".7129"/></text>
+                        <text x="-900.41791" y="447.53812" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-900.41791" y="447.53812" stroke-width=".7129"/></text>
+                        <text x="602.64069" y="166.35031" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="602.64069" y="166.35031" stroke-width=".7129"/></text>
+                        <text x="-455.01086" y="444.74484" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-455.01086" y="444.74484" stroke-width=".7129"/></text>
+                        <text x="-2331.7837" y="1212.0011" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2331.7837" y="1212.0011" stroke-width=".7129"/></text>
+                        <text x="-299.51956" y="-441.86444" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-299.51956" y="-441.86444" stroke-width=".7129"/></text>
+                        <text x="531.59155" y="-867.37061" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="531.59155" y="-867.37061" stroke-width=".7129"/></text>
+                        <text x="556.24994" y="-909.29828" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="556.24994" y="-909.29828" stroke-width=".7129"/></text>
+                        <text x="-978.62909" y="-916.71814" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-978.62909" y="-916.71814" stroke-width=".7129"/></text>
+                        <text x="524.42944" y="-1197.906" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="524.42944" y="-1197.906" stroke-width=".7129"/></text>
+                        <text x="2053.8132" y="-552.97198" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2053.8132" y="-552.97198" stroke-width=".7129"/></text>
+                        <text x="2078.4717" y="-594.89954" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2078.4717" y="-594.89954" stroke-width=".7129"/></text>
+                        <text x="543.59265" y="-602.3194" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="543.59265" y="-602.3194" stroke-width=".7129"/></text>
+                        <text x="2046.6512" y="-883.50726" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2046.6512" y="-883.50726" stroke-width=".7129"/></text>
+                        <text x="-421.5231" y="-651.81061" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-421.5231" y="-651.81061" stroke-width=".7129"/></text>
+                        <text x="-2298.2957" y="115.44569" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2298.2957" y="115.44569" stroke-width=".7129"/></text>
+                        <text x="-533.62427" y="211.02133" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-533.62427" y="211.02133" stroke-width=".7129"/></text>
+                        <text x="330.84277" y="458.94843" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="330.84277" y="458.94843" stroke-width=".7129"/></text>
+                        <text x="355.50122" y="417.02072" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="355.50122" y="417.02072" stroke-width=".7129"/></text>
+                        <text x="-951.2793" y="217.34399" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-951.2793" y="217.34399" stroke-width=".7129"/></text>
+                        <text x="-120.16832" y="-208.16211" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-120.16832" y="-208.16211" stroke-width=".7129"/></text>
+                        <text x="-95.509888" y="-250.08978" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-95.509888" y="-250.08978" stroke-width=".7129"/></text>
+                        <text x="-1630.3889" y="-257.50955" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1630.3889" y="-257.50955" stroke-width=".7129"/></text>
+                        <text x="-127.33035" y="-538.69745" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-127.33035" y="-538.69745" stroke-width=".7129"/></text>
+                        <text x="1402.0535" y="106.23669" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1402.0535" y="106.23669" stroke-width=".7129"/></text>
+                        <text x="1426.7118" y="64.308983" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1426.7118" y="64.308983" stroke-width=".7129"/></text>
+                        <text x="-108.16717" y="56.889141" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-108.16717" y="56.889141" stroke-width=".7129"/></text>
+                        <text x="1394.8915" y="-224.29866" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1394.8915" y="-224.29866" stroke-width=".7129"/></text>
+                        <text x="-1073.283" y="7.3979464" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1073.283" y="7.3979464" stroke-width=".7129"/></text>
+                        <text x="-2950.0554" y="774.6543" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2950.0554" y="774.6543" stroke-width=".7129"/></text>
+                       </g>
+                       <g transform="matrix(.93109 0 0 .93109 -566.89 -209.29)" fill="url(#a)">
+                        <text x="-664.2738" y="1159.4154" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="14px" opacity=".8" stroke-width=".7129" style="line-height:0%" xml:space="preserve"><tspan x="-664.2738" y="1159.4154" stroke-width=".7129"/></text>
+                       </g>
+                       <g fill="#000000" font-family="'Bitstream Vera Sans'" font-size="13.035px">
+                        <text x="1073.4832" y="505.26541" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1073.4832" y="505.26541" stroke-width=".7129"/></text>
+                        <text x="1098.1416" y="463.33774" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1098.1416" y="463.33774" stroke-width=".7129"/></text>
+                        <text x="-415.22406" y="432.38403" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-415.22406" y="432.38403" stroke-width=".7129"/></text>
+                        <text x="-2291.9968" y="1199.6403" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2291.9968" y="1199.6403" stroke-width=".7129"/></text>
+                        <text x="-297.40021" y="35.846539" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-297.40021" y="35.846539" stroke-width=".7129"/></text>
+                        <text x="533.71094" y="-389.65952" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="533.71094" y="-389.65952" stroke-width=".7129"/></text>
+                        <text x="558.36938" y="-431.58725" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="558.36938" y="-431.58725" stroke-width=".7129"/></text>
+                        <text x="-976.5097" y="-439.00702" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-976.5097" y="-439.00702" stroke-width=".7129"/></text>
+                        <text x="526.54889" y="-720.19489" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="526.54889" y="-720.19489" stroke-width=".7129"/></text>
+                        <text x="2055.9329" y="-75.260803" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2055.9329" y="-75.260803" stroke-width=".7129"/></text>
+                        <text x="2080.5911" y="-117.18854" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2080.5911" y="-117.18854" stroke-width=".7129"/></text>
+                        <text x="545.7121" y="-124.60831" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="545.7121" y="-124.60831" stroke-width=".7129"/></text>
+                        <text x="2048.7708" y="-405.79599" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2048.7708" y="-405.79599" stroke-width=".7129"/></text>
+                        <text x="-419.40369" y="-174.09955" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-419.40369" y="-174.09955" stroke-width=".7129"/></text>
+                        <text x="-2296.176" y="593.1568" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2296.176" y="593.1568" stroke-width=".7129"/></text>
+                        <text x="-531.50482" y="688.73242" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-531.50482" y="688.73242" stroke-width=".7129"/></text>
+                        <text x="609.80273" y="504.33432" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="609.80273" y="504.33432" stroke-width=".7129"/></text>
+                        <text x="634.46118" y="462.40665" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="634.46118" y="462.40665" stroke-width=".7129"/></text>
+                        <text x="-900.41791" y="454.98679" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-900.41791" y="454.98679" stroke-width=".7129"/></text>
+                        <text x="602.64069" y="173.79901" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="602.64069" y="173.79901" stroke-width=".7129"/></text>
+                        <text x="-455.01086" y="452.19354" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-455.01086" y="452.19354" stroke-width=".7129"/></text>
+                        <text x="-2331.7837" y="1219.4498" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2331.7837" y="1219.4498" stroke-width=".7129"/></text>
+                        <text x="-299.51956" y="-434.41577" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-299.51956" y="-434.41577" stroke-width=".7129"/></text>
+                        <text x="531.59155" y="-859.92188" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="531.59155" y="-859.92188" stroke-width=".7129"/></text>
+                        <text x="556.24994" y="-901.84967" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="556.24994" y="-901.84967" stroke-width=".7129"/></text>
+                        <text x="-978.62909" y="-909.26941" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-978.62909" y="-909.26941" stroke-width=".7129"/></text>
+                        <text x="524.42944" y="-1190.4573" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="524.42944" y="-1190.4573" stroke-width=".7129"/></text>
+                        <text x="2053.8132" y="-545.52332" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2053.8132" y="-545.52332" stroke-width=".7129"/></text>
+                        <text x="2078.4717" y="-587.45093" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2078.4717" y="-587.45093" stroke-width=".7129"/></text>
+                        <text x="543.59265" y="-594.87067" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="543.59265" y="-594.87067" stroke-width=".7129"/></text>
+                        <text x="2046.6512" y="-876.05853" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="2046.6512" y="-876.05853" stroke-width=".7129"/></text>
+                        <text x="-421.5231" y="-644.36188" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-421.5231" y="-644.36188" stroke-width=".7129"/></text>
+                        <text x="-2298.2957" y="122.89439" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2298.2957" y="122.89439" stroke-width=".7129"/></text>
+                        <text x="-533.62427" y="218.47003" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-533.62427" y="218.47003" stroke-width=".7129"/></text>
+                        <text x="330.84277" y="466.39709" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="330.84277" y="466.39709" stroke-width=".7129"/></text>
+                        <text x="355.50122" y="424.46939" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="355.50122" y="424.46939" stroke-width=".7129"/></text>
+                        <text x="-951.2793" y="224.79271" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-951.2793" y="224.79271" stroke-width=".7129"/></text>
+                        <text x="-120.16832" y="-200.71344" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-120.16832" y="-200.71344" stroke-width=".7129"/></text>
+                        <text x="-95.509888" y="-242.64111" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-95.509888" y="-242.64111" stroke-width=".7129"/></text>
+                        <text x="-1630.3889" y="-250.06094" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1630.3889" y="-250.06094" stroke-width=".7129"/></text>
+                        <text x="-127.33035" y="-531.24872" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-127.33035" y="-531.24872" stroke-width=".7129"/></text>
+                        <text x="1402.0535" y="113.68536" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1402.0535" y="113.68536" stroke-width=".7129"/></text>
+                        <text x="1426.7118" y="71.757652" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1426.7118" y="71.757652" stroke-width=".7129"/></text>
+                        <text x="-108.16717" y="64.337845" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-108.16717" y="64.337845" stroke-width=".7129"/></text>
+                        <text x="1394.8915" y="-216.84999" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1394.8915" y="-216.84999" stroke-width=".7129"/></text>
+                        <text x="-1073.283" y="14.846648" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1073.283" y="14.846648" stroke-width=".7129"/></text>
+                        <text x="-2950.0554" y="782.10297" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2950.0554" y="782.10297" stroke-width=".7129"/></text>
+                       </g>
+                       <g transform="matrix(.93109 0 0 .93109 -566.89 -201.84)" fill="url(#a)">
+                        <text x="-664.2738" y="1159.4154" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="14px" opacity=".8" stroke-width=".7129" style="line-height:0%" xml:space="preserve"><tspan x="-664.2738" y="1159.4154" stroke-width=".7129"/></text>
+                       </g>
+                       <g fill="#000000" font-size="13.035px">
+                        <text x="619.31451" y="114.94878" font-family="'Droid Sans'" style="line-height:0%" xml:space="preserve"><tspan x="619.31451" y="114.94878"/><tspan x="619.31451" y="131.24275"/></text>
+                        <g font-family="'Bitstream Vera Sans'">
+                         <text x="1098.0398" y="-381.1279" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1098.0398" y="-381.1279" stroke-width=".7129"/></text>
+                         <text x="-778.73297" y="386.12833" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-778.73297" y="386.12833" stroke-width=".7129"/></text>
+                         <text x="1846.2843" y="-674.41986" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1846.2843" y="-674.41986" stroke-width=".7129"/></text>
+                         <text x="1870.9426" y="-716.34753" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1870.9426" y="-716.34753" stroke-width=".7129"/></text>
+                         <text x="336.06357" y="-723.7674" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="336.06357" y="-723.7674" stroke-width=".7129"/></text>
+                         <text x="1839.1222" y="-1004.9553" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1839.1222" y="-1004.9553" stroke-width=".7129"/></text>
+                        </g>
+                       </g>
+                       <g transform="matrix(1.0291 0 0 1.0291 38.831 -2.3807)" fill="url(#a)">
+                        <g transform="matrix(.090211 0 0 .090211 439.05 446.72)" fill="url(#a)" stroke-width=".7129">
+                         <g transform="matrix(1.2041 0 0 1.2041 -13.865 -14.572)" fill="url(#a)" stroke-width=".7129">
+                          <g transform="matrix(9.2063 0 0 9.2063 -4262.7 -3635.2)">
+                           <g transform="matrix(.090211 0 0 .090211 438.34 482.08)" fill="url(#a)" stroke-width=".7129">
+                            <g transform="matrix(1.2041 0 0 1.2041 63.521 -89.411)" fill="url(#a)" stroke-width=".7129">
+                             <g transform="matrix(15.075 0 0 15.075 -6218.9 -8263.6)" fill="url(#a)" stroke-width=".7129">
+                              <circle cx="400.57" cy="531.8" r="0" fill="url(#c)"/>
+                             </g>
+                            </g>
+                           </g>
+                          </g>
+                          <g transform="translate(-47.064 -100.98)">
+                           <g transform="matrix(.95946 0 0 .95946 -17.711 32.814)" stroke-width=".7129">
+                            <g transform="matrix(8.7971 0 0 8.7971 -4153.7 -3989.9)" fill="none"></g>
+                            <g transform="matrix(1.0599 0 0 1.0599 180.01 116.49)" fill="url(#a)" stroke-width=".7129">
+                             <g transform="matrix(8.7971 0 0 8.7971 -3703.3 -4050.1)" fill="url(#a)"></g>
+                            </g>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                       </g>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g transform="matrix(.11577 0 0 .1156 331.96 478.53)" fill="url(#m)" stroke-width=".7129">
+          <g stroke-width=".7129">
+           <path d="m532.57 174.03-6.178 39.625s-8.829-73.362-19.651-100.79c-16.587-42.025-23.966-41.688-24.015-41.626 11.109 28.231 9.093 43.398 9.093 43.398s-19.683-53.645-71.723-70.713c-57.649-18.897-88.839-13.73-92.442-12.753-0.547-4e-3 -1.075-5e-3 -1.577-5e-3 0.424 0.033 0.839 0.077 1.263 0.11-0.019 0.011-0.047 0.022-0.042 0.028 0.233 0.285 63.7 11.094 74.956 26.56 0 0-26.958 0-53.787 7.731-1.213 0.347 98.71 12.481 119.14 112.33 0 0-10.955-22.852-24.502-26.733 8.909 27.102 6.622 78.529-1.862 104.09-1.092 3.287-2.209-14.209-18.921-21.745 5.355 38.359-0.32 99.196-26.931 115.96-2.074 1.305 16.682-60.057 3.771-36.335-74.327 113.96-162.19 52.59-201.69 25.579 20.243 4.406 58.674-0.686 75.685-13.341 0.022-0.015 0.04-0.028 0.062-0.045 18.473-12.631 29.412-21.854 39.236-19.672 9.83 2.194 16.374-7.671 8.739-16.423-7.644-8.769-26.203-20.821-51.313-14.254-17.708 4.638-39.654 24.231-73.15 4.392-25.71-15.234-28.131-27.889-28.359-36.654 0.634-3.107 1.434-6.008 2.383-8.659 2.959-8.265 11.933-10.759 16.924-12.728 8.467 1.454 15.761 4.095 23.421 8.024 0.099-2.549 0.131-5.933-9e-3 -9.771 0.734-1.459 0.28-5.86-0.897-11.24-0.678-5.369-1.781-10.924-3.517-15.985 6e-3 -1e-3 0.01-5e-3 0.016-7e-3 0.029-0.01 0.056-0.021 0.082-0.037 0.041-0.023 0.076-0.059 0.108-0.099 6e-3 -0.01 0.016-0.017 0.023-0.027 0.043-0.064 0.08-0.142 0.103-0.243 0.531-2.405 6.262-7.044 13.395-12.031 6.392-4.469 13.907-9.217 19.827-12.892 5.24-3.254 9.229-5.668 10.077-6.301 0.321-0.243 0.707-0.527 1.127-0.852 0.078-0.061 0.156-0.121 0.236-0.185 0.049-0.038 0.099-0.077 0.149-0.117 2.817-2.244 7.023-6.483 7.905-15.405 2e-3 -0.022 5e-3 -0.042 6e-3 -0.064 0.026-0.262 0.048-0.528 0.067-0.799 0.015-0.188 0.026-0.378 0.038-0.571 7e-3 -0.148 0.017-0.295 0.023-0.445 0.016-0.352 0.026-0.711 0.031-1.075 0-0.021 1e-3 -0.04 2e-3 -0.061 0.012-0.864-3e-3 -1.764-0.054-2.709-0.028-0.528-0.065-1.005-0.155-1.438-4e-3 -0.023-0.01-0.048-0.015-0.071-9e-3 -0.042-0.019-0.085-0.03-0.127-0.019-0.076-0.04-0.152-0.063-0.224-3e-3 -9e-3 -6e-3 -0.017-9e-3 -0.024-0.027-0.083-0.058-0.164-0.09-0.242-2e-3 -3e-3 -2e-3 -5e-3 -3e-3 -8e-3 -0.913-2.139-4.333-2.947-18.459-3.187-0.013-1e-3 -0.026-1e-3 -0.039-1e-3 -5.764-0.098-13.301-0.102-23.179-0.062-17.317 0.07-26.889-16.929-29.944-23.506 4.188-23.156 16.29-39.657 36.171-50.847 0.376-0.212 0.302-0.387-0.142-0.509 3.887-2.352-47.003-0.064-70.41 29.707-20.775-5.164-38.882-4.816-54.487-1.154-2.997-0.084-6.731-0.458-11.164-1.381-10.379-9.404-25.236-26.772-26.032-47.504 0 0-0.048 0.038-0.131 0.106-0.011-0.199-0.03-0.396-0.038-0.595 0 0-31.623 24.304-26.89 90.563-0.012 1.061-0.034 2.076-0.062 3.06-8.558 11.608-12.805 21.365-13.121 23.519-7.581 15.44-15.276 38.675-21.538 73.949 0 0 4.379-13.888 13.169-29.618-6.464 19.803-11.544 50.603-8.561 96.8 0 0 0.789-10.243 3.58-24.997 2.181 28.652 11.729 64.024 35.864 105.62 46.327 79.854 117.54 120.18 196.25 126.36 13.977 1.152 28.15 1.179 42.408 0.096 1.311-0.092 2.621-0.188 3.931-0.299 16.126-1.132 32.361-3.568 48.562-7.481 221.44-53.541 197.37-320.94 197.37-320.94z" fill="#000" filter="url(#o)" opacity=".25"/>
+           <path d="m532.57 174.03-6.178 39.625s-8.829-73.362-19.651-100.79c-16.587-42.025-23.966-41.688-24.015-41.626 11.109 28.231 9.093 43.398 9.093 43.398s-19.683-53.645-71.723-70.713c-57.649-18.897-88.839-13.73-92.442-12.753-0.547-4e-3 -1.075-5e-3 -1.577-5e-3 0.424 0.033 0.839 0.077 1.263 0.11-0.019 0.011-0.047 0.022-0.042 0.028 0.233 0.285 63.7 11.094 74.956 26.56 0 0-26.958 0-53.787 7.731-1.213 0.347 98.71 12.481 119.14 112.33 0 0-10.955-22.852-24.502-26.733 8.909 27.102 6.622 78.529-1.862 104.09-1.092 3.287-2.209-14.209-18.921-21.745 5.355 38.359-0.32 99.196-26.931 115.96-2.074 1.305 16.682-60.057 3.771-36.335-74.327 113.96-162.19 52.59-201.69 25.579 20.243 4.406 58.674-0.686 75.685-13.341 0.022-0.015 0.04-0.028 0.062-0.045 18.473-12.631 29.412-21.854 39.236-19.672 9.83 2.194 16.374-7.671 8.739-16.423-7.644-8.769-26.203-20.821-51.313-14.254-17.708 4.638-39.654 24.231-73.15 4.392-25.71-15.234-28.131-27.889-28.359-36.654 0.634-3.107 1.434-6.008 2.383-8.659 2.959-8.265 11.933-10.759 16.924-12.728 8.467 1.454 15.761 4.095 23.421 8.024 0.099-2.549 0.131-5.933-9e-3 -9.771 0.734-1.459 0.28-5.86-0.897-11.24-0.678-5.369-1.781-10.924-3.517-15.985 6e-3 -1e-3 0.01-5e-3 0.016-7e-3 0.029-0.01 0.056-0.021 0.082-0.037 0.041-0.023 0.076-0.059 0.108-0.099 6e-3 -0.01 0.016-0.017 0.023-0.027 0.043-0.064 0.08-0.142 0.103-0.243 0.531-2.405 6.262-7.044 13.395-12.031 6.392-4.469 13.907-9.217 19.827-12.892 5.24-3.254 9.229-5.668 10.077-6.301 0.321-0.243 0.707-0.527 1.127-0.852 0.078-0.061 0.156-0.121 0.236-0.185 0.049-0.038 0.099-0.077 0.149-0.117 2.817-2.244 7.023-6.483 7.905-15.405 2e-3 -0.022 5e-3 -0.042 6e-3 -0.064 0.026-0.262 0.048-0.528 0.067-0.799 0.015-0.188 0.026-0.378 0.038-0.571 7e-3 -0.148 0.017-0.295 0.023-0.445 0.016-0.352 0.026-0.711 0.031-1.075 0-0.021 1e-3 -0.04 2e-3 -0.061 0.012-0.864-3e-3 -1.764-0.054-2.709-0.028-0.528-0.065-1.005-0.155-1.438-4e-3 -0.023-0.01-0.048-0.015-0.071-9e-3 -0.042-0.019-0.085-0.03-0.127-0.019-0.076-0.04-0.152-0.063-0.224-3e-3 -9e-3 -6e-3 -0.017-9e-3 -0.024-0.027-0.083-0.058-0.164-0.09-0.242-2e-3 -3e-3 -2e-3 -5e-3 -3e-3 -8e-3 -0.913-2.139-4.333-2.947-18.459-3.187-0.013-1e-3 -0.026-1e-3 -0.039-1e-3 -5.764-0.098-13.301-0.102-23.179-0.062-17.317 0.07-26.889-16.929-29.944-23.506 4.188-23.156 16.29-39.657 36.171-50.847 0.376-0.212 0.302-0.387-0.142-0.509 3.887-2.352-47.003-0.064-70.41 29.707-20.775-5.164-38.882-4.816-54.487-1.154-2.997-0.084-6.731-0.458-11.164-1.381-10.379-9.404-25.236-26.772-26.032-47.504 0 0-0.048 0.038-0.131 0.106-0.011-0.199-0.03-0.396-0.038-0.595 0 0-31.623 24.304-26.89 90.563-0.012 1.061-0.034 2.076-0.062 3.06-8.558 11.608-12.805 21.365-13.121 23.519-7.581 15.44-15.276 38.675-21.538 73.949 0 0 4.379-13.888 13.169-29.618-6.464 19.803-11.544 50.603-8.561 96.8 0 0 0.789-10.243 3.58-24.997 2.181 28.652 11.729 64.024 35.864 105.62 46.327 79.854 117.54 120.18 196.25 126.36 13.977 1.152 28.15 1.179 42.408 0.096 1.311-0.092 2.621-0.188 3.931-0.299 16.126-1.132 32.361-3.568 48.562-7.481 221.44-53.541 197.37-320.94 197.37-320.94z" fill="url(#l)"/>
+          </g>
+         </g>
+         <g transform="matrix(1.3316 0 0 1.3316 -107.04 -164.05)" fill="url(#a)" stroke-width=".7129">
+          <g transform="matrix(.090211 0 0 .090211 439.05 446.72)" fill="url(#a)" stroke-width=".7129">
+           <g transform="matrix(1.2041 0 0 1.2041 -13.865 -14.572)" fill="url(#a)" stroke-width=".7129">
+            <g transform="matrix(9.2063 0 0 9.2063 -4262.7 -3635.2)">
+             <g transform="matrix(.090211 0 0 .090211 438.34 482.08)" fill="url(#a)" stroke-width=".7129">
+              <g transform="matrix(1.2041 0 0 1.2041 63.521 -89.411)" fill="url(#a)" stroke-width=".7129">
+               <g transform="matrix(15.075 0 0 15.075 -6218.9 -8263.6)" fill="url(#a)" stroke-width=".7129">
+                <circle cx="400.57" cy="531.8" r="0" fill="url(#c)"/>
+               </g>
+              </g>
+             </g>
+            </g>
+            <g transform="translate(-47.064 -100.98)">
+             <g transform="matrix(.95946 0 0 .95946 -17.711 32.814)" fill="url(#a)" stroke-width=".7129">
+              <g transform="matrix(8.7971 0 0 8.7971 -4153.7 -3989.9)" fill="none"></g>
+              <g transform="matrix(1.0599 0 0 1.0599 180.01 116.49)" stroke-width=".7129">
+               <g transform="matrix(8.7971 0 0 8.7971 -4411.8 -4044.4)" fill="#094e75"></g>
+               <g transform="matrix(10.032 0 0 10.032 -731.99 60.7)" fill="url(#a)" stroke-width=".7129">
+                <g fill="#000000" font-family="'Bitstream Vera Sans'" font-size="12.666px">
+                 <text x="877.22626" y="10.812601" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="877.22626" y="10.812601" stroke-width=".7129"/></text>
+                 <text x="901.18719" y="-29.929106" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="901.18719" y="-29.929106" stroke-width=".7129"/></text>
+                 <text x="-569.37115" y="-60.007248" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-569.37115" y="-60.007248" stroke-width=".7129"/></text>
+                 <text x="-2393.0571" y="685.5462" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2393.0571" y="685.5462" stroke-width=".7129"/></text>
+                 <text x="-454.88007" y="-445.32822" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-454.88007" y="-445.32822" stroke-width=".7129"/></text>
+                 <text x="352.72208" y="-858.79834" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="352.72208" y="-858.79834" stroke-width=".7129"/></text>
+                 <text x="376.68301" y="-899.54004" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="376.68301" y="-899.54004" stroke-width=".7129"/></text>
+                 <text x="-1114.7802" y="-906.74994" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1114.7802" y="-906.74994" stroke-width=".7129"/></text>
+                 <text x="345.7626" y="-1179.9841" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="345.7626" y="-1179.9841" stroke-width=".7129"/></text>
+                 <text x="1831.8861" y="-553.29272" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1831.8861" y="-553.29272" stroke-width=".7129"/></text>
+                 <text x="1855.8469" y="-594.03448" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1855.8469" y="-594.03448" stroke-width=".7129"/></text>
+                 <text x="364.38376" y="-601.24438" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="364.38376" y="-601.24438" stroke-width=".7129"/></text>
+                 <text x="1824.9266" y="-874.47839" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1824.9266" y="-874.47839" stroke-width=".7129"/></text>
+                 <text x="-573.43256" y="-649.33569" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-573.43256" y="-649.33569" stroke-width=".7129"/></text>
+                 <text x="-2397.1182" y="96.217857" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2397.1182" y="96.217857" stroke-width=".7129"/></text>
+                 <text x="-682.36279" y="189.09" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-682.36279" y="189.09" stroke-width=".7129"/></text>
+                 <text x="426.66153" y="9.9078522" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="426.66153" y="9.9078522" stroke-width=".7129"/></text>
+                 <text x="450.62247" y="-30.833855" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="450.62247" y="-30.833855" stroke-width=".7129"/></text>
+                 <text x="-1040.8407" y="-38.043827" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1040.8407" y="-38.043827" stroke-width=".7129"/></text>
+                 <text x="419.70206" y="-311.27789" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="419.70206" y="-311.27789" stroke-width=".7129"/></text>
+                 <text x="-608.03253" y="-40.758072" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-608.03253" y="-40.758072" stroke-width=".7129"/></text>
+                 <text x="-2431.7185" y="704.79541" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2431.7185" y="704.79541" stroke-width=".7129"/></text>
+                 <text x="-456.93948" y="-902.28857" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-456.93948" y="-902.28857" stroke-width=".7129"/></text>
+                 <text x="350.66266" y="-1315.7588" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="350.66266" y="-1315.7588" stroke-width=".7129"/></text>
+                 <text x="374.62357" y="-1356.5005" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="374.62357" y="-1356.5005" stroke-width=".7129"/></text>
+                 <text x="-1116.8396" y="-1363.7104" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1116.8396" y="-1363.7104" stroke-width=".7129"/></text>
+                 <text x="343.70316" y="-1636.9446" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="343.70316" y="-1636.9446" stroke-width=".7129"/></text>
+                 <text x="1829.8265" y="-1010.2533" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1829.8265" y="-1010.2533" stroke-width=".7129"/></text>
+                 <text x="1853.7874" y="-1050.9949" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1853.7874" y="-1050.9949" stroke-width=".7129"/></text>
+                 <text x="362.32431" y="-1058.2048" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="362.32431" y="-1058.2048" stroke-width=".7129"/></text>
+                 <text x="1822.8671" y="-1331.439" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1822.8671" y="-1331.439" stroke-width=".7129"/></text>
+                 <text x="-575.492" y="-1106.2961" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-575.492" y="-1106.2961" stroke-width=".7129"/></text>
+                 <text x="-2399.1777" y="-360.74261" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2399.1777" y="-360.74261" stroke-width=".7129"/></text>
+                 <text x="-684.42224" y="-267.87045" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-684.42224" y="-267.87045" stroke-width=".7129"/></text>
+                 <text x="155.5923" y="-26.956278" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="155.5923" y="-26.956278" stroke-width=".7129"/></text>
+                 <text x="179.55324" y="-67.697998" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="179.55324" y="-67.697998" stroke-width=".7129"/></text>
+                 <text x="-1090.2634" y="-261.72662" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1090.2634" y="-261.72662" stroke-width=".7129"/></text>
+                 <text x="-282.66141" y="-675.19678" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-282.66141" y="-675.19678" stroke-width=".7129"/></text>
+                 <text x="-258.70047" y="-715.93848" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-258.70047" y="-715.93848" stroke-width=".7129"/></text>
+                 <text x="-1750.1636" y="-723.14838" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1750.1636" y="-723.14838" stroke-width=".7129"/></text>
+                 <text x="-289.62085" y="-996.38251" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-289.62085" y="-996.38251" stroke-width=".7129"/></text>
+                 <text x="1196.5026" y="-369.69113" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1196.5026" y="-369.69113" stroke-width=".7129"/></text>
+                 <text x="1220.4634" y="-410.43286" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1220.4634" y="-410.43286" stroke-width=".7129"/></text>
+                 <text x="-270.99973" y="-417.64282" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-270.99973" y="-417.64282" stroke-width=".7129"/></text>
+                 <text x="1189.5431" y="-690.87689" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1189.5431" y="-690.87689" stroke-width=".7129"/></text>
+                 <text x="-1208.816" y="-465.7341" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1208.816" y="-465.7341" stroke-width=".7129"/></text>
+                 <text x="-3032.5017" y="279.81946" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-3032.5017" y="279.81946" stroke-width=".7129"/></text>
+                </g>
+                <g transform="matrix(.90475 0 0 .90475 -716.75 -676.29)" fill="url(#a)">
+                 <text x="-664.2738" y="1159.4154" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="14px" opacity=".8" stroke-width=".7129" style="line-height:0%" xml:space="preserve"><tspan x="-664.2738" y="1159.4154" stroke-width=".7129"/></text>
+                </g>
+                <g fill="#000000" font-family="'Bitstream Vera Sans'" font-size="12.666px">
+                 <text x="877.22626" y="18.050589" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="877.22626" y="18.050589" stroke-width=".7129"/></text>
+                 <text x="901.18719" y="-22.691116" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="901.18719" y="-22.691116" stroke-width=".7129"/></text>
+                 <text x="-569.37115" y="-52.76926" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-569.37115" y="-52.76926" stroke-width=".7129"/></text>
+                 <text x="-2393.0571" y="692.78418" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2393.0571" y="692.78418" stroke-width=".7129"/></text>
+                 <text x="-454.88007" y="-438.09021" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-454.88007" y="-438.09021" stroke-width=".7129"/></text>
+                 <text x="352.72208" y="-851.5603" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="352.72208" y="-851.5603" stroke-width=".7129"/></text>
+                 <text x="376.68301" y="-892.30206" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="376.68301" y="-892.30206" stroke-width=".7129"/></text>
+                 <text x="-1114.7802" y="-899.51196" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1114.7802" y="-899.51196" stroke-width=".7129"/></text>
+                 <text x="345.7626" y="-1172.7461" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="345.7626" y="-1172.7461" stroke-width=".7129"/></text>
+                 <text x="1831.8861" y="-546.05475" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1831.8861" y="-546.05475" stroke-width=".7129"/></text>
+                 <text x="1855.8469" y="-586.79651" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1855.8469" y="-586.79651" stroke-width=".7129"/></text>
+                 <text x="364.38376" y="-594.00641" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="364.38376" y="-594.00641" stroke-width=".7129"/></text>
+                 <text x="1824.9266" y="-867.24036" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1824.9266" y="-867.24036" stroke-width=".7129"/></text>
+                 <text x="-573.43256" y="-642.09772" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-573.43256" y="-642.09772" stroke-width=".7129"/></text>
+                 <text x="-2397.1182" y="103.45585" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2397.1182" y="103.45585" stroke-width=".7129"/></text>
+                 <text x="-682.36279" y="196.32799" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-682.36279" y="196.32799" stroke-width=".7129"/></text>
+                 <text x="426.66153" y="17.14584" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="426.66153" y="17.14584" stroke-width=".7129"/></text>
+                 <text x="450.62247" y="-23.595865" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="450.62247" y="-23.595865" stroke-width=".7129"/></text>
+                 <text x="-1040.8407" y="-30.805836" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1040.8407" y="-30.805836" stroke-width=".7129"/></text>
+                 <text x="419.70206" y="-304.03989" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="419.70206" y="-304.03989" stroke-width=".7129"/></text>
+                 <text x="-608.03253" y="-33.520081" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-608.03253" y="-33.520081" stroke-width=".7129"/></text>
+                 <text x="-2431.7185" y="712.03345" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2431.7185" y="712.03345" stroke-width=".7129"/></text>
+                 <text x="-456.93948" y="-895.0506" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-456.93948" y="-895.0506" stroke-width=".7129"/></text>
+                 <text x="350.66266" y="-1308.5208" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="350.66266" y="-1308.5208" stroke-width=".7129"/></text>
+                 <text x="374.62357" y="-1349.2626" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="374.62357" y="-1349.2626" stroke-width=".7129"/></text>
+                 <text x="-1116.8396" y="-1356.4724" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1116.8396" y="-1356.4724" stroke-width=".7129"/></text>
+                 <text x="343.70316" y="-1629.7065" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="343.70316" y="-1629.7065" stroke-width=".7129"/></text>
+                 <text x="1829.8265" y="-1003.0153" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1829.8265" y="-1003.0153" stroke-width=".7129"/></text>
+                 <text x="1853.7874" y="-1043.757" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1853.7874" y="-1043.757" stroke-width=".7129"/></text>
+                 <text x="362.32431" y="-1050.9668" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="362.32431" y="-1050.9668" stroke-width=".7129"/></text>
+                 <text x="1822.8671" y="-1324.2009" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1822.8671" y="-1324.2009" stroke-width=".7129"/></text>
+                 <text x="-575.492" y="-1099.0581" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-575.492" y="-1099.0581" stroke-width=".7129"/></text>
+                 <text x="-2399.1777" y="-353.50461" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-2399.1777" y="-353.50461" stroke-width=".7129"/></text>
+                 <text x="-684.42224" y="-260.63245" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-684.42224" y="-260.63245" stroke-width=".7129"/></text>
+                 <text x="155.5923" y="-19.71829" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="155.5923" y="-19.71829" stroke-width=".7129"/></text>
+                 <text x="179.55324" y="-60.460011" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="179.55324" y="-60.460011" stroke-width=".7129"/></text>
+                 <text x="-1090.2634" y="-254.4886" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1090.2634" y="-254.4886" stroke-width=".7129"/></text>
+                 <text x="-282.66141" y="-667.9588" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-282.66141" y="-667.9588" stroke-width=".7129"/></text>
+                 <text x="-258.70047" y="-708.7005" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-258.70047" y="-708.7005" stroke-width=".7129"/></text>
+                 <text x="-1750.1636" y="-715.91046" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1750.1636" y="-715.91046" stroke-width=".7129"/></text>
+                 <text x="-289.62085" y="-989.14447" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-289.62085" y="-989.14447" stroke-width=".7129"/></text>
+                 <text x="1196.5026" y="-362.45316" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1196.5026" y="-362.45316" stroke-width=".7129"/></text>
+                 <text x="1220.4634" y="-403.19489" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1220.4634" y="-403.19489" stroke-width=".7129"/></text>
+                 <text x="-270.99973" y="-410.40482" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-270.99973" y="-410.40482" stroke-width=".7129"/></text>
+                 <text x="1189.5431" y="-683.63892" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1189.5431" y="-683.63892" stroke-width=".7129"/></text>
+                 <text x="-1208.816" y="-458.49609" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-1208.816" y="-458.49609" stroke-width=".7129"/></text>
+                 <text x="-3032.5017" y="287.05743" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-3032.5017" y="287.05743" stroke-width=".7129"/></text>
+                </g>
+                <g transform="matrix(.90475 0 0 .90475 -716.75 -669.05)" fill="url(#a)">
+                 <text x="-664.2738" y="1159.4154" fill="#000000" font-family="'Bitstream Vera Sans'" font-size="14px" opacity=".8" stroke-width=".7129" style="line-height:0%" xml:space="preserve"><tspan x="-664.2738" y="1159.4154" stroke-width=".7129"/></text>
+                </g>
+                <g fill="#000000" font-size="12.666px">
+                 <text x="435.90427" y="-361.22546" font-family="'Droid Sans'" style="line-height:0%" xml:space="preserve"><tspan x="435.90427" y="-361.22546"/><tspan x="435.90427" y="-345.3924"/></text>
+                 <g font-family="'Bitstream Vera Sans'">
+                  <text x="901.0882" y="-843.27002" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="901.0882" y="-843.27002" stroke-width=".7129"/></text>
+                  <text x="-922.59778" y="-97.716553" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="-922.59778" y="-97.716553" stroke-width=".7129"/></text>
+                  <text x="1628.1677" y="-1128.2659" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1628.1677" y="-1128.2659" stroke-width=".7129"/></text>
+                  <text x="1652.1285" y="-1169.0076" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1652.1285" y="-1169.0076" stroke-width=".7129"/></text>
+                  <text x="160.66542" y="-1176.2175" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="160.66542" y="-1176.2175" stroke-width=".7129"/></text>
+                  <text x="1621.2083" y="-1449.4517" opacity=".8" style="line-height:0%" xml:space="preserve"><tspan x="1621.2083" y="-1449.4517" stroke-width=".7129"/></text>
+                 </g>
+                </g>
+                <g transform="matrix(.11256 0 0 .11256 4.4949 18.455)" fill-rule="evenodd">
+                 <path d="m-328.74 133.5c9.4442-17.436 18.319-28.874 37.579-32.287-10.833-10.328-13.918-16.069-18.906-33.725-19.268 20.841-19.14 42.494-18.673 66.012z" fill="url(#i)"/>
+                 <path d="m-208.66 177.1c11.229-14.766 46.337-22.76 36.028-43.117-24.18-6.1618-39.334 5.3047-48.945-17.389-8.2969 31.981 2.8758 47.389 12.917 60.506z" fill="url(#g)"/>
+                 <path d="m-228.84 197.98c-47.281 4.6982-39.125 30.088-35.778 55.486l12.105-10.085c8.4949 24.705 58.644 20.754 86.446 12.109 12.664-3.9379 23.918-2.9692 28.817-0.96204 13.796 2.9606 12.874-8.7296 6.8421-12.208-33.022-37.592-63.519 34.659-104.22-26.704-2.4883-3.7515-0.0371-9.8997 5.7864-17.635z" fill="url(#h)"/>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

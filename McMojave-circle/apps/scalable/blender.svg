@@ -1,0 +1,40 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="101.81" x2="101.81" y1="-16.578" y2="242.72" gradientTransform="matrix(4.7812 0 0 4.7812 33.875 62.237)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fbb521" offset="0"/>
+   <stop stop-color="#f15f19" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="520" x2="520" y1="32.362" y2="1052.4" gradientTransform="translate(5.4372)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="520" x2="520" y1="252.36" y2="712.36" gradientTransform="translate(-75.993 -122.99)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#197cf1" offset="0"/>
+   <stop stop-color="#21c9fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="67.024" x2="102.91" y1="283.91" y2="581.76" gradientTransform="translate(44.641 2.6795)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#e8ebec" offset="0"/>
+   <stop stop-color="#fdfeff" offset="1"/>
+  </linearGradient>
+  <filter id="g" x="-.036324" y="-.035682" width="1.0726" height="1.0714" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="11.623637"/>
+  </filter>
+  <filter id="f" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <g transform="matrix(.062745 0 0 .062745 -.12549 986.46)" stroke-width="15.938">
+   <circle cx="512" cy="540.36" r="478.12" color="#000000" filter="url(#f)" opacity=".25"/>
+   <circle cx="512" cy="540.36" r="478.12" color="#000000" fill="url(#b)"/>
+   <g transform="translate(0,10)" fill="#141414" filter="url(#g)" opacity=".2" stroke-width="254">
+    <ellipse transform="rotate(-30)" cx="168.58" cy="460.25" rx="183.31" ry="160.19" opacity="1" style="paint-order:stroke markers fill"/>
+    <circle cx="512.01" cy="545.85" r="384" opacity="1" style="paint-order:stroke markers fill"/>
+    <circle cx="401.32" cy="346.75" r="128" opacity="1" stroke="#f0f0f0" stroke-linecap="square" stroke-width="17.675" style="paint-order:stroke markers fill"/>
+   </g>
+   <g stroke-width="15.938">
+    <ellipse transform="rotate(-30)" cx="168.58" cy="460.25" rx="183.31" ry="160.19" fill="url(#c)" style="paint-order:stroke markers fill"/>
+    <circle cx="512.01" cy="545.85" r="384" fill="url(#e)" style="paint-order:stroke markers fill"/>
+    <circle cx="441.32" cy="426.75" r="128" fill="url(#d)" stroke="#f0f0f0" stroke-linecap="square" stroke-width="17.675" style="paint-order:stroke markers fill"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#111" offset="0"/>
+   <stop stop-color="#3b3b3b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="97.556" x2="97.556" y1="21.679" y2="242.72" gradientTransform="matrix(4.705 0 0 4.705 41 70.362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#003dc0" offset="0"/>
+   <stop stop-color="#2867df" offset=".3229"/>
+   <stop stop-color="#246ced" offset=".72603"/>
+   <stop stop-color="#5191ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="494.68" x2="494.68" y1="65.526" y2="1015.1" gradientTransform="matrix(1.0742 0 0 1.0742 -31.4 -38.027)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#c7d7e7" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.024225" y="-.070047" width="1.0485" height="1.1401" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="5.5515993"/>
+  </filter>
+  <linearGradient id="e" x1="520" x2="520" y1="152.36" y2="932.36" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="520" x2="520" y1="152.36" y2="932.36" gradientTransform="matrix(1.1094 0 0 1.1094 -53.476 -65.647)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.115"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <g transform="matrix(.063762 0 0 .063762 -.61424 985.88)" stroke-width="15.683">
+   <g>
+    <circle cx="511.5" cy="540.86" r="470.5" color="#000000" filter="url(#g)" opacity=".25"/>
+    <circle cx="511.5" cy="540.86" r="470.5" color="#000000" fill="url(#c)"/>
+    <circle cx="508.37" cy="547.62" r="384" color="#000000" fill="url(#e)"/>
+    <circle cx="510.5" cy="541.87" r="426" color="#000000" fill="url(#d)" opacity=".5"/>
+   </g>
+   <path class="cls-1" d="m780.75 556.52-205.63-95.072 16.52 60.917h-171.79l16.52-60.917-205.63 95.142 205.77 95.072-16.52-60.917h171.79l-16.52 60.917 205.49-95.072" filter="url(#f)" opacity=".2" stroke-width="10.988"/>
+   <path class="cls-1" d="m780.75 546.52-205.63-95.072 16.52 60.917h-171.79l16.52-60.917-205.63 95.142 205.77 95.072-16.52-60.917h171.79l-16.52 60.917 205.49-95.072" fill="url(#b)" stroke-width="10.988"/>
+  </g>
+ </g>
+</svg>

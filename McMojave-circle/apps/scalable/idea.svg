@@ -1,0 +1,41 @@
+<svg id="Calculator" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#fec589" offset="0"/>
+   <stop stop-color="#f34f17" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="520" x2="520.32" y1="4" y2="1484.8" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="520.32" x2="520" y1="-118.42" y2="1024" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fad961" offset="0"/>
+   <stop stop-color="#f66b1c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="520" x2="520" y1="4" y2="1024" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="620.52" x2="-662.07" y1="422.67" y2="1144.1" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.4"/>
+  </filter>
+  <filter id="f" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.1435"/>
+  </filter>
+ </defs>
+ <g transform="matrix(.063762 0 0 .063762 -.61424 -.678)" stroke-width="15.683">
+  <g id="shadow" transform="matrix(.99609 0 0 .99609 2 2)" stroke-width="15.683"></g>
+  <g>
+   <g id="circle" transform="matrix(.99798 0 0 .99798 .73131 2.1804)" fill="url(#e)" stroke-width="15.683">
+    <g fill="url(#c)" stroke-width="15.683">
+     <path d="m983.25 511.35c0-7.95-0.2-15.85-0.5-23.55q-8-180.15-137.55-309.85c-92.05-92-203.2-138.05-333.4-138.05-130.15 0-241.35 46.05-333.35 138.05-92.05 92-138.1 203.2-138.1 333.4 0 130.15 46.05 241.35 138.1 333.35 86.15 86.3 189.35 132.15 309.15 137.6 8 0.3 16 0.5 24.2 0.5 130.2 0 241.35-46.1 333.4-138.1 92-92 138.05-203.2 138.05-333.35z" fill="url(#d)" stroke-width="15.683"/>
+    </g>
+   </g>
+   <g transform="matrix(.99798 0 0 .99798 .73131 2.1804)" fill="url(#b)" opacity=".75" stroke-width="15.683">
+    <g stroke-width="15.683">
+     <path d="m983.25 511.35c0-7.95-0.2-15.85-0.5-23.55q-8-180.15-137.55-309.85c-92.05-92-203.2-138.05-333.4-138.05-130.15 0-241.35 46.05-333.35 138.05-92.05 92-138.1 203.2-138.1 333.4 0 130.15 46.05 241.35 138.1 333.35 86.15 86.3 189.35 132.15 309.15 137.6 8 0.3 16 0.5 24.2 0.5 130.2 0 241.35-46.1 333.4-138.1 92-92 138.05-203.2 138.05-333.35z" fill="#000" filter="url(#f)" opacity=".25"/>
+     <path d="m983.25 511.35c0-7.95-0.2-15.85-0.5-23.55q-8-180.15-137.55-309.85c-92.05-92-203.2-138.05-333.4-138.05-130.15 0-241.35 46.05-333.35 138.05-92.05 92-138.1 203.2-138.1 333.4 0 130.15 46.05 241.35 138.1 333.35 86.15 86.3 189.35 132.15 309.15 137.6 8 0.3 16 0.5 24.2 0.5 130.2 0 241.35-46.1 333.4-138.1 92-92 138.05-203.2 138.05-333.35z" fill="url(#b)"/>
+    </g>
+   </g>
+   <rect x="240" y="244" width="560" height="560" ry="123.22" fill="#333" fill-rule="evenodd" filter="url(#g)" opacity=".25" style="paint-order:fill markers stroke"/>
+   <rect x="229.2" y="230.2" width="564.6" height="564.6" ry="124.23" fill="#333" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+   <path d="m439.14 341.98v-40.741h-122.22v40.741h40.741v142.59h-40.741v40.741h122.22v-40.741h-40.741v-142.59m134.29 182.98c-24.603-2.81-41.93-18.865-57.428-33.017l24.739-27.939c8.1253 8.4344 20.36 18.535 33.064 20.224 12.704 1.6887 29.04 0.29455 38.853-8.0326 9.8128-8.3272 9.8128-19.632 9.8128-33.118v-141.84h40.741l-0.11408 144.29c0.11408 28.699-10.777 48.054-20.842 58.848-16.097 16.476-36.945 18.147-56.396 20.842" fill="#f9f9f9" stroke-width="319.48"/>
+   <path d="m276.17 667.91h203.7v40.741h-203.7z" fill="#f9f9f9" stroke-width="319.48"/>
+  </g>
+ </g>
+</svg>

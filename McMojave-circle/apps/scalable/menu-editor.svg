@@ -1,0 +1,27 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="399.99" x2="399.99" y1="545.14" y2="518.14" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6961b8" offset="0"/>
+   <stop stop-color="#b44efc" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <filter id="d" x="-.038771" y="-.033599" width="1.0775" height="1.0672" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.42001774"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
+ <g stroke-width="1.5715">
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#a)"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
+  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
+ </g>
+ <rect x="19" y="17.001" width="26" height="30.002" rx="1.9994" ry="1.9994" filter="url(#d)" opacity=".25" style="paint-order:markers stroke fill"/>
+ <path d="m21 17c-1.1077 0-2 0.89233-2 2v26.004c0 1.1077 0.89233 2 2 2h22c1.1077 0 2-0.89233 2-2v-26.004c0-1.1077-0.89233-2-2-2h-22zm1.002 1.9961a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002zm0 6.002a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002zm0 5.998a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002zm0 6.002a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002zm0 5.998a1.0016 1.0016 0 0 1 1 1.002 1.0016 1.0016 0 0 1-1 1.002 1.0016 1.0016 0 0 1-1.002-1.002 1.0016 1.0016 0 0 1 1.002-1.002z" fill="#fff" style="paint-order:markers stroke fill"/>
+ <path d="m19 22.001h26.004v0.99782h-26.004zm0 5.9982h26.004v1.0016h-26.004zm0 6.002h26.004v0.99782h-26.004zm0 5.9982h26.004v1.0016h-26.004z" opacity=".1" stroke-width="3.7796" style="paint-order:markers stroke fill"/>
+</svg>

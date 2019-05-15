@@ -1,0 +1,59 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="g">
+   <stop stop-color="#09090b" offset="0"/>
+   <stop stop-color="#131315" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <linearGradient id="a" x1="60" x2="60" y1="54" y2="10.534" gradientUnits="userSpaceOnUse" xlink:href="#g"/>
+  <linearGradient id="f" x1="59" x2="59" y1="47" y2="17" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#323232" offset="0"/>
+   <stop stop-color="#444" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="60" x2="60" y1="58.216" y2="10.534" gradientTransform="translate(-27)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#09090b" stop-opacity="0" offset="0"/>
+   <stop stop-color="#131315" stop-opacity=".39216" offset="1"/>
+  </linearGradient>
+  <filter id="j" x="-.034364" y="-.018439" width="1.0687" height="1.0369" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.315"/>
+  </filter>
+  <filter id="i" x="-.08375" y="-.046744" width="1.1675" height="1.0935" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.83750002"/>
+  </filter>
+  <linearGradient id="d" x1="59" x2="59" y1="48" y2="52" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1e1e1e" offset="0"/>
+   <stop stop-color="#333" stop-opacity=".11765" offset="1"/>
+  </linearGradient>
+  <filter id="h" x="-.064444" y="-.87" width="1.1289" height="2.74" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.725"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(1.0115 0 0 1.0115 -389.32 -489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#b)" stroke-width="1.0115"/>
+ <ellipse cx="32.5" cy="53.26" rx="13.5" ry="1" fill-rule="evenodd" filter="url(#h)" opacity=".35" style="paint-order:fill markers stroke"/>
+ <g transform="translate(-27)">
+  <g fill-rule="evenodd">
+   <rect x="47" y="11" width="24" height="43" ry="3" filter="url(#i)" opacity=".25" style="paint-order:fill markers stroke"/>
+   <rect x="47" y="11" width="24" height="43" ry="3" fill="#a8a8a8" style="paint-order:fill markers stroke"/>
+   <rect x="48" y="12" width="22" height="41" ry="2" fill="url(#a)" filter="url(#j)" style="paint-order:fill markers stroke"/>
+   <rect x="48" y="12" width="22" height="41" ry="2" fill="url(#a)" style="paint-order:fill markers stroke"/>
+   <rect x="49" y="17" width="20" height="30" fill="url(#f)" style="paint-order:fill markers stroke"/>
+   <path transform="translate(27)" d="m40.1 12-19.1 31.959v7.041c0 1.108 0.892 2 2 2h18c1.108 0 2-0.892 2-2v-37c0-1.108-0.892-2-2-2z" fill="url(#e)" style="paint-order:fill markers stroke"/>
+   <circle cx="59" cy="50" r="2" fill="url(#d)" style="paint-order:fill markers stroke"/>
+  </g>
+  <g fill="#333" fill-rule="evenodd">
+   <rect x="55" y="11" width="1" height="1" opacity=".5" style="paint-order:fill markers stroke"/>
+   <rect x="47" y="48" width="1" height="1" opacity=".5" style="paint-order:fill markers stroke"/>
+   <rect x="70" y="48" width="1" height="1" opacity=".5" style="paint-order:fill markers stroke"/>
+  </g>
+  <rect x="58" y="14" width="4" height="1" ry=".47458" fill="#666" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+  <circle cx="55.5" cy="14.5" r=".5" fill="#666" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+  <rect x="58.3" y="49.3" width="1.4008" height="1.4008" fill="none" opacity=".15" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

@@ -1,0 +1,73 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <linearGradient id="f" x1="409.57" x2="409.94" y1="542.8" y2="504.19" gradientTransform="matrix(1.8395 0 0 2.1308 -237.25 -707.44)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#86d0fb" offset="0"/>
+   <stop stop-color="#2794f5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="519.2" x2="519.2" y1="1024.8" y2="4.8" gradientTransform="matrix(.063586 0 0 .063583 -.55617 -.55285)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#606060" offset="0"/>
+   <stop stop-color="#414141" offset=".019551"/>
+   <stop stop-color="#1e1e1e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x1="32" x2="32" y1="16" y2="19" gradientTransform="matrix(1 0 0 1.3333 0 -5.3333)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f8f8f8" offset="0"/>
+   <stop stop-color="#b6b6b6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="47" x2="47" y1="17" y2="19" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d4d4d4" offset="0"/>
+   <stop stop-color="#999" offset="1"/>
+  </linearGradient>
+  <filter id="j" x="-.032727" y="-.36" width="1.0655" height="1.72" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+  <filter id="i" x="-.056906" y="-.063576" width="1.1138" height="1.1272" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.9191779"/>
+  </filter>
+  <linearGradient id="a" x1="33.565" x2="33.565" y1="17.02" y2="50" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="l" x1="367.9" x2="367.9" y1="339.9" y2="519.9" gradientTransform="matrix(.06383 0 0 .06383 -1.1213 1.9215)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#d7d7d7" offset="1"/>
+  </linearGradient>
+  <filter id="m" x="-.042651" y="-.031144" width="1.0853" height="1.0623" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.9310891"/>
+  </filter>
+  <linearGradient id="h" x1="26.5" x2="26.5" y1="40" y2="42.644" gradientTransform="matrix(.06383 0 0 .039474 -2.7383 -39.983)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#d7d7d7" offset="1"/>
+  </linearGradient>
+  <filter id="k" x="-.035288" y="-.20019" width="1.0706" height="1.4004" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.22055085"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <path d="m50.249 8.1932q-3.8597-2.9725-8.444-4.5557-4.7372-1.6373-9.8021-1.6373c-16.57 0-30.003 13.432-30.003 30.001 0 15.158 11.245 27.684 25.845 29.709 0.71216 0.09855 1.4339 0.17485 2.1587 0.21936 0.66128 0.04133 1.3258 0.06994 1.9998 0.06994 16.567 0 29.997-13.432 29.997-29.999 0-1.3098-0.08266-2.6037-0.24481-3.8658-0.18758-1.4751-0.49279-2.909-0.88387-4.3046q-1.3289-4.6892-4.0822-8.7265-2.7215-3.9771-6.5401-6.9112z" fill="url(#e)" stroke-width=".99724"/>
+ <g transform="matrix(.46586 -.055566 .057258 .45209 -209.41 -153.63)">
+  <g stroke-width="1.7481">
+   <rect transform="rotate(7.0071)" x="473.85" y="374.61" width="80.94" height="72.449" ry="4.3907" filter="url(#i)" opacity=".75"/>
+   <rect transform="rotate(7.0071)" x="473.85" y="374.61" width="80.94" height="72.449" ry="4.3907" fill="url(#f)"/>
+   <rect transform="rotate(7.0071)" x="473.85" y="374.61" width="80.94" height="72.449" ry="4.3907" fill="url(#f)"/>
+  </g>
+  <path transform="matrix(2.1146 .25991 -.26782 2.179 401.68 389.19)" d="m49.121 17.02-32.98 32.98h32.789c1.1417 2e-6 2.0605-0.89204 2.0605-2v-29c3e-6 -1.0442-0.81942-1.8858-1.8691-1.9805z" fill="url(#a)" opacity=".35" stroke-width=".80826"/>
+ </g>
+ <g fill-rule="evenodd">
+  <rect x="10" y="16" width="44" height="4" ry="1" filter="url(#j)" opacity=".35" style="paint-order:fill markers stroke"/>
+  <rect x="10" y="16" width="44" height="4" ry="1" fill="url(#g)" style="paint-order:fill markers stroke"/>
+  <circle cx="47" cy="18" r="1" fill="url(#d)" style="paint-order:fill markers stroke"/>
+ </g>
+ <path transform="matrix(.06383 0 0 .06383 -2.0666 -.22612)" d="m350.86 388.74c-4.9 0-9.0996 1.75-12.6 5.25-3.45 3.45-5.2012 7.6508-5.2012 12.551s1.7512 9.1008 5.2012 12.551l54.449 54.449-54.4 54.4c-3.5 3.5-5.2488 7.6996-5.2988 12.6 0.05 4.9 1.8 9.1008 5.25 12.551 3.5 3.45 7.6988 5.2 12.549 5.25 4.95 0 9.1504-1.75 12.65-5.25l60.5-60.551c12.7-12.65 12.7-25.351 0-38.051l-60.551-60.549c-3.4667-3.4667-7.6488-5.2012-12.549-5.2012z" filter="url(#m)" opacity=".25" stroke-width="15.667"/>
+ <path d="m20.329 23.949c-0.31277 0-0.58082 0.1117-0.80426 0.3351-0.22021 0.22021-0.33199 0.48835-0.33199 0.80113s0.11178 0.5809 0.33199 0.80113l3.4755 3.4755-3.4723 3.4723c-0.2234 0.2234-0.33503 0.49146-0.33822 0.80425 0.0032 0.31277 0.11489 0.5809 0.33511 0.80113 0.2234 0.22021 0.49141 0.33191 0.801 0.33511 0.31596 0 0.58407-0.11171 0.80745-0.33511l3.8617-3.865c0.81064-0.80745 0.81064-1.6182 0-2.4288l-3.865-3.8648c-0.22128-0.22127-0.48822-0.33199-0.801-0.33199z" fill="url(#l)"/>
+ <rect x="19" y="40.356" width="15" height="2.6441" ry="1.322" fill-rule="evenodd" filter="url(#k)" opacity=".35" style="paint-order:fill markers stroke"/>
+ <rect x="19" y="40" width="15" height="2.6441" ry="1.322" fill="url(#h)" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+</svg>

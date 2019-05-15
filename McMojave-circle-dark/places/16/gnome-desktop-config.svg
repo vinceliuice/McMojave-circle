@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+ </defs>
+ <g style="fill:currentColor" class="ColorScheme-Text" >
+  <path d="m1 4v8c0 0.554 0.446 1 1 1h2v-2h2v2h1v-2h2v2h1v-2h2v2h2c0.554 0 1-0.446 1-1v-8z" opacity=".2"/>
+  <path d="m4 10c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h8c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm0 1h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z" opacity=".5"/>
+  <path d="m2 1c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z"/>
+  <rect x="443" y="179" width="14" height="1" ry="0"/>
+ </g>
+</svg>

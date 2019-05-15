@@ -1,0 +1,52 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#2765c4" offset="0"/>
+   <stop stop-color="#4ec4dc" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.23812031"/>
+  </filter>
+  <linearGradient id="e" x1="29.778" x2="29.778" y1="2" y2="62" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="46.444" x2="46.444" y1="2" y2="62" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="10.889" x2="10.889" y1="2" y2="62" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="f" x1="7.8785" x2="7.8785" y1=".52916" y2="16.404" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="10.889" x2="10.889" y1="2" y2="62" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill-rule="evenodd" filter="url(#b)" opacity=".24" style="paint-order:fill markers stroke"/>
+ <circle cx="8.4665" cy="8.4663" r="7.9373" fill="#3a81cc" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <g transform="matrix(.99999 0 0 .99999 2.791e-8 3.9715e-5)">
+  <path transform="scale(.26458)" d="m21.334 3.9707a30 30 0 0 0-17.336 17.363h17.336z" color="#000000" display="block" fill="url(#g)" stroke-width="3.7797" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+  <g stroke-width="3.7797">
+   <path transform="scale(.26458)" d="m32 2a30 30 0 0 0-10.666 1.9707v17.363h21.332v-17.336a30 30 0 0 0-10.666-1.998z" color="#000000" display="block" fill="url(#e)" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <path transform="scale(.26458)" d="m42.666 3.998v17.336h17.363a30 30 0 0 0-17.363-17.336z" color="#000000" display="block" fill="url(#d)" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <path transform="scale(.26458)" d="M 3.998,21.334 A 30,30 0 0 0 2,32 30,30 0 0 0 3.9707,42.666 h 17.363 V 21.334 Z" color="#000000" display="block" fill="url(#c)" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <g fill="#fff">
+    <path transform="scale(.26458)" d="m32 2a30 30 0 0 0-10.666 1.9707v17.363h21.332v-17.336a30 30 0 0 0-10.666-1.998z" color="#000000" display="block" opacity=".05" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+    <path transform="scale(.26458)" d="M 3.998,21.334 A 30,30 0 0 0 2,32 30,30 0 0 0 3.9707,42.666 h 17.363 V 21.334 Z" color="#000000" display="block" opacity=".05" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+    <path transform="scale(.26458)" d="m42.666 3.998v17.336h17.363a30 30 0 0 0-17.363-17.336z" color="#000000" display="block" opacity=".1" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   </g>
+  </g>
+  <path d="m5.6443 5.6443h5.6443v5.6443h-5.6443z" color="#000000" display="block" fill="url(#f)" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+  <g stroke-width="3.7797">
+   <g stroke-width="3.7797">
+    <path transform="scale(.26458)" d="m42.666 21.334v21.332h17.336a30 30 0 0 0 1.998-10.666 30 30 0 0 0-1.9707-10.666z" color="#000000" display="block" fill="url(#d)" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+    <path transform="scale(.26458)" d="m3.9707 42.666a30 30 0 0 0 17.363 17.336v-17.336z" color="#000000" display="block" fill="url(#c)" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+    <path transform="scale(.26458)" d="m21.334 42.666v17.336a30 30 0 0 0 10.666 1.998 30 30 0 0 0 10.666-1.9707v-17.363z" color="#000000" display="block" fill="url(#e)" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   </g>
+   <path transform="scale(.26458)" d="m42.666 42.666v17.363a30 30 0 0 0 17.336-17.363z" color="#000000" display="block" fill="#8abae8" stroke-width="3.7797" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   <g fill="#fff">
+    <path transform="scale(.26458)" d="m3.9707 42.666a30 30 0 0 0 17.363 17.336v-17.336z" color="#000000" display="block" opacity=".1" stroke-width="3.7797" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+    <path d="m11.289 5.6443v5.644h4.5868a7.9374 7.9374 0 0 0 0.52863-2.822 7.9374 7.9374 0 0 0-0.52141-2.822z" color="#000000" display="block" opacity=".15" stroke-width="1" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+    <path transform="scale(.26458)" d="m21.334 42.666v17.336a30 30 0 0 0 10.666 1.998 30 30 0 0 0 10.666-1.9707v-17.363z" color="#000000" display="block" opacity=".15" stroke-width="3.7797" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+   </g>
+  </g>
+  <path d="m5.6443 5.6443h5.6443v5.6443h-5.6443z" color="#000000" display="block" fill="#fff" opacity=".1" overflow="visible" style="isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke"/>
+ </g>
+ <g transform="translate(1.3505 1.3455)" color="#000000" style="paint-order:fill markers stroke">
+  <path d="m10.737 6.128a4.609 4.609 0 0 0-0.15 5e-3c-0.01-1e-3 -0.017-5e-3 -0.026-5e-3h-4.244a0.184 0.184 0 0 0-0.184 0.184v4.317a4.609 4.609 0 0 0-5e-3 0.108 4.609 4.609 0 0 0 4.609 4.609 4.609 4.609 0 0 0 4.609-4.61 4.609 4.609 0 0 0-4.61-4.608z" fill-opacity=".152" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m10.737 6.328a4.41 4.41 0 0 0-0.144 5e-3c-8e-3 -1e-3 -0.015-5e-3 -0.024-5e-3h-4.062a0.176 0.176 0 0 0-0.176 0.175v4.13a4.41 4.41 0 0 0-5e-3 0.104 4.41 4.41 0 0 0 4.41 4.41 4.41 4.41 0 0 0 4.41-4.41 4.41 4.41 0 0 0-4.41-4.41z" fill="#fff" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m13.004 10.737a2.267 2.267 0 0 1-2.268 2.268 2.267 2.267 0 0 1-2.267-2.268 2.267 2.267 0 0 1 2.268-2.267 2.267 2.267 0 0 1 2.267 2.267z" fill="#5299dc" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m10.648 9.855v0.794h-0.794v0.265h0.794l0.017 0.793h0.248v-0.793h0.793l0.017-0.265h-0.81v-0.794z" fill="#fff" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>

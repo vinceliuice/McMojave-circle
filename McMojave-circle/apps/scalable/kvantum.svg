@@ -1,0 +1,37 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="400.32" x2="400.37" y1="545.86" y2="518.63" gradientTransform="matrix(.51026 0 0 .51026 -195.93 -262.88)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e2e2e2" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="384.66" x2="415.94" y1="531.64" y2="531.46" gradientTransform="matrix(.48025 0 0 .48025 -183.93 -246.9)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ac92ec" offset="0"/>
+   <stop stop-color="#64a9ff" offset=".13668"/>
+   <stop stop-color="#4cdbb7" offset=".26768"/>
+   <stop stop-color="#aee672" offset=".49418"/>
+   <stop stop-color="#ffce53" offset=".74118"/>
+   <stop stop-color="#fb6e51" offset=".93032"/>
+   <stop stop-color="#ed5565" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.23812031"/>
+  </filter>
+  <linearGradient id="a" x1="8.5257" x2="8.4417" y1="11.259" y2="5.6736" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1a1a1a" offset="0"/>
+   <stop stop-color="#999" offset="1"/>
+  </linearGradient>
+  <filter id="d" x="-.051076" y="-.072702" width="1.1022" height="1.1454" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.16920578"/>
+  </filter>
+ </defs>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill-rule="evenodd" filter="url(#e)" opacity=".25" style="paint-order:fill markers stroke"/>
+ <circle cx="8.4665" cy="8.4665" r="7.1436" fill="url(#c)" stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5875"/>
+ <g filter="url(#d)" opacity=".25" stroke-width=".26458" aria-label="Kv">
+  <path d="m8.5257 11.259h-0.76412l-2.0364-2.7088-0.58456 0.5196v2.1892h-0.64951v-5.5858h0.64951v2.77l2.5331-2.77h0.76795l-2.2465 2.4261z"/>
+  <path d="m10.111 11.259-1.5894-4.1874h0.68007l0.90167 2.4834q0.30565 0.8711 0.35914 1.1309h0.03056q0.04203-0.20249 0.26362-0.83672 0.22542-0.63804 1.0048-2.7776h0.68007l-1.5894 4.1874z"/>
+ </g>
+ <g fill="url(#a)" stroke-width=".26458" aria-label="Kv">
+  <path d="m8.5257 11.259h-0.76412l-2.0364-2.7088-0.58456 0.5196v2.1892h-0.64951v-5.5858h0.64951v2.77l2.5331-2.77h0.76795l-2.2465 2.4261z"/>
+  <path d="m10.111 11.259-1.5894-4.1874h0.68007l0.90167 2.4834q0.30565 0.8711 0.35914 1.1309h0.03056q0.04203-0.20249 0.26362-0.83672 0.22542-0.63804 1.0048-2.7776h0.68007l-1.5894 4.1874z"/>
+ </g>
+</svg>

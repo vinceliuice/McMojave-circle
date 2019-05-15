@@ -1,0 +1,44 @@
+<svg id="Sublime-Text" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="sublime-icon-b" x1="193.59" x2="211.49" y1="414.56" y2="324.75" gradientTransform="matrix(1.8717 0 0 1.2478 182.05 159.96)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#FF9700" offset="0"/>
+   <stop stop-color="#F48E00" offset=".53"/>
+   <stop stop-color="#CE6E00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="520.44" x2="520" y1="36.822" y2="984" gradientTransform="matrix(.99609 0 0 .99609 2 2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4d4d4d" offset="0"/>
+   <stop stop-color="#323232" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="520" x2="520" y1="4" y2="1024" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9f9f9" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.041377" y="-.03186" width="1.0828" height="1.0637" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.7714073"/>
+  </filter>
+  <linearGradient x1="520" x2="520" y1="4" y2="1024" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#d7d7d7" offset="1"/>
+  </linearGradient>
+  <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.104688"/>
+  </filter>
+ </defs>
+ <g transform="matrix(.063809 0 0 .063809 -.66999 -.66999)" stroke-width="15.672">
+  <g>
+   <circle cx="512" cy="512" r="470.16" filter="url(#d)" opacity=".25" stroke-miterlimit="0" stroke-width="0" style="paint-order:stroke markers fill"/>
+   <g id="shadow" transform="matrix(.99609 0 0 .99609 2 2)" fill="url(#a)" stroke-width="15.672"></g>
+   <circle cx="512" cy="512" r="470.16" fill="url(#b)" stroke-miterlimit="0" stroke-width="0" style="paint-order:stroke markers fill"/>
+   <g transform="matrix(.99609 0 0 .99609 14.483 3.8807)" filter="url(#c)" opacity=".2" stroke-width="24.045">
+    <path d="m708.28 512.08c0-5.9816-4.4192-9.4308-9.8424-7.7171l-373.08 118.34c-5.434 1.7246-9.8424 7.979-9.8424 13.95v120.95c0 5.9816 4.4083 9.4417 9.8424 7.7171l373.08-118.33c5.4231-1.7246 9.8424-7.979 9.8424-13.961z"/>
+    <path d="m315.52 508.9c0 5.9812 4.4077 12.235 9.841 13.96l373.09 118.35c5.4333 1.7245 9.841-1.7354 9.841-7.7057v-120.96c0-5.9703-4.4077-12.224-9.841-13.949l-373.09-118.35c-5.4333-1.7245-9.841 1.7245-9.841 7.7057z"/>
+    <path d="m708.28 263.84c0-5.9816-4.4192-9.4417-9.8424-7.7171l-373.08 118.33c-5.434 1.7246-9.8424 7.9791-9.8424 13.961v120.95c0 5.9816 4.4083 9.4308 9.8424 7.7171l373.08-118.34c5.4231-1.7246 9.8424-7.979 9.8424-13.95z"/>
+   </g>
+  </g>
+  <g stroke-width="23.951">
+   <path d="m720 504c0-5.9582-4.402-9.394-9.8039-7.6869l-371.63 117.88c-5.4128 1.7179-9.8039 7.9479-9.8039 13.895v120.48c0 5.9582 4.3911 9.4048 9.8039 7.687l371.63-117.87c5.4019-1.7179 9.8039-7.9479 9.8039-13.906z" fill="url(#sublime-icon-b)"/>
+   <path d="m328.77 500.83c0 5.9578 4.3905 12.187 9.8026 13.905l371.63 117.88c5.412 1.7178 9.8026-1.7286 9.8026-7.6756v-120.48c0-5.947-4.3905-12.177-9.8026-13.894l-371.63-117.88c-5.412-1.7178-9.8026 1.7178-9.8026 7.6756z" fill="#ff9800"/>
+   <path d="m720 256.73c0-5.9582-4.402-9.4048-9.8039-7.687l-371.63 117.87c-5.4128 1.7179-9.8039 7.9479-9.8039 13.906v120.48c0 5.9582 4.3911 9.394 9.8039 7.687l371.63-117.88c5.4019-1.7179 9.8039-7.9479 9.8039-13.895z" fill="#ff9800"/>
+  </g>
+ </g>
+</svg>

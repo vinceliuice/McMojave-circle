@@ -1,0 +1,33 @@
+<svg id="Gimp" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="w" x1="123.64" x2="146.53" y1="131.03" y2="174.71" gradientTransform="matrix(4.2812 0 0 3.5908 41 42)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eff7fc" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.033097" y="-.039461" width="1.0662" height="1.0789" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.7995675"/>
+  </filter>
+  <linearGradient id="a" x1="520" x2="520" y1="4" y2="1024" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6bc3e9" offset="0"/>
+   <stop stop-color="#1a7fd4" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.115"/>
+  </filter>
+ </defs>
+ <g transform="matrix(.063762 0 0 .063762 -.61424 -.678)" stroke-width="15.683">
+  <circle cx="511.5" cy="512.5" r="470.5" filter="url(#c)" opacity=".25" style="paint-order:stroke markers fill"/>
+  <g id="shadow" transform="matrix(.99609 0 0 .99609 2 2)" stroke-width="15.683"></g>
+  <circle cx="511.5" cy="512.5" r="470.5" fill="url(#a)" style="paint-order:stroke markers fill"/>
+  <g transform="matrix(3.9208 0 0 3.9208 41 52)" filter="url(#b)" opacity=".2" stroke-width="15.683">
+   <path d="m98 175c-3.8876 0-3.227-1.4679-4.5678-5.1695l-11.432-37.625 88-52.206"/>
+   <path d="m98 175c3 0 4.3255-1.372 6-3l16-15.558-19.958-12.035"/>
+   <path d="m100.04 144.41 48.36 35.729c5.5185 3.0449 9.5014 1.4684 10.876-5.1235l19.685-92.763c2.0154-8.0802-3.0801-11.745-8.3594-9.3482l-115.59 44.571c-7.8901 3.1647-7.8441 7.5666-1.4382 9.528l29.663 9.2583 68.673-43.325c3.2419-1.9659 6.2173-0.90899 3.7752 1.2584"/>
+  </g>
+  <g stroke-width="61.492">
+   <path d="m425.24 728.15c-15.243 0-12.653-5.7554-17.91-20.269l-44.824-147.52 345.03-204.69" fill="#c8daea"/>
+   <path d="m425.24 728.15c11.762 0 16.96-5.3794 23.525-11.762l62.733-61-78.252-47.187" fill="#a9c9dd"/>
+   <path d="m433.24 608.21 189.61 140.09c21.637 11.939 37.253 5.7574 42.643-20.088l77.182-363.71c7.902-31.681-12.077-46.05-32.776-36.653l-453.21 174.76c-30.936 12.408-30.755 29.667-5.6389 37.358l116.3 36.3 269.26-169.87c12.711-7.708 24.377-3.564 14.802 4.934" fill="url(#w)"/>
+  </g>
+ </g>
+</svg>

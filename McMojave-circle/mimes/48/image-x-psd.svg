@@ -1,0 +1,46 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x1="302.86" x2="302.86" y1="366.65" y2="609.51" gradientTransform="matrix(.067325 0 0 .0147 -.34114 37.04)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity="0" offset="0"/>
+   <stop offset=".5"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="c" cx="605.71" cy="486.65" r="117.14" gradientTransform="matrix(-.02304 0 0 .0147 21.623 37.04)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="d" cx="605.71" cy="486.65" r="117.14" gradientTransform="matrix(.02304 0 0 .0147 26.361 37.04)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="25.132" x2="25.132" y1=".98521" y2="47.013" gradientTransform="matrix(.97143 0 0 .93432 .68577 -1.357)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f4f4f4" offset="0"/>
+   <stop stop-color="#dbdbdb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="24" x2="24" y1="5.9405" y2="42.111" gradientTransform="matrix(.89189 0 0 1.1351 2.5946 -4.7432)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".23529" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".15686" offset="1"/>
+   <stop stop-color="#fff" stop-opacity=".39216" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="-51.786" x2="-51.786" y1="50.786" y2="2.9062" gradientTransform="matrix(.8075 0 0 .89472 59.41 -2.9773)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".31783" offset="0"/>
+   <stop stop-opacity=".24031" offset="1"/>
+  </linearGradient>
+  <radialGradient id="b" cx="5.6491" cy="9.9571" r="12.672" fx="5.1189" gradientTransform="matrix(-1.5325e-7 6.491 -7.6705 -1.9484e-7 99.954 -58.686)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#90dbec" offset="0"/>
+   <stop stop-color="#55c1ec" offset=".26238"/>
+   <stop stop-color="#3689e6" offset=".70495"/>
+   <stop stop-color="#2b63a0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <g>
+   <rect x="7.7378" y="42.43" width="32.508" height="3.5701" fill="url(#f)" opacity=".3"/>
+   <path d="m7.7378 42.43v3.5699c-1.1865 0.0067-2.8684-0.79982-2.8684-1.7852 0-0.98533 1.324-1.7847 2.8684-1.7847z" fill="url(#c)" opacity=".3"/>
+   <path d="m40.246 42.43v3.5699c1.1865 0.0067 2.8684-0.79982 2.8684-1.7852 0-0.98533-1.324-1.7847-2.8684-1.7847z" fill="url(#d)" opacity=".3"/>
+  </g>
+  <path d="m7 1c7.7911 0 34 0.00274 34 0.00274l4.1e-5 42.997h-34v-43z" fill="url(#g)"/>
+ </g>
+ <path d="m40.5 43.5h-33v-42h33z" fill="none" stroke="url(#h)" stroke-linecap="round"/>
+ <path d="m6.5 0.49996c8.0203 0 35 0.00298 35 0.00298l3.7e-5 43.997h-35v-44z" fill="none" stroke="url(#e)" stroke-linejoin="round" stroke-width=".99992"/>
+ <path d="m17.75 14.75c-1.3171 0.01066-2.9753 0.10388-4.75 0.40625v16.844h4v-6.0938s7.8816 0.73129 8.0312-5.0312c0 0 1.0396-6.1924-7.2812-6.125zm0.40625 3c2.427 0.0091 3.0622 0.86975 3.125 2.4688 0 3.3528-4.2812 2.5312-4.2812 2.5312v-4.9375c0.42366-0.03251 0.80954-0.06379 1.1562-0.0625zm12.25 1.4688c-0.97137 0.04397-1.9291 0.26971-2.7812 0.75-1.5788 0.9309-1.776 3.2026-0.90625 4.6875 1.0868 1.6043 3.1774 1.8349 4.6562 2.9375 0.75071 0.49843 0.36417 1.7631-0.5 1.8438-1.5923 0.26056-3.1935-0.31522-4.625-0.96875v2.2812c-0.19853 0.6759 0.63168 0.6927 1.0938 0.875 1.7194 0.4171 3.5816 0.47986 5.2812-0.0625 1.5013-0.44197 2.581-1.9383 2.5-3.5-5.23e-4 -0.41822-0.07999-0.8222-0.21875-1.2188-0.59155-1.6399-2.4279-2.1746-3.8438-2.875-0.89969-0.23044-2.2242-1.3558-1.0312-2.125 1.3407-0.4207 2.7268 0.20624 3.9375 0.75l0.875-2.0938c0.29269-0.65814-1.1263-0.64826-1.5625-0.9375-0.91963-0.25917-1.9036-0.38772-2.875-0.34375z" color="#000000" color-rendering="auto" fill="url(#b)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+</svg>
