@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=McMojave-circle-dark
 Comment=MacOSX dark icon theme.
-Inherits=Numix-Circle-Light,Adwaita,hicolor
+Inherits=Numix-Circle,Adwaita,hicolor
 Example=directory-x-normal
 
 # KDE/Plasma Stuff
@@ -26,7 +26,7 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 #Directory list
-Directories=actions/16,actions/22,actions/symbolic,animations/16,animations/22,animations/24,apps/scalable,categories/32,places/symbolic,places/48,places/16,mimes/48,mimes/symbolic,devices/scalable,devices/symbolic,devices/16,emblems/16,emblems/24,emblems/48,emblems/symbolic,status/16,status/22,status/24,status/32,status/symbolic
+Directories=actions/16,actions/22,actions/symbolic,animations/16,animations/22,animations/24,apps/scalable,categories/32,places/symbolic,places/48,places/16,mimes/48,mimes/symbolic,devices/scalable,devices/symbolic,devices/16,emblems/16,emblems/22,emblems/24,emblems/48,emblems/symbolic,status/16,status/22,status/24,status/32,status/symbolic
 
 [actions/16]
 Size=16
@@ -97,6 +97,13 @@ Type=Scalable
 Size=16
 Context=Emblems
 Type=Fixed
+
+[emblems/22]
+Size=22
+Context=Emblems
+MinSize=16
+MaxSize=96
+Type=Scalable
 
 [emblems/24]
 Size=24
