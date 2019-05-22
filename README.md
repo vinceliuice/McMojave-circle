@@ -12,7 +12,7 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |  OPTIONS:           | |
 |:--------------------|:-------------|
 |-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
-|-n, --name           | Specify theme name (Default: Tela)|
+|-n, --name           | Specify theme name (Default: McMojave-circle)|
 |-c, --circle         | Specify circle folder version|
 |-t, --theme          | Specify theme color variant(s) **[standard/black/blue/~]** (Default: All variants)|
 |-h, --help           | Show this help|
