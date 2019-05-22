@@ -197,8 +197,8 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-for theme in "${themes[@]:-${THEME_VARIANTS[@]}}"; do
-  for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
+for theme in "${themes[@]-${THEME_VARIANTS[@]}}"; do
+  for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
     install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}"
   done
 done
