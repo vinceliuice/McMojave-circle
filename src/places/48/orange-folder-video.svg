@@ -1,0 +1,24 @@
+<svg width="200" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="-26.201" x2="-26.201" y1="1070.2" y2="1082.6" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fd9d78" offset="0"/>
+   <stop stop-color="#ffae7b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="-9.912" x2="-9.912" y1="1081.4" y2="1139.8" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fb7d39" offset="0"/>
+   <stop stop-color="#fc9350" offset=".5"/>
+   <stop stop-color="#ff8d45" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="-9.617" x2="-9.617" y1="1138.4" y2="1140.2" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".046784" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-.48658 -1.797)" color="#000000">
+  <path transform="matrix(2.2139 0 0 2.2139 109.5 -2344.9)" d="m-44.762 1070.2h22.131c3.287 0 4.652 7.071 7.728 7.071h51.522a3.276 3.276 0 0 1 3.283 3.283v50.508c0 1.819-1.464-2.02-3.283-2.02h-81.38a3.276 3.276 0 0 1-3.283-3.283v-52.275a3.276 3.276 0 0 1 3.283-3.283z" fill="url(#c)"/>
+  <path transform="matrix(2.2139 0 0 2.2139 109.5 -2344.9)" d="m-44.762 1081.3h81.38a3.276 3.276 0 0 1 3.283 3.283v52.275a3.276 3.276 0 0 1-3.283 3.283h-81.38a3.276 3.276 0 0 1-3.283-3.283v-52.275a3.276 3.276 0 0 1 3.283-3.283z" fill="url(#b)"/>
+  <path d="m3.16 165.84v2.214h194.68v-2.214h-194.69zm0 4.87v1.176c0 0.359 0.019 0.694 0.068 1.038h194.55c0.05-0.344 0.069-0.679 0.069-1.038v-1.176h-194.69z" opacity=".08" style="text-indent:0;text-transform:none"/>
+  <path transform="matrix(2.2139 0 0 2.2139 109.5 -2344.9)" d="m-47.75 1138.2a3.28 3.28 0 0 0 3 1.938h81.375c1.34 0 2.488-0.793 3-1.938z" fill="url(#a)" opacity=".25" style="text-indent:0;text-transform:none"/>
+ </g>
+ <path transform="translate(62.222 71.445) scale(2.2222)" d="M32.75 19.6L4.62 35.08c-1.165.665-2.496-.167-2.496-1.499V2.622c0-1.331 1.331-1.997 2.497-1.498l28.129 15.48a1.72 1.72 0 0 1 0 2.996z" opacity=".15"/>
+</svg>

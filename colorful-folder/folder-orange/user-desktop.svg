@@ -1,0 +1,24 @@
+<svg width="200" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="-26.201" x2="-26.201" y1="1070.2" y2="1082.6" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fd9d78" offset="0"/>
+   <stop stop-color="#ffae7b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="-9.912" x2="-9.912" y1="1081.4" y2="1139.8" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fb7d39" offset="0"/>
+   <stop stop-color="#fc9350" offset=".5"/>
+   <stop stop-color="#ff8d45" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="-9.617" x2="-9.617" y1="1138.4" y2="1140.2" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".046784" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-.48658 -1.797)" color="#000000">
+  <path transform="matrix(2.2139 0 0 2.2139 109.5 -2344.9)" d="m-44.762 1070.2h22.131c3.287 0 4.652 7.071 7.728 7.071h51.522a3.276 3.276 0 0 1 3.283 3.283v50.508c0 1.819-1.464-2.02-3.283-2.02h-81.38a3.276 3.276 0 0 1-3.283-3.283v-52.275a3.276 3.276 0 0 1 3.283-3.283z" fill="url(#c)"/>
+  <path transform="matrix(2.2139 0 0 2.2139 109.5 -2344.9)" d="m-44.762 1081.3h81.38a3.276 3.276 0 0 1 3.283 3.283v52.275a3.276 3.276 0 0 1-3.283 3.283h-81.38a3.276 3.276 0 0 1-3.283-3.283v-52.275a3.276 3.276 0 0 1 3.283-3.283z" fill="url(#b)"/>
+  <path d="m3.16 165.84v2.214h194.68v-2.214h-194.69zm0 4.87v1.176c0 0.359 0.019 0.694 0.068 1.038h194.55c0.05-0.344 0.069-0.679 0.069-1.038v-1.176h-194.69z" opacity=".08" style="text-indent:0;text-transform:none"/>
+  <path transform="matrix(2.2139 0 0 2.2139 109.5 -2344.9)" d="m-47.75 1138.2a3.28 3.28 0 0 0 3 1.938h81.375c1.34 0 2.488-0.793 3-1.938z" fill="url(#a)" opacity=".25" style="text-indent:0;text-transform:none"/>
+ </g>
+ <path transform="translate(0 -852.36)" d="M56.666 925.522c-3.556 0-5.178 1.184-5.178 3.305l.002.008v65.805c0 .068-.01.119-.01.19 0 5.782 4.918 7.532 7.543 7.532h8.149c.114.021.231.035.351.035h67.127c.12 0 .236-.014.35-.035h6.057c2.625 0 7.543-1.75 7.543-7.531 0-.087-.01-.147-.012-.229V928.88l.014-.053c0-2.114-1.614-3.296-5.149-3.303v-.002H56.666zm2.322 16.697h82.114c1.706 0 2.695 1.428 3.195 3.24v49.202c-.07 1.932-1.476 4.17-3.447 4.17h-4.272v-17.364c0-1.067-.86-1.927-1.927-1.927H67.524c-1.068 0-1.928.86-1.928 1.927v17.364H59.23c-1.977 0-3.387-2.252-3.45-4.188l-.002-.002v-49.138c.496-1.834 1.49-3.284 3.21-3.284z" opacity=".15" overflow="visible"/>
+</svg>

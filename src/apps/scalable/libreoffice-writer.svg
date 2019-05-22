@@ -1,0 +1,63 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <linearGradient id="h" x1="345" x2="345" y1="1173" y2="1178" gradientTransform="matrix(2.125 0 0 2.1374 -702.12 -2487.9)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#666" offset="0"/>
+   <stop stop-color="#333" offset="1"/>
+  </linearGradient>
+  <linearGradient id="i" x1="229.53" x2="229.53" y1="-581.64" y2="-578.64" gradientTransform="matrix(2.125 0 0 2 -440.75 1181.3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#63bbee" offset="0"/>
+   <stop stop-color="#aadcf7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="j" x1="217.29" x2="217.29" y1="-787.84" y2="-763.84" gradientTransform="matrix(2.1683 0 0 2.3233 -438.87 1830.6)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#0369a3" offset="0"/>
+   <stop stop-color="#047fc6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x1="32.02" x2="32.02" y1="2.043" y2="62.045" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="f" x1="32" x2="32" y1="7" y2="57" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d2f3fc" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="45.501" x2="45.501" y1="7.1055" y2="29.896" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ebfafe" offset="0"/>
+   <stop stop-color="#e7f8fc" offset="1"/>
+  </linearGradient>
+  <filter id="k" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.75"/>
+  </filter>
+  <radialGradient id="d" cx="38.066" cy="26.192" r="25" gradientTransform="matrix(-.8 2.9886e-8 -1.9265e-8 -1 80.453 40.192)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1e353c" stop-opacity=".48538" offset="0"/>
+   <stop stop-color="#191919" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <filter id="l" x="-.056364" y="-.064138" width="1.1127" height="1.1283" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.775"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
+ <g stroke-width="1.5715">
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#g)"/>
+  <path d="m32 7a25 25 0 0 0-25 25 25 25 0 0 0 25 25 25 25 0 0 0 25-25 25 25 0 0 0-0.10352-2.1035l-22.791-22.791a25 25 0 0 0-2.1055-0.10547z" filter="url(#k)" opacity=".25"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
+  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
+  <path d="m32 7a25 25 0 0 0-25 25 25 25 0 0 0 25 25 25 25 0 0 0 25-25 25 25 0 0 0-0.10352-2.1035l-22.791-22.791a25 25 0 0 0-2.1055-0.10547z" fill="url(#f)"/>
+ </g>
+ <g transform="translate(0,1)" filter="url(#l)" opacity=".25">
+  <path d="m16 17v3h11v-3zm14 0v14h19v-7c-3-3-5-4-9.5-7zm-14 5v3.0479l11-0.04794v-3.0479zm0 5v3.0479l11-0.04794v-3.0479zm0 6v3l33-0.04794v-3zm0 5v3l33-0.04794v-3zm0 5v3h24v-3z" color="#000000" enable-background="new"/>
+  <path d="m31 18h8.5c3.5 0 8.5 4 8.5 6v6h-17z" color="#000000" enable-background="new"/>
+  <path d="m40.917 27.212-4.917-6.2121-5 7.6061v1.3939h17v-1.3939l-3.5413-4.1818z" color="#000000" enable-background="new"/>
+ </g>
+ <g transform="translate(0,1)">
+  <path d="m16 17v3h11v-3zm14 0v14h19v-7c-3-3-5-4-9.5-7zm-14 5v3.0479l11-0.04794v-3.0479zm0 5v3.0479l11-0.04794v-3.0479zm0 6v3l33-0.04794v-3zm0 5v3l33-0.04794v-3zm0 5v3h24v-3z" color="#000000" enable-background="new" fill="url(#j)"/>
+  <path d="m31 18h8.5c3.5 0 8.5 4 8.5 6v6h-17z" color="#000000" enable-background="new" fill="url(#i)"/>
+  <path d="m40.917 27.212-4.917-6.2121-5 7.6061v1.3939h17v-1.3939l-3.5413-4.1818z" color="#000000" enable-background="new" fill="url(#h)"/>
+ </g>
+ <path d="m32 7a25 25 0 0 0-25 25 25 25 0 0 0 25 25 25 25 0 0 0 25-25 25 25 0 0 0-0.10352-2.1035l-22.791-22.791a25 25 0 0 0-2.1055-0.10547z" fill="url(#d)" stroke-width="1.5715"/>
+ <path d="m56.896 29.896-22.791-22.791a25 25 0 0 0 22.791 22.791z" fill="url(#e)" stroke-width="1.5715"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <linearGradient id="d" x1="16" x2="16" y1="1" y2="31" gradientTransform="scale(2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#72da70" offset="0"/>
+   <stop stop-color="#52eea4" offset="1"/>
+  </linearGradient>
+  <filter id="a" x="-.061875" y="-.058236" width="1.1237" height="1.1165" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.82499568"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <path d="m32 2c-16.552 0-30 13.448-30 30s13.448 30 30 30 30-13.448 30-30-13.448-30-30-30z" color="#000000" fill="url(#d)" overflow="visible"/>
+ <path d="m32.004 15c-5.9111 0-10.668 4.7563-10.668 10.66v3.3398h-3.3008c-1.1266 0-2.0352 0.73455-2.0352 1.6484v16.703c0 0.91387 0.90857 1.6484 2.0352 1.6484h27.934c1.1266 1e-6 2.0312-0.73455 2.0312-1.6484v-16.703c0-0.91387-0.90465-1.6484-2.0312-1.6484h-3.3008v-3.3398c0-5.9037-4.7603-10.66-10.664-10.66zm0 3.8086c3.6888 0 6.8553 3.163 6.8553 6.8593v3.332h-13.711v-3.3398c0-3.6888 3.159-6.8515 6.8553-6.8515z" filter="url(#a)" opacity=".15" stroke-width="3.7796"/>
+ <path d="m32.004 15c-5.9111 0-10.668 4.7563-10.668 10.66v3.3398h-3.3008c-1.1266 0-2.0352 0.73455-2.0352 1.6484v16.703c0 0.91387 0.90857 1.6484 2.0352 1.6484h27.934c1.1266 1e-6 2.0312-0.73455 2.0312-1.6484v-16.703c0-0.91387-0.90465-1.6484-2.0312-1.6484h-3.3008v-3.3398c0-5.9037-4.7603-10.66-10.664-10.66zm0 3.8086c3.6888 0 6.8553 3.163 6.8553 6.8593v3.332h-13.711v-3.3398c0-3.6888 3.159-6.8515 6.8553-6.8515z" fill="#fff" stroke-width="3.7796"/>
+</svg>

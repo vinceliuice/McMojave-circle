@@ -1,0 +1,10 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+ <g class="ColorScheme-Text" fill="currentColor" fill-rule="evenodd">
+  <path d="m1 1c-0.554 0-1 0.446-1 1v13c0 0.554 0.446 1 1 1h13c0.554 0 1-0.446 1-1v-13c0-0.554-0.446-1-1-1zm0 1h1v1h-1zm3 0h7c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-7c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1zm9 0h1v1h-1zm-12 2h1v1h-1zm12 0h1v1h-1zm-12 2h1v1h-1zm12 0h1v1h-1zm-12 2h1v1h-1zm12 0h1v1h-1zm-9 1h7c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-7c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1zm-3 1h1v1h-1zm12 0h1v1h-1zm-12 2h1v1h-1zm12 0h1v1h-1zm-12 2h1v1h-1zm12 0h1v1h-1z" opacity=".8" style="paint-order:fill markers stroke"/>
+  <rect x="3" y="2" width="9" height="6" rx="1" ry="1" opacity=".15" style="paint-order:fill markers stroke"/>
+  <rect x="3" y="9" width="9" height="6" rx="1" ry="1" opacity=".4" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>
