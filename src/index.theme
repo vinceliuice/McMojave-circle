@@ -2,7 +2,7 @@
 Name=McMojave-circle
 Comment=MacOSX icon theme.
 Inherits=Numix-Circle-Light,Adwaita,hicolor
-Example=directory-x-normal
+Example=folder
 
 # KDE/Plasma Stuff
 DisplayDepth=32
