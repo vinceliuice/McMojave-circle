@@ -28,7 +28,7 @@ Supported theme colors:  `standard` `black` `blue` `brown` `green` `grey` `orang
 
 `./install.sh -t standard` : install default color version
 
-`./install.sh -c` : install circle folder version
+`./install.sh -c -t standard` : install circle folder version
 
 ## Requirment
 You can use this with:
