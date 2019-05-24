@@ -66,7 +66,7 @@ Context=Animations
 Type=Fixed
 
 [apps/scalable]
-Size=48
+Size=64
 Context=Applications
 MinSize=16
 MaxSize=512

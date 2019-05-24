@@ -101,8 +101,8 @@ install() {
     sed -i "s/Numix-Circle-Light/Numix-Circle/g" index.theme
   fi
 
-#  cd ${dest}
-#  gtk-update-icon-cache ${name}${color}
+  cd ${dest}
+  gtk-update-icon-cache ${name}${theme}${color}
 }
 
 while [[ $# -gt 0 ]]; do
