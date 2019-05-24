@@ -26,7 +26,7 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 #Directory list
-Directories=actions/16,actions/22,actions/symbolic,animations/16,animations/22,animations/24,apps/scalable,apps/symbolic,categories/32,places/symbolic,places/48,places/16,mimes/48,mimes/symbolic,devices/scalable,devices/symbolic,devices/16,emblems/16,emblems/22,emblems/24,emblems/48,emblems/symbolic,status/16,status/22,status/24,status/32,status/symbolic
+Directories=actions/16,actions/22,actions/24,actions/symbolic,animations/16,animations/22,animations/24,apps/scalable,apps/symbolic,categories/32,places/symbolic,places/48,places/16,mimes/48,mimes/symbolic,devices/scalable,devices/symbolic,devices/16,emblems/16,emblems/22,emblems/24,emblems/48,emblems/symbolic,status/16,status/22,status/24,status/32,status/symbolic
 
 [actions/16]
 Size=16
@@ -35,6 +35,11 @@ Type=Fixed
 
 [actions/22]
 Size=22
+Context=Actions
+Type=Fixed
+
+[actions/24]
+Size=24
 Context=Actions
 Type=Fixed
 
