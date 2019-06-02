@@ -3,7 +3,7 @@
   <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="14.115098"/>
   </filter>
-  <linearGradient id="e" x1="2.1165" x2="2.116" y1="293.31" y2="293.79" gradientTransform="matrix(11.752 0 0 12.291 7.132 -3599.4)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="e" x1="2.1165" x2="2.116" y1="293.31" y2="293.79" gradientTransform="matrix(15.132 0 0 12.291 -.032089 -3599.4)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#1475da" offset="0"/>
    <stop stop-color="#54daef" offset="1"/>
   </linearGradient>
@@ -27,8 +27,8 @@
   <path d="m32 8c-13.254 0-24 10.746-24 24 0 12.089 8.9404 22.086 20.568 23.752l27.184-27.184c-1.6659-11.628-11.663-20.568-23.752-20.568z" opacity=".15"/>
   <path d="m32 9c-12.702 0-23 10.298-23 23 0 11.379 8.2662 20.822 19.119 22.668l26.549-26.549c-1.8457-10.853-11.289-19.119-22.668-19.119z" fill="#fff"/>
  </g>
- <circle cx="32" cy="7" r="2.2497" fill="none" stroke="#0266b3" stroke-linejoin="bevel" stroke-width="1.5006"/>
- <path d="m25.02 12s0.99641-6 2.9892-6h8.0014c1.9928 0 2.9892 6 2.9892 6z" fill="url(#e)" fill-rule="evenodd"/>
+ <path d="m32 3a5 5 0 0 0-4.8984 4h2.0742a3 3 0 0 1 2.8242-2 3 3 0 0 1 2.8262 2h2.0684a5 5 0 0 0-4.8945-4z" fill="#0266b3" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <path d="m23 12s1.283-6 3.8488-6h10.302c2.5659 0 3.8488 6 3.8488 6z" fill="url(#e)" fill-rule="evenodd"/>
  <path d="m32 9c-12.702 0-23 10.298-23 23 0 11.379 8.2662 20.822 19.119 22.668l26.549-26.549c-1.8457-10.853-11.289-19.119-22.668-19.119z" fill="url(#b)" opacity=".25" stroke-width="2.2593"/>
  <path d="m28.119 54.668 26.549-26.549c-1.2624-0.21468-2.5573-0.33203-3.8809-0.33203-12.702 0-23 10.298-23 23 0 1.3235 0.11735 2.6185 0.33203 3.8809z" fill="url(#c)" stroke-width="2.2593"/>
 </svg>
