@@ -17,7 +17,7 @@
    sodipodi:docname="network-cellular-4g-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#565656"
+     bordercolor="#363636"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -60,14 +60,14 @@
     <g
        id="layer9-5"
        transform="matrix(0.75,0,0,0.85714286,262.25035,-484.99998)"
-       style="fill:#565656">
+       style="fill:#363636">
       <path
          inkscape:connector-curvature="0"
          d="m 1.9998,0.99998 c 0,0 -1.999914,0 -2,2.0625 l 0,9.9375 c -8.4e-5,2 2,2 2,2 l 12,0 c 2,0 2,-2 2,-2 l 0,-10 c 0,0 0,-2 -2,-2 z M 2,3 4,3 4,7 5,7 5,3 7,3 7,7 7,9 7,13 5,13 5,9 4,9 C 2,9 2,7 2,7 Z m 8,0 2,0 c 2,0 2,2 2,2 l 0,1 -2,0 0,-1 -2,0 0,6 2,0 L 12,9 11,9 11,7.03125 13,7 l 1,0.03125 0,1 0,2.9375 C 14,10.9688 14,13 12,13 l -2,0 c 0,0 -2,0 -2,-2 L 8,5 C 8,3 10,3 10,3 Z"
          id="path1244-8"
          sodipodi:nodetypes="ccccsccsccccccccccccscccscccccccccccccsscssc"
          transform="translate(81,237)"
-         style="color:#565656" />
+         style="color:#363636" />
     </g>
   </g>
 </svg>

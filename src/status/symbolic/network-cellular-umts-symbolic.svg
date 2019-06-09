@@ -17,7 +17,7 @@
    sodipodi:docname="network-cellular-umts-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#565656"
+     bordercolor="#363636"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -60,14 +60,14 @@
     <g
        id="g16124"
        transform="matrix(0.85714286,0,0,0.85714286,329.85751,-484.99998)"
-       style="fill:#565656">
+       style="fill:#363636">
       <path
          inkscape:connector-curvature="0"
          d="m -77.0002,20.99998 c 0,0 -2,0 -2,2.0625 l 0,9.9375 c 0,2 2,2 2,2 l 10,0 c 2,0 2,-2 2,-2 l 0,-10 c 0,0 1.3e-5,-2 -2,-2 z M -76,23 l 2,0 0,8 4,0 0,-8 2,0 0,8 c 0,0 0,2 -2,2 l -4,0 c 0,0 -2,0 -2,-2 z"
          id="path16126"
          sodipodi:nodetypes="csscsccscccccccccccc"
          transform="translate(141,217)"
-         style="color:#565656" />
+         style="color:#363636" />
     </g>
   </g>
 </svg>

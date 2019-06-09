@@ -18,6 +18,7 @@
   <filter id="e" x="-.066575" y="-.054586" width="1.1331" height="1.1092" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.77500003"/>
   </filter>
+  <linearGradient id="f" x1="30.479" x2="31.074" y1="14.368" y2="49.608" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
  </defs>
  <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
  <g stroke-width="1.5715">
@@ -25,8 +26,8 @@
   <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
   <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
  </g>
- <text transform="scale(1.0022 .99781)" x="17.82103" y="49.107792" fill="#000000" filter="url(#e)" font-family="sans-serif" font-size="46.487px" letter-spacing="0px" opacity=".15" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="17.82103" y="49.107792" fill="#000000">A</tspan></text>
- <g transform="scale(1.0022 .99781)" fill="url(#d)" aria-label="A">
-  <path d="m26.7 35.255 1.6735-5.2065c1.2087-3.8584 2.3243-7.5309 3.3935-11.529h0.18595c1.1157 3.9514 2.1849 7.6703 3.44 11.529l1.627 5.2065zm14.643 13.853h4.5557l-11.575-34.075h-4.7881l-11.575 34.075h4.3698l3.3006-10.413h12.458z" fill="url(#d)"/>
+ <text transform="matrix(1.0022 0 0 .99781 -1.7835 -.093226)" x="17.82103" y="49.107792" fill="#000000" filter="url(#e)" font-family="sans-serif" font-size="46.487px" letter-spacing="0px" opacity=".15" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="17.82103" y="49.107792" fill="#000000">A</tspan></text>
+ <g transform="matrix(1.0022 0 0 .99781 .00010477 -.0002656)" fill="url(#f)" aria-label="A">
+  <path d="m26.7 35.255 1.6735-5.2065c1.2087-3.8584 2.3243-7.5309 3.3935-11.529h0.18595c1.1157 3.9514 2.1849 7.6703 3.44 11.529l1.627 5.2065zm14.643 13.853h4.5557l-11.575-34.075h-4.7881l-11.575 34.075h4.3698l3.3006-10.413h12.458z" fill="url(#f)"/>
  </g>
 </svg>

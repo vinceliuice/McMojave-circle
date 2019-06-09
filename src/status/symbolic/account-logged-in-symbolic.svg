@@ -18,7 +18,7 @@
    sodipodi:docname="account-logged-in-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#565656"
+     bordercolor="#363636"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -698,7 +698,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="opacity:1;fill:#565656;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.6849122;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#363636;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.6849122;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 8,2.0000001 A 5.9994837,5.9994834 0 0 0 2,8 5.9994837,5.9994834 0 0 0 8,14 5.9994837,5.9994834 0 0 0 14,8 5.9994837,5.9994834 0 0 0 8,2.0000001 Z m 2.059679,3.7459831 c 0.101153,0 0.18782,0.036281 0.258607,0.1071155 l 0.515685,0.5156849 c 0.07079,0.070835 0.107162,0.1559245 0.107115,0.2570772 0,0.1011994 -0.03633,0.1877729 -0.107115,0.2586075 L 8.0872226,9.631216 7.5715379,10.146901 c -0.070835,0.07079 -0.1574547,0.107116 -0.2586075,0.107116 -0.1011993,0 -0.1862889,-0.03628 -0.2570773,-0.107116 L 6.5386381,9.631216 5.1660291,8.258608 C 5.0951941,8.187818 5.0589136,8.101153 5.0589136,8 c 0,-0.101199 0.036281,-0.187773 0.1071155,-0.258607 L 5.6817138,7.2257078 c 0.070835,-0.070835 0.1574082,-0.1055853 0.2586076,-0.1055853 0.1011527,0 0.1862424,0.034751 0.2570773,0.1055853 L 7.3129304,8.34583 9.8026012,5.8530987 C 9.8733896,5.7822639 9.9584795,5.7459832 10.059679,5.7459832 Z"
      id="path4143"
      inkscape:connector-curvature="0" />

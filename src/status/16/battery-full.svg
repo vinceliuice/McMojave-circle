@@ -1,8 +1,8 @@
-<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="20" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <title>Paper Symbolic Icon Theme</title>
- <g fill="#333" fill-rule="evenodd">
-  <path d="m1 4c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-6c0-0.554-0.446-1-1-1h-12zm0 1h12v6h-12v-6z" style="paint-order:normal"/>
-  <path d="m15 6.5879v2.8242a1.5 1.5 0 0 0 1-1.4121 1.5 1.5 0 0 0-1-1.4121z" style="paint-order:normal"/>
-  <rect x="2" y="6" width="10" height="4" ry="0" style="paint-order:normal"/>
+ <g fill="#363636" fill-rule="evenodd">
+  <rect x="2" y="5" width="13" height="6" rx=".52103" ry=".54584" style="paint-order:stroke fill markers"/>
+  <path d="m2 3c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h13c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h13c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-13c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" enable-background="new" style="paint-order:stroke fill markers"/>
+  <path d="m18 6v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z" enable-background="new" style="paint-order:stroke fill markers"/>
  </g>
 </svg>

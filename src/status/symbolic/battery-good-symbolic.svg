@@ -1,6 +1,8 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#bebebe' transform='translate(-293 271)'>
-        <path d='M294-268c-.554 0-1 2.23-1 5s.446 5 1 5h12c.411 0 .76-1.235.914-3h1.584c.278 0 .502-.892.502-2s-.224-2-.502-2h-1.584c-.154-1.765-.503-3-.914-3zm.512 1h10.976c.284 0 .512 1.784.512 4s-.228 4-.512 4h-10.976c-.284 0-.512-1.784-.512-4s.228-4 .512-4zm.742 1c-.14 0-.254 1.338-.254 3s.114 3 .254 3h7.492c.14 0 .254-1.338.254-3s-.114-3-.254-3zm11.705 2h.932c.06 0 .11.446.11 1s-.05 1-.11 1h-.932c.014-.334.041-.645.041-1s-.027-.666-.04-1z' fill='#565656' overflow='visible' style='isolation:auto;mix-blend-mode:normal;marker:none'/>
-        
-    </g>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>Paper Symbolic Icon Theme</title>
+ <g fill="#363636" fill-rule="evenodd">
+  <path d="m2 3c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h9c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2zm0 1h9c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-9c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z" enable-background="new" style="paint-order:stroke fill markers"/>
+  <rect x="2" y="5" width="7" height="6" rx=".57811" ry=".54584" enable-background="new" style="paint-order:stroke fill markers"/>
+  <path d="m14 6v4a2 2 0 0 0 2-2 2 2 0 0 0-2-2z" enable-background="new" style="paint-order:stroke fill markers"/>
+ </g>
 </svg>

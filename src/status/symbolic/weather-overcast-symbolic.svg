@@ -1,7 +1,4 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-313 191)'>
-        <path color='#000' d='M321-190.002c-1.608 0-3.03.965-3.656 2.398l-.023.047a4.013 4.013 0 0 0-.207.635c-.2-.052-.407-.079-.614-.08-.135 0-.27.014-.404.037a2.5 2.5 0 0 0-2.096 2.463 2.5 2.5 0 0 0 2.5 2.5h1.705c.688-1.181 1.877-1.998 3.295-1.998h.002c1.402.001 2.523.844 3.219 1.998H326a2 2 0 1 0 0-4l-.014.002H325c0-.252-.028-.497-.072-.736l-.01-.063h.002A4 4 0 0 0 321-190z' fill='#565656' fill-rule='evenodd' overflow='visible' style='isolation:auto;mix-blend-mode:normal'/>
-        
-        <path color='#000' d='M321.5-183a2.998 2.998 0 0 0-2.908 2.273 1.875 1.875 0 0 0 .283 3.727h6.003a1.875 1.875 0 0 0 0-3.75h-.48A2.998 2.998 0 0 0 321.5-183z' fill='#565656' fill-rule='evenodd' overflow='visible' style='isolation:auto;mix-blend-mode:normal'/>
-    </g>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <title>Paper Symbolic Icon Theme</title>
+ <path d="m8 3c-1.8364 0-3.3667 1.2018-3.9375 2.8437-1.7231 0.21836-3.0625 1.6738-3.0625 3.4563 0 1.933 1.567 3.5 3.5 3.5h7.7c1.5464 0 2.8-1.2536 2.8-2.8 0-1.5464-1.2536-2.8-2.8-2.8 0-2.3195-1.8805-4.2-4.2-4.2z" fill="#363636"/>
 </svg>

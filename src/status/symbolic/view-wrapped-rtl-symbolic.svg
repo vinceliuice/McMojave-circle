@@ -17,7 +17,7 @@
    sodipodi:docname="view-wrapped-rtl-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#565656"
+     bordercolor="#363636"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -65,7 +65,7 @@
         <g
            id="g6221"
            transform="translate(2e-4,0)"
-           style="fill:#565656">
+           style="fill:#363636">
           <path
              inkscape:connector-curvature="0"
              d="m 106,165 c -1.6447,0 -3,1.3553 -3,3 l 0,1 0,0.65625 0,3.34375 0,3 c 0,1.6447 1.3553,3 3,3 l 3,0 0,-2 -3,0 c -0.5713,0 -1,-0.4287 -1,-1 l 0,-3 0,-3.34375 0,-0.65625 0,-1 c 0,-0.5713 0.4287,-1 1,-1 l 4,0 c 0.5713,0 1,0.4287 1,1 l 0,3 2,0 0,-3 c 0,-1.6447 -1.3553,-3 -3,-3 l -4,0 z"
@@ -77,7 +77,7 @@
            inkscape:connector-curvature="0"
            d="m 51.0002,281 -4,-3 0,6 z"
            id="path6225"
-           style="fill:#565656" />
+           style="fill:#363636" />
       </g>
     </g>
   </g>
