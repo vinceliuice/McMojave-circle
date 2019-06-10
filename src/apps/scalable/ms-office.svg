@@ -1,0 +1,52 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.9"/>
+  </filter>
+  <linearGradient id="d" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity="0" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.72"/>
+  </filter>
+  <filter id="c" x="-.055235" y="-.065665" width="1.1105" height="1.1313" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.46029085"/>
+  </filter>
+  <linearGradient id="f" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e45757" offset="0"/>
+   <stop stop-color="#df3a3a" offset=".22539"/>
+   <stop stop-color="#e24a4a" offset=".22539"/>
+   <stop stop-color="#ce2121" offset=".46111"/>
+   <stop stop-color="#c52020" offset=".46111"/>
+   <stop stop-color="#782323" offset=".75362"/>
+   <stop stop-color="#9b3a3a" offset=".75362"/>
+   <stop stop-color="#5f2f2f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e45757" offset="0"/>
+   <stop stop-color="#dd4040" offset=".22539"/>
+   <stop stop-color="#d42c2c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="45" x2="45" y1="27" y2="63" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f36565" offset="0"/>
+   <stop stop-color="#ee2929" offset="1"/>
+  </linearGradient>
+  <filter id="h" x="-.065799" y="-.05514" width="1.1316" height="1.1103" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.45950167"/>
+  </filter>
+ </defs>
+ <g fill-rule="evenodd">
+  <circle cx="32" cy="32" r="30" filter="url(#e)" opacity=".25" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="30" fill="url(#f)" style="paint-order:stroke fill markers"/>
+  <path d="m32 2a30 30 0 0 0-8 1.0879v57.793a30 30 0 0 0 8 1.1191 30 30 0 0 0 30-30 30 30 0 0 0-30-30z" fill="url(#b)" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="30" fill="url(#d)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <circle transform="matrix(.75 0 0 .75 21 21)" cx="32" cy="32" r="24" filter="url(#g)" opacity=".15" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m35 37.177h4.177l1.8 9.854 2.3077-9.854h3.4345l2.2424 9.9463 1.9385-9.9463h4.0998l-3.546 16.823h-4.2518l-2.1828-9.1386-2.0578 9.1386h-4.3616z" filter="url(#c)" opacity=".25"/>
+ <g>
+  <circle cx="45" cy="45" r="18" fill="url(#a)" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <path d="m36.62 50.955s3.5955-0.98876 3.6404-1.1685c0.04494-0.17977 0.13483-9.8876 0.13483-9.8876l7.0562-1.6629v14.427l-10.292-1.4382 10.427 3.7753 5.7938-1.8181-0.04104-16.429-5.8876-1.7528-10.697 4.0449z" filter="url(#h)" opacity=".25"/>
+  <path d="m36.62 50.955s3.5955-0.98876 3.6404-1.1685c0.04494-0.17977 0.13483-9.8876 0.13483-9.8876l7.0562-1.6629v14.427l-10.292-1.4382 10.427 3.7753 5.7938-1.8181-0.04104-16.429-5.8876-1.7528-10.697 4.0449z" fill="#fff"/>
+ </g>
+</svg>

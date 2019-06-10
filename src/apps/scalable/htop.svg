@@ -1,0 +1,46 @@
+<svg id="Calculator" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="d" x1="520" x2="520" y1="4" y2="1024" gradientTransform="matrix(.069456 0 0 .069456 -3.5266 -3.596)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#202020" offset="0"/>
+   <stop stop-color="#565656" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" cx="512" cy="512" r="478.12" filter="url(#e)" opacity=".25" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="30" fill="url(#d)" style="paint-order:stroke markers fill"/>
+ <g transform="translate(-.30507 1.1186)">
+  <rect x="16.305" y="14.881" width="1.6" height="12.8" fill="#999" stroke-width=".1"/>
+  <g transform="matrix(1.6 0 0 1.6 -621.41 -810.4)" fill="#84dd84" stroke-width=".0625">
+   <rect x="400.57" y="515.8" width="1" height="8"/>
+   <rect x="402.57" y="515.8" width="1" height="8"/>
+  </g>
+  <g transform="matrix(-1.6 0 0 1.6 -621.41 -810.4)" stroke-width=".0625">
+   <rect x="-418.57" y="515.8" width="1" height="8" fill="#999"/>
+   <g fill="#84dd84">
+    <rect x="-416.57" y="515.8" width="1" height="8"/>
+    <rect x="-414.57" y="515.8" width="1" height="8"/>
+   </g>
+  </g>
+  <rect x="16.305" y="34.081" width="1.6" height="12.8" fill="#999" stroke-width=".1"/>
+  <g stroke-width=".0625">
+   <g transform="matrix(1.6 0 0 1.6 -621.41 -810.4)" fill="#84dd84">
+    <rect x="400.57" y="527.8" width="1" height="8"/>
+    <rect x="402.57" y="527.8" width="1" height="8"/>
+   </g>
+   <g transform="matrix(-1.6 0 0 1.6 -621.41 -810.4)">
+    <rect x="-418.57" y="527.8" width="1" height="8" fill="#999"/>
+    <g fill="#84dd84">
+     <rect x="-416.57" y="527.8" width="1" height="8"/>
+     <rect x="-414.57" y="527.8" width="1" height="8"/>
+    </g>
+   </g>
+   <g transform="matrix(1.6 0 0 1.6 -621.41 -810.4)" fill="#84dd84">
+    <rect x="404.57" y="523.8" width="1" height="4"/>
+    <rect x="408.57" y="523.8" width="1" height="4"/>
+    <rect x="412.57" y="523.8" width="1" height="4"/>
+   </g>
+  </g>
+ </g>
+</svg>

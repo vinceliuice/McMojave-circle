@@ -1,0 +1,221 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="399.99" x2="399.99" y1="545.14" y2="518.14" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#009859" offset="0"/>
+   <stop stop-color="#37ce97" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <linearGradient x1="25.425" x2="23.119" y1="1043" y2="1015.6" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dfe2e3" offset="0"/>
+   <stop stop-color="#fdfdfe" offset="1"/>
+  </linearGradient>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <linearGradient id="a" x1="408.81" x2="408.81" y1="511.86" y2="537.65" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#defff4" offset="0"/>
+   <stop stop-color="#c7ffe0" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <filter id="d" x="-.065294" y="-.0555" width="1.1306" height="1.111" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.59640125"/>
+  </filter>
+ </defs>
+ <g transform="translate(-384.57 -483.8)">
+  <g transform="matrix(1.2901 0 0 1.2901 -110.83 -160.16)" stroke-width=".8">
+   <g transform="matrix(1.0931 0 0 1.0931 33.31 -50.486)">
+    <g transform="matrix(.98382 0 0 .98382 5.5651 8.3949)">
+     <g transform="matrix(1.5445 0 0 1.5445 -275.18 -295.74)">
+      <circle cx="400.57" cy="531.8" r="14" filter="url(#e)" opacity=".25"/>
+      <circle cx="400.57" cy="531.8" r="14" fill="url(#b)"/>
+      <circle cx="400.57" cy="531.8" r="0" fill="url(#c)"/>
+     </g>
+    </g>
+   </g>
+   <path d="m397.84 511.86v10.316h6.4476v-3.8686h7.7371v-6.4476h-9.0266zm15.474 0v25.79h6.4476v-25.79zm-7.7371 7.7371v18.053h6.4476v-18.053zm-7.7371 3.8685v14.185h6.4476v-14.185z" color="#000000" enable-background="new" filter="url(#d)" opacity=".15"/>
+   <path d="m397.84 511.86v10.316h6.4476v-3.8686h7.7371v-6.4476h-9.0266zm15.474 0v25.79h6.4476v-25.79zm-7.7371 7.7371v18.053h6.4476v-18.053zm-7.7371 3.8685v14.185h6.4476v-14.185z" color="#000000" enable-background="new" fill="url(#a)"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,46 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <linearGradient id="SVGID_1_" x1="24.838" x2="46.732" y1="33.654" y2="55.548" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#EF6B2E" offset=".3569"/>
+   <stop stop-color="#F19F00" offset=".6328"/>
+  </linearGradient>
+  <linearGradient id="SVGID_2_" x1="24.859" x2="46.753" y1="30.388" y2="8.4933" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#16B8C3" offset=".3707"/>
+   <stop stop-color="#02AEF0" offset=".7422"/>
+  </linearGradient>
+  <filter id="a" x="-.06148" y="-.05859" width="1.123" height="1.1172" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.0261922"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(1.0115 0 0 1.0115 -389.32 -489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#b)" stroke-width="1.0115"/>
+ <g transform="matrix(.904 0 0 .904 -61.515 2.3348)" filter="url(#a)" opacity=".15" stroke-width="1.1062">
+  <g transform="translate(71.322 .81356)">
+   <path d="m29 39.8c2.5 1.5 8.6 0.6 13.4 3.7s7.5 8.1 7.6 8.3 0.1 0.4-0.2 0.7-0.8 0.3-0.8 0.3-11.1 1.8-18.2-4.9c-7.2-6.7-6.6-13.5-6.6-13.5s0.4 2.9 4.8 5.4z" clip-rule="evenodd" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+  <g transform="translate(71.322 .81356)">
+   <path d="m24.1 29.7s-0.5-6.9 6.6-13.5c7.2-6.8 18.3-5 18.3-5s0.5 0.1 0.8 0.3 0.3 0.5 0.2 0.7-2.8 5.3-7.6 8.3-10.9 2.2-13.4 3.7c-4.3 2.6-4.9 5.5-4.9 5.5z" clip-rule="evenodd" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+  <g transform="translate(71.322 .81356)">
+   <path d="m24 32c0 11.6 9.4 21 21 21h-14c-11.6 0-21-9.4-21-21s9.4-21 21-21h14c-11.6 0-21 9.4-21 21z" clip-rule="evenodd" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+ </g>
+ <g transform="matrix(.904 0 0 .904 -61.515 2.3348)" stroke-width="1.1062">
+  <g transform="translate(71.322 .81356)">
+   <path d="m29 39.8c2.5 1.5 8.6 0.6 13.4 3.7s7.5 8.1 7.6 8.3 0.1 0.4-0.2 0.7-0.8 0.3-0.8 0.3-11.1 1.8-18.2-4.9c-7.2-6.7-6.6-13.5-6.6-13.5s0.4 2.9 4.8 5.4z" clip-rule="evenodd" fill="url(#SVGID_1_)" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+  <g transform="translate(71.322 .81356)">
+   <path d="m24.1 29.7s-0.5-6.9 6.6-13.5c7.2-6.8 18.3-5 18.3-5s0.5 0.1 0.8 0.3 0.3 0.5 0.2 0.7-2.8 5.3-7.6 8.3-10.9 2.2-13.4 3.7c-4.3 2.6-4.9 5.5-4.9 5.5z" clip-rule="evenodd" fill="url(#SVGID_2_)" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+  <g transform="translate(71.322 .81356)">
+   <path d="m24 32c0 11.6 9.4 21 21 21h-14c-11.6 0-21-9.4-21-21s9.4-21 21-21h14c-11.6 0-21 9.4-21 21z" clip-rule="evenodd" fill="#1b1f24" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+ </g>
+</svg>

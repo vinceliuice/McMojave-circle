@@ -1,0 +1,40 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.9"/>
+  </filter>
+  <linearGradient id="d" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity="0" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.72"/>
+  </filter>
+  <linearGradient id="b" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#58baff" offset="0"/>
+   <stop stop-color="#50b7ff" offset=".22539"/>
+   <stop stop-color="#4592e5" offset=".22539"/>
+   <stop stop-color="#3b8de4" offset=".46111"/>
+   <stop stop-color="#376dc4" offset=".46111"/>
+   <stop stop-color="#3366b7" offset=".75362"/>
+   <stop stop-color="#294a96" offset=".75362"/>
+   <stop stop-color="#27468e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="45" x2="45" y1="27" y2="63" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5a89d2" offset="0"/>
+   <stop stop-color="#2c5ea8" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.055235" y="-.065665" width="1.1105" height="1.1313" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.46029085"/>
+  </filter>
+ </defs>
+ <g fill-rule="evenodd">
+  <circle cx="32" cy="32" r="30" filter="url(#e)" opacity=".25" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="30" fill="url(#d)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <circle transform="matrix(.75 0 0 .75 21 21)" cx="32" cy="32" r="24" filter="url(#g)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <circle cx="45" cy="45" r="18" fill="url(#a)" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m35 37.177h4.177l1.8 9.854 2.3077-9.854h3.4345l2.2424 9.9463 1.9385-9.9463h4.0998l-3.546 16.823h-4.2518l-2.1828-9.1386-2.0578 9.1386h-4.3616z" filter="url(#c)" opacity=".25"/>
+ <path d="m35 37.177h4.177l1.8 9.854 2.3077-9.854h3.4345l2.2424 9.9463 1.9385-9.9463h4.0998l-3.546 16.823h-4.2518l-2.1828-9.1386-2.0578 9.1386h-4.3616z" fill="#fff"/>
+</svg>

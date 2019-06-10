@@ -1,0 +1,45 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.9"/>
+  </filter>
+  <linearGradient id="b" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f49e7a" offset="0"/>
+   <stop stop-color="#fe9a69" offset=".515"/>
+   <stop stop-color="#c84b2b" offset=".515"/>
+   <stop stop-color="#d33f24" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="32" x2="32" y1="8" y2="56" gradientTransform="matrix(.75 0 0 .75 21 21)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bc3b22" offset="0"/>
+   <stop stop-color="#e05d3e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity="0" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.72"/>
+  </filter>
+  <linearGradient id="c" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e36f49" offset="0"/>
+   <stop stop-color="#e6653c" offset=".515"/>
+   <stop stop-color="#c84b2b" offset=".515"/>
+   <stop stop-color="#d33f24" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.067104" y="-.054256" width="1.1342" height="1.1085" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.45213257"/>
+  </filter>
+ </defs>
+ <g fill-rule="evenodd">
+  <circle cx="32" cy="32" r="30" filter="url(#e)" opacity=".25" style="paint-order:stroke fill markers"/>
+  <circle cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke fill markers"/>
+  <path d="m32 2a30 30 0 0 0-30 30 30 30 0 0 0 30 30v-60z" fill="url(#c)" style="paint-order:stroke fill markers"/>
+ </g>
+ <g fill-rule="evenodd">
+  <circle cx="32" cy="32" r="30" fill="url(#d)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <circle transform="matrix(.75 0 0 .75 21 21)" cx="32" cy="32" r="24" filter="url(#g)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <circle cx="45" cy="45" r="18" fill="url(#a)" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m38.102 36.001-0.10168 19.999h5.2746v-6.1707c7.2245 0.01513 10.896-0.92688 10.896-6.8634 0-6.5709-3.593-6.9893-10.896-6.965zm7.0921 4.2229c1.7521 0.04177 4.0894 0.52723 4.0894 2.8184 0 3.6659-5.9832 2.7072-5.9832 2.7072v-5.4176s0.84254-0.1331 1.8938-0.10804z" filter="url(#f)" opacity=".25"/>
+ <path d="m38.102 36.001-0.10168 19.999h5.2746v-6.1707c7.2245 0.01513 10.896-0.92688 10.896-6.8634 0-6.5709-3.593-6.9893-10.896-6.965zm7.0921 4.2229c1.7521 0.04177 4.0894 0.52723 4.0894 2.8184 0 3.6659-5.9832 2.7072-5.9832 2.7072v-5.4176s0.84254-0.1331 1.8938-0.10804z" fill="#fff"/>
+</svg>
