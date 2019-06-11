@@ -14,21 +14,28 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
 |-n, --name           | Specify theme name (Default: McMojave-circle)|
 |-c, --circle         | Specify circle folder version|
-|-t, --theme          | Specify theme color variant(s) **[standard/black/blue/~]** (Default: All variants)|
+|-all                 | Install all color folder versions|
+|-black               | Black color folder version|
+|-blue                | Blue color folder version|
+|-brown               | Brown color folder version|
+|-green               | Green color folder version|
+|-grey                | Grey color folder version|
+|-orange              | Orange color folder version|
+|-pink                | Pink color folder version|
+|-purple              | Purple color folder version|
+|-red                 | Red color folder version|
+|-yellow              | yellow color folder version|
 |-h, --help           | Show this help|
-
-#### OPTION: -t/--theme
-
-Supported theme colors:  `standard` `black` `blue` `brown` `green` `grey` `orange`
-`pink` `purple` `red` `yellow`
 
 #### For example
 
-`./install.sh` : install all color versions
+`./install.sh` : install default color version
 
-`./install.sh -t standard` : install default color version
+`./install.sh -black` : install black color versions
 
-`./install.sh -c -t standard` : install circle folder version
+`./install.sh -all` : install all color versions
+
+`./install.sh -c` : install circle folder version
 
 ## Requirment
 You can use this with:

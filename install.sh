@@ -21,15 +21,24 @@ usage() {
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
-  printf "  %-25s%s\n" "-t, --theme VARIANTS..." "Specify theme color variant(s) [standard|red|pink|purple|blue|green|yellow|orange|brown|grey|black] (Default: All variants)"
+  printf "  %-25s%s\n" "-c, --circle" "Install circle folder version"
+  printf "  %-25s%s\n" "-all" "Install all color folder versions"
+  printf "  %-25s%s\n" "-red" "Red color folder version"
+  printf "  %-25s%s\n" "-pink" "Pink color folder version"
+  printf "  %-25s%s\n" "-purple" "Purple color folder version"
+  printf "  %-25s%s\n" "-blue" "Blue color folder version"
+  printf "  %-25s%s\n" "-green" "Green color folder version"
+  printf "  %-25s%s\n" "-yellow" "Yellow color folder version"
+  printf "  %-25s%s\n" "-orange" "Orange color folder version"
+  printf "  %-25s%s\n" "-brown" "Brown color folder version"
+  printf "  %-25s%s\n" "-black" "Black color folder version"
   printf "  %-25s%s\n" "-h, --help" "Show this help"
 }
 
 install() {
   local dest=${1}
   local name=${2}
-  local theme=${3}
-  local color=${4}
+  local color=${3}
 
   local THEME_DIR=${dest}/${name}${theme}${color}
 
@@ -121,70 +130,36 @@ while [[ $# -gt 0 ]]; do
       ;;
     -c|--circle)
       circle='true'
-      shift
       ;;
-    -t|--theme)
-      shift
-      for theme in "${@}"; do
-        case "${theme}" in
-          standard)
-            themes+=("${THEME_VARIANTS[0]}")
-            shift 1
-            ;;
-          red)
-            themes+=("${THEME_VARIANTS[1]}")
-            shift 1
-            ;;
-          pink)
-            themes+=("${THEME_VARIANTS[2]}")
-            shift 1
-            ;;
-          purple)
-            colors+=("${THEME_VARIANTS[3]}")
-            shift 1
-            ;;
-          blue)
-            themes+=("${THEME_VARIANTS[4]}")
-            shift 1
-            ;;
-          green)
-            themes+=("${THEME_VARIANTS[5]}")
-            shift 1
-            ;;
-          yellow)
-            themes+=("${THEME_VARIANTS[6]}")
-            shift 1
-            ;;
-          orange)
-            themes+=("${THEME_VARIANTS[7]}")
-            shift 1
-            ;;
-          brown)
-            themes+=("${THEME_VARIANTS[8]}")
-            shift 1
-            ;;
-          grey)
-            themes+=("${THEME_VARIANTS[9]}")
-            shift 1
-            ;;
-          pink)
-            themes+=("${THEME_VARIANTS[10]}")
-            shift 1
-            ;;
-          black)
-            themes+=("${THEME_VARIANTS[11]}")
-            shift 1
-            ;;
-          -*|--*)
-            break
-            ;;
-          *)
-            echo "ERROR: Unrecognized color variant '$1'."
-            echo "Try '$0 --help' for more information."
-            exit 1
-            ;;
-        esac
-      done
+    -all)
+      all="true"
+      ;;
+    -black)
+      theme="-black"
+      ;;
+    -blue)
+      theme="-blue"
+      ;;
+    -brown)
+      theme="-brown"
+      ;;
+    -green)
+      theme="-green"
+      ;;
+    -grey)
+      theme="-grey"
+      ;;
+    -orange)
+      theme="-orange"
+      ;;
+    -pink)
+      theme="-pink"
+      ;;
+    -red)
+      theme="-red"
+      ;;
+    -yellow)
+      theme="-yellow"
       ;;
     -h|--help)
       usage
@@ -196,11 +171,25 @@ while [[ $# -gt 0 ]]; do
       exit 1
       ;;
   esac
+  shift
 done
 
+install_theme() {
+  for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
+    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
+  done
+}
+
+install_all() {
 for theme in "${themes[@]-${THEME_VARIANTS[@]}}"; do
   for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
-    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}"
+    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
   done
 done
+}
 
+if [[ "${all}" == 'true' ]]; then
+  install_all
+  else
+  install_theme
+fi
