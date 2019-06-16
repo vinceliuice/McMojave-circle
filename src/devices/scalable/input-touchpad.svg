@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.90000006"/>
+  </filter>
+  <linearGradient id="b" x1="-506.45" x2="-506.45" y1="-19.101" y2="1013.6" gradientTransform="matrix(.015564 0 0 .015564 16.349 280.89)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c7c7c7" offset="0"/>
+   <stop stop-color="#646464" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <circle transform="matrix(.26458 0 0 .26458 -.042333 280.02)" cx="32.16" cy="32.16" r="30" fill-rule="evenodd" filter="url(#d)" opacity=".25" style="paint-order:fill markers stroke"/>
+  <circle cx="8.4667" cy="288.53" r="7.9375" fill="url(#b)" fill-rule="evenodd" stroke-width=".26458" style="paint-order:fill markers stroke"/>
+  <path transform="matrix(.26458 0 0 .26458 0 280.07)" d="m48 10.41v2h6.6738a30 30 0 0 0-1.8926-2h-4.7812zm0 4v2h8v-2h-8zm0 4v2h8v-2h-8zm0 4v2h8v-2h-8zm0 4v2h8v-2h-8zm0 4v2h8v-2h-8zm-38.744 17.605c-0.69617 0-1.2559 0.57731-1.2559 1.2949v0.63867a30 30 0 0 0 3.2188 3.6406h17.525c0.69617 0 1.2559-0.57731 1.2559-1.2949v-2.9844c0-0.71761-0.55969-1.2949-1.2559-1.2949h-19.488zm26 0c-0.69617 0-1.2559 0.57731-1.2559 1.2949v2.9844c0 0.71761 0.55969 1.2949 1.2559 1.2949h17.566a30 30 0 0 0 3.1777-3.6504v-0.62891c0-0.71761-0.55969-1.2949-1.2559-1.2949h-19.488z" opacity=".25" stroke-width="3.2105"/>
+ </g>
+</svg>

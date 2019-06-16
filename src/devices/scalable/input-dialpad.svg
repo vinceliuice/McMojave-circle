@@ -1,0 +1,30 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.934 16.934" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="58.177" x2="60.816" y1="192.12" y2="192.12" gradientTransform="matrix(4.2726 0 0 1.026 -298.54 -367.59)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4d4d4d" offset="0"/>
+   <stop stop-color="#1a1a1a" offset="1"/>
+  </linearGradient>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.238125"/>
+  </filter>
+  <linearGradient id="d" x1="32.001" x2="32.001" y1="1.9749" y2="61.976" gradientTransform="matrix(.26459 0 0 .26459 0 -3.7428e-6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e0e0e0" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="-44.324" cy="-170.47" r="0" fill="url(#c)" stroke-width=".26459"/>
+ <circle transform="matrix(1 0 0 1 0 -280.09)" cx="8.4667" cy="288.53" r="7.9375" fill-rule="evenodd" filter="url(#g)" opacity=".25" style="paint-order:stroke fill markers"/>
+ <circle cx="8.4671" cy="8.4603" r="7.938" fill="url(#d)" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <g fill-rule="evenodd">
+  <circle cx="6.0856" cy="5.821" r=".79377" opacity=".35"/>
+  <circle cx="8.4669" cy="5.821" r=".79377" opacity=".35"/>
+  <circle cx="10.848" cy="5.821" r=".79377" opacity=".35"/>
+  <circle cx="6.0856" cy="7.9377" r=".79377" opacity=".35"/>
+  <circle cx="8.4669" cy="7.9377" r=".79377" opacity=".35"/>
+  <circle cx="10.848" cy="7.9377" r=".79377" opacity=".35"/>
+  <circle cx="6.0856" cy="10.054" r=".79377" opacity=".35"/>
+  <circle cx="8.4669" cy="10.054" r=".79377" opacity=".35"/>
+  <circle cx="10.848" cy="10.054" r=".79377" opacity=".35"/>
+  <circle cx="8.4669" cy="12.171" r=".79377" opacity=".35"/>
+ </g>
+</svg>
