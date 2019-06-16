@@ -22,7 +22,7 @@ usage() {
   printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
   printf "  %-25s%s\n" "-c, --circle" "Install circle folder version"
-  printf "  %-25s%s\n" "-all" "Install all color folder versions"
+  printf "  %-25s%s\n" "-a, --all" "Install all color folder versions"
   printf "  %-25s%s\n" "-red" "Red color folder version"
   printf "  %-25s%s\n" "-pink" "Pink color folder version"
   printf "  %-25s%s\n" "-purple" "Purple color folder version"
@@ -110,6 +110,17 @@ install() {
     sed -i "s/Numix-Circle-Light/Numix-Circle/g" index.theme
   fi
 
+  cd ${THEME_DIR}
+  ln -sf actions actions@2x
+  ln -sf animations animations@2x
+  ln -sf apps apps@2x
+  ln -sf categories categories@2x
+  ln -sf devices devices@2x
+  ln -sf emblems emblems@2x
+  ln -sf mimes mimes@2x
+  ln -sf places places@2x
+  ln -sf status status@2x
+
   cd ${dest}
   gtk-update-icon-cache ${name}${theme}${color}
 }
@@ -131,7 +142,7 @@ while [[ $# -gt 0 ]]; do
     -c|--circle)
       circle='true'
       ;;
-    -all)
+    -a|--all)
       all="true"
       ;;
     -black)

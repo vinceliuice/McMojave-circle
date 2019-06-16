@@ -14,7 +14,7 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
 |-n, --name           | Specify theme name (Default: McMojave-circle)|
 |-c, --circle         | Specify circle folder version|
-|-all                 | Install all color folder versions|
+|-a, --all            | Install all color folder versions|
 |-black               | Black color folder version|
 |-blue                | Blue color folder version|
 |-brown               | Brown color folder version|
@@ -33,7 +33,7 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 
 `./install.sh -black` : install black color versions
 
-`./install.sh -all` : install all color versions
+`./install.sh -a` : install all color versions
 
 `./install.sh -c` : install circle folder version
 
