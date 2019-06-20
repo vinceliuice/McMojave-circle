@@ -94,7 +94,7 @@ Type=Fixed
 [devices/scalable]
 Size=64
 Context=Devices
-MinSize=22
+MinSize=16
 MaxSize=512
 Type=Scalable
 
@@ -275,7 +275,7 @@ Type=Fixed
 [devices@2x/scalable]
 Size=64
 Context=Devices
-MinSize=22
+MinSize=16
 MaxSize=512
 Type=Scalable
 
