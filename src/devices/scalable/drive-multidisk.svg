@@ -1,0 +1,33 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <linearGradient id="c" x1="10" x2="10" y1="50" y2="6" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="d" x1="10" x2="10" y1="42" y2="6" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="b" x1="386.57" x2="386.57" y1="549.8" y2="497.8" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <linearGradient id="f" x1="14" x2="14" y1="35" y2="7" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#edf1f3" offset="0"/>
+  <stop stop-color="#f9fafb" offset="1"/>
+ </linearGradient>
+ <linearGradient id="a" x1="386.57" x2="386.57" y1="549.8" y2="497.8" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#7f8c8d" offset="0"/>
+  <stop stop-color="#afb0b3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="e" x1="24" x2="42" y1="18" y2="36" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#292c2f" offset="0"/>
+  <stop stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <g transform="matrix(1.1538 0 0 1.1538 -4.9231 -4.9231)">
+  <path transform="translate(-376.57 -491.8)" d="m386.57 497.8h44v52h-44z" fill="url(#b)" stroke-width=".75111"/>
+  <path d="m10 57h44v1h-44z" fill="#292c2f" opacity=".4" stroke-width=".75111"/>
+  <path d="m10 44v6h44v-6z" fill="url(#c)" stroke-width=".75111"/>
+  <path d="m10 36v6h44v-6z" fill="url(#d)" stroke-width=".75111"/>
+  <path d="m47 36h7v6h-7zm-37 0h7v6h-7zm37 8h7v6h-7zm-37 0h7v6h-7zm37 8h7v6h-7zm-37 0h7v6h-7z" fill="#292c2f" opacity=".2" stroke-width=".75111"/>
+  <g stroke-width="1.6094">
+   <path d="m10 36h7v6h-1zm37 0h7v6h-7zm-37 8h7v6h-1zm37 0h7v6h-7zm-37 8h7v6h-1zm37 0h7v6h-7z" fill="#292c2f" opacity=".2"/>
+   <path d="m16 36h32v6h-32zm0 8h32v6h-32zm0 8h32v6h-32z" fill="#292c2e"/>
+   <path d="m20 38h14v2h-14zm16 0h8v2h-8zm-16 8h14v2h-14zm16 0h8v2h-8zm-16 8h14v2h-14zm16 0h8v2h-8z" fill="#f6b44d"/>
+  </g>
+  <path d="m11 42h42v2h-42zm0 8h42v2h-42z" fill="#252c33" opacity=".6" stroke-width=".75111"/>
+  <path d="m14 30 6 6h34v-20.481l-5.519-5.519z" fill="url(#e)" opacity=".2" stroke-width=".75111"/>
+  <path d="m20 8a6 6 0 00-6 6v4.541a4 4 0 012 3.459 4 4 0 01-2 3.459v4.541l4 4h28l4-4v-4.541a4 4 0 01-2-3.459 4 4 0 012-3.459v-4.541a6 6 0 00-6-6z" fill="url(#f)" stroke-width=".75111"/>
+  <path d="m11 42h4v2h-4zm38 0h4v2h-4zm0 8h4v2h-4zm-38 0h4v2h-4z" fill="#232629" stroke-width=".75111"/>
+ </g>
+</svg>
