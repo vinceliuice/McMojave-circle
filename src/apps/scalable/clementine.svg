@@ -1,0 +1,31 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+  <linearGradient id="e" x2="0" y1="505.8" y2="541.8" gradientTransform="translate(-384.57,504.56)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fffcde" offset="0"/>
+   <stop stop-color="#fafac5" offset="1"/>
+  </linearGradient>
+  <radialGradient id="d" cx="24" cy="1028.4" r="16" gradientTransform="matrix(1.231 .00334 -.00334 1.2313 -2.11 -237.92)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f47750" offset="0"/>
+   <stop stop-color="#fdbc4b" offset="1"/>
+  </radialGradient>
+  <linearGradient id="a" x1="32" x2="32" y1="2" y2="62" gradientTransform="translate(-384.57,504.56)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fb9b0a" offset="0"/>
+   <stop stop-color="#ffc51d" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.9"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" cx="512" cy="512" r="478.12" filter="url(#c)" opacity=".25" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="30" fill="url(#a)" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(1.3333 0 0 1.3333 8e-7 -1339.1)" stroke-linejoin="round" stroke-width=".75">
+  <g stroke-width="1.5">
+   <circle cx="24" cy="1028.4" r="18" filter="url(#b)" opacity=".15" stroke-linecap="round"/>
+   <circle cx="24" cy="1028.4" r="18" fill="url(#e)" stroke-linecap="round"/>
+   <path d="m24 1012.4c-3 0-5 2-5 2s1.193 4.052 2 6c0.856 2.066 3 6 3 6s2.144-3.934 3-6c0.807-1.948 2-6 2-6s-2-2-5-2m-6.363 2.564s-2.83 0-4.951 2.121-2.121 4.951-2.121 4.951 3.71 2.02 5.658 2.828c2.066 0.856 6.363 2.121 6.363 2.121s-1.265-4.297-2.121-6.363c-0.807-1.948-2.828-5.658-2.828-5.658m12.727 0s-2.02 3.71-2.828 5.658c-0.856 2.066-2.121 6.363-2.121 6.363s4.297-1.265 6.363-2.121c1.948-0.807 5.658-2.828 5.658-2.828s0-2.83-2.121-4.951-4.951-2.121-4.951-2.121m-20.363 8.436s-2 2-2 5 2 5 2 5 4.052-1.193 6-2c2.066-0.856 6-3 6-3s-3.934-2.144-6-3c-1.948-0.807-6-2-6-2m28 0s-4.052 1.193-6 2c-2.066 0.856-6 3-6 3s3.934 2.144 6 3c1.948 0.807 6 2 6 2s2-2 2-5-2-5-2-5m-15.414 6.414s-4.297 1.265-6.363 2.121c-1.948 0.807-5.658 2.828-5.658 2.828s0 2.83 2.121 4.951 4.951 2.121 4.951 2.121 2.02-3.71 2.828-5.658c0.856-2.066 2.121-6.363 2.121-6.363m2.828 0s1.265 4.297 2.121 6.363c0.807 1.948 2.828 5.658 2.828 5.658s2.83 0 4.951-2.121 2.121-4.951 2.121-4.951-3.71-2.02-5.658-2.828c-2.066-0.856-6.363-2.121-6.363-2.121m-1.414 0.586s-2.144 3.934-3 6c-0.807 1.948-2 6-2 6s2 2 5 2 5-2 5-2-1.193-4.052-2-6c-0.856-2.066-3-6-3-6" fill="url(#d)"/>
+  </g>
+ </g>
+</svg>
