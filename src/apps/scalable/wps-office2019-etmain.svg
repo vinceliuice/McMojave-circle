@@ -1,0 +1,27 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="383.58" x2="383.58" y1="137.89" y2="463.07" gradientTransform="matrix(.052916 0 0 .052916 -12.7 -7.4066)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f0faff" offset="0"/>
+   <stop stop-color="#c5fcdd" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <linearGradient id="e" x1="399.99" x2="399.99" y1="545.14" y2="518.14" gradientTransform="matrix(.56696 0 0 .56696 -218.64 -293.03)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7eca7e" offset="0"/>
+   <stop stop-color="#46b246" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(.56696 0 0 .56696 -218.64 -293.03)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="8.4665" x2="8.4665" y1="6.0606" y2="12.641" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ </defs>
+ <circle transform="matrix(.56696 0 0 .56696 -218.64 -293.02)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9376" fill="url(#e)" stroke-width=".41578"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9376" fill-opacity="0" stroke-width=".41578"/>
+ <circle cx="8.4665" cy="8.4665" r="0" fill="url(#d)" stroke-width=".41578"/>
+ <g transform="translate(0 -.8841)" fill="none" stroke="url(#a)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+  <path d="m8.463 9.3506h-2.35s-1.41 0-1.41-1.41 1.41-1.41 1.41-1.41h5.64m-3.283 2.82h2.35s1.41 0 1.41 1.41-1.41 1.41-1.41 1.41h-5.64" fill="none" stroke="url(#a)" stroke-width=".9399"/>
+ </g>
+</svg>
