@@ -1,0 +1,43 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <linearGradient id="a" x1="32.02" x2="32.02" y1="2.043" y2="62.045" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1064d3" offset="0"/>
+   <stop stop-color="#14c6fd" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+  <filter id="d" x="-.063947" y="-.056323" width="1.1279" height="1.1126" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.44883971"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
+ <g stroke-width="1.5715">
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#a)"/>
+  <circle cx="32" cy="32" r="24" filter="url(#f)" opacity=".15" stroke-width="1.5715"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
+  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
+  <circle cx="32" cy="32" r="24" fill="#fff" stroke-width="1.5715"/>
+ </g>
+ <g transform="matrix(1.8801 -.27176 .23971 1.5821 -18.877 -1.5498)" fill-rule="evenodd" filter="url(#d)" opacity=".15" stroke-width="2.1987">
+  <path d="m18 31 6 4 6-4v-7l-6-4-6 4z" fill-opacity=".15209"/>
+  <path d="m24 20 2-4 6 4-2 4z"/>
+  <path d="m24 20-2-4-6 4 2 4z"/>
+  <path d="m32 28-2-4-6 4 2 4z"/>
+  <path d="m16 28 2-4 6 4-2 4z"/>
+ </g>
+ <g transform="matrix(1.8801 -.27176 .23971 1.5821 -18.877 -1.5498)" fill-rule="evenodd" stroke-width="2.1987">
+  <path d="m18 31 6 4 6-4v-7l-6-4-6 4z" fill="#1158de" fill-opacity=".15209"/>
+  <path d="m24 20 2-4 6 4-2 4z" fill="#408af0"/>
+  <path d="m24 20-2-4-6 4 2 4z" fill="#408af0"/>
+  <path d="m32 28-2-4-6 4 2 4z" fill="#408af0"/>
+  <path d="m16 28 2-4 6 4-2 4z" fill="#408af0"/>
+ </g>
+</svg>
