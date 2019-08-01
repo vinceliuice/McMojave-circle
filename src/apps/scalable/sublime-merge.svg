@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="24" x2="24" y1="35" y2="13" gradientTransform="matrix(3.0643 -10.246 8.6729 3.545 33.829 47.979)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <filter id="d" x="-.058883" y="-.061161" width="1.1178" height="1.1223" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="10.562379"/>
+  </filter>
+  <linearGradient id="e" x1="31.981" x2="31.981" y1="1.9784" y2="61.975" gradientTransform="translate(-117.83 8.678)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#172525" offset="0"/>
+   <stop stop-color="#536161" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.051348" y="-.072158" width="1.1027" height="1.1443" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.57125"/>
+  </filter>
+ </defs>
+ <linearGradient id="a" x1="23" x2="37" y1="20" y2="34" gradientTransform="translate(-65.492 8.678)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#292c2f" offset="0"/>
+  <stop stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x1="24" x2="24" y1="35" y2="13" gradientTransform="matrix(2.0429 -6.8309 5.7819 2.3633 25.219 34.653)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#23a2cd" offset="0"/>
+  <stop stop-color="#00b8f5" offset=".53"/>
+  <stop stop-color="#2ecbff" offset="1"/>
+ </linearGradient>
+ <rect transform="matrix(1.0115,0,0,1.0115,-389.32,-489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#g)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#e)" stroke-width="1.0115"/>
+ <path transform="matrix(1.5 0 0 1.5 94.237 -17.017)" d="m-48.192 41.738 9.9397 9.9397h16.76v-9.5l-9.5-9.5-2.967 2.967h-5.6313z" fill="url(#a)" filter="url(#f)" opacity=".4" stroke-width=".66667"/>
+ <path d="m31.509 35.902-14.359-10.17 4.8-7.3209 14.359 10.17z" fill="url(#b)" opacity=".61157"/>
+ <path d="m32.283 27.55h11.017l4.4505 4.4505-4.4505 4.4505h-8.4469l-12.903 9.1399-4.8-7.3213 8.85-6.2691z" fill="url(#b)"/>
+</svg>

@@ -1,4 +1,4 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#3889e9" offset="0"/>
@@ -17,6 +17,21 @@
   <filter id="d" x="-.063947" y="-.056323" width="1.1279" height="1.1126" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.44883971"/>
   </filter>
+  <linearGradient id="h" x1="23.874" x2="24" y1="22.584" y2="35" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e0e8f8" offset="0"/>
+   <stop stop-color="#7f91b0" offset="1"/>
+  </linearGradient>
+  <filter id="i" x="-.064689" y="-.055656" width="1.1294" height="1.1113" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.34393314"/>
+  </filter>
+  <linearGradient id="g" x1="22.446" x2="21.872" y1="22.477" y2="36.134" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bdceef" offset="0"/>
+   <stop stop-color="#eaf0fa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="27" x2="27" y1="24" y2="35" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dbe4f6" offset="0"/>
+   <stop stop-color="#eaf0fa" offset="1"/>
+  </linearGradient>
  </defs>
  <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
  <g stroke-width="1.5715">
@@ -34,10 +49,13 @@
   <path d="m16 28 2-4 6 4-2 4z"/>
  </g>
  <g transform="matrix(1.8801 -.27176 .23971 1.5821 -18.877 -1.5498)" fill-rule="evenodd" stroke-width="2.1987">
-  <path d="m18 31 6 4 6-4v-7l-6-4-6 4z" fill="#1158de" fill-opacity=".15209"/>
+  <path d="m18 31 6 4 6-4v-7l-6-4-6 4z" filter="url(#i)" opacity=".15"/>
+  <path d="m18 31 6 4 6-4v-7l-6-4-6 4z" fill="url(#h)"/>
   <path d="m24 20 2-4 6 4-2 4z" fill="#408af0"/>
   <path d="m24 20-2-4-6 4 2 4z" fill="#408af0"/>
+  <path d="m24 35 6-4v-7l-6 4z" fill="url(#e)"/>
   <path d="m32 28-2-4-6 4 2 4z" fill="#408af0"/>
+  <path d="m18 31 6 4v-7l-6-4z" fill="url(#g)"/>
   <path d="m16 28 2-4 6 4-2 4z" fill="#408af0"/>
  </g>
 </svg>

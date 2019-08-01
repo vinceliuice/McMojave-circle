@@ -1,0 +1,50 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="404.07" x2="395.67" y1="545.1" y2="517.8" gradientTransform="matrix(1.4286 0 0 1.4286 -163.67 -235.91)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#282629" offset="0"/>
+   <stop stop-color="#424242" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="410.77" x2="406.75" y1="531.3" y2="515.92" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cd1d31" offset="0"/>
+   <stop stop-color="#e54456" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="20.586" x2="35.315" y1="18.733" y2="33.463" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.057537" y="-.062684" width="1.1151" height="1.1254" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.7014155"/>
+  </filter>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+  <filter id="d" x="-.063339" y="-.056995" width="1.1267" height="1.114" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.23752909"/>
+  </filter>
+ </defs>
+ <g transform="matrix(1.4999 0 0 1.5 -580.83 -753.7)" stroke-width=".66668">
+  <rect x="388.57" y="503.8" width="40" height="40" ry="20" filter="url(#e)" opacity=".25"/>
+  <rect x="388.57" y="503.8" width="40" height="40" ry="20" fill="url(#a)"/>
+  <g fill="#fff" opacity=".5" stroke-width=".66668">
+   <rect x="392.57" y="512.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="516.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="520.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="524.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="528.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="532.8" width="3" height="2" opacity="1"/>
+  </g>
+  <g transform="translate(29)" fill="#fff" opacity=".5" stroke-width=".66668">
+   <rect x="392.57" y="512.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="516.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="520.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="524.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="528.8" width="3" height="2" opacity="1"/>
+   <rect x="392.57" y="532.8" width="3" height="2" opacity="1"/>
+  </g>
+  <path d="m388.58 523.3c-4e-3 0.16654-0.0117 0.33244-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.16756-8e-3 -0.33346-0.0117-0.5-0.26467 10.846-9.0762 19.5-19.988 19.5s-19.724-8.6539-19.988-19.5z" opacity=".15"/>
+  <path transform="translate(384.57 499.8)" d="m33.201 16.863-16.504 0.28906-1.7207 4.7207-0.52148 8.9531 12.893 12.893c8.3763-1.4012 14.953-7.9714 16.365-16.344z" fill="url(#b)" filter="url(#f)" opacity=".4"/>
+  <rect x="398.57" y="515.8" width="20" height="16" rx="3.026" ry="2.629" fill="url(#c)" stroke-width=".66668"/>
+  <path d="m405.71 518.8c-0.62697-0.0125-1.1421 0.49205-1.1426 1.1191v7.7598c-7.8e-4 0.86146 0.93053 1.4014 1.6777 0.97266l6.7598-3.8809c0.75037-0.43048 0.75037-1.5129 0-1.9434l-6.7598-3.8789c-0.1631-0.0936-0.34714-0.14466-0.53516-0.14844z" color="#000000" color-rendering="auto" filter="url(#d)" image-rendering="auto" opacity=".15" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  <path d="m405.71 518.8c-0.62697-0.0125-1.1421 0.49205-1.1426 1.1191v7.7598c-7.8e-4 0.86146 0.93053 1.4014 1.6777 0.97266l6.7598-3.8809c0.75037-0.43048 0.75037-1.5129 0-1.9434l-6.7598-3.8789c-0.1631-0.0936-0.34714-0.14466-0.53516-0.14844z" color="#000000" color-rendering="auto" fill="#fff8eb" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

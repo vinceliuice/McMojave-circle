@@ -1,0 +1,34 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="e" x1="403.42" x2="391.89" y1="544.09" y2="525.72" gradientTransform="matrix(1.5 0 0 1.5 -580.86 -753.7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d21e1e" offset="0"/>
+   <stop stop-color="#e05e4c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="401.3" x2="391.15" y1="523.2" y2="505.32" gradientTransform="matrix(1.5 0 0 1.5 -580.86 -753.7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffa92d" offset="0"/>
+   <stop stop-color="#ffc169" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="424.6" x2="413.78" y1="523.8" y2="503.8" gradientTransform="matrix(1.5 0 0 1.5 -580.86 -753.7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#377d50" offset="0"/>
+   <stop stop-color="#54d883" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="420.88" x2="412.12" y1="543.49" y2="525.75" gradientTransform="matrix(1.5 0 0 1.5 -580.86 -753.7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#375a7d" offset="0"/>
+   <stop stop-color="#54a3d8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(1.9175 0 0 1.9175 -736.2 -987.76)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(2.1429 0 0 2.1429 -826.35 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#f)" opacity=".25" stroke-width=".73333"/>
+ <path d="m32 32v30h1.9395a30.001 30.001 0 0 0 28.061-29.232v-0.76758h-30z" fill="url(#a)" fill-rule="evenodd"/>
+ <path d="m2.0371 32a30.001 30.001 0 0 0-0.00391 0.06641 30.001 30.001 0 0 0 28.641 29.934h1.3262v-30z" fill="url(#e)" fill-rule="evenodd"/>
+ <path d="m32.035 2.0664a30.001 30.001 0 0 0-0.035156 0.0019532v29.932h30v-0.9375a30.001 30.001 0 0 0-29.965-28.996z" fill="url(#b)" fill-rule="evenodd"/>
+ <path d="m32 2.0684a30.001 30.001 0 0 0-29.963 29.932h29.963z" fill="url(#c)" fill-rule="evenodd"/>
+ <circle cx="31.89" cy="31.955" r="0" fill="url(#d)" stroke-width="1.4062"/>
+ <circle cx="32.035" cy="32.067" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+</svg>
