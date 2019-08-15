@@ -1,5 +1,5 @@
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(4 3.9996)" enable-background="new" fill="#333">
+ <g transform="translate(4 3.9996)" enable-background="new" fill="#363636">
   <rect y="6" width="5" height="4" ry="1" fill-rule="evenodd" style="paint-order:normal"/>
   <path d="m6 3-3 3v4l3 3z"/>
   <g fill-rule="evenodd">

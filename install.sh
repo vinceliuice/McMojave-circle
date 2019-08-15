@@ -90,7 +90,7 @@ install() {
     cp -ur ${SRC_DIR}/links/actions/{16,22,24}                                         ${THEME_DIR}/actions
     cp -ur ${SRC_DIR}/links/devices/16                                                 ${THEME_DIR}/devices
     cp -ur ${SRC_DIR}/links/places/16                                                  ${THEME_DIR}/places
-    cp -ur ${SRC_DIR}/links/status/16                                                  ${THEME_DIR}/status
+    cp -ur ${SRC_DIR}/links/status/{16,22,24}                                          ${THEME_DIR}/status
 
     cd ${dest}
     ln -s ../${name}${theme}/animations ${name}${theme}-dark/animations
