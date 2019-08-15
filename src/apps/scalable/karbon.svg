@@ -1,0 +1,70 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x2="0" y1="45" y2="13" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#663579" offset="0"/>
+   <stop stop-color="#16a085" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x2="0" y1="14.849" y2="26.16" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x2="0" y1="31.885" y2="44.48" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="d" x2="0" y1="36.77" y2="48.08" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="f" x2="0" y1="42.827" y2="4.113" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c6cdd1" offset="0"/>
+   <stop stop-color="#e0e5e7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x1="8.213" x2="40.551" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d1e1e" offset="0"/>
+   <stop stop-color="#2c2f32" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="7" x2="11" gradientTransform="translate(-21,-3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d1e1e" offset="0"/>
+   <stop stop-color="#44484c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="i" x1="23" x2="28" gradientTransform="translate(-45,6)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <linearGradient id="j" x1="19" x2="25" gradientTransform="translate(-52,-8)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <linearGradient id="k" x1="34" x2="42" gradientTransform="translate(-73,3)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <filter id="o" x="-.13309" y="-.13309" width="1.2662" height="1.2662" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.74505189"/>
+  </filter>
+  <filter id="n" x="-.13309" y="-.13309" width="1.2662" height="1.2662" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.74505189"/>
+  </filter>
+  <filter id="m" x="-.14049" y="-.14049" width="1.281" height="1.281" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.74505189"/>
+  </filter>
+  <linearGradient id="l" x2="0" y1="14.849" y2="26.16" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="e" x1="7" x2="11" gradientTransform="translate(-21,-3)" gradientUnits="userSpaceOnUse" xlink:href="#h"/>
+  <filter id="p" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+ </defs>
+ <g transform="matrix(1.5,0,0,1.5,-4,-4)">
+  <circle cx="24" cy="24" r="20" filter="url(#p)" opacity=".25" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.3333"/>
+  <circle cx="24" cy="24" r="20" fill="url(#f)" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.3333"/>
+  <g fill-rule="evenodd" stroke-width=".66667">
+   <path d="m8.235 11.732c-2.736 3.505-4.227 7.822-4.235 12.268 0 11.05 8.954 20 20 20 6.631-1e-3 12.831-3.289 16.552-8.778-2.251-0.027-16.706-0.361-18.596-5.088-2.045-5.112 5.112-6.134 4.089-11.246-1.28-6.4-13.659-7.107-17.81-7.157" fill="url(#a)"/>
+   <path d="m8.234 11.732c-7e-3 0.01-0.014 0.02-0.021 0.029 4.798 0.144 15.634 1.137 16.832 7.127 1.022 5.112-6.179 6.09-4.134 11.202 1.891 4.726 16.838 6.883 19.09 6.909l0.551-1.777c-2.251-0.027-16.705-0.361-18.596-5.088-2.045-5.112 5.112-6.134 4.09-11.246-1.28-6.4-13.66-7.107-17.811-7.156" fill="url(#g)"/>
+  </g>
+  <g stroke-linejoin="bevel" stroke-width="1.3333">
+   <g stroke-linecap="round">
+    <rect transform="rotate(-45)" x="-4.12" y="14.85" width="4" height="15" fill="url(#l)" filter="url(#o)" opacity=".2"/>
+    <circle transform="rotate(-90)" cx="-12" cy="9" r="2" fill="url(#e)"/>
+    <circle cx="9" cy="12" r="1" fill="#fff"/>
+    <rect transform="rotate(-45)" x="-8.66" y="36.77" width="6" height="12" fill="url(#d)" filter="url(#m)" opacity=".2"/>
+    <circle transform="rotate(-90)" cx="-30" cy="22" r="3" fill="url(#j)"/>
+   </g>
+   <path transform="rotate(-45)" d="m1.743 31.82h5v14h-5z" fill="url(#c)" filter="url(#n)" opacity=".2"/>
+   <g stroke-linecap="round">
+    <circle transform="rotate(-90)" cx="-19.5" cy="25.5" r="2.5" fill="url(#i)"/>
+    <g fill="#fff">
+     <circle cx="25.5" cy="19.5" r="1.5"/>
+     <circle cx="22" cy="30" r="2"/>
+    </g>
+    <circle transform="rotate(-90)" cx="-35" cy="38" r="4" fill="url(#k)"/>
+    <circle cx="38" cy="35" r="3" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

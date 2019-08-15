@@ -1,0 +1,50 @@
+<svg id="Calculator" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="d" x1="520" x2="520" y1="4" y2="1024" gradientTransform="matrix(.069456 0 0 .069456 -3.5266 -3.596)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#202020" offset="0"/>
+   <stop stop-color="#565656" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+  <linearGradient id="a" x1="24" x2="4" y1="4" y2="44" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#197cf1" offset="0"/>
+   <stop stop-color="#20bcfa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="44" x2="24" y1="44" y2="4" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c61423" offset="0"/>
+   <stop stop-color="#dc2b41" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="44" x2="4" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#42a603" offset="0"/>
+   <stop stop-color="#78da06" offset="1"/>
+  </linearGradient>
+  <linearGradient id="j" x1="400.57" x2="416.57" y1="522.8" y2="538.8" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#292c2f" offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.051429" y="-.072" width="1.1029" height="1.144" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+  <filter id="i" x="-.12008" y="-.060028" width="1.2402" height="1.1201" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.0005375"/>
+  </filter>
+  <filter id="h" x="-.11018" y="-.060032" width="1.2204" height="1.1201" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.0005375"/>
+  </filter>
+  <filter id="g" x="-.059975" y="-.21936" width="1.12" height="1.4387" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.0005375"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" cx="512" cy="512" r="478.12" filter="url(#e)" opacity=".25" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="30" fill="url(#d)" style="paint-order:stroke markers fill"/>
+ <g transform="translate(-376.55 -494.8)" fill-rule="evenodd">
+  <path transform="translate(384.57,499.8)" d="m24 4 2.938 33.3 17.06 6.703z" filter="url(#i)" opacity=".25"/>
+  <path transform="translate(384.57,499.8)" d="m24 4-20 40 21.795-19.668z" filter="url(#h)" opacity=".25"/>
+  <path transform="translate(384.57,499.8)" d="m16.13 33.05-12.13 10.943 39.996 4e-3zm-12.1 10.877-0.072 0.066h0.039z" filter="url(#g)" opacity=".25"/>
+  <path transform="translate(384.57,499.8)" d="m24 4 2.938 33.3 17.06 6.703z" fill="url(#b)"/>
+  <path transform="translate(384.57,499.8)" d="m24 4-20 40 21.795-19.668z" fill="url(#a)"/>
+  <path transform="translate(384.57,499.8)" d="m16.13 33.05-12.13 10.943 39.996 4e-3zm-12.1 10.877-0.072 0.066h0.039z" fill="url(#c)"/>
+  <path d="m410.57 523.8-10 9 11 11h17v-4z" fill="url(#j)" filter="url(#f)" opacity=".2"/>
+ </g>
+</svg>
