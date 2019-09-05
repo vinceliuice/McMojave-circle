@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#f5f5f5" offset="1"/>
+  </linearGradient>
+  <filter id="d" x="-.058883" y="-.061161" width="1.1178" height="1.1223" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="10.562379"/>
+  </filter>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <filter x="-.05999" y="-.06001" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.21163584"/>
+  </filter>
+  <linearGradient id="linearGradient862" x1="31.174" x2="58.826" y1="21.203" y2="21.203" gradientTransform="translate(-15,3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff0ae7" offset="0"/>
+   <stop stop-color="#ffb814" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient880" x1="15.938" x2="44.062" y1="44.845" y2="44.845" gradientTransform="rotate(2.3768 118.86 41.374)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8638fd" offset="0"/>
+   <stop stop-color="#4ec2fa" offset="1"/>
+  </linearGradient>
+  <filter id="filter928" x="-.063061" y="-.057222" width="1.1261" height="1.1144" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.7391235"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(1.0115 0 0 1.0115 -389.32 -489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#b)" stroke-width="1.0115"/>
+ <g transform="matrix(1.1613 0 0 1.1613 -2.8387 -4.5806)" filter="url(#filter928)" opacity=".25">
+  <path d="m30 16-13.826 11.549 4.2227 4.8574 9.6035-8.0215 9.6035 8.0215 4.2226-4.8574z" opacity="1" style="paint-order:stroke markers fill"/>
+  <path d="m39.539 35.706a11 11 0 0 1-9.8605 5.2851 11 11 0 0 1-8.9408-5.2855l-4.8025 3.6164a17 17 0 0 0 13.495 7.6639 17 17 0 0 0 14.635-7.245z" opacity="1" style="paint-order:stroke markers fill"/>
+ </g>
+ <g transform="matrix(1.1613 0 0 1.1613 -2.8387 -4.5806)">
+  <path d="m30 16-13.826 11.549 4.2227 4.8574 9.6035-8.0215 9.6035 8.0215 4.2226-4.8574z" fill="url(#linearGradient862)" style="paint-order:stroke markers fill"/>
+  <path d="m39.539 35.706a11 11 0 0 1-9.8605 5.2851 11 11 0 0 1-8.9408-5.2855l-4.8025 3.6164a17 17 0 0 0 13.495 7.6639 17 17 0 0 0 14.635-7.245z" fill="url(#linearGradient880)" style="paint-order:stroke markers fill"/>
+ </g>
+</svg>

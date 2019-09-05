@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+  <linearGradient id="b" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#33393e" offset="1"/>
+  </linearGradient>
+  <filter id="filter904" x="-.061616" y="-.058467" width="1.1232" height="1.1169" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.97558723"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" cx="512" cy="512" r="478.12" filter="url(#g)" opacity=".25" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke markers fill"/>
+ <path d="m26.553 10.074c-3.9348 2.0764-7.2277 5.9591-7.3223 10.581-0.07543 2.3987 0.42516 4.9277 1.5978 6.9946 4.1144 0.06995 8.351 2.4193 9.7938 6.4213 2.1135 5.2898-0.37442 12.312-5.9358 14.261-2.8527 1.0272-6.0249 0.56916-8.7816-0.53762 3.7688 2.3727 8.7871 3.2806 12.837 1.0423 2.1203-1.1232 3.9869-2.8225 5.2583-4.8358-2.001-3.607-2.0805-8.4456 0.66105-11.703 3.5137-4.4793 10.835-5.859 15.308-2.0202 2.3164 1.9544 3.5041 4.9305 3.9238 7.8696 0.16869-4.4463-1.547-9.2411-5.4996-11.632-2.0325-1.2961-4.4326-2.0065-6.8149-2.1711-2.1244 3.5371-6.2745 6.0277-10.467 5.2857-5.6327-0.79546-10.495-6.4364-9.407-12.228 0.53214-2.9843 2.5194-5.4996 4.8523-7.3292z" fill-rule="evenodd" filter="url(#filter904)" opacity=".5"/>
+ <path d="m26.553 10.074c-3.9348 2.0764-7.2277 5.9591-7.3223 10.581-0.07543 2.3987 0.42516 4.9277 1.5978 6.9946 4.1144 0.06995 8.351 2.4193 9.7938 6.4213 2.1135 5.2898-0.37442 12.312-5.9358 14.261-2.8527 1.0272-6.0249 0.56916-8.7816-0.53762 3.7688 2.3727 8.7871 3.2806 12.837 1.0423 2.1203-1.1232 3.9869-2.8225 5.2583-4.8358-2.001-3.607-2.0805-8.4456 0.66105-11.703 3.5137-4.4793 10.835-5.859 15.308-2.0202 2.3164 1.9544 3.5041 4.9305 3.9238 7.8696 0.16869-4.4463-1.547-9.2411-5.4996-11.632-2.0325-1.2961-4.4326-2.0065-6.8149-2.1711-2.1244 3.5371-6.2745 6.0277-10.467 5.2857-5.6327-0.79546-10.495-6.4364-9.407-12.228 0.53214-2.9843 2.5194-5.4996 4.8523-7.3292z" fill="#f9f9f9" fill-rule="evenodd"/>
+</svg>
