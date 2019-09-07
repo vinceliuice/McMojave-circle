@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Iterm" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="Iterm" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -13,9 +13,9 @@
   <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.90000006"/>
   </filter>
-  <linearGradient id="linearGradient860" x1="27.763" x2="27.831" y1="-1.0847" y2="61.017" gradientTransform="matrix(.06383 0 0 .06383 -2.7383 -64.909)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2f4063" offset="0"/>
-   <stop stop-color="#506eaa" offset="1"/>
+  <linearGradient id="linearGradient860" x1="533.34" x2="524.91" y1="1010.1" y2="2002.6" gradientTransform="matrix(.06383 0 0 .06383 -2.7383 -64.909)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8a26af" offset="0"/>
+   <stop stop-color="#3bcbd9" offset="1"/>
   </linearGradient>
   <filter id="filter1033" x="-.059999" y="-.060001" width="1.12" height="1.12" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.69998542"/>
@@ -27,9 +27,7 @@
   </g>
  </mask>
  <circle cx="32" cy="32" r="30" fill-rule="evenodd" filter="url(#d)" opacity=".25" style="paint-order:fill markers stroke"/>
- <g>
-  <circle cx="32" cy="32" r="30" fill="url(#linearGradient860)" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
-  <path d="m31.997 18.001c-7.5864 0-13.719 5.9593-13.997 13.473 2.0004 5.2582 7.0849 8.971 13.063 8.971 4.2283 0 7.9877-1.8546 10.544-4.8022-1.0521 4.9258-4.6774 8.8625-9.413 10.357 7.6727-0.095647 13.806-6.2964 13.806-13.997 0-7.7637-6.238-13.997-13.997-13.997" filter="url(#filter1033)" opacity=".25"/>
-  <path d="m31.997 18.001c-7.5864 0-13.719 5.9593-13.997 13.473 2.0004 5.2582 7.0849 8.971 13.063 8.971 4.2283 0 7.9877-1.8546 10.544-4.8022-1.0521 4.9258-4.6774 8.8625-9.413 10.357 7.6727-0.095647 13.806-6.2964 13.806-13.997 0-7.7637-6.238-13.997-13.997-13.997" fill="#ecedf1"/>
- </g>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient860)" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
+ <path d="m31.997 18.001c-7.5864 0-13.719 5.9593-13.997 13.473 2.0004 5.2582 7.0849 8.971 13.063 8.971 4.2283 0 7.9877-1.8546 10.544-4.8022-1.0521 4.9258-4.6774 8.8625-9.413 10.357 7.6727-0.095647 13.806-6.2964 13.806-13.997 0-7.7637-6.238-13.997-13.997-13.997" filter="url(#filter1033)" opacity=".25"/>
+ <path d="m31.997 18.001c-7.5864 0-13.719 5.9593-13.997 13.473 2.0004 5.2582 7.0849 8.971 13.063 8.971 4.2283 0 7.9877-1.8546 10.544-4.8022-1.0521 4.9258-4.6774 8.8625-9.413 10.357 7.6727-0.095647 13.806-6.2964 13.806-13.997 0-7.7637-6.238-13.997-13.997-13.997" fill="#ecedf1"/>
 </svg>
