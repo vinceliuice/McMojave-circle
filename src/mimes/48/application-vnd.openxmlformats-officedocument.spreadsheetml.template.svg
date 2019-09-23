@@ -1,4 +1,4 @@
-<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="d" x1="12.855" x2="12.855" y1="36.554" y2="41.511" gradientTransform="translate(1.9836 .081145)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#5ba050" offset="0"/>
@@ -89,7 +89,12 @@
  <g transform="translate(-1.0605)">
   <g transform="translate(.76237)" font-family="'Lucida Grande'" letter-spacing="0px" stroke-width=".2" word-spacing="0px">
    <text x="5.5801401" y="41.611259" fill="none" stroke="#ffffff" style="line-height:0%" xml:space="preserve"><tspan x="5.5801401" y="41.611259" fill="none" font-size="6.3598px" stroke="#ffffff" stroke-width=".2" style="line-height:1.25">XLTX</tspan></text>
-   <text x="5.5801401" y="41.411259" fill="url(#d)" stroke="url(#a)" style="line-height:0%" xml:space="preserve"><tspan x="5.5801401" y="41.411259" fill="url(#d)" font-size="6.3598px" stroke="url(#a)" stroke-width=".2" style="line-height:1.25">XLTX</tspan></text>
+   <g fill="url(#d)" stroke="url(#a)" stroke-width=".2" aria-label="XLTX">
+    <path d="m5.9807 36.775h0.67387l1.1521 1.7235 1.1583-1.7235h0.67387l-1.4906 2.2266 1.5899 2.4098h-0.67387l-1.3043-1.9719-1.3136 1.9719h-0.67697l1.6552-2.475z"/>
+    <path d="m10.561 36.775h0.62728v4.1084h2.2576v0.52791h-2.8849z"/>
+    <path d="m12.586 36.775h3.9221v0.52791h-1.6458v4.1084h-0.63039v-4.1084h-1.6458z"/>
+    <path d="m16.89 36.775h0.67387l1.1521 1.7235 1.1583-1.7235h0.67386l-1.4906 2.2266 1.59 2.4098h-0.67386l-1.3043-1.9719-1.3136 1.9719h-0.67697l1.6552-2.475z"/>
+   </g>
   </g>
  </g>
 </svg>
