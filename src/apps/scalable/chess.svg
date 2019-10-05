@@ -1,0 +1,18 @@
+<svg id="svg47" width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs25">
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur2" stdDeviation="14.343749"/>
+  </filter>
+  <linearGradient id="b" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop id="stop5" stop-color="#1d2123" offset="0"/>
+   <stop id="stop7" stop-color="#3e454a" offset="1"/>
+  </linearGradient>
+  <filter id="filter914" x="-.066" y="-.055" width="1.132" height="1.11" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur916" stdDeviation="0.64166668"/>
+  </filter>
+ </defs>
+ <circle id="circle27" transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" cx="512" cy="512" r="478.12" filter="url(#g)" opacity=".25" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle id="circle29" cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke markers fill"/>
+ <path id="path864" d="m24.49 18c-0.36517 0-0.66033 0.287-0.66033 0.65567v5.6875c0 0.36517 0.29167 0.65683 0.66033 0.65683h0.50633l-1.1667 1.1667 1.1667 1.1667-1.1632 12.833c-1.2938 0-2.3322 1.0395-2.3322 2.3287 0 0.4235 0.12717 0.82017 0.32317 1.1667l-0.32433 0.0046-1.1667 2.3334h23.333l-1.1667-2.3333-0.32667-0.0046c0.20067-0.3465 0.32783-0.74317 0.32783-1.1667 0-1.2938-1.0453-2.3287-2.3345-2.3287l-1.1655-12.833 1.1667-1.1667-1.1667-1.1667h0.511c0.36867 0 0.66033-0.287 0.66033-0.65683v-5.6875c0-0.36517-0.287-0.65567-0.66033-0.65567h-1.6788v2.3333h-2.3333v-2.3333h-2.3333v2.3333h-2.3333v-2.3334h-2.3333v2.3333h-2.3333v-2.3333" filter="url(#filter914)" opacity=".5" stroke-width="1.1667"/>
+ <path id="path29" d="m24.49 18c-0.36517 0-0.66033 0.287-0.66033 0.65567v5.6875c0 0.36517 0.29167 0.65683 0.66033 0.65683h0.50633l-1.1667 1.1667 1.1667 1.1667-1.1632 12.833c-1.2938 0-2.3322 1.0395-2.3322 2.3287 0 0.4235 0.12717 0.82017 0.32317 1.1667l-0.32433 0.0046-1.1667 2.3334h23.333l-1.1667-2.3333-0.32667-0.0046c0.20067-0.3465 0.32783-0.74317 0.32783-1.1667 0-1.2938-1.0453-2.3287-2.3345-2.3287l-1.1655-12.833 1.1667-1.1667-1.1667-1.1667h0.511c0.36867 0 0.66033-0.287 0.66033-0.65683v-5.6875c0-0.36517-0.287-0.65567-0.66033-0.65567h-1.6788v2.3333h-2.3333v-2.3333h-2.3333v2.3333h-2.3333v-2.3334h-2.3333v2.3333h-2.3333v-2.3333" fill="#fff" stroke-width="1.1667"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="25.132" x2="25.132" y1=".98521" y2="47.013" gradientTransform="matrix(.26458 0 0 .25298 4.0601e-6 -.13703)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dadada" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <radialGradient id="c" cx="26.53" cy="23.566" r="17.5" gradientTransform="matrix(-.45777 -.0008961 .00091613 -.46801 23.103 11.548)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".65926" offset="0"/>
+   <stop stop-color="#cecece" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="a" x1="91.308" x2="95.182" y1="98.192" y2="102.07" gradientTransform="matrix(.14954 0 0 -.15945 -5.0754 18.727)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fcfcfc" offset="0"/>
+   <stop stop-color="#c1c1c1" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m1.7198 0.49534c1.535 0 5.5617 6.0324e-4 5.5617 6.0324e-4l3.6985 3.7972 1e-5 7.845h-9.2602v-11.643z" fill="none" stroke="#000" stroke-opacity=".54902" stroke-width=".26458"/>
+ <path d="m1.7198 0.50116c1.535 0 5.544 6.0324e-4 5.544 6.0324e-4l3.7163 3.7914 1e-5 7.8508h-9.2602v-11.643z" fill="url(#b)" stroke-width=".26458"/>
+ <path d="m6.8119 7.0029q0.25062 0.068026 0.42963 0.23272 0.18259 0.16111 0.32581 0.4547l0.77692 1.5861h0.65161v0.37951h-1.2603l-0.83421-1.7006q-0.23988-0.49408-0.44038-0.63729-0.2005-0.14679-0.55136-0.14679h-0.7984v2.1052h0.75544v0.37951h-2.1625v-0.37951h0.68025v-4.5828h-0.68025v-0.38309h2.7103q0.7805 0 1.203 0.37235 0.42605 0.37235 0.42605 1.0562 0 0.55136-0.31149 0.87001-0.3079 0.31507-0.92013 0.39383zm-1.7006-0.21482h1.0562q0.54062 0 0.7984-0.2542 0.25778-0.25778 0.25778-0.79482t-0.25778-0.79124-0.7984-0.2542h-1.0562z" fill="#8542c2"/>
+ <g stroke-width=".26458">
+  <path d="m1.7198 0.50116c1.535 0 5.544 6.0324e-4 5.544 6.0324e-4l3.7163 3.7914 1e-5 7.8508h-9.2602v-11.643z" fill="url(#c)"/>
+  <rect x="5.1942" y=".49534" width="5.7858" height="6.3829" fill="none"/>
+  <path d="m7.7651 3.7602c-0.01197-0.91089 0.02451-2.443-0.48754-3.248 0 0 3.3445 3.3625 3.7025 3.7808 0 0-0.62131-0.49677-3.2152-0.53294z" fill="url(#a)"/>
+ </g>
+</svg>

@@ -1,0 +1,75 @@
+<svg id="svg35" width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs19">
+  <linearGradient id="linearGradient947">
+   <stop id="stop943" stop-color="#859900" offset="0"/>
+   <stop id="stop945" stop-color="#c9e800" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient921">
+   <stop id="stop917" stop-color="#fff" offset="0"/>
+   <stop id="stop919" stop-color="#f0f0f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c">
+   <stop id="stop2" stop-color="#6e3a84" offset="0"/>
+   <stop id="stop4" stop-color="#a75ec4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="24" x2="24" y1="1048.4" y2="1008.4" gradientTransform="matrix(1.5 0 0 1.5 -4 -1510.5)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur13" stdDeviation="0.6"/>
+  </filter>
+  <linearGradient id="linearGradient903" x1="12" x2="18" y1="33" y2="33" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient921"/>
+  <linearGradient id="linearGradient931" x1="30" x2="36" y1="15" y2="15" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient921"/>
+  <linearGradient id="linearGradient933" x1="24" x2="30" y1="21" y2="21" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient921"/>
+  <linearGradient id="linearGradient935" x1="18" x2="24" y1="27" y2="27" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient921"/>
+  <linearGradient id="linearGradient937" x1="30" x2="36" y1="33" y2="33" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient921"/>
+  <linearGradient id="linearGradient939" x1="24" x2="30" y1="33" y2="33" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient921"/>
+  <linearGradient id="linearGradient941" x1="18" x2="24" y1="33" y2="33" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient921"/>
+  <linearGradient id="linearGradient949" x1="30" x2="36" y1="27" y2="27" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient947"/>
+  <linearGradient id="linearGradient957" x1="12" x2="18" y1="27" y2="27" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient947"/>
+  <linearGradient id="linearGradient959" x1="24" x2="30" y1="27" y2="27" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient947"/>
+  <linearGradient id="linearGradient961" x1="30" x2="36" y1="21" y2="21" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient947"/>
+  <filter id="filter1007" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur1009" stdDeviation="0.6"/>
+  </filter>
+ </defs>
+ <circle id="circle21" transform="matrix(1.5 0 0 1.5 -4 -1510.5)" cx="24" cy="1028.4" r="20" filter="url(#e)" opacity=".25" stroke-width=".66667"/>
+ <circle id="circle23" cx="32" cy="32.06" r="0" fill="url(#a)"/>
+ <circle id="circle25" cx="32" cy="32.06" r="30" fill="url(#a)"/>
+ <g id="g989" transform="scale(1.3333)" filter="url(#filter1007)" opacity=".15">
+  <g id="g987">
+   <g id="g985">
+    <path id="path963" d="m18 33c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path965" d="m24 33c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path967" d="m30 33c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path969" d="m36 33c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path971" d="m18 27c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path973" d="m24 27c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path975" d="m30 27c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path977" d="m36 27c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path979" d="m30 21c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path981" d="m36 21c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+    <path id="path983" d="m36 15c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3"/>
+   </g>
+  </g>
+ </g>
+ <g id="g79" transform="scale(1.3333)">
+  <g id="g77">
+   <g id="g75">
+    <path id="path53" d="m18 33c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient903)"/>
+    <g>
+     <path id="path55" d="m24 33c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient941)"/>
+     <path id="path57" d="m30 33c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient939)"/>
+     <path id="path59" d="m36 33c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient937)"/>
+     <path id="path61" d="m18 27c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient957)"/>
+     <path id="path63" d="m24 27c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient935)"/>
+     <path id="path65" d="m30 27c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient959)"/>
+    </g>
+    <path id="path67" d="m36 27c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient949)"/>
+    <g>
+     <path id="path69" d="m30 21c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient933)"/>
+     <path id="path71" d="m36 21c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient961)"/>
+     <path id="path73" d="m36 15c0 1.656-1.344 3-3 3s-3-1.344-3-3 1.344-3 3-3 3 1.344 3 3" fill="url(#linearGradient931)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
