@@ -1,0 +1,35 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="f" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.214308"/>
+  </filter>
+  <linearGradient id="c" x1="8.4665" x2="8.4665" y1="281.39" y2="295.67" gradientTransform="matrix(1.1111 0 0 1.1111 -.94074 -312.12)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f2f2" offset="0"/>
+   <stop stop-color="#fcfcfc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="11.086" x2="11.086" y1="286.86" y2="290.2" gradientTransform="matrix(1.1111 0 0 1.1111 -.94074 -312.12)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5348d" offset="0"/>
+   <stop stop-color="#f53459" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="5.8476" x2="5.8476" y1="286.86" y2="290.2" gradientTransform="matrix(1.1111 0 0 1.1111 -.94074 -312.12)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0083dc" offset="0"/>
+   <stop stop-color="#00c7dc" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.10714" y="-.10714" width="1.2143" height="1.2143" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.1653553"/>
+  </filter>
+  <filter id="d" x="-.10714" y="-.10714" width="1.2143" height="1.2143" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.1653553"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(1.1111 0 0 1.1111 -.94074 -312.12)" cx="8.4665" cy="288.53" r="7.1436" filter="url(#f)" opacity=".15" style="paint-order:stroke markers fill"/>
+ <g>
+  <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#c)" stroke-width="1.1111" style="paint-order:stroke markers fill"/>
+  <g stroke-width=".99949">
+   <path d="m7.4082 8.4235a1.852 1.852 0 1 1-3.7031 0 1.852 1.852 0 0 1 3.7031 0" filter="url(#e)" opacity=".15"/>
+   <path d="m7.4082 8.4235a1.852 1.852 0 1 1-3.7031 0 1.852 1.852 0 0 1 3.7031 0" fill="url(#a)"/>
+   <path d="m13.228 8.4235a1.852 1.852 0 1 1-3.7031 0 1.852 1.852 0 0 1 3.7031 0" filter="url(#d)" opacity=".15"/>
+   <path d="m13.228 8.4235a1.852 1.852 0 1 1-3.7031 0 1.852 1.852 0 0 1 3.7031 0" fill="url(#b)"/>
+  </g>
+ </g>
+</svg>

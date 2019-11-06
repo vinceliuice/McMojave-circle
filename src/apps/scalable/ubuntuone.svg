@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.23812032"/>
+  </filter>
+  <filter id="b" x="-.068143" y="-.053595" width="1.1363" height="1.1072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.20032941"/>
+  </filter>
+  <linearGradient id="a" x1="8.4665" x2="8.4665" y1=".52915" y2="16.404" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff7712" offset="0"/>
+   <stop stop-color="#ff3d62" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-width="1.1111">
+  <circle cx="8.4665" cy="8.4665" r="7.9373" filter="url(#c)" opacity=".15" style="paint-order:stroke markers fill"/>
+  <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#a)" style="paint-order:stroke markers fill"/>
+  <path d="m4.9393 4.0554 0.033333 5.9133s-0.033333 2.4733 2.6178 2.9944c1.5222 0.3 4.4045-0.56889 4.4045-0.56889v-8.3378h-2.2444v6.7345h-2.2467v-4.4889h-1.2822l1.6033-2.2456" filter="url(#b)" opacity=".15"/>
+  <path d="m4.9393 4.0554 0.033333 5.9133s-0.033333 2.4733 2.6178 2.9944c1.5222 0.3 4.4045-0.56889 4.4045-0.56889v-8.3378h-2.2444v6.7345h-2.2467v-4.4889h-1.2822l1.6033-2.2456" fill="#fff"/>
+ </g>
+</svg>
