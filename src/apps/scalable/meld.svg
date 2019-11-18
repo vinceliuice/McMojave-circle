@@ -1,0 +1,33 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276,0,0,1.3276,-510.64,-663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="32.342" x2="32.342" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff850d" offset="0"/>
+   <stop stop-color="#ff2100" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(1.0115,0,0,1.0115,-389.32,-489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#b)" stroke-width="1.0115"/>
+ <path d="m31.964 2c-13.022 0-24.104 8.2962-28.253 19.892-0.04344 0.93363-0.04509 1.8785-0.0042 2.8393 0.52816 12.416 10.654 24.876 24.454 23.383 7.8841-0.85346 14.188-8.3502 10.163-14.748-1.2789-2.0325-4.3851-2.2077-5.8457-1.2333 7.0179-0.19802 3.5919 8.1619-2.5738 9.4384-8.424 1.7432-14.89-6.3959-15.473-13.97-1.0904-14.153 12.597-24.177 25.687-24.131 0.41249 2e-3 0.82225 0.012999 1.2291 0.029999-2.9519-0.97118-6.1061-1.4989-9.3833-1.4989m7.1385 14.556c-0.40345-5e-3 -0.82225 6e-3 -1.2334 0.0258-0.42387 0.0199-0.85789 0.0604-1.289 0.10702-7.8841 0.85346-14.188 8.3502-10.163 14.749 1.2789 2.0325 4.3851 2.2077 5.8457 1.2333-7.018 0.19802-3.5919-8.1619 2.5738-9.4384 8.424-1.7432 14.89 6.3959 15.473 13.97 1.0633 13.801-11.93 23.676-24.714 24.114 2.0524 0.44358 4.1831 0.68093 6.3684 0.68093 13.958 0 25.69-9.535 29.041-22.444-0.73291-11.478-9.5808-22.839-21.901-22.996" fill="url(#a)" stroke-width=".12582"/>
+ <text x="173.99921" y="34.218311" font-family="'Gentium Book Basic'" font-size="16.26px" letter-spacing="0" stroke-width=".12582" word-spacing="0" style="line-height:0%"><tspan x="173.99921" y="34.218311" stroke-width=".12582"/></text>
+ <text transform="scale(4.0128 .2492)" x="68.157654" y="93.381805" font-family="Arial" font-size="5.9077px" stroke-width=".12582" text-anchor="middle"/>
+ <text x="247.13495" y="24.15267" font-family="'Gentium Book Basic'" font-size="16.26px" letter-spacing="0" stroke-width=".12582" word-spacing="0" style="line-height:0%"><tspan x="247.13495" y="24.15267" stroke-width=".12582"/></text>
+ <text transform="scale(4.0128 .2492)" x="86.382675" y="52.988556" font-family="Arial" font-size="5.9077px" stroke-width=".12582" text-anchor="middle"/>
+ <text x="112.30811" y="1.346426" font-family="'Gentium Book Basic'" font-size="16.26px" letter-spacing="0" stroke-width=".12582" word-spacing="0" style="line-height:0%"><tspan x="112.30811" y="1.346426" stroke-width=".12582"/></text>
+ <text transform="scale(4.0128 .2492)" x="52.783707" y="-38.526581" font-family="Arial" font-size="5.9077px" stroke-width=".12582" text-anchor="middle"/>
+ <text x="250.46541" y="-25.889948" font-family="'Gentium Book Basic'" font-size="16.26px" letter-spacing="0" stroke-width=".12582" word-spacing="0" style="line-height:0%"><tspan x="250.46541" y="-25.889948" stroke-width=".12582"/></text>
+ <text transform="scale(4.0128 .2492)" x="87.213081" y="-147.82254" font-family="Arial" font-size="5.9077px" stroke-width=".12582" text-anchor="middle"/>
+ <text x="323.60114" y="-35.955593" font-family="'Gentium Book Basic'" font-size="16.26px" letter-spacing="0" stroke-width=".12582" word-spacing="0" style="line-height:0%"><tspan x="323.60114" y="-35.955593" stroke-width=".12582"/></text>
+ <text transform="scale(4.0128 .2492)" x="105.4381" y="-188.21451" font-family="Arial" font-size="5.9077px" stroke-width=".12582" text-anchor="middle"/>
+ <text x="274.64185" y="-95.393242" font-family="'Gentium Book Basic'" font-size="16.26px" letter-spacing="0" stroke-width=".12582" word-spacing="0" style="line-height:0%"><tspan x="274.64185" y="-95.393242" stroke-width=".12582"/></text>
+ <text transform="scale(4.0128 .2492)" x="93.237343" y="-426.72513" font-family="Arial" font-size="5.9077px" stroke-width=".12582" text-anchor="middle"/>
+ <text x="347.77631" y="-105.46015" font-family="'Gentium Book Basic'" font-size="16.26px" letter-spacing="0" stroke-width=".12582" word-spacing="0" style="line-height:0%"><tspan x="347.77631" y="-105.46015" stroke-width=".12582"/></text>
+ <text transform="scale(4.0128 .2492)" x="111.46236" y="-467.11832" font-family="Arial" font-size="5.9077px" stroke-width=".12582" text-anchor="middle"/>
+ <text x="117.17233" y="72.540764" font-family="'Gentium Book Basic'" font-size="26.212px" letter-spacing="0" stroke-width=".12582" word-spacing="0" style="line-height:0%"><tspan x="117.17233" y="72.540764" stroke-width=".12582"/></text>
+</svg>

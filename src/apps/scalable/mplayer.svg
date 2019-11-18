@@ -1,0 +1,32 @@
+<svg id="Calculator" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c" x1="520" x2="520" y1="4" y2="1024" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fec589" offset="0"/>
+   <stop stop-color="#f34f17" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.1435"/>
+  </filter>
+  <filter id="b" x="-.041065" y="-.032047" width="1.0821" height="1.0641" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.215463"/>
+  </filter>
+  <linearGradient id="d" x1="32.035" x2="32.035" y1="2.066" y2="62.068" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ececec" offset="0"/>
+   <stop stop-color="#f6f6f6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="649.99" x2="649.99" y1="691.58" y2="827.72" gradientTransform="matrix(2.1429 0 0 2.1429 -826.35 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cf30ac" offset="0"/>
+   <stop stop-color="#ab31f8" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="circle" transform="matrix(.063633 0 0 .063633 -.56761 -.53897)" fill="url(#c)" stroke-width="15.683">
+  <g fill="url(#c)" stroke-width="15.683">
+   <path d="m983.25 511.35c0-7.95-0.2-15.85-0.5-23.55q-8-180.15-137.55-309.85c-92.05-92-203.2-138.05-333.4-138.05-130.15 0-241.35 46.05-333.35 138.05-92.05 92-138.1 203.2-138.1 333.4 0 130.15 46.05 241.35 138.1 333.35 86.15 86.3 189.35 132.15 309.15 137.6 8 0.3 16 0.5 24.2 0.5 130.2 0 241.35-46.1 333.4-138.1 92-92 138.05-203.2 138.05-333.35z" fill="#000" filter="url(#f)" opacity=".25"/>
+  </g>
+ </g>
+ <circle cx="32.035" cy="32.067" r="30.001" fill="url(#d)" stroke-width="2.1429"/>
+ <g transform="matrix(.063762 0 0 .063762 -.61424 -.678)">
+  <path transform="matrix(1.2589,0,0,1.2589,-113.91,-127.03)" d="m455.9 405.95q-7.55-5.25-16.6-4.1c-6.05 0.75-11.05 3.4-15.1 7.95s-6.1 9.9-6.1 16v192.5c0 6.1 2.05 11.45 6.1 16s9.05 7.2 15.1 7.95 11.55-0.65 16.6-4.1l139.65-96.25c4.45-3.05 7.5-7.15 9.2-12.2 1.7-5.1 1.7-10.2 0-15.25s-4.75-9.15-9.15-12.25z" filter="url(#b)" opacity=".2" stroke-width="15.683"/>
+  <path d="m460 371.41q-9.5044-6.609-20.897-5.1613c-7.6161 0.94414-13.91 4.2801-19.009 10.008-5.0984 5.7278-7.679 12.463-7.679 20.142v242.33c0 7.679 2.5806 14.414 7.679 20.142 5.0984 5.7278 11.393 9.0638 19.009 10.008 7.6161 0.94414 14.54-0.81825 20.897-5.1613l175.8-121.16c5.6019-3.8395 9.4414-9.0008 11.581-15.358 2.14-6.4202 2.14-12.84 0-19.198-2.1401-6.3572-5.9796-11.519-11.519-15.421z" fill="url(#a)" stroke-width="19.743"/>
+ </g>
+</svg>
