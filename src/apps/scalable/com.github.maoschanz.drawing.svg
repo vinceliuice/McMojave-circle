@@ -1,0 +1,58 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="d" x="-.058883" y="-.061161" width="1.1178" height="1.1223" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="10.562379"/>
+  </filter>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <clipPath id="k">
+   <rect transform="scale(-1)" x="-120" y="-282" width="112" height="82" rx="8" ry="8" fill="#f6f5f4" style="paint-order:normal"/>
+  </clipPath>
+  <linearGradient id="e" x1="-48" x2="-24" y1="248" y2="248" gradientTransform="matrix(.83333 0 0 .95455 -278.5 -124.98)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#e01b24" offset="0"/>
+   <stop stop-color="#f66151" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="-42" x2="-30" y1="194" y2="194" gradientTransform="rotate(-90 69.125 203.38)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="j" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.0798828"/>
+  </filter>
+  <linearGradient id="g" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276,0,0,1.3276,-510.64,-663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="i" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.37201172"/>
+  </filter>
+  <filter id="h" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.62001954"/>
+  </filter>
+  <linearGradient id="f" x1="31.981" x2="31.981" y1="1.9784" y2="61.975" gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ebe8e8" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(1.0115 0 0 1.0115 -389.32 -489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#f)" stroke-width="1.0115"/>
+ <path d="m37.064 61.793 24.801-24.801c-12.749 2.0391-22.761 12.052-24.801 24.801z" filter="url(#i)" opacity=".15"/>
+ <path d="m31.98 1.9785c-16.619 0-29.998 13.379-29.998 29.998 0 16.619 13.379 29.998 29.998 29.998h0.001953c1.6389 0 3.2444-0.13427 4.8105-0.38476l24.801-24.801c0.25053-1.5662 0.38672-3.1735 0.38672-4.8125 0-16.619-13.379-29.998-29.998-29.998h-0.001953z" fill="url(#g)"/>
+ <path transform="matrix(.5024 0 0 .5024 -2.9613 -88.951)" d="m117.29 187.67-63.398 63.396 1.4141 1.4141-7.0703 15.557 2.8281 2.8281 15.557-7.0703 1.4141 1.4141 63.396-63.398z" clip-path="url(#k)" enable-background="new" fill-opacity=".29167" filter="url(#j)"/>
+ <g transform="matrix(.5024 0 0 .5024 -1.9565 -88.951)">
+  <path d="m21.901 230.5c13.385 4.5427-5.5887 17.696 13.921 18.944 11.465 0.73361 11.376 16.553 11.376 16.553" fill="none" stroke="#e01b24" stroke-linecap="round" stroke-width="4"/>
+  <g transform="translate(0,2)" enable-background="new">
+   <g transform="rotate(-45 -2.4796 293.84)">
+    <g>
+     <rect transform="rotate(-90)" x="-318.5" y="69.75" width="20" height="84" enable-background="new" fill="url(#e)"/>
+     <rect transform="rotate(-90)" x="-318.5" y="137.75" width="20" height="4" enable-background="new" fill="#3d3846"/>
+     <rect transform="rotate(-90)" x="-318.5" y="81.75" width="20" height="4" enable-background="new" fill="#3d3846"/>
+     <path d="m69.75 316.5v-16l-16 6v4z" enable-background="new" fill="url(#b)"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-318.5" y="-71.75" width="20" height="2" enable-background="new" fill-opacity=".25926"/>
+    <path d="m101.75 298.5a10 5 0 0 0 10 5 10 5 0 0 0 10-5z" enable-background="new" fill="#3d3846"/>
+   </g>
+  </g>
+ </g>
+ <path d="m36.115 61.454 24.801-24.801c-12.749 2.0391-22.761 12.052-24.801 24.801z" filter="url(#h)" opacity=".05"/>
+ <path d="m36.793 61.59 24.801-24.801c-12.749 2.0391-22.761 12.052-24.801 24.801z" fill="#fff"/>
+</svg>

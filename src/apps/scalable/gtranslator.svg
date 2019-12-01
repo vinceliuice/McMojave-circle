@@ -1,0 +1,53 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <linearGradient id="g" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276,0,0,1.3276,-510.64,-663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="i" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.37201172"/>
+  </filter>
+  <filter id="h" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.62001954"/>
+  </filter>
+  <linearGradient id="f" x1="31.981" x2="31.981" y1="1.9784" y2="61.975" gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ebe8e8" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.12251" y="-.13797" width="1.245" height="1.2759" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.7719783"/>
+  </filter>
+  <filter id="d" x="-.13285" y="-.14325" width="1.2657" height="1.2865" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.7719782"/>
+  </filter>
+  <filter id="b" x="-.12259" y="-.14356" width="1.2452" height="1.2871" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.7719783"/>
+  </filter>
+  <filter id="a" x="-.15683" y="-.14584" width="1.3137" height="1.2917" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.7719783"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(1.0115 0 0 1.0115 -389.32 -489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#f)" stroke-width="1.0115"/>
+ <path d="m37.064 61.793 24.801-24.801c-12.749 2.0391-22.761 12.052-24.801 24.801z" filter="url(#i)" opacity=".15"/>
+ <path d="m31.98 1.9785c-16.619 0-29.998 13.379-29.998 29.998s13.379 29.998 29.998 29.998h0.001953c1.6389 0 3.2444-0.13427 4.8105-0.38476l24.801-24.801c0.25053-1.5662 0.38672-3.1735 0.38672-4.8125 0-16.619-13.379-29.998-29.998-29.998h-0.001953z" fill="url(#g)"/>
+ <path d="m36.115 61.454 24.801-24.801c-12.749 2.0391-22.761 12.052-24.801 24.801z" filter="url(#h)" opacity=".05"/>
+ <path d="m36.793 61.59 24.801-24.801c-12.749 2.0391-22.761 12.052-24.801 24.801z" fill="#fff"/>
+ <g transform="matrix(.46901 0 0 .46901 10.415 16.553)">
+  <g transform="matrix(1.0258 0 0 .97483 -16.187 -205.04)" enable-background="new" fill="#241f31" fill-opacity=".14118" aria-label="A">
+   <path d="m44.674 273.14h-10.92l-1.96 5.88h-6.12l-0.0033-2.0516 10.363-27.108h6.64l10.114 27.108-0.03423 2.0516h-6.16zm-1.64-5-3.8-11.4-3.8 11.4z" fill="#241f31" fill-opacity=".14118" filter="url(#a)" stroke-width="1.1045"/>
+  </g>
+  <g font-family="FreeSans" font-weight="bold" stroke-width="1.1045" text-anchor="middle">
+   <text transform="scale(.97201 1.0288)" x="70.080254" y="30.758972" enable-background="new" fill="#241f31" fill-opacity=".14118" filter="url(#d)" font-size="50.667px" text-align="center" style="line-height:0%" xml:space="preserve"><tspan x="70.080254" y="30.758972" fill="#241f31" fill-opacity=".14118" font-size="40px" stroke-width="1.1045">𝛀</tspan></text>
+   <text transform="scale(1.0258 .97483)" x="23.440098" y="66.634735" enable-background="new" fill="#5e5c64" font-size="40px" text-align="center" style="line-height:0%" xml:space="preserve"><tspan x="23.440098" y="66.634735" fill="#5e5c64" font-size="40px" stroke-width="1.1045">A</tspan></text>
+   <text transform="scale(.97201 1.0288)" x="70.080254" y="28.814955" enable-background="new" fill="#5e5c64" font-size="50.667px" text-align="center" style="line-height:0%" xml:space="preserve"><tspan x="70.080254" y="28.814955" fill="#5e5c64" font-size="40px" stroke-width="1.1045">𝛀</tspan></text>
+  </g>
+  <path d="m36.386 14.154 1.5814 4.8327 11.022-12.144v-2.937l-16.02-5.0848 0.05112 2.8059 0.88396 4.6019c-14.025 7.0668-19.63 18.489-19.63 19.01v2.937l8.9031 1.469c2.0139-8.5135 6.9613-12.819 13.208-15.491z" enable-background="new" fill="#424040" fill-opacity=".14118" filter="url(#e)"/>
+  <path d="m36.386 11.217 1.5814 4.8326 11.022-12.144-16.02-5.0848 0.93508 4.4708c-15.805 7.9637-17.454 14.937-19.63 21.947l8.5349 1.5099c2.0139-8.5135 7.3295-12.86 13.576-15.532z" enable-background="new" fill="#33d17a"/>
+  <path d="m56.458 54.239-1.5814-4.8327-11.91 9.358 0.0076 2.7863 16.073 5.4989-0.08702-3.2594-0.51287-1.5072c15.805-7.9637 18.684-18.563 19.196-21.086l0.01508-3.7722-7.6234 1.2821c-2.0139 8.5135-7.3295 12.86-13.576 15.532z" enable-background="new" fill-opacity=".14191" filter="url(#b)"/>
+  <path d="m55.558 51.466-1.5814-4.8326-11.022 12.144 16.02 5.0848-0.93508-4.4708c15.805-7.9637 17.454-14.937 19.63-21.947l-8.5349-1.5099c-2.0139 8.5135-7.3295 12.86-13.576 15.532z" enable-background="new" fill="#33d17a"/>
+ </g>
+</svg>
