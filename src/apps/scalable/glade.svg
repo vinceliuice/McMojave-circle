@@ -1,0 +1,35 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="d" x="-.058883" y="-.061161" width="1.1178" height="1.1223" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="10.562379"/>
+  </filter>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <linearGradient id="a" x1="32" x2="32" y1="22" y2="54" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4cde04" offset="0"/>
+   <stop stop-color="#7ae317" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.05" y="-.075" width="1.1" height="1.15" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(1.0115 0 0 1.0115 -389.32 -489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#b)" stroke-width="1.0115"/>
+ <g transform="translate(0,-4)" fill="#b3b3b3">
+  <rect x="11" y="20" width="42" height="1" opacity=".5"/>
+  <rect x="11" y="24" width="42" height="1" opacity=".5"/>
+  <rect x="11" y="47" width="42" height="1" opacity=".5"/>
+  <rect x="11" y="51" width="42" height="1" opacity=".5"/>
+  <rect transform="rotate(90)" x="18" y="-15" width="36" height="1" opacity=".5"/>
+  <rect transform="rotate(90)" x="18" y="-50" width="36" height="1" opacity=".5"/>
+ </g>
+ <path d="m8 54h48v-32zm41-7h-18l18-12z" filter="url(#e)" opacity=".15" stroke-width="1.1606"/>
+ <path d="m8 54h48v-32zm41-7h-18l18-12z" fill="url(#a)" stroke-width="1.1606"/>
+ <circle cx="21.5" cy="26.5" r="2" fill="none" stroke="#c9caca" stroke-miterlimit="10"/>
+ <circle cx="21.5" cy="36.5" r="2" fill="none" stroke="#c9caca" stroke-miterlimit="10"/>
+</svg>
