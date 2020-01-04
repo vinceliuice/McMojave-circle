@@ -166,6 +166,9 @@ while [[ $# -gt 0 ]]; do
     -pink)
       theme="-pink"
       ;;
+    -purple)
+      theme="-purple"
+      ;;
     -red)
       theme="-red"
       ;;
