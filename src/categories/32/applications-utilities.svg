@@ -26,10 +26,10 @@
   <filter id="h" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.125"/>
   </filter>
-  <linearGradient id="c" x1="16" x2="16" y1="6" y2="14" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5d5d5d" stop-opacity="0" offset="0"/>
-   <stop stop-color="#030303" offset="1"/>
-  </linearGradient>
+  <radialGradient id="c" cx="15.851" cy="20.863" r="13.734" gradientTransform="matrix(1 0 0 .32764 0 3.698)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".62745" offset="0"/>
+   <stop stop-color="#030303" stop-opacity="0" offset="1"/>
+  </radialGradient>
  </defs>
  <circle cx="16" cy="16" r="15" fill-rule="evenodd" filter="url(#g)" opacity=".25" style="paint-order:fill markers stroke"/>
  <circle cx="16" cy="16" r="15" fill="url(#f)" fill-rule="evenodd" style="paint-order:fill markers stroke"/>
@@ -39,9 +39,7 @@
  </g>
  <path d="m7.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill-rule="evenodd" filter="url(#i)" opacity=".25" style="paint-order:normal"/>
  <path d="m7.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill="url(#e)" fill-rule="evenodd" style="paint-order:normal"/>
- <g>
-  <path d="m24.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill-rule="evenodd" filter="url(#h)" opacity=".25" style="paint-order:normal"/>
-  <path d="m24.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill="url(#d)" fill-rule="evenodd" style="paint-order:normal"/>
-  <path d="m16 1a15 15 0 0 0-13.74 9h27.469a15 15 0 0 0-13.729-9z" fill="url(#c)" opacity=".35" style="paint-order:fill markers stroke"/>
- </g>
+ <path d="m24.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill-rule="evenodd" filter="url(#h)" opacity=".25" style="paint-order:normal"/>
+ <path d="m24.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill="url(#d)" fill-rule="evenodd" style="paint-order:normal"/>
+ <path d="m16 1a15 15 0 0 0-13.74 9h27.469a15 15 0 0 0-13.729-9z" fill="url(#c)" opacity=".35" style="paint-order:fill markers stroke"/>
 </svg>
