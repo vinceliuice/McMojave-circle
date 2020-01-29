@@ -1,0 +1,44 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+  <linearGradient id="b" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#33393e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="25.499" x2="25.499" y1="22.415" y2="33.865" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f15119" offset="0"/>
+   <stop stop-color="#f2302b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="36.942" x2="36.942" y1="20.085" y2="33.083" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7fcc28" offset="0"/>
+   <stop stop-color="#28cc82" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="38.502" x2="38.502" y1="32.299" y2="43.75" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fbb909" offset="0"/>
+   <stop stop-color="#e6fb09" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="27.057" x2="27.057" y1="33.084" y2="46.085" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#007cec" offset="0"/>
+   <stop stop-color="#00ecb8" offset="1"/>
+  </linearGradient>
+  <filter id="f" x="-.059995" y="-.060005" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.65005597"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" cx="512" cy="512" r="478.12" filter="url(#g)" opacity=".25" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(1.4613 0 0 1.4615 -14.762 -16.354)" filter="url(#f)" opacity=".35">
+  <path d="m35.72 20.736c-4.477-2.586-4.504 3.367-4.504 3.367l0.785 8.98 8.168-3.813s5.145-3 0.668-5.586c-1.383-0.797-2.398-0.816-3.148-0.457-0.066-0.824-0.586-1.695-1.969-2.496"/>
+  <path d="m32.001 33.084 3.813 8.168s3 5.145 5.582 0.668c0.797-1.383 0.813-2.398 0.457-3.148 0.828-0.066 1.699-0.586 2.5-1.969 2.582-4.477-3.371-4.504-3.371-4.504l-8.977 0.785"/>
+  <path d="m32.001 33.084-8.172 3.813s-5.141 3-0.668 5.582c1.383 0.797 2.402 0.813 3.148 0.457 0.066 0.828 0.586 1.699 1.969 2.5 4.477 2.582 4.504-3.371 4.504-3.371l-0.781-8.977"/>
+  <path d="m32.001 33.084-3.813-8.172s-3-5.141-5.586-0.668c-0.797 1.383-0.813 2.402-0.457 3.148-0.824 0.066-1.695 0.586-2.496 1.969-2.586 4.477 3.367 4.504 3.367 4.504l8.98-0.781"/>
+ </g>
+ <g transform="matrix(1.4613 0 0 1.4615 -14.762 -16.354)">
+  <path d="m35.72 20.736c-4.477-2.586-4.504 3.367-4.504 3.367l0.785 8.98 8.168-3.813s5.145-3 0.668-5.586c-1.383-0.797-2.398-0.816-3.148-0.457-0.066-0.824-0.586-1.695-1.969-2.496" fill="url(#d)"/>
+  <path d="m32.001 33.084 3.813 8.168s3 5.145 5.582 0.668c0.797-1.383 0.813-2.398 0.457-3.148 0.828-0.066 1.699-0.586 2.5-1.969 2.582-4.477-3.371-4.504-3.371-4.504l-8.977 0.785" fill="url(#c)"/>
+  <path d="m32.001 33.084-8.172 3.813s-5.141 3-0.668 5.582c1.383 0.797 2.402 0.813 3.148 0.457 0.066 0.828 0.586 1.699 1.969 2.5 4.477 2.582 4.504-3.371 4.504-3.371l-0.781-8.977" fill="url(#a)"/>
+  <path d="m32.001 33.084-3.813-8.172s-3-5.141-5.586-0.668c-0.797 1.383-0.813 2.402-0.457 3.148-0.824 0.066-1.695 0.586-2.496 1.969-2.586 4.477 3.367 4.504 3.367 4.504l8.98-0.781" fill="url(#e)"/>
+ </g>
+</svg>
