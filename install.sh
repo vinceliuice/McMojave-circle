@@ -74,22 +74,26 @@ install() {
     mkdir -p                                                                           ${THEME_DIR}/status
 
     cp -ur ${SRC_DIR}/src/actions/{16,22,24}                                           ${THEME_DIR}/actions
-    cp -ur ${SRC_DIR}/src/devices/16                                                   ${THEME_DIR}/devices
-    cp -ur ${SRC_DIR}/src/places/16                                                    ${THEME_DIR}/places
+    cp -ur ${SRC_DIR}/src/devices/{16,22,24}                                           ${THEME_DIR}/devices
+    cp -ur ${SRC_DIR}/src/places/{16,22,24}                                            ${THEME_DIR}/places
     cp -ur ${SRC_DIR}/src/status/{16,22,24}                                            ${THEME_DIR}/status
 
     cd ${THEME_DIR}/actions/16 && sed -i "s/#565656/#dedede/g" `ls`
     cd ${THEME_DIR}/actions/22 && sed -i "s/#565656/#dedede/g" `ls`
     cd ${THEME_DIR}/actions/24 && sed -i "s/#565656/#dedede/g" `ls`
     cd ${THEME_DIR}/devices/16 && sed -i "s/#565656/#dedede/g" `ls`
+    cd ${THEME_DIR}/devices/22 && sed -i "s/#565656/#dedede/g" `ls`
+    cd ${THEME_DIR}/devices/24 && sed -i "s/#565656/#dedede/g" `ls`
     cd ${THEME_DIR}/places/16 && sed -i "s/#565656/#dedede/g" `ls`
+    cd ${THEME_DIR}/places/22 && sed -i "s/#565656/#dedede/g" `ls`
+    cd ${THEME_DIR}/places/24 && sed -i "s/#565656/#dedede/g" `ls`
     cd ${THEME_DIR}/status/16 && sed -i "s/#363636/#dedede/g" `ls`
     cd ${THEME_DIR}/status/22 && sed -i "s/#363636/#dedede/g" `ls`
     cd ${THEME_DIR}/status/24 && sed -i "s/#363636/#dedede/g" `ls`
 
     cp -ur ${SRC_DIR}/links/actions/{16,22,24}                                         ${THEME_DIR}/actions
-    cp -ur ${SRC_DIR}/links/devices/16                                                 ${THEME_DIR}/devices
-    cp -ur ${SRC_DIR}/links/places/16                                                  ${THEME_DIR}/places
+    cp -ur ${SRC_DIR}/links/devices/{16,22,24}                                         ${THEME_DIR}/devices
+    cp -ur ${SRC_DIR}/links/places/{16,22,24}                                          ${THEME_DIR}/places
     cp -ur ${SRC_DIR}/links/status/{16,22,24}                                          ${THEME_DIR}/status
 
     cd ${dest}

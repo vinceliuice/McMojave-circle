@@ -26,7 +26,7 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 #Directory list
-Directories=actions/16,actions/22,actions/24,actions/symbolic,animations/16,animations/22,animations/24,apps/scalable,apps/symbolic,categories/32,places/symbolic,places/48,places/16,mimes/48,mimes/symbolic,devices/scalable,devices/symbolic,devices/16,emblems/16,emblems/22,emblems/24,emblems/symbolic,status/16,status/22,status/24,status/32,status/symbolic,actions@2x/16,actions@2x/22,actions@2x/24,actions@2x/symbolic,animations@2x/16,animations@2x/22,animations@2x/24,apps@2x/scalable,apps@2x/symbolic,categories@2x/32,places@2x/symbolic,places@2x/48,places@2x/16,mimes@2x/48,mimes@2x/symbolic,devices@2x/scalable,devices@2x/symbolic,devices@2x/16,emblems@2x/16,emblems@2x/22,emblems@2x/24,emblems@2x/symbolic,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
+Directories=actions/16,actions/22,actions/24,actions/symbolic,animations/16,animations/22,animations/24,apps/scalable,apps/symbolic,categories/32,places/symbolic,places/48,places/16,places/22,places/24,mimes/48,mimes/symbolic,devices/scalable,devices/symbolic,devices/16,devices/22,devices/24,emblems/16,emblems/22,emblems/24,emblems/symbolic,status/16,status/22,status/24,status/32,status/symbolic,actions@2x/16,actions@2x/22,actions@2x/24,actions@2x/symbolic,animations@2x/16,animations@2x/22,animations@2x/24,apps@2x/scalable,apps@2x/symbolic,categories@2x/32,places@2x/symbolic,places@2x/48,places@2x/16,places@2x/22,places@2x/24,mimes@2x/48,mimes@2x/symbolic,devices@2x/scalable,devices@2x/symbolic,devices@2x/16,devices@2x/22,devices@2x/24,emblems@2x/16,emblems@2x/22,emblems@2x/24,emblems@2x/symbolic,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
 
 [actions/16]
 Size=16
@@ -91,6 +91,16 @@ Size=16
 Context=Devices
 Type=Fixed
 
+[devices/22]
+Size=22
+Context=Devices
+Type=Fixed
+
+[devices/24]
+Size=24
+Context=Devices
+Type=Fixed
+
 [devices/scalable]
 Size=64
 Context=Devices
@@ -145,6 +155,16 @@ Type=Scalable
 
 [places/16]
 Size=16
+Context=Places
+Type=Fixed
+
+[places/22]
+Size=22
+Context=Places
+Type=Fixed
+
+[places/24]
+Size=24
 Context=Places
 Type=Fixed
 
@@ -272,6 +292,18 @@ Scale=2
 Context=Devices
 Type=Fixed
 
+[devices@2x/22]
+Size=22
+Scale=2
+Context=Devices
+Type=Fixed
+
+[devices@2x/24]
+Size=24
+Scale=2
+Context=Devices
+Type=Fixed
+
 [devices@2x/scalable]
 Size=64
 Context=Devices
@@ -333,6 +365,18 @@ Type=Scalable
 
 [places@2x/16]
 Size=16
+Scale=2
+Context=Places
+Type=Fixed
+
+[placess@2x/22]
+Size=22
+Scale=2
+Context=Places
+Type=Fixed
+
+[placess@2x/24]
+Size=24
 Scale=2
 Context=Places
 Type=Fixed
