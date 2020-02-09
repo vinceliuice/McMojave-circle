@@ -1,0 +1,38 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="g" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+  <linearGradient id="b" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#3e454a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="31.458" x2="31.458" y1="36.898" y2="59.898" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff5514" offset="0"/>
+   <stop stop-color="#ff9014" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="31.458" x2="31.458" y1="51.726" y2="62.898" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1776ff" offset="0"/>
+   <stop stop-color="#2fceff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="31.458" x2="31.458" y1="46.898" y2="56.898" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c0e5fb" offset="0"/>
+   <stop stop-color="#c3faff" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.065454" y="-.055385" width="1.1309" height="1.1108" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.59999875"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" cx="512" cy="512" r="478.12" filter="url(#g)" opacity=".25" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(1.2308 0 0 1.2308 -6.7172 -29.414)" clip-rule="evenodd" fill-rule="evenodd" filter="url(#e)" opacity=".35">
+  <path d="m29.39 51.726-0.93164 2.1719 3 9 3-9-0.93164-2.1719z" enable-background="new" style="paint-order:normal"/>
+  <path d="m29.458 36.898-9 23h4l7-17 7 17h4l-9-23z" enable-background="new" style="paint-order:normal"/>
+  <path d="m31.458 46.898-2.0684 4.8281 2.0684 5.1719 2.0684-5.1719z" enable-background="new" style="paint-order:normal"/>
+ </g>
+ <g transform="matrix(1.2308 0 0 1.2308 -6.7172 -29.414)" clip-rule="evenodd" fill-rule="evenodd">
+  <path d="m29.39 51.726-0.93164 2.1719 3 9 3-9-0.93164-2.1719z" enable-background="new" fill="url(#c)" style="paint-order:normal"/>
+  <path d="m29.458 36.898-9 23h4l7-17 7 17h4l-9-23z" enable-background="new" fill="url(#d)" style="paint-order:normal"/>
+  <path d="m31.458 46.898-2.0684 4.8281 2.0684 5.1719 2.0684-5.1719z" enable-background="new" fill="url(#a)" style="paint-order:normal"/>
+ </g>
+</svg>
