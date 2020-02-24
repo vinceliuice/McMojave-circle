@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="f" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+  <linearGradient id="a" x1="32" x2="32" y1="4.4929" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#efca6b" offset="0"/>
+   <stop stop-color="#e4c030" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.075" y="-.05" width="1.15" height="1.1" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.875"/>
+  </filter>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.25"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" cx="512" cy="512" r="478.12" filter="url(#f)" opacity=".15" stroke-width="15.938" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="30" fill="url(#a)" style="paint-order:stroke markers fill"/>
+ <g>
+  <rect x="18" y="11" width="28" height="42" ry="3" filter="url(#c)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <rect x="18" y="11" width="28" height="42" ry="3" fill="#cc8a30" style="paint-order:stroke fill markers"/>
+  <path d="m29 40c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-6zm5 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1zm-3 2a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" filter="url(#b)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <rect x="28" y="41" width="8" height="6" ry="0" fill="#cc8e22" style="paint-order:stroke fill markers"/>
+  <path d="m29 40c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-6c0-1.108-0.892-2-2-2h-6zm5 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1zm-3 2a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" fill="#ffb22b" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m21 14v20h22v-20zm2 2h18v16h-18z" fill="#fff" stroke-width="1.8257"/>
+ <path d="m31 14v18h-4v5h10v-5h-4v-18z" fill="#ccc" stroke-width="1.7303"/>
+</svg>
