@@ -51,6 +51,10 @@ install() {
   cp -ur ${SRC_DIR}/AUTHORS                                                            ${THEME_DIR}
   cp -ur ${SRC_DIR}/src/index.theme                                                    ${THEME_DIR}
 
+  if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' ]]; then
+    sed -i "s/Adwaita/breeze/g" ${THEME_DIR}/index.theme
+  fi
+
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 

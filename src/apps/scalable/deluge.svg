@@ -1,0 +1,33 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="399.99" x2="399.99" y1="545.14" y2="518.14" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#197ff1" offset="0"/>
+   <stop stop-color="#21c6fb" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <linearGradient id="d" x1="31.397" x2="31.397" y1="20.169" y2="46.169" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#dcdcdc" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.069" y="-.053077" width="1.138" height="1.1062" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.575"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
+ <g stroke-width="1.5715">
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#a)"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
+  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
+ </g>
+ <g transform="matrix(1.4 0 0 1.4 -11.956 -14.436)">
+  <path d="m21.397 38.169c0-7 10-18 10-18s10 11 10 18c0 4-2 8-9 8s-11-3-11-8z" fill="#000000" filter="url(#e)" opacity=".15" style="paint-order:normal"/>
+  <path d="m21.397 38.169c0-7 10-18 10-18s10 11 10 18c0 4-2 8-9 8s-11-3-11-8z" fill="url(#d)" opacity=".9" style="paint-order:normal"/>
+  <path d="m30.397 28.169c-2 0-2.8289 0.46684-4 1-1.7933 2.5-3 5-3 8 0 4 4 8 8 8 4.3813 0 6-1 7-2-0.773-0.824-1.6138-1.0841-3-1.5-5-1.5-6-4.5-6-6.5 0-1.8538 1-4 3-4s3.5 1.5 3.5 1.5c-0.82469-2.5-1.5-4.5-5.5-4.5z" fill="#000000" opacity=".1"/>
+ </g>
+</svg>
