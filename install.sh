@@ -51,16 +51,22 @@ install() {
   cp -ur ${SRC_DIR}/AUTHORS                                                            ${THEME_DIR}
   cp -ur ${SRC_DIR}/src/index.theme                                                    ${THEME_DIR}
 
-  if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' ]]; then
+  if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' && ${color} == '' ]]; then
     sed -i "s/Adwaita/breeze/g" ${THEME_DIR}/index.theme
+  fi
+
+  if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' && ${color} == '-dark' ]]; then
+    sed -i "s/Adwaita/breeze-dark/g" ${THEME_DIR}/index.theme
   fi
 
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
   if [[ ${color} == '' ]]; then
-    cp -ur ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places,status}  ${THEME_DIR}
-    cp -r ${SRC_DIR}/links/{actions,apps,devices,emblems,mimes,places,status}                       ${THEME_DIR}
+    mkdir -p                                                                               ${THEME_DIR}/status
+    cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
+    cp -r ${SRC_DIR}/src/status/{16,22,24,32,symbolic}                                     ${THEME_DIR}/status
+    cp -r ${SRC_DIR}/links/{actions,apps,devices,emblems,mimes,places,status}              ${THEME_DIR}
   fi
 
   if [[ ${color} == '' && ${theme} != '' ]]; then
@@ -69,6 +75,10 @@ install() {
 
   if [[ ${circle} == 'true' && ${theme} == '' && ${color} == '' ]]; then
     cp -r ${SRC_DIR}/circle-folder/*.svg                                               ${THEME_DIR}/places/48
+  fi
+
+  if [[ ${color} == '' && $DESKTOP_SESSION == '/usr/share/xsessions/budgie-desktop' ]]; then
+    cp -r ${SRC_DIR}/src/status/symbolic-budgie/*.svg                                  ${THEME_DIR}/status/symbolic
   fi
 
   if [[ ${color} == '-dark' ]]; then
