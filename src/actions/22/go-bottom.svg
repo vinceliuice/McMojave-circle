@@ -1,6 +1,11 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#5294e2; }</style>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
  </defs>
- <path class="ColorScheme-Text" d="m17.016 4.6245c-0.2509 9.066e-4 -0.50192 0.09731-0.69269 0.28938l-5.3068 5.3455-5.3455-5.3068c-0.38411-0.38138-1.004-0.37958-1.3854 0.004557-0.38172 0.38412-0.38005 1.0061 0.004557 1.3877l6.0405 5.9972c0.19207 0.19066 0.44404 0.28573 0.69497 0.28482 0.2508-9.06e-4 0.5019-0.09731 0.69269-0.28938l5.9972-6.0428c0.38154-0.3843 0.37986-1.004-0.004557-1.3854-0.19209-0.19069-0.44407-0.28573-0.69497-0.28482zm-6.0154 9.251a1.7499 1.7499 0 0 0-1.7499 1.7499 1.7499 1.7499 0 0 0 1.7499 1.7499 1.7499 1.7499 0 0 0 1.7499-1.7499 1.7499 1.7499 0 0 0-1.7499-1.7499z" fill="currentColor"/>
+ <g transform="matrix(1,0,0,1,3,3)">
+  <path class="ColorScheme-Text" d="M 7,0 V 7 L 3.5,3.5 2,5 8,11 14,5 12.5,3.5 9,7 V 0 Z" style="fill:currentColor"/>
+  <circle class="ColorScheme-Text" cx="8" cy="14" r="2" style="fill:currentColor"/>
+ </g>
 </svg>

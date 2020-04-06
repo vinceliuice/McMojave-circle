@@ -25,7 +25,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#363636"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -46,12 +46,12 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#666666;
+        color:#363636;
       }
       </style>
   </defs>
   <path
-     style="color:#666666;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#363636;fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-Text"
      d="M 8,2 A 5.9999998,5.9999998 0 0 0 2,8 5.9999998,5.9999998 0 0 0 8,14 5.9999998,5.9999998 0 0 0 14,8 5.9999998,5.9999998 0 0 0 8,2 Z M 5.9571572,5 C 6.6535724,5.6577902 7.3194081,6.3476782 8,7.0216734 8.680586,6.3476437 9.346434,5.6578522 10.042843,5 L 11,5.9571572 C 10.342183,6.6535996 9.652335,7.3193945 8.9783266,8 9.652355,8.680586 10.342148,9.346434 11,10.042843 L 10.042843,11 C 9.346399,10.342182 8.6806063,9.652335 8,8.978327 7.319415,9.652355 6.6535662,10.342148 5.9571572,11 L 5,10.042843 C 5.6578179,9.346399 6.3476646,8.680606 7.0216734,8 6.3476441,7.3194149 5.6578518,6.653566 5,5.9571572 L 5.9571572,5 Z"
      id="path3433"

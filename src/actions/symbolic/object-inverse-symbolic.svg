@@ -29,7 +29,7 @@
      id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#363636"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,7 +50,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path8"
-     style="color:#666666;overflow:visible;fill:#666666;marker:none"
+     style="color:#363636;overflow:visible;fill:#363636;marker:none"
      overflow="visible"
      d="M 8,0 C 3.581719,0 3.4729399e-6,3.5817221 3.4729399e-6,8 3.4729399e-6,12.418278 3.581719,16 8,16 12.418281,16 15.999997,12.418278 15.999997,8 15.999997,3.5817221 12.418281,0 8,0 Z m 0,2 c 3.313711,0 5.999997,2.6862916 5.999997,6 0,3.313708 -2.686286,6 -5.999997,6 C 8,8.4168943 8,5.4999507 8,2 Z"
      sodipodi:nodetypes="ssssscscc" />
