@@ -2,5 +2,6 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
  </defs>
- <path class="ColorScheme-Text" d="m8 2a6 2 0 0 0-6 2v8a6 2 0 0 0 6 2 6 2 0 0 0 6-2v-8a6 2 0 0 0-6-2zm0 1a5 1 0 0 1 5 1 5 1 0 0 1-5 1 5 1 0 0 1-5-1 5 1 0 0 1 5-1zm-5 2.1016a6 2 0 0 0 5 0.89844 6 2 0 0 0 5-0.89648v2.8965a5 1 0 0 1-5 1 5 1 0 0 1-5-1v-2.8984zm0 4a6 2 0 0 0 5 0.89844 6 2 0 0 0 5-0.89648v2.8965a5 1 0 0 1-5 1 5 1 0 0 1-5-1v-2.8984z" fill="currentColor" opacity=".8"/>
+ <path class="ColorScheme-Text" fill="currentColor" d="m8 2c-3.3137 0-6 0.89543-6 2v8c0 1.1046 2.6863 2 6 2s6-0.89543 6-2v-8c0-1.1046-2.6863-2-6-2z" opacity=".15"/>
+ <path class="ColorScheme-Text" fill="currentColor" d="m8 2a6 2 0 0 0-6 2v8a6 2 0 0 0 6 2 6 2 0 0 0 6-2v-8a6 2 0 0 0-6-2zm0 1a5 1 0 0 1 5 1 5 1 0 0 1-5 1 5 1 0 0 1-5-1 5 1 0 0 1 5-1zm-5 2.1016a6 2 0 0 0 5 0.89844 6 2 0 0 0 5-0.89648v2.8965a5 1 0 0 1-5 1 5 1 0 0 1-5-1v-2.8984zm0 4a6 2 0 0 0 5 0.89844 6 2 0 0 0 5-0.89648v2.8965a5 1 0 0 1-5 1 5 1 0 0 1-5-1v-2.8984z" opacity=".8"/>
 </svg>

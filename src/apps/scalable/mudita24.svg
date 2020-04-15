@@ -1,0 +1,38 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276 0 0 1.3276 -510.64 -663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#f5f5f5" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <linearGradient id="linearGradient880" x1="15.938" x2="44.062" y1="44.845" y2="44.845" gradientTransform="rotate(2.3768 118.86 41.374)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f41e00" offset="0"/>
+   <stop stop-color="#00d500" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient911" x1="23" x2="23" y1="14" y2="50" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient880"/>
+  <linearGradient id="linearGradient919" x1="41" x2="41" y1="14" y2="50" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient880"/>
+  <filter id="filter957" x="-.2325" y="-.051667" width="1.465" height="1.1033" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.775"/>
+  </filter>
+  <filter id="filter961" x="-.2325" y="-.051667" width="1.465" height="1.1033" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.775"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(1.0115 0 0 1.0115 -389.32 -489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#b)" stroke-width="1.0115"/>
+ <rect x="19" y="14" width="8" height="36" rx="2" ry="2" fill="#000000" filter="url(#filter957)" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="19" y="14" width="8" height="36" rx="2" ry="2" fill="url(#linearGradient911)" style="paint-order:stroke fill markers"/>
+ <rect x="37" y="14" width="8" height="36" rx="2" ry="2" fill="#000000" filter="url(#filter961)" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="37" y="14" width="8" height="36" rx="2" ry="2" fill="url(#linearGradient919)" style="paint-order:stroke fill markers"/>
+ <rect x="19" y="24" width="8" height="18" rx="0" ry="0" fill="#000000" opacity=".35" style="paint-order:stroke fill markers"/>
+ <rect x="37" y="24" width="8" height="18" rx="0" ry="0" fill="#000000" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="37" y="24" width="8" height="18" rx="0" ry="0" fill="#000000" opacity=".35" style="paint-order:stroke fill markers"/>
+ <rect x="13" y="14" width="2" height="36" rx="1" ry="1" fill="#000000" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="31" y="14" width="2" height="36" rx="1" ry="1" fill="#000000" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="49" y="14" width="2" height="36" rx="1" ry="1" fill="#000000" opacity=".15" style="paint-order:stroke fill markers"/>
+ <rect x="12" y="33" width="4" height="8" rx="1" ry=".88889" fill="#808080" style="paint-order:stroke fill markers"/>
+ <rect x="30" y="22" width="4" height="8" rx="1" ry=".88889" fill="#808080" style="paint-order:stroke fill markers"/>
+ <rect x="48" y="29" width="4" height="8" rx="1" ry=".88889" fill="#808080" style="paint-order:stroke fill markers"/>
+</svg>
