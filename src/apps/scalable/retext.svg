@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="97.425" x2="97.425" y1="-9.0071" y2="209.87" gradientTransform="matrix(4.7812 0 0 4.7812 33.875 62.237)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f22c42" offset="0"/>
+   <stop stop-color="#f76363" offset="1"/>
+  </linearGradient>
+  <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.0898947"/>
+  </filter>
+  <linearGradient id="a" x1="105.41" x2="105.41" y1="-101.99" y2="308.4" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#d7d7d7" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+  <filter id="filter888" x="-.068512" y="-.053369" width="1.137" height="1.1067" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.7115874"/>
+  </filter>
+  <linearGradient id="linearGradient898" x1="33.463" x2="33.463" y1="48" y2="16" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#ffdde0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <g transform="matrix(.062745 0 0 .062745 -.12549 986.46)" stroke-width="15.938">
+   <circle cx="512" cy="540.36" r="478.12" color="#000000" filter="url(#c)" opacity=".25"/>
+   <circle cx="512" cy="540.36" r="478.12" color="#000000" fill="url(#b)"/>
+   <g transform="matrix(2.4855 0 0 2.4855 258 297.85)" filter="url(#d)" opacity=".2" stroke-width="15.938"></g>
+   <g transform="matrix(2.4855 0 0 2.4855 258 285.85)" stroke-width="15.938"></g>
+  </g>
+ </g>
+ <text x="16.691896" y="48" fill="#000000" filter="url(#filter888)" font-family="sans-serif" font-size="43.896px" letter-spacing="0px" opacity=".15" stroke-width="1.0974" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="16.691896" y="48" fill="#000000" stroke-width="1.0974">R</tspan></text>
+ <text x="16.691896" y="48" fill="url(#linearGradient898)" font-family="sans-serif" font-size="43.896px" letter-spacing="0px" stroke-width="1.0974" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="16.691896" y="48" fill="url(#linearGradient898)" stroke-width="1.0974">R</tspan></text>
+</svg>
