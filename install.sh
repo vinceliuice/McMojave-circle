@@ -65,7 +65,12 @@ install() {
     mkdir -p                                                                               ${THEME_DIR}/status
     cp -r ${SRC_DIR}/src/{actions,animations,apps,categories,devices,emblems,mimes,places} ${THEME_DIR}
     cp -r ${SRC_DIR}/src/status/{16,22,24,32,symbolic}                                     ${THEME_DIR}/status
-    cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status}   ${THEME_DIR}
+
+    if [[ ${white} == 'true' ]]; then
+      sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/status/{16,22,24}/*
+    fi
+
+    cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status} ${THEME_DIR}
   fi
 
   if [[ ${color} == '' && ${theme} != '' ]]; then
@@ -154,6 +159,9 @@ while [[ $# -gt 0 ]]; do
       ;;
     -a|--all)
       all="true"
+      ;;
+    -w|--white)
+      white="true"
       ;;
     -black)
       theme="-black"
