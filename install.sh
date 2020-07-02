@@ -22,6 +22,7 @@ usage() {
   printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
   printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
   printf "  %-25s%s\n" "-c, --circle" "Install circle folder version"
+  printf "  %-25s%s\n" "-w, --white" "Install white panel icon color version"
   printf "  %-25s%s\n" "-a, --all" "Install all color folder versions"
   printf "  %-25s%s\n" "-red" "Red color folder version"
   printf "  %-25s%s\n" "-pink" "Pink color folder version"
