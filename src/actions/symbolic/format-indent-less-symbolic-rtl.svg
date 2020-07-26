@@ -1,8 +1,10 @@
-<svg height='16' width='16.001' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-653 -97)'>
-        <path color='#000' d='M659 97v1h-2v-1zm9 2v1h-7v-1zm-9 0v1h-5v-1zm9 11v1h-7v-1zm-9 0v1h-5v-1zm0 2v1h-2v-1z' fill='#363636' opacity='.4' overflow='visible' style='isolation:auto;mix-blend-mode:normal;marker:none'/>
-        <path color='#000' d='M659 102v2h-6v-2zm0 4v2h-4v-2z' fill='#363636' overflow='visible' style='isolation:auto;mix-blend-mode:normal;marker:none'/>
-        <path color='#363636' d='M664 109l5-4.016-5-3.984v2h-3v4h3z' fill='#363636' overflow='visible' style='marker:none'/>
-        
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(-172 -420)" fill="gray">
+        <rect height="1" style="marker:none" transform="scale(-1 1)" width="14" x="-187.001" y="421" color="#bebebe" overflow="visible"/>
+        <rect height="1" style="marker:none" transform="scale(-1 1)" width="8" x="-187.001" y="424" color="#bebebe" overflow="visible"/>
+        <rect height="1" style="marker:none" transform="scale(-1 1)" width="8" x="-187.001" y="430" color="#bebebe" overflow="visible"/>
+        <rect height="1" style="marker:none" transform="scale(-1 1)" width="14" x="-187.001" y="433" color="#bebebe" overflow="visible"/>
+        <rect height="1" style="marker:none" transform="scale(-1 1)" width="8" x="-187.001" y="427" color="#bebebe" overflow="visible"/>
+        <path d="M173 430v-5c.761.348 1.535.737 2.324 1.166.78.431 1.534.876 2.259 1.334-.725.449-1.479.889-2.26 1.32-.788.43-1.563.823-2.323 1.18z" style="marker:none" color="#000" overflow="visible"/>
     </g>
 </svg>
