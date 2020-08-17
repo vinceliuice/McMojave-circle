@@ -51,13 +51,13 @@ install() {
   cp -r ${SRC_DIR}/{COPYING,AUTHORS}                                                   ${THEME_DIR}
   cp -r ${SRC_DIR}/src/index.theme                                                     ${THEME_DIR}
 
-  if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' && ${color} == '' ]]; then
-    sed -i "s/Adwaita/breeze/g" ${THEME_DIR}/index.theme
-  fi
+#  if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' && ${color} == '' ]]; then
+#    sed -i "s/hicolor/breeze,hicolor/g" ${THEME_DIR}/index.theme
+#  fi
 
-  if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' && ${color} == '-dark' ]]; then
-    sed -i "s/Adwaita/breeze-dark/g" ${THEME_DIR}/index.theme
-  fi
+#  if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' && ${color} == '-dark' ]]; then
+#    sed -i "s/hicolor/breeze-dark,hicolor/g" ${THEME_DIR}/index.theme
+#  fi
 
   cd ${THEME_DIR}
   sed -i "s/${name}/${name}${theme}${color}/g" index.theme
