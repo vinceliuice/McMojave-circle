@@ -1,8 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m1 1v14h14v-14h-14zm2 2h4v3.2773c-0.293 0.1705-0.5368 0.4087-0.7109 0.6993-0.0093 0.0152-0.0166 0.0313-0.0254 0.0468-0.0673 0.1194-0.1222 0.246-0.1641 0.3789-0.0122 0.0383-0.0233 0.076-0.0332 0.1153-0.0388 0.1555-0.0664 0.3149-0.0664 0.4824s0.0276 0.3269 0.0664 0.4824c0.0099 0.0393 0.021 0.077 0.0332 0.1153 0.0419 0.1329 0.0968 0.2595 0.1641 0.3789 0.0088 0.0155 0.0161 0.0316 0.0254 0.0468 0.1741 0.2906 0.4179 0.5288 0.7109 0.6993v3.2773h-4v-10zm6 0h4v10h-4v-3.2773c0.293-0.1705 0.5368-0.4087 0.7109-0.6993 0.0093-0.0152 0.0166-0.0313 0.0254-0.0468 0.0673-0.1194 0.1222-0.246 0.1641-0.3789 0.0122-0.0383 0.0233-0.076 0.0332-0.1153 0.0388-0.1555 0.0664-0.3149 0.0664-0.4824s-0.0276-0.3269-0.0664-0.4824c-0.0099-0.0393-0.021-0.077-0.0332-0.1153-0.0419-0.1329-0.0968-0.2595-0.1641-0.3789-0.0088-0.0155-0.0161-0.0316-0.0254-0.0468-0.1741-0.2906-0.4179-0.5288-0.7109-0.6993v-3.2773z" transform="translate(3 3)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 4 18 L 4 4 z "
+     class="ColorScheme-Text"
+     />
+ <path 
+     style="fill:#da4453;fill-opacity:1;stroke:none" 
+     d="M 10 4 L 10 9 L 12 9 L 12 4 L 10 4 z M 10 13 L 10 18 L 12 18 L 12 13 L 10 13 z "
+     class="ColorScheme-Highlight"
+     /> 
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 11 8 C 9.34314 8 8 9.3431 8 11 C 8 12.6569 9.34314 14 11 14 C 12.65686 14 14 12.6569 14 11 C 14 9.3431 12.65686 8 11 8 z M 11 10 C 11.55228 10 12 10.4477 12 11 C 12 11.5523 11.55228 12 11 12 C 10.44772 12 10 11.5523 10 11 C 10 10.4477 10.44772 10 11 10 z "
+     class="ColorScheme-Highlight"
+     />
 </svg>

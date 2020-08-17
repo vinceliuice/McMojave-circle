@@ -102,7 +102,7 @@ install() {
     sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
     sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places,status}/symbolic/*
 
-    cp -r ${SRC_DIR}/links/actions/{16,22,24,symbolic}                                 ${THEME_DIR}/actions
+    cp -r ${SRC_DIR}/links/actions/{16,22,24,32,symbolic}                              ${THEME_DIR}/actions
     cp -r ${SRC_DIR}/links/devices/{16,22,24,symbolic}                                 ${THEME_DIR}/devices
     cp -r ${SRC_DIR}/links/places/{16,22,24,symbolic}                                  ${THEME_DIR}/places
     cp -r ${SRC_DIR}/links/status/{16,22,24,symbolic}                                  ${THEME_DIR}/status
@@ -119,7 +119,7 @@ install() {
     ln -s ../../${name}${theme}/mimes/48 ${name}${theme}-dark/mimes/48
     ln -s ../../${name}${theme}/apps/scalable ${name}${theme}-dark/apps/scalable
     ln -s ../../${name}${theme}/devices/scalable ${name}${theme}-dark/devices/scalable
-    ln -s ../../${name}${theme}/places/48 ${name}${theme}-dark/places/48
+    ln -s ../../${name}${theme}/places/scalable ${name}${theme}-dark/places/scalable
     ln -s ../../${name}${theme}/status/32 ${name}${theme}-dark/status/32
 
     cd ${THEME_DIR}

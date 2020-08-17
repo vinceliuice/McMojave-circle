@@ -1,6 +1,1 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-272.998 -124.996)'>
-        
-        <path color='#000' d='M274.5 126c-.277 0-.5.223-.5.5l-.002 12.996c0 .277.223.5.5.5l12.998-.004c.277 0 .5-.223.5-.5l.002-12.996c0-.277-.223-.5-.5-.5zm1.5 2l9.998-.004-.002 8.996-9.998.004z' fill='#363636' overflow='visible' style='marker:none'/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M5 12l3 4 3-4z" fill="#363636"/><path d="M2 0v10h12V0H8zm1 1h10v8H3zm3.5 2L4 5.5V8h8V6l-1.25-1.25L9.5 6z" style="marker:none" color="#000" overflow="visible" fill="#363636"/></svg>

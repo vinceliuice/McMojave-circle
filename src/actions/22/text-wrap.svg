@@ -1,8 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 6 1 L 1 15 L 3.5 15 L 4.5625 12 L 8.0253906 12 A 3.5 3.5 0 0 1 10.996094 8.9394531 L 8 1 L 6 1 z M 7 5 L 8.75 10 L 5.25 10 L 7 5 z M 11.5 9 L 11.5 9.8574219 C 10.119 9.8574219 9 11.007734 9 12.427734 C 9 13.847734 10.119 15 11.5 15 C 12.867 15 13.976047 13.870703 13.998047 12.470703 A 0.41663 0.42857 0 0 0 14 12.427734 A 0.41663 0.42857 0 0 0 13.583984 12 A 0.41663 0.42857 0 0 0 13.166016 12.427734 C 13.166016 13.374734 12.42 14.142578 11.5 14.142578 C 10.58 14.142578 9.8339844 13.374734 9.8339844 12.427734 C 9.8339844 11.480734 10.58 10.714844 11.5 10.714844 L 11.5 11.572266 L 13.166016 10.285156 L 11.5 9 z" transform="translate(3 3)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 3 3 L 3 4 L 19 4 L 19 3 L 3 3 z M 3 5 L 3 6 L 12 6 L 12 5 L 3 5 z M 3 9 L 3 10 L 13 10 L 13 9 L 3 9 z M 3 11 L 3 12 L 7 12 L 7 11 L 3 11 z M 3 15 L 3 16 L 13 16 L 13 15 L 3 15 z M 3 17 L 3 18 L 10 18 L 10 17 L 3 17 z M 11 18 L 11 19 L 13 19 L 13 18 L 11 18 z "
+     class="ColorScheme-Text"
+     />
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 11 12 L 11 13 L 15 13 L 15.5 13 C 16.885 13 18 14.115 18 15.5 C 18 16.3187 17.604493 17.035134 17 17.490234 L 17 16 L 16 16 L 16 17.949219 L 16 18 L 16 18.951172 L 16 19 L 17 19 L 19 19 L 19 18 L 17.923828 18 C 18.581798 17.3681 19 16.4903 19 15.5 C 19 13.561 17.439 12 15.5 12 L 11 12 z "
+     class="ColorScheme-Highlight"
+     />
 </svg>

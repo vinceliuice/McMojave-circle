@@ -26,7 +26,7 @@ FollowsColorScheme=true
 KDE-Extensions=.svg
 
 # Directory list
-Directories=actions/16,actions/22,actions/24,actions/symbolic,animations/16,animations/22,animations/24,apps/scalable,apps/symbolic,categories/32,categories/symbolic,places/symbolic,places/48,places/16,places/22,places/24,mimes/48,mimes/symbolic,devices/scalable,devices/symbolic,devices/16,devices/22,devices/24,emblems/16,emblems/22,emblems/24,emblems/symbolic,status/16,status/22,status/24,status/32,status/symbolic,actions@2x/16,actions@2x/22,actions@2x/24,actions@2x/symbolic,animations@2x/16,animations@2x/22,animations@2x/24,apps@2x/scalable,apps@2x/symbolic,categories@2x/32,categories@2x/symbolic,places@2x/symbolic,places@2x/48,places@2x/16,places@2x/22,places@2x/24,mimes@2x/48,mimes@2x/symbolic,devices@2x/scalable,devices@2x/symbolic,devices@2x/16,devices@2x/22,devices@2x/24,emblems@2x/16,emblems@2x/22,emblems@2x/24,emblems@2x/symbolic,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
+Directories=actions/16,actions/22,actions/24,actions/32,actions/symbolic,animations/16,animations/22,animations/24,apps/scalable,apps/symbolic,categories/32,categories/symbolic,places/symbolic,places/scalable,places/16,places/22,places/24,mimes/16,mimes/22,mimes/48,mimes/symbolic,devices/scalable,devices/symbolic,devices/16,devices/22,devices/24,emblems/16,emblems/22,emblems/24,emblems/symbolic,status/16,status/22,status/24,status/32,status/symbolic,actions@2x/16,actions@2x/22,actions@2x/24,actions@2x/32,actions@2x/symbolic,animations@2x/16,animations@2x/22,animations@2x/24,apps@2x/scalable,apps@2x/symbolic,categories@2x/32,categories@2x/symbolic,places@2x/symbolic,places@2x/scalable,places@2x/16,places@2x/22,places@2x/24,mimes@2x/16,mimes@2x/22,mimes@2x/48,mimes@2x/symbolic,devices@2x/scalable,devices@2x/symbolic,devices@2x/16,devices@2x/22,devices@2x/24,emblems@2x/16,emblems@2x/22,emblems@2x/24,emblems@2x/symbolic,status@2x/16,status@2x/22,status@2x/24,status@2x/32,status@2x/symbolic
 
 [actions/16]
 Size=16
@@ -42,6 +42,13 @@ Type=Fixed
 Size=24
 Context=Actions
 Type=Fixed
+
+[actions/32]
+Size=32
+Context=Actions
+Type=Scalable
+MinSize=32
+MaxSize=256
 
 [actions/symbolic]
 Size=16
@@ -146,6 +153,16 @@ MinSize=16
 MaxSize=96
 Type=Scalable
 
+[mimes/16]
+Size=16
+Context=MimeTypes
+Type=Fixed
+
+[mimes/22]
+Size=22
+Context=MimeTypes
+Type=Fixed
+
 [mimes/48]
 Size=48
 Context=MimeTypes
@@ -175,8 +192,8 @@ Size=24
 Context=Places
 Type=Fixed
 
-[places/48]
-Size=48
+[places/scalable]
+Size=64
 Context=Places
 MinSize=22
 MaxSize=512
@@ -236,6 +253,14 @@ Size=24
 Scale=2
 Context=Actions
 Type=Fixed
+
+[actions@2x/32]
+Size=32
+Scale=2
+Context=Actions
+Type=Scalable
+MinSize=32
+MaxSize=256
 
 [actions@2x/symbolic]
 Size=16
@@ -356,6 +381,18 @@ MinSize=16
 MaxSize=96
 Type=Scalable
 
+[mimes@2x/16]
+Size=16
+Scale=2
+Context=MimeTypes
+Type=Fixed
+
+[mimes@2x/22]
+Size=22
+Scale=2
+Context=MimeTypes
+Type=Fixed
+
 [mimes@2x/48]
 Size=48
 Scale=2
@@ -390,8 +427,8 @@ Scale=2
 Context=Places
 Type=Fixed
 
-[places@2x/48]
-Size=48
+[places@2x/scalable]
+Size=64
 Scale=2
 Context=Places
 MinSize=22

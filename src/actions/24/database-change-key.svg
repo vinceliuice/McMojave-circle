@@ -1,11 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <g transform="translate(4,-2)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.5,9 C 2.01,9 0,11.02 0,13.5 0,14.721 0.48724,15.823 1.2734,16.633 L 3.3965,14.51 C 3.1525,14.243 3,13.891 3,13.5 3,12.68 3.67,12 4.5,12 4.8901,12 5.2414,12.154 5.5078,12.398 L 7.627,10.279 C 6.8046,9.4835 5.6928,9.0063 4.5,9 Z M 14.092,12 11.084,15 H 12 V 17 H 15 V 15 H 16 V 12 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 2,17.32 V 20 H 4.67 L 11.42,13.25 8.75,10.57 Z M 13.79,10.89 C 14.07,10.61 14.07,10.16 13.79,9.88 L 12.12,8.21 C 11.83,7.93 11.39,7.93 11.11,8.21 L 9.71,9.61 12.38,12.29 Z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 4 8 L 4 17 L 9 17 L 9 13 L 16 13 L 16 15 L 17 15 L 17 13 L 18 13 L 18 15 L 19 15 L 19 13 L 20 13 L 20 12 L 9 12 L 9 8 L 4 8 z M 5 9 L 8 9 L 8 16 L 5 16 L 5 9 z "
+     class="ColorScheme-Text"
+     />
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 17.5 3 A 3.499991 3.499991 0 0 0 14 6.5 A 3.499991 3.499991 0 0 0 14.699219 8.59375 L 15.416016 7.8769531 A 2.5 2.5 0 0 1 15 6.5 A 2.5 2.5 0 0 1 17.5 4 A 2.5 2.5 0 0 1 18.876953 4.4160156 L 19.59375 3.6992188 A 3.499991 3.499991 0 0 0 17.5 3 z M 20.300781 4.40625 L 19.583984 5.1230469 A 2.5 2.5 0 0 1 20 6.5 A 2.5 2.5 0 0 1 17.5 9 A 2.5 2.5 0 0 1 16.123047 8.5839844 L 15.40625 9.3007812 A 3.499991 3.499991 0 0 0 17.5 10 A 3.499991 3.499991 0 0 0 21 6.5 A 3.499991 3.499991 0 0 0 20.300781 4.40625 z "
+     class="ColorScheme-Highlight"
+     />
 </svg>

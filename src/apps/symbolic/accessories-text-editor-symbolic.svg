@@ -1,1 +1,14 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path color="#363636" d="M3.5 1C2.669 1 2 1.669 2 2.5v11c0 .831.669 1.5 1.5 1.5h9c.831 0 1.5-.669 1.5-1.5V7.533l-1 1V13.5c0 .302-.198.5-.5.5h-9c-.302 0-.5-.198-.5-.5v-11c0-.302.198-.5.5-.5h6.963l.994-1zm9.71 0a.83.83 0 0 0-.589.246l-.906.912 3.125 3.125.91-.906c.33-.33.33-.85 0-1.18l-1.95-1.95A.83.83 0 0 0 13.21 1zm-2.554 2.22L3.99 9.887v3.119h3.121l6.664-6.664zM4.998 10h1v1h1v1h-2z" fill="#363636" overflow="visible" style="marker:none"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m4 1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-5.0488l-1 1v4.0488c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1h6.0488l1-1z" fill="#363636"/>
+ <path class="ColorScheme-Text" d="m14.607 1.6863c-0.78347-0.78347-2.045-0.78347-2.8284 0l3.5355 3.5355c0.78347-0.78347 0.78348-2.045 0-2.8284zm-3.5355 0.70711-7.0711 7.0711-6e-7 3.5355h3.5355l7.0711-7.0711zm0 1.4142 2.1213 2.1213-5.6569 5.6569-2.1213-2.1213z" fill="#363636"/>
+</svg>

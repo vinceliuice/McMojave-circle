@@ -1,8 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.5 0 C 2.567 0 1 1.7909 1 4 L 1 7 C 1 9.2091 2.567 11 4.5 11 C 6.433 11 8 9.2091 8 7 L 8 4 C 8 1.7909 6.433 0 4.5 0 z M 12.5 0 C 10.567 0 9 1.7909 9 4 L 9 7 C 9 9.2091 10.567 11 12.5 11 C 14.433 11 16 9.2091 16 7 L 16 4 C 16 1.7909 14.433 0 12.5 0 z M 4.5 2 C 5.3284 2 6 3.0452844 6 4.3339844 L 6 6.6660156 C 6 7.9547156 5.3284 9 4.5 9 C 3.6716 9 3 7.9547156 3 6.6660156 L 3 4.3339844 C 3 3.0452844 3.6716 2 4.5 2 z M 12.5 2 C 13.328 2 14 3.0452844 14 4.3339844 L 14 6.6660156 C 14 7.9547156 13.328 9 12.5 9 C 11.672 9 11 7.9547156 11 6.6660156 L 11 4.3339844 C 11 3.0452844 11.672 2 12.5 2 z M 0 10 L 0 11 L 1 11 L 1 10 L 0 10 z M 12 12 L 12 13.5 L 10.5 13.5 L 10.5 14.5 L 12 14.5 L 12 16 L 13 16 L 13 14.5 L 14.5 14.5 L 14.5 13.5 L 13 13.5 L 13 12 L 12 12 z" transform="translate(4 4)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 8.5 4 C 6.567 4 5 5.7909 5 8 L 5 9 L 5 11 C 5 13.2091 6.567 15 8.5 15 C 10.433 15 12 13.2091 12 11 L 12 9 L 12 8 C 12 5.7909 10.433 4 8.5 4 z M 16.5 4 C 14.567 4 13 5.7909 13 8 L 13 9 L 13 11 C 13 13.2091 14.567 15 16.5 15 C 18.433 15 20 13.2091 20 11 L 20 9 L 20 8 C 20 5.7909 18.433 4 16.5 4 z M 8.5 5 C 9.88071 5 11 6.3432 11 8 L 11 11 C 11 12.6569 9.88071 14 8.5 14 C 7.11929 14 6 12.6569 6 11 L 6 8 C 6 6.3432 7.11929 5 8.5 5 z M 16.5 5 C 17.88071 5 19 6.3431 19 8 L 19 11 C 19 12.6569 17.88071 14 16.5 14 C 15.11929 14 14 12.6569 14 11 L 14 8 C 14 6.3431 15.11929 5 16.5 5 z M 4 14 L 4 15 L 5 15 L 5 14 L 4 14 z "
+     class="ColorScheme-Text"
+     />
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 16 16 L 16 18 L 14 18 L 14 19 L 16 19 L 16 21 L 17 21 L 17 19 L 19 19 L 19 18 L 17 18 L 17 16 L 16 16 z "
+     class="ColorScheme-Highlight"
+     />
 </svg>

@@ -1,8 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m3 1.0098s-1 0-1 1v12c0 1 1 1 1 1h10s1 0 1-1v-4c0-3.0002-3-3.0002-3-3.0002l-1-0.0039v-2l-4.5 3 4.5 3.0001v-2.0001l1 0.0039s1 0 1 1.0002v3h-8v-9.9963h8v2.9961l2-0.0039v-3.9961c0-1-1-1-1-1h-10z" transform="translate(4 4)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#363636;
+      }
+      </style>
+  </defs>
+ <path 
+    style="fill:currentColor;fill-opacity:1;stroke:none" 
+	d="m0 2.998047v.001953 16h1 8 1v-.009766l.007812.009766 3.992188-3.992188v-.009765-1.40625-10.59375h-1-12-1m1 1.00195h12v10h-4v1 3h-8v-14m21 5l-3 3 3 3v-6"
+    class="ColorScheme-Text"
+     transform="translate(1,1)"
+    />
 </svg>

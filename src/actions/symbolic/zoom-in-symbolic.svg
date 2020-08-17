@@ -1,7 +1,4 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g color="#000" font-weight="400" font-family="sans-serif" white-space="normal" fill="gray">
-        <path d="M7.5 1A6.508 6.508 0 0 0 1 7.5C1 11.084 3.916 14 7.5 14S14 11.084 14 7.5 11.084 1 7.5 1zm0 1.04c3.022 0 5.46 2.438 5.46 5.46s-2.438 5.46-5.46 5.46A5.454 5.454 0 0 1 2.039 7.5c0-3.022 2.44-5.46 5.461-5.46z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" overflow="visible"/>
-        <path d="M11.853 11.146l-.707.708 3.5 3.5.707-.708z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" overflow="visible" fill-rule="evenodd"/>
-        <path d="M7 5v2H5v1h2v2h1V8h2V7H8V5z" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;isolation:auto;mix-blend-mode:normal;marker:none" overflow="visible"/>
-    </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m7 5v3h-3v1h3v3h1v-3h3v-1h-3v-3z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1851"/>
+ <path d="M 7.4628906,1 A 7.5,7.5 0 0 0 0,8.5 7.5,7.5 0 0 0 7.5,16 7.5,7.5 0 0 0 15,8.5 7.5,7.5 0 0 0 7.5,1 7.5,7.5 0 0 0 7.4628906,1 Z M 7.5,2 A 6.5,6.5 0 0 1 14,8.5 6.5,6.5 0 0 1 7.5,15 6.5,6.5 0 0 1 1,8.5 6.5,6.5 0 0 1 7.5,2 Z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0016"/>
 </svg>

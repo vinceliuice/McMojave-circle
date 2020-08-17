@@ -1,8 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 2.84375 1.0058594 C 2.56265 1.0495594 2 1.2398531 2 1.9394531 L 2 7 L 13.990234 7 C 13.989234 6.0534 13.991234 5.3142812 13.990234 4.7382812 L 9.9941406 1.0058594 L 3 1.0058594 C 3 1.0058594 2.93745 0.99126938 2.84375 1.0058594 z M 2 9 L 2 14.066406 C 2 14.999406 3 15 3 15 L 12.990234 15 C 13.989234 15 13.990234 14.066406 13.990234 14.066406 C 14.000234 14.043406 13.993234 11.248 13.990234 9 L 2 9 z" transform="translate(3 3)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#363636;
+      }
+      </style>
+  </defs>
+ <path 
+    style="fill:currentColor;fill-opacity:1;stroke:none" 
+    d="M 4 3 L 4 10 L 5 10 L 17 10 L 18 10 L 18 3 L 17 3 L 5 3 L 4 3 z M 5 4 L 17 4 L 17 9 L 5 9 L 5 4 z M 4 11 L 4 19 L 5 19 L 13 19 L 14 19 L 14 18.990234 L 14.007812 19 L 18 15.007812 L 18 15 L 18 13.59375 L 18 11 L 17 11 L 5 11 L 4 11 z M 5 12 L 17 12 L 17 14 L 13 14 L 13 15 L 13 18 L 5 18 L 5 12 z "
+    class="ColorScheme-Text"
+    />  
 </svg>

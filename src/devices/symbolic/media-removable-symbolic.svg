@@ -1,8 +1,18 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m4 10v6h8v-6h-1v5h-6v-5h-1z" fill="#333" fill-rule="evenodd" style="paint-order:normal"/>
- <g transform="translate(-1133 -61)">
-  <path d="m1138 76v-4h6v4zm1-1h1v-1h-1zm3 0h1v-1h-1z" fill="#333" opacity=".35"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="#363636">
+  <path d="m4 10v6h8v-6h-1v5h-6v-5h-1z" fill-rule="evenodd" style="paint-order:normal"/>
+  <path d="m5 0c-1.108 0-2 0.892-2 2v7c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-7c0-1.108-0.892-2-2-2h-6zm0 1h6c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1z" fill-rule="evenodd" style="paint-order:normal"/>
+  <rect x="6" y="13" width="1" height="1" rx="0" ry="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="9" y="13" width="1" height="1" rx="0" ry="0" stroke-linecap="round" stroke-linejoin="round"/>
  </g>
- <path d="m5 0c-1.108 0-2 0.892-2 2v7c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-7c0-1.108-0.892-2-2-2h-6zm0 1h6c0.554 0 1 0.446 1 1v7c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-7c0-0.554 0.446-1 1-1z" fill="#333" fill-rule="evenodd" style="paint-order:normal"/>
- <rect x="4" y="1" width="8" height="9" ry="1" fill="#333" fill-rule="evenodd" opacity=".2" style="paint-order:normal"/>
 </svg>

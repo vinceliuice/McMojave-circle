@@ -1,6 +1,1 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-813 -77)'>
-        
-        <path color='#000' d='M821 77c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2zm0 6c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2zm0 6c-1.108 0-2 .892-2 2s.892 2 2 2 2-.892 2-2-.892-2-2-2z' fill='#363636' overflow='visible' style='marker:none'/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><g transform="matrix(0 -1 -1 0 -413 -83.997)" color="#000" fill="#363636"><rect y="-418" x="-92.997" width="2" style="marker:none" ry="1" rx="1" height="2" overflow="visible" enable-background="new"/><rect y="-422" x="-92.997" width="2" style="marker:none" ry="1" rx="1" height="2" overflow="visible" enable-background="new"/><rect y="-426" x="-92.997" width="2" style="marker:none" ry="1" rx="1" height="2" overflow="visible" enable-background="new"/></g></svg>

@@ -1,8 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.5078125 2 A 1.5049 1.5 0 0 0 3.0039062 3.5 A 1.5049 1.5 0 0 0 3.9628906 4.8964844 L 3.9628906 9 L 2 9 L 2 14 L 7.015625 14 L 7.015625 9 L 5.7460938 9 C 6.1771338 7.7569 7.0829813 6.5785563 8.2382812 5.5976562 C 9.8605813 4.2202563 11.937453 3.2551375 13.564453 3.0234375 A 0.50168 0.50005 0 0 0 13.458984 2.0292969 A 0.50168 0.50005 0 0 0 13.423828 2.0351562 C 11.539028 2.3035363 9.3516906 3.3382375 7.5878906 4.8359375 C 6.4685906 5.7862775 5.5163969 6.9348375 4.9667969 8.2109375 L 4.9667969 4.9257812 A 1.5049 1.5 0 0 0 6.0136719 3.5 A 1.5049 1.5 0 0 0 4.5078125 2 z" transform="translate(4 4)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#363636;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+  </defs>
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 17 5 L 17 5.9980469 A 11.559518 11 0 0 0 16.886719 5.9980469 L 16.886719 6 A 11.559518 11 0 0 0 5.5 16 L 6.546875 16 A 10.508653 10 0 0 1 16.896484 7 A 10.508653 10 0 0 1 17 7 L 17 8 L 20 8 L 20 5 L 17 5 z M 18 6 L 19 6 L 19 7 L 18 7 L 18 6 z "
+     class="ColorScheme-Text"
+     />
+ <path 
+     style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 5.9804688 4 A 2 2 0 0 0 4 6.0136719 A 2 2 0 0 0 5.5 7.9355469 L 5.5 10 L 6.5 10 L 6.5 7.9335938 A 2 2 0 0 0 8 6 L 8 5.9746094 A 2 2 0 0 0 5.9804688 4 z M 5.9902344 5 A 1 1 0 0 1 7 5.9863281 L 7 6 A 1 1 0 0 1 6.0039062 7 A 1 1 0 0 1 5 6.0058594 A 1 1 0 0 1 5.9902344 5 z M 5.5 11 L 5.5 12 L 6.5 12 L 6.5 11 L 5.5 11 z M 4 16 L 4 20 L 8 20 L 8 16 L 4 16 z M 5 17 L 7 17 L 7 19 L 5 19 L 5 17 z "
+     class="ColorScheme-Highlight"
+     />
 </svg>
