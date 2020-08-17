@@ -75,11 +75,11 @@ install() {
   fi
 
   if [[ ${color} == '' && ${theme} != '' ]]; then
-    cp -r ${SRC_DIR}/colorful-folder/folder${theme}/*.svg                              ${THEME_DIR}/places/48
+    cp -r ${SRC_DIR}/colorful-folder/folder${theme}/*.svg                              ${THEME_DIR}/places/scalable
   fi
 
   if [[ ${circle} == 'true' && ${theme} == '' && ${color} == '' ]]; then
-    cp -r ${SRC_DIR}/circle-folder/*.svg                                               ${THEME_DIR}/places/48
+    cp -r ${SRC_DIR}/circle-folder/*.svg                                               ${THEME_DIR}/places/scalable
   fi
 
   if [[ ${color} == '' && $DESKTOP_SESSION == '/usr/share/xsessions/budgie-desktop' ]]; then
