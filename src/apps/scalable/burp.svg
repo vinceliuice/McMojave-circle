@@ -1,0 +1,18 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.81"/>
+  </filter>
+  <linearGradient id="b" x1="32.001" x2="32.001" y1="5" y2="59" gradientTransform="matrix(1.1111,0,0,1.1111,-3.5569,-3.5556)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffa355" offset="0"/>
+   <stop stop-color="#f55" offset="1"/>
+  </linearGradient>
+  <filter id="filter902" x="-.063368" y="-.038631" width="1.1267" height="1.0773" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61166015"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(1.1111,0,0,1.1111,-3.5569,-3.5556)" cx="32.001" cy="32" r="27" filter="url(#d)" opacity=".25" stroke-width=".81" style="paint-order:stroke markers fill"/>
+ <circle cx="31.999" cy="32" r="30" fill="url(#b)" stroke-width=".89999" style="paint-order:stroke markers fill"/>
+ <path d="m31.357 13.633v6.3301l-10.58 10.67h10.58v7h6.2129l-6.2129 7.5137v6.4863h3v-5.4062l9.5859-11.594h-9.5859v-7h-6.3809l6.3809-6.4355v-7.5645z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter902)" image-rendering="auto" opacity=".15" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m32.496 13v6.9474l-8.48 8.5526h8.48v7h7.9l-7.9 9.5526v5.9474" fill="none" stroke="#fdfdfd" stroke-width="3"/>
+</svg>

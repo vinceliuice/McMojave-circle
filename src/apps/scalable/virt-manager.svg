@@ -1,0 +1,44 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter918" x="-.033882" y="-.082286" width="1.0678" height="1.1646" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.72"/>
+  </filter>
+  <filter id="filter924" x="-.04332" y="-.04332" width="1.0866" height="1.0866" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.083"/>
+  </filter>
+ </defs>
+ <linearGradient id="b" x1="428.37" x2="428.37" y1="530.8" y2="525.8" gradientTransform="matrix(4.2857 0 0 4.2 -1818.9 -2186.8)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#da4453" offset="0"/>
+  <stop stop-color="#fa4e5f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x1="34" x2="34" y1="31" y2="17" gradientTransform="matrix(1.5,0,0,1.5,-4,-4)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#4d4d4d" offset="0"/>
+  <stop stop-color="#585858" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x1="32" x2="32" y1="31" y2="17" gradientTransform="matrix(1.5,0,0,1.5,-4,-4)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#afb0b3" offset="0"/>
+  <stop stop-color="#bdc3c7" offset="1"/>
+ </linearGradient>
+ <linearGradient id="e" x1="29" x2="29" y1="17" y2="31" gradientTransform="matrix(1.5,0,0,1.5,-4,-4)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#31363b" offset="0"/>
+  <stop stop-color="#4d4d4d" offset="1"/>
+ </linearGradient>
+ <linearGradient id="f" x1="26" x2="26" y1="17" y2="31" gradientTransform="matrix(1.5,0,0,1.5,-4,-4)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#7f8c8d" offset="0"/>
+  <stop stop-color="#afb0b3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="g" x1="24" x2="24" y1="44" y2="4" gradientTransform="matrix(1.5,0,0,1.5,-4,-4)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#bdc3c7" offset="0"/>
+  <stop stop-color="#eff0f1" offset="1"/>
+ </linearGradient>
+ <g stroke-width="1.5">
+  <circle cx="32" cy="32" r="30" filter="url(#filter924)" opacity=".15"/>
+  <circle cx="32" cy="32" r="30" fill="url(#g)"/>
+  <path d="m7.0594 22.539 7.5 21h13.5l3-8.4004 3 8.4004h9l3-8.4004 3 8.4004h9l-7.5-21h-9l-3 8.4004-3-8.4004h-13.5l-5.25 15-5.25-15z" filter="url(#filter918)" opacity=".15"/>
+  <path d="m6.5 21.5h4.5l5.25 15 5.25-15h4.5l-7.5 21-4.5-9.9e-5z" fill="url(#b)"/>
+  <path d="m23 42.5 7.5-21h4.5l-7.5 21zm15 0 7.5-21h4.5l-7.5 21z" fill="url(#e)"/>
+  <path d="m18.5 42.5 7.5-21h4.5l-7.5 21zm15 0 7.5-21h4.5l-7.5 21z" fill="url(#f)"/>
+  <path d="m38 42.5h-4.5l-7.5-21h4.5zm15 0h-4.5l-7.5-21h4.5z" fill="url(#d)"/>
+  <path d="m30.5 21.5 7.5 21h4.5l-7.5-21zm15 0 7.5 21h4.5l-7.5-21z" fill="url(#c)"/>
+ </g>
+</svg>
