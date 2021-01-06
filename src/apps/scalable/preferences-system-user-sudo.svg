@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient868" x1="-21" x2="-21" y1="23" y2="9" gradientTransform="matrix(1.0714 0 0 2.1429 20.214 -2.2857)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="filter885" x="-.04332" y="-.04332" width="1.0866" height="1.0866" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.083"/>
+  </filter>
+ </defs>
+ <linearGradient id="b" x2="0" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.37 -1107.6)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#197cf1" offset="0"/>
+  <stop stop-color="#20bcfa" offset="1"/>
+ </linearGradient>
+ <linearGradient id="a">
+  <stop stop-color="#7cbaf8" offset="0"/>
+  <stop stop-color="#f4fcff" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x2="0" y1="23" y2="9" gradientTransform="matrix(2.1429 0 0 2.1429 -2.2857 -2.2857)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" fill="#000000" filter="url(#filter885)" opacity=".15" stroke-width="2.1429"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" fill="url(#b)" stroke-width="2.1429"/>
+ <path d="m32 17c-4.155 0-7.5 3.345-7.5 7.5s3.345 7.5 7.5 7.5 7.5-3.345 7.5-7.5-3.345-7.5-7.5-7.5zm0 15c-8.31 0-15 6.69-15 15h17.143v-2.1429h-14.807a12.814 12.814 0 0 1 12.664-10.714c0.76929 0 1.515 0.08143 2.2393 0.22286l0.55714-2.085a14.259 14.259 0 0 0-2.7964-0.28072zm0-12.857c2.9679 0 5.3571 2.3893 5.3571 5.3571s-2.3893 5.3571-5.3571 5.3571-5.3571-2.3893-5.3571-5.3571 2.3893-5.3571 5.3571-5.3571z" fill="url(#d)" stroke-width="2.1429"/>
+ <path d="m44.857 34.143v12.857h2.1429v-12.857z" fill="url(#linearGradient868)" stroke-width="1.515"/>
+ <path d="m36.286 44.857h12.857v-2.1429h-12.857zm0-6.4286h12.857v-2.1429h-12.857z" fill="url(#linearGradient868)" stroke-width="1.515"/>
+ <path d="m38.429 34.143v12.857h2.1429v-12.857z" fill="url(#linearGradient868)" stroke-width="1.515"/>
+</svg>

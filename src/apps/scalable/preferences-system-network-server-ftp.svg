@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c-3" x1="6" x2="6" y1="5" y2="4" xlink:href="#a-5"/>
+  <linearGradient id="a-5" x2="0" y1="507.8" y2="506.8" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3da103" offset="0"/>
+   <stop stop-color="#7ddf07" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d-9" x1="6" x2="6" y1="16" y2="15" xlink:href="#a-5"/>
+  <linearGradient id="e-1" x1="6" x2="6" y1="27" y2="26" xlink:href="#a-5"/>
+  <linearGradient id="linearGradient926" x1="31.044" x2="31.044" y1="59.226" y2="-22.347" gradientTransform="matrix(.68082 0 0 .68082 18.469 20.214)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1e1f1f" offset="0"/>
+   <stop stop-color="#43474b" offset="1"/>
+  </linearGradient>
+  <filter id="filter946" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter946)" opacity=".25" style="paint-order:normal"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient926)" style="paint-order:normal"/>
+ <path d="m11.023 15a27 27 0 0 0-5.5566 12h53.064a27 27 0 0 0-5.5547-12zm-5.5547 22a27 27 0 0 0 5.5547 12h41.953a27 27 0 0 0 5.5566-12z" fill="#000000" opacity=".5" stroke-width="1.3182"/>
+ <g transform="matrix(2 0 0 2 9 1)" stroke-width=".7">
+  <path d="m5 4h2v1h-2z" fill="url(#c-3)"/>
+  <path d="m5 15h2v1h-2z" fill="url(#d-9)"/>
+  <path d="m5 26h2v1h-2z" fill="url(#e-1)"/>
+ </g>
+ <rect x="30" y="30" width="32" height="32" rx="16" ry="16" fill="#eff0f1" stroke-width="2"/>
+ <path d="m39 34c-2.77 0-5 2.23-5 5v1 9 4c0 2.77 2.23 5 5 5h14c2.77 0 5-2.23 5-5v-4-8a3 3 0 0 0-3-3h-0.050781-6.9336l-4-4-0.015625 0.015625v-0.015625h-3-1-1zm0 2h1 1 2.1836l2.0039 2h-1.1875v0.015625l-0.015625-0.015625-4 4h-3.9844v-2-1c0-1.662 1.338-3 3-3zm-3 8h19 0.050781 0.94922v1 4 4c0 1.662-1.338 3-3 3h-14c-1.662 0-3-1.338-3-3v-4-5z" fill="#232629" stroke-width="2"/>
+</svg>

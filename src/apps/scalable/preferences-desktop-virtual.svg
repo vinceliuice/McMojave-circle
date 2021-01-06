@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="e-3" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.343749"/>
+  </filter>
+  <linearGradient id="d-3" x1="520" x2="520" y1="4" y2="1024" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#323232" offset="0"/>
+   <stop stop-color="#5c5c5c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient906" x1="33.88" x2="990.12" y1="512" y2="512" gradientTransform="translate(-38.508 33.22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#171d25" offset="0"/>
+   <stop stop-color="#303236" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient914" x1="34.89" x2="512" y1="272.94" y2="272.94" gradientTransform="matrix(-1.0151,0,0,-1.0151,1031.7,1031.7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e7ee2" offset="0"/>
+   <stop stop-color="#3f9ae5" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(.062745 0 0 .062745 -.12549 -.12549)" stroke-width="15.938">
+  <circle cx="512" cy="512" r="478.12" filter="url(#e-3)" opacity=".25" style="paint-order:stroke markers fill"/>
+  <circle cx="512" cy="512" r="478.12" fill="url(#linearGradient906)" style="paint-order:stroke markers fill"/>
+  <circle cx="511.5" cy="512.5" r="431.93" fill="url(#d-3)" style="paint-order:stroke markers fill"/>
+  <path d="m512 512v-478.13c-131.68 0.11995-244.12 46.822-337.26 139.91-93.204 93.204-139.85 205.86-139.85 337.71 0 0.16951 0.0041 0.33811 0.0041 0.50757z" fill="url(#linearGradient914)" stroke-width="291.43"/>
+  <path transform="matrix(15.938 0 0 15.938 2 2)" d="m30 5.0039a27.101 27.101 0 0 0-25.031 24.996h23.031c1.108 0 2-0.892 2-2v-22.996z" fill="#fff" opacity=".15" stroke-width="1" style="paint-order:stroke markers fill"/>
+  <path transform="matrix(15.938 0 0 15.938 2 2)" d="m37 35c-1.108 0-2 0.892-2 2v19.783a24.969 24.969 0 0 0 21.74-21.783h-19.74z" fill="#fff" opacity=".15" stroke-width="1" style="paint-order:stroke markers fill"/>
+ </g>
+ <path d="m32 5v27.01h-27v1h27v25.99h1v-25.99h26v-1h-26v-27.01z" fill-rule="evenodd" opacity=".2" style="paint-order:fill markers stroke"/>
+</svg>

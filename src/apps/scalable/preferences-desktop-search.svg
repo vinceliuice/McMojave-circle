@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient862" x1="370.22" x2="370.03" y1="509.64" y2="479.76" gradientTransform="matrix(1 0 0 1 30.5 37.031)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#197cf1" offset="0"/>
+   <stop stop-color="#21c9fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4273" x2="0" y1="22" y2="10" gradientTransform="matrix(1.6667,0,0,1.6667,372.9,504.13)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7cbaf8" offset="0"/>
+   <stop stop-color="#f4fcff" offset="1"/>
+  </linearGradient>
+  <filter id="filter856" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.45"/>
+  </filter>
+  <filter id="filter882" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+ </defs>
+ <g transform="matrix(2 0 0 2 -769.14 -1031.6)">
+  <circle cx="400.57" cy="531.8" r="15" filter="url(#filter856)" opacity=".15" stroke-width="1.4691"/>
+  <circle cx="400.57" cy="531.8" r="15" fill="url(#linearGradient862)" stroke-width="1.4691"/>
+  <path d="m397.07 520.8c-4.155 0-7.5 3.345-7.5 7.5s3.345 7.5 7.5 7.5c1.7753 0 3.3829-0.63332 4.6647-1.6569l6.6569 6.6569 1.1784-1.1784-6.6569-6.6569c1.0236-1.2818 1.6569-2.8894 1.6569-4.6647 0-4.155-3.345-7.5-7.5-7.5zm0 1.6667c3.2316 0 5.8333 2.6017 5.8333 5.8333s-2.6017 5.8333-5.8333 5.8333-5.8333-2.6017-5.8333-5.8333 2.6017-5.8333 5.8333-5.8333z" filter="url(#filter882)" opacity=".15" stroke-width="1.6667"/>
+  <path d="m397.07 520.8c-4.155 0-7.5 3.345-7.5 7.5s3.345 7.5 7.5 7.5c1.7753 0 3.3829-0.63332 4.6647-1.6569l6.6569 6.6569 1.1784-1.1784-6.6569-6.6569c1.0236-1.2818 1.6569-2.8894 1.6569-4.6647 0-4.155-3.345-7.5-7.5-7.5zm0 1.6667c3.2316 0 5.8333 2.6017 5.8333 5.8333s-2.6017 5.8333-5.8333 5.8333-5.8333-2.6017-5.8333-5.8333 2.6017-5.8333 5.8333-5.8333z" fill="url(#linearGradient4273)" stroke-width="1.6667"/>
+ </g>
+</svg>

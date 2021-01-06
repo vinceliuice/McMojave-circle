@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter946" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+  <linearGradient id="d-3" x1="2" x2="2" y1="30" y2="2" gradientTransform="matrix(2.1429 0 0 2.1429 -2.2857 -2.2857)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a5a5a5" offset="0"/>
+   <stop stop-color="#f5f2f5" offset="1"/>
+  </linearGradient>
+ </defs>
+ <linearGradient id="f" x1="6.099" x2="6.099" y1="24.845" y2="8.511" gradientTransform="matrix(2.2857 0 0 2.2857 -4.5714 -4.5714)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#ffd42a" offset="0"/>
+  <stop stop-color="#ffdf62" offset="1"/>
+ </linearGradient>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter946)" opacity=".25" style="paint-order:normal"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" fill="#4f575f" stroke-width="2.1428"/>
+ <path d="m32 2a30 30 0 0 0-27.984 19.286h0.12643l6.4286-2.1429 4.2857 4.2857v-4.2857l4.2857-2.1429v-2.1429l4.2857-2.1429 4.2857-4.2857v2.1429l2.1429-2.1429-2.1429-2.1429h4.2857v2.1429l4.2857-2.1429-2.1429-2.1429v-2.0357a30 30 0 0 0-2.1429-0.10714zm22.232 9.9107-0.80357 0.80357v2.1429h3.1479a30 30 0 0 0-2.3443-2.9464zm2.82 3.6086-7.9093 7.9093-2.1429 6.4286v2.1429l4.2857 4.2857 4.2857 2.1429 5.9807-1.4743a30 30 0 0 0 0.44786-4.9543 30 30 0 0 0-4.9479-16.481zm-50.766 10.052-2.1429 2.1429h-1.7957c-0.10714 0.72857-0.18857 1.4593-0.24214 2.1921v0.0043l4.1807 2.0893 2.1429 2.1429 4.2857 2.1429 2.1429 2.1429-2.1429 2.1429v4.2857l2.1429 4.2857 4.2857 4.2857v5.6336a30 30 0 0 0 12.857 2.9379c0.36429-0.0064 0.72857-0.01929 1.0929-0.03857l1.05-2.1043v-2.1429l4.2857-2.1429 2.1429-2.1429v-4.2857l2.1429-2.1429v-2.1429l-2.1429-2.1429-6.4286-2.1429-4.2857-4.2857h-2.1429l-2.1429-2.1429-6.4286-2.1429-4.2857 2.1429h-4.2857v-4.2857h-2.1429v-4.2857z" fill="url(#d-3)" stroke-width="2.1428"/>
+ <circle cx="32" cy="32" r="16" fill="#4f575f" fill-rule="evenodd" stroke-width="2.2857"/>
+ <path d="m29.714 16v13.714h4.5714v-13.714zm-2.2857 0.67429a16 16 0 0 0-11.429 15.326 16 16 0 0 0 16 16 16 16 0 0 0 16-16 16 16 0 0 0-11.429-15.317v2.4069a13.714 13.714 0 0 1 9.1429 12.91 13.714 13.714 0 0 1-13.714 13.714 13.714 13.714 0 0 1-13.714-13.714 13.714 13.714 0 0 1 9.1429-12.914z" fill="url(#f)" fill-rule="evenodd" stroke-width="2.2857"/>
+</svg>

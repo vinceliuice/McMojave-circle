@@ -1,0 +1,40 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="e" x1="16" x2="16" y1="8" y2="6" gradientTransform="translate(0,31)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8b9195" offset="0"/>
+   <stop stop-color="#a4a9ac" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="399.57" x2="406.57" y1="521.8" y2="529.13" gradientTransform="matrix(1 0 0 .95455 -384.57 -459.08)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#292c2f" offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="f" cx="16" cy="24.964" r="10" gradientTransform="matrix(.5 0 0 1.2 8 14.043)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bdc3c7" offset="0"/>
+   <stop stop-color="#b4b9bc" offset="1"/>
+  </radialGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.88972449"/>
+  </filter>
+  <linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276,0,0,1.3276,-510.64,-663.52)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="filter918" x="-.05875" y="-.061304" width="1.1175" height="1.1226" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.5875"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(1.0115,0,0,1.0115,-389.32,-489.92)" x="386.85" y="486.31" width="59.315" height="59.315" ry="29.657" filter="url(#c)" opacity=".25"/>
+ <rect x="1.9826" y="1.9784" width="59.997" height="59.997" ry="29.998" fill="url(#b)" stroke-width="1.0115"/>
+ <g transform="matrix(1.5,0,0,1.5,8,-36.5)" filter="url(#filter918)" opacity=".15">
+  <path d="m6 38v1l9 14v5l2 2v-7l9-14v-1z" stroke-width=".73193"/>
+  <path d="m6 39 9 14h2l9-14z" opacity=".2" stroke-width=".97701"/>
+  <path d="m27 39c0.554 0 1-0.446 1-1v-1h-24v1c0 0.554 0.446 1 1 1z"/>
+  <path d="m15 57v1l2 2v-1z" stroke-width=".73193"/>
+ </g>
+ <g transform="matrix(1.5,0,0,1.5,8,-36.5)">
+  <path d="m6 38v1l9 14v5l2 2v-7l9-14v-1z" fill="url(#f)" stroke-width=".73193"/>
+  <path d="m6 39 9 14h2l9-14z" fill="url(#d)" opacity=".2" stroke-width=".97701"/>
+  <path d="m27 39c0.554 0 1-0.446 1-1v-1h-24v1c0 0.554 0.446 1 1 1z" fill="url(#e)"/>
+  <path d="m15 57v1l2 2v-1z" fill="#9a9fa2" stroke-width=".73193"/>
+ </g>
+</svg>
