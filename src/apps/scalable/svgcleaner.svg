@@ -1,0 +1,21 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient899" x1="-39.605" x2="-39.605" y1="58.247" y2="6.9877" gradientTransform="translate(70.543 .41975)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0e71de" offset="0"/>
+   <stop stop-color="#25c9ff" offset="1"/>
+  </linearGradient>
+  <filter id="filter930" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter930)" opacity=".15" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient899)" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <image x="15.5" y="14.65" width="33" height="38" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAmCAYAAABK4fLXAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAnNJREFUWIW9mNtugzAQRCdAkv7/ 17YJlz7EA8N0bWyEupLVBMj6eO8UuF5uaTX94OrNqXORVZT+YoAewJBWJzD/AtElXQ8ATwD3BFVl ieECAFphEAhenwCMRwq6owcqIXp8Tv9AoyuugLglHUOCGNK1GR8rzKhwSYs7okxyiC5tOKY1pe+M j1MQnnYukRve2CxASAKEICWIDlvURyDc4JFAenmGcYIE5O6pguAGd+x9HT1DV/RpA1qnk81HAC9k 4qMEQWVf2PI+B8K1YHMLLcAUHUXHDiSC4IN0BVcukwg2B4e42fVQarJjQcaXwXMuMz6BWkzXkjv0 hCPyGRKB0mpTgiBIdXZEriilqXbLCfu05rVi0XII7QNRGc5BeDxo5VTQUCJLsB0z/6P0dAieViGA yh6iEJpunAmYFSVX0OxMy9LzobiZmVqaliWFWiFzdeRw3FMIDUjGQcuJfDMvZFldEYS6oWXzaDPX F4KwyWiveKbVAuJCIGDLnmzBiwKzJhZc1BoaB+w/Ua1YgQZRchbAD7HId6br0wDY1BaFUCVnIXRj Fbp8wd/qukJ4YNGXLSBqYk1bBbkLAGPkBmBxS1TldUZ8pFO9wOfABND5c/FTn3WDn9B7RfSGto6D V7x3KMgsy0VdvptH6Y7iNNwI4ZseWldjQk9Bc9a4R8F9sOnsOXXbevDBbvClRSvpEYin3oitq2qQ 6kvRqCDqDo5iL2xFpjZm+HuO95NcV4g3gB/YuKcQtMR3+qw1pEYI8MY2VY0CMct9fUv703p1ntA+ UCM+YXn11YPu0jgaQqggul8Dor1D//q/j9aArpmaWsWLVO7eKr8gHthoMFmoBAAAAABJRU5ErkJg gg== "/>
+ <path d="m35.692 16-3.6923 7.3846h-8.6154l-1.2308 3.6923h18.462l1.2308-3.6923h-6.1538l3.0769-6.1538c0.62038-1.2407-1.5849-1.2308-3.0769-1.2308zm-13.538 12.308c-1.7489 5.0139-3.6923 8.6154-3.6923 14.769 0 2.4615 1.2308 4.9231 3.6923 4.9231h13.538c-0.57007-3.2391-0.93874-5.3383-1.2308-8.6154 1.1691 3.3089 1.686 5.2447 3.6923 8.6154h3.6923c1.883 0 3.723-2.0891 3.6923-4.9231-0.01311-1.2111-0.12283-2.5018-2.8822-5.0409-2.0098-1.8462-3.2716-3.9551-3.2716-6.0361 0-1.553 0.19692-2.5957 0.61538-3.6923h-2.4615c-0.92044 0-1.8462 0.27658-1.8462 1.2308 0 2.9575 0.08615 6.1108 2.4615 8.6154-3.1564-2.8167-3.6923-3.6923-3.6923-9.8462z" fill="#eaebf2" stroke-width="1.2308"/>
+</svg>

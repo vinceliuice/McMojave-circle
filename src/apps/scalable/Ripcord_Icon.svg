@@ -1,0 +1,31 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient898" x1="32" x2="32" y1="39" y2="18" gradientTransform="matrix(1.1053 0 0 1.1053 -3.3684 -4.7331)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5486d4" offset="0"/>
+   <stop stop-color="#78c7e3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient906" x1="32" x2="32" y1="44" y2="18" gradientTransform="matrix(1.1053 0 0 1.1053 -3.3684 -4.4563)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff8652" offset="0"/>
+   <stop stop-color="#ffc55c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient914" x1="32" x2="32" y1="48" y2="22" gradientTransform="matrix(1.1053 0 0 1.1053 -3.3684 -4.1448)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#425576" offset="0"/>
+   <stop stop-color="#5a7da5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient899" x1="-39.605" x2="-39.605" y1="58.247" y2="6.9877" gradientTransform="translate(70.543 .41975)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1efeb" offset="0"/>
+   <stop stop-color="#fdfcfc" offset="1"/>
+  </linearGradient>
+  <filter id="filter930" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter930)" opacity=".15" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient899)" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <image x="7.1725" y="20" width="49.655" height="36.414" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAhCAYAAABN2CLhAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAnxJREFUWIXVmNtugzAQRIdAk/7/ 36bc+lBPGCZrx1xSKZYsqgbWh2G8Xht4X2s+JXBjVwCY7XraIGfFuUhnm6QDJ8C3RwPgD7hJsToA X6lf0/8uOPmLdgeeVXUduEu/zwAGAH26bwAw4qDqe5VWdQl6k07wVjqfOdy2Kl1S9yqgCqc+b+Xv 3apvUdq9e02d6hKYAJM8dwn67lYLzYFpB4XVCTdh8TCVnA1cJ2eUIg9DKyytcAPwjcW7jDEl2B/p +vmB2CqbvV6C3qLumCDvAkylqfZscd3j1eARtAalugrs6g4JlsAD1pOMXSca1d3ldYeOJhvtwOxQ o64u3ewTnhWPwN0uT1lFoRmg5N0mQQ0G3COfvmbk4UuKZ71OaPWve/cLy2eL1CWwqphrJdVLPl/F 1cWlwVplXY4JzOxwx+Ld2sWBv+sLOjTHo1AsBbTgeijYYO1n/0Sq0CjXrWWn3k8Qxst5XUuARqH1 zXXWR95rLRiQ8V7Q9P4oXyuLi/P4MurpHECTuWdr8ZPLTJw3WgJwVeWc6SFfI8rTOlF8wJoZHr2M erZDXBEC61U1ykxFaPXcq/SUU90tpep6kUU79KjITLllXNWOVFc/eq3sZWltkUXQO5aCy1PjS2iH L61mXvx43eJ5PyqysnbwVtoEOLCmp0kGJ6y+AFXSFVY3CIzlk21ERt1aaIL7EswBRyy7Fk2BLdZ1 NC10weJdtUMv8bLqatu6R6wpfnRfGKmr3vUiq2qR2rOxdfVL2UVLgC1F1unQCu9p0QfW7dfeIuup 7T33iIof9Xp07qH7xkPnHmecQ0SLiG/FaI+XmaF2wDPav57lfeSp6Tvb286nfwHrBkoTPVCkqwAA AABJRU5ErkJggg== "/>
+ <path d="m31.964 22.312a2.2423 1.5416 0 0 0-1.5484 0.45118l-18.76 12.894a2.2423 1.5416 0 0 0 0 2.179l18.76 12.9a2.2423 1.5416 0 0 0 3.1685 0l18.76-12.9a2.2423 1.5416 0 0 0 0-2.179l-18.76-12.894a2.2423 1.5416 0 0 0-1.6201-0.45118zm0.03589 5.2501 13.366 9.1876-13.366 9.1876-13.366-9.1876z" fill="url(#linearGradient914)" stroke-width="2.625"/>
+ <image x="7.1725" y="15" width="49.655" height="36.414" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAhCAYAAABN2CLhAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAnxJREFUWIXVmNtugzAQRIdAk/7/ 36bc+lBPGCZrx1xSKZYsqgbWh2G8Xht4X2s+JXBjVwCY7XraIGfFuUhnm6QDJ8C3RwPgD7hJsToA X6lf0/8uOPmLdgeeVXUduEu/zwAGAH26bwAw4qDqe5VWdQl6k07wVjqfOdy2Kl1S9yqgCqc+b+Xv 3apvUdq9e02d6hKYAJM8dwn67lYLzYFpB4XVCTdh8TCVnA1cJ2eUIg9DKyytcAPwjcW7jDEl2B/p +vmB2CqbvV6C3qLumCDvAkylqfZscd3j1eARtAalugrs6g4JlsAD1pOMXSca1d3ldYeOJhvtwOxQ o64u3ewTnhWPwN0uT1lFoRmg5N0mQQ0G3COfvmbk4UuKZ71OaPWve/cLy2eL1CWwqphrJdVLPl/F 1cWlwVplXY4JzOxwx+Ld2sWBv+sLOjTHo1AsBbTgeijYYO1n/0Sq0CjXrWWn3k8Qxst5XUuARqH1 zXXWR95rLRiQ8V7Q9P4oXyuLi/P4MurpHECTuWdr8ZPLTJw3WgJwVeWc6SFfI8rTOlF8wJoZHr2M erZDXBEC61U1ykxFaPXcq/SUU90tpep6kUU79KjITLllXNWOVFc/eq3sZWltkUXQO5aCy1PjS2iH L61mXvx43eJ5PyqysnbwVtoEOLCmp0kGJ6y+AFXSFVY3CIzlk21ERt1aaIL7EswBRyy7Fk2BLdZ1 NC10weJdtUMv8bLqatu6R6wpfnRfGKmr3vUiq2qR2rOxdfVL2UVLgC1F1unQCu9p0QfW7dfeIuup 7T33iIof9Xp07qH7xkPnHmecQ0SLiG/FaI+XmaF2wDPav57lfeSp6Tvb286nfwHrBkoTPVCkqwAA AABJRU5ErkJggg== "/>
+ <path d="m31.964 17.511a2.2423 1.5416 0 0 0-1.5484 0.45118l-18.76 12.894a2.2423 1.5416 0 0 0 0 2.179l18.76 12.9a2.2423 1.5416 0 0 0 3.1685 0l18.76-12.9a2.2423 1.5416 0 0 0 0-2.179l-18.76-12.894a2.2423 1.5416 0 0 0-1.6201-0.45118zm0.03589 5.2501 13.366 9.1876-13.366 9.1876-13.366-9.1876z" fill="url(#linearGradient906)" stroke-width="2.625"/>
+ <image x="7.1725" y="9.7932" width="49.655" height="36.414" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAhCAYAAABN2CLhAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAnxJREFUWIXVmNtugzAQRIdAk/7/ 36bc+lBPGCZrx1xSKZYsqgbWh2G8Xht4X2s+JXBjVwCY7XraIGfFuUhnm6QDJ8C3RwPgD7hJsToA X6lf0/8uOPmLdgeeVXUduEu/zwAGAH26bwAw4qDqe5VWdQl6k07wVjqfOdy2Kl1S9yqgCqc+b+Xv 3apvUdq9e02d6hKYAJM8dwn67lYLzYFpB4XVCTdh8TCVnA1cJ2eUIg9DKyytcAPwjcW7jDEl2B/p +vmB2CqbvV6C3qLumCDvAkylqfZscd3j1eARtAalugrs6g4JlsAD1pOMXSca1d3ldYeOJhvtwOxQ o64u3ewTnhWPwN0uT1lFoRmg5N0mQQ0G3COfvmbk4UuKZ71OaPWve/cLy2eL1CWwqphrJdVLPl/F 1cWlwVplXY4JzOxwx+Ld2sWBv+sLOjTHo1AsBbTgeijYYO1n/0Sq0CjXrWWn3k8Qxst5XUuARqH1 zXXWR95rLRiQ8V7Q9P4oXyuLi/P4MurpHECTuWdr8ZPLTJw3WgJwVeWc6SFfI8rTOlF8wJoZHr2M erZDXBEC61U1ykxFaPXcq/SUU90tpep6kUU79KjITLllXNWOVFc/eq3sZWltkUXQO5aCy1PjS2iH L61mXvx43eJ5PyqysnbwVtoEOLCmp0kGJ6y+AFXSFVY3CIzlk21ERt1aaIL7EswBRyy7Fk2BLdZ1 NC10weJdtUMv8bLqatu6R6wpfnRfGKmr3vUiq2qR2rOxdfVL2UVLgC1F1unQCu9p0QfW7dfeIuup 7T33iIof9Xp07qH7xkPnHmecQ0SLiG/FaI+XmaF2wDPav57lfeSp6Tvb286nfwHrBkoTPVCkqwAA AABJRU5ErkJggg== "/>
+ <path d="m31.964 12.813a2.2423 1.5416 0 0 0-1.5484 0.45118l-18.76 12.894a2.2423 1.5416 0 0 0 0 2.179l18.76 12.9a2.2423 1.5416 0 0 0 3.1685 0l18.76-12.9a2.2423 1.5416 0 0 0 0-2.179l-18.76-12.894a2.2423 1.5416 0 0 0-1.6201-0.45118zm0.03589 5.2501 13.366 9.1876-13.366 9.1876-13.366-9.1876z" fill="url(#linearGradient898)" stroke-width="2.625"/>
+</svg>

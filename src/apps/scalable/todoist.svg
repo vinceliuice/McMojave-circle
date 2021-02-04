@@ -1,0 +1,14 @@
+<svg width="64" height="64" style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient899" x1="-39.605" x2="-39.605" y1="58.247" y2="6.9877" gradientTransform="translate(70.543 .41975)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff3533" offset="0"/>
+   <stop stop-color="#ff6766" offset="1"/>
+  </linearGradient>
+  <filter id="filter930" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter930)" opacity=".15" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient899)" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <path d="m33.473 14.514c-0.28212-0.001125-0.56525 0.060094-0.78125 0.18359l-19.232 11.014c-0.527 0.302-1.3802 0.30105-1.9062-0.001954l-7.5918-4.373a30 30 0 0 0-1.2109 3.9961l8.6309 5.0156c0.62 0.36 1.628 0.36095 2.25 0.001953l22.43-12.939c0.789-0.455 0.78895-1.1963 0.001953-1.6543l-1.8125-1.0527c-0.2145-0.125-0.49522-0.18833-0.77734-0.18945zm0 9.4043c-0.28212-1e-3 -0.56525 0.060094-0.78125 0.18359l-19.232 11.014c-0.527 0.302-1.3802 0.30105-1.9062-0.001953l-9.4609-5.4512a30 30 0 0 0-0.091797 2.3379 30 30 0 0 0 0.09375 2.3535l9.2871 5.3984c0.62 0.36 1.628 0.36095 2.25 0.001953l22.43-12.939c0.789-0.455 0.78895-1.1963 0.001953-1.6543l-1.8125-1.0547c-0.2145-0.1245-0.49522-0.1865-0.77734-0.1875zm0 9.375c-0.28212-1e-3 -0.56525 0.060094-0.78125 0.18359l-19.232 11.014c-0.527 0.302-1.3802 0.30105-1.9062-0.001953l-8.5898-4.9492a30 30 0 0 0 2.2773 6.0176l6.1406 3.5703c0.62 0.36 1.628 0.36095 2.25 0.001953l22.43-12.939c0.789-0.455 0.78895-1.1963 0.001953-1.6543l-1.8125-1.0547c-0.2145-0.1245-0.49522-0.1865-0.77734-0.1875z" fill="#ffffff"/>
+</svg>

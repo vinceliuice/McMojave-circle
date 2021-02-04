@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="filter880" x="-.1288" y="-.092984" width="1.2576" height="1.186" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.1697093"/>
+  </filter>
+  <linearGradient id="linearGradient899" x1="-39.605" x2="-39.605" y1="58.247" y2="6.9877" gradientTransform="translate(70.543 .41975)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#015195" offset="0"/>
+   <stop stop-color="#0186f3" offset="1"/>
+  </linearGradient>
+  <filter id="filter930" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter930)" opacity=".15" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient899)" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <path d="m26.477 3.9688-13.568 39.436h5.3984l6.8945-20.213h3.7383l-6.7969 20.213h5.4277l6.4219-18.822c0.93487-2.7061-0.53693-5.1816-3.2695-5.1816h-4.2051l5.3984-15.432zm23.305 15.424-9.9785 0.0078-13.934 40.57h5.4766l5.7227-16.572h7.168c1.276 0 2.6677-1.0263 3.1035-2.2871l5.7168-16.537c0.93487-2.7061-0.53899-5.1816-3.2754-5.1816zm-5.9023 3.7891h4.0703l-5.6465 16.424h-4.0684z" filter="url(#filter880)" opacity=".15" stroke-width="1.2634"/>
+ <path d="m25.354 3.9688-13.568 39.436h5.3984l6.8945-20.213h3.7383l-6.7969 20.213h5.4277l6.4219-18.822c0.93487-2.7061-0.53693-5.1816-3.2695-5.1816h-4.2051l5.3984-15.432h-5.4395zm23.305 15.424-9.9785 0.007813-13.934 40.57h5.4766l5.7227-16.572h7.168c1.276 0 2.6677-1.0263 3.1035-2.2871l5.7168-16.537c0.93487-2.7061-0.53899-5.1816-3.2754-5.1816zm-5.9023 3.7891h4.0703l-5.6465 16.424h-4.0684l5.6445-16.424z" fill="#f8f8f8" stroke-width="1.2634"/>
+</svg>

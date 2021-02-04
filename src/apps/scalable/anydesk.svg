@@ -1,0 +1,28 @@
+<svg width="64" height="64" style="isolation:isolate" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1733" x="-.47" y="-.59" width="2" height="2.17" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(234,66,58)" flood-opacity=".31632" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+   <feGaussianBlur dx="0" in="composite1" result="blur" stdDeviation="5.1585917154947918"/>
+   <feOffset dx="0" dy="-3.0321338508702524" result="offset"/>
+   <feComposite in="offset" in2="SourceGraphic" operator="atop" result="fbSourceGraphic"/>
+   <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".11869" in="fbSourceGraphic" result="flood"/>
+   <feComposite in="flood" in2="fbSourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur dx="0" in="composite1" result="blur" stdDeviation="4.9955010986328032"/>
+   <feOffset dx="-0.949097" dy="5.087473422666136" result="offset"/>
+   <feComposite in="fbSourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <linearGradient id="linearGradient899" x1="-68.543" x2="-8.5432" y1="31.58" y2="31.58" gradientTransform="translate(70.543 .41975)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff413f" offset="0"/>
+   <stop stop-color="#e62f2e" offset="1"/>
+  </linearGradient>
+  <filter id="filter930" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter930)" opacity=".15" stroke-linecap="square" stroke-width="2.2881" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient899)" stroke-linecap="square" stroke-width="2.2881" style="paint-order:stroke fill markers"/>
+ <polygon class="st0" transform="matrix(.58165 0 0 .58165 11.284 17.592)" points="41.1 5.5 60.4 24.7 41.1 44 46.6 49.4 71.3 24.7 46.6 0" fill="#ffffff" filter="url(#filter1733)"/>
+ <rect class="st0" transform="matrix(.54838 -.54838 .54838 .54838 10.713 7.9571)" x="-21.41" y="22.378" width="26.25" height="26.25" fill="#ffffff" filter="url(#filter1733)" stroke-width=".74999"/>
+</svg>

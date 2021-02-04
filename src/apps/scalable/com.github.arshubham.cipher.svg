@@ -1,0 +1,48 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient1042" cx="12.171" cy="12.171" r="4.7624" gradientTransform="scale(3.7796)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop offset=".47287"/>
+   <stop stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient1007-3" x1="46" x2="46" y1="60" y2="30" gradientTransform="translate(-.001533 -.000131)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1e1e1e" offset="0"/>
+   <stop stop-color="#3c3c3c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2740" x1="48.192" x2="48.192" y1="13.361" y2="-4.3707" gradientTransform="matrix(2.3195 0 0 2.3122 -79.781 22.106)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9ca0a1" offset="0"/>
+   <stop stop-color="#e5e6e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2785" x1="49.178" x2="48.877" y1="4.3501" y2="8.0585" gradientTransform="matrix(2.3195 0 0 1.9157 -79.782 27.339)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f4d984" offset="0"/>
+   <stop stop-color="#f8db80" offset="1"/>
+  </linearGradient>
+  <filter id="filter1007" x="-.12656" y="-.094186" width="1.2531" height="1.1884" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.6875"/>
+  </filter>
+  <filter id="filter1021" x="-.0675" y="-.27" width="1.135" height="1.54" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.67500242"/>
+  </filter>
+  <linearGradient id="linearGradient899" x1="-39.605" x2="-39.605" y1="58.247" y2="6.9877" gradientTransform="translate(70.543 .41975)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#666" offset="0"/>
+   <stop stop-color="#b3b3b3" offset="1"/>
+  </linearGradient>
+  <filter id="filter930" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter930)" opacity=".15" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient899)" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <path d="m32 11c-6.094 0-11 4.906-11 11v6h-3c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2h-3v-6c0-6.094-4.906-11-11-11zm0 4c3.878 0 7 3.122 7 7v6h-14v-6c0-3.878 3.122-7 7-7z" filter="url(#filter1007)" opacity=".15"/>
+ <path d="m32 10c-6.094 0-11 4.906-11 11v6h-3c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2h-3v-6c0-6.094-4.906-11-11-11zm0 4c3.878 0 7 3.122 7 7v6h-14v-6c0-3.878 3.122-7 7-7z" fill="url(#linearGradient2740)"/>
+ <path d="m16 35v8h32v-8z" fill="url(#linearGradient2785)" opacity=".809"/>
+ <path d="m21.708 35-5.7077 8h4.018l5.7089-8zm7.2505 0-5.7077 8h4.0192l5.7077-8zm7.2517 0-5.7089 8h4.0192l5.7077-8zm7.2505 0-5.7077 8h4.018l5.7077-8z" fill="#222"/>
+ <circle cx="46.002" cy="46.002" r="18" fill="url(#radialGradient1042)" opacity=".65" stroke-width="4.252"/>
+ <circle cx="46" cy="45" r="16" fill="url(#linearGradient1007-3)" stroke-width="3.7796"/>
+ <path d="m36.949 43a3 3 0 0 0-2.9492 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-0.050781 0zm9 0a3 3 0 0 0-2.9492 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-0.050781 0zm9 0a3 3 0 0 0-2.9492 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-0.050781 0z" filter="url(#filter1021)" opacity=".35"/>
+ <g fill="#ececec">
+  <circle cx="37" cy="45" r="3"/>
+  <circle cx="46" cy="45" r="3"/>
+  <circle cx="55" cy="45" r="3"/>
+ </g>
+</svg>

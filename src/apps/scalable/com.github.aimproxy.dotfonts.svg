@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter906" x="-.10493" y="-.11125" width="1.2099" height="1.2225" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.39246294"/>
+  </filter>
+  <filter id="filter930" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+  <linearGradient id="linearGradient899" x1="-68.543" x2="-8.5432" y1="31.58" y2="31.58" gradientTransform="matrix(.26458 0 0 .26458 18.664 .11106)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#18222a" offset="0"/>
+   <stop stop-color="#566069" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="matrix(.26458 0 0 .26458 -.088052 -.088052)" cx="32.333" cy="32.333" r="30" fill="#000000" filter="url(#filter930)" opacity=".15" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#linearGradient899)" stroke-linecap="square" stroke-width=".60539" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <text x="3.7172852" y="13.053593" fill="#000000" filter="url(#filter906)" font-family="'URW Bookman'" font-size="12.432px" font-style="italic" font-weight="300" opacity=".15" stroke-width=".31081" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="3.7172852" y="13.053593" fill="#000000" font-family="'URW Bookman'" font-style="italic" font-weight="300" stroke-width=".31081">F</tspan></text>
+ <g fill="#ffffff" stroke-width=".31081" aria-label="F">
+  <path d="m12.395 4.2336h-6.8749l-0.074592 0.36053 0.19891 0.024864c0.48485 0.06216 0.70862 0.2735 0.70862 0.67133 0 0.11189-0.024864 0.43512-0.049728 0.53458l-0.95726 5.2836c-0.17405 0.85781-0.41026 1.1189-1.094 1.2059l-0.21134 0.02486-0.06216 0.36053h3.5804l0.06216-0.36053-0.26107-0.02486c-0.57187-0.04973-0.82051-0.26107-0.82051-0.68376 0-0.13675 0.024864-0.3481 0.049728-0.52214l0.47242-2.5734h0.9324c0.45998 0 0.82051 0.11189 0.98213 0.28594 0.16162 0.18648 0.28594 0.57187 0.28594 0.90754 0 0.049728-0.012432 0.13675-0.024864 0.26107v0.099456h0.39782l0.6589-3.6053h-0.41026l-0.024864 0.06216-0.19891 0.59674c-0.037296 0.11189-0.13675 0.2735-0.2735 0.43512-0.29837 0.33566-0.6216 0.45998-1.2308 0.45998h-1.007l0.3481-1.9394c0.099456-0.54701 0.22378-0.8951 0.33566-1.007 0.26107-0.24864 0.5843-0.32323 1.4297-0.32323 1.554 0 2.5361 0.63403 3.2199 2.0761l0.47242-0.14918z" fill="#ffffff" stroke-width=".31081"/>
+ </g>
+</svg>

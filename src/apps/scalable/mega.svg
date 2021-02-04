@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter958" x="-.04" y="-.06" width="1.08" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.4"/>
+  </filter>
+  <linearGradient id="linearGradient899" x1="-39.605" x2="-39.605" y1="58.247" y2="6.9877" gradientTransform="translate(70.543 .41975)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c1010e" offset="0"/>
+   <stop stop-color="#fe2031" offset="1"/>
+  </linearGradient>
+  <filter id="filter930" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter930)" opacity=".15" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient899)" stroke-linecap="square" stroke-width="2.2881" style="isolation:isolate;paint-order:stroke fill markers"/>
+ <g transform="matrix(1.3043 0 0 1.3043 .69565 .69565)" filter="url(#filter958)">
+  <g transform="translate(1,1)">
+   <g opacity=".1">
+    <path d="m12 32v-16h4v16"/>
+    <path d="m32 32v-16h4v16"/>
+    <path d="m15 16h1l8 8 8-8h1v4l-8 7h-2l-8-7"/>
+   </g>
+  </g>
+ </g>
+ <g transform="matrix(1.3043 0 0 1.3043 .69565 .69565)">
+  <g fill="#f9f9f9">
+   <path d="m12 32v-16h4v16"/>
+   <path d="m32 32v-16h4v16"/>
+   <path d="m15 16h1l8 8 8-8h1v4l-8 7h-2l-8-7"/>
+  </g>
+ </g>
+</svg>
