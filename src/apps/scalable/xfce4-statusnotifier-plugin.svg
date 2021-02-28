@@ -1,0 +1,26 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41999874"/>
+  </filter>
+  <filter id="d" x="-.09225" y="-.022364" width="1.1845" height="1.0447" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.3075"/>
+  </filter>
+  <linearGradient id="linearGradient884" x1="-62.73" x2="-62.73" y1="1118.6" y2="1067.2" gradientTransform="translate(94.902 -1060.4)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9575cd" offset="0"/>
+   <stop stop-color="#cd75bc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" cx="400.57" cy="531.8" r="14" filter="url(#c)" opacity=".25" stroke-width=".73333"/>
+ <g transform="translate(-.02 -.043999)" stroke-width="1.5715">
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#linearGradient884)" stroke-width="1.5715"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
+  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
+ </g>
+ <path d="m32.002 16c-2.2088 0-4.002 1.7921-4.002 4.002 0 2.2087 1.7932 3.998 4.002 3.998 2.2066 0 3.998-1.7893 3.998-3.998 0-2.2098-1.7914-4.002-3.998-4.002zm0 11c-2.3418 0-4.002 1.8263-4.002 4.0742v13.854c0 2.2502 1.6601 4.0723 4.002 4.0723 2.3406 0 3.998-1.8221 3.998-4.0723v-13.854c0-2.2502-1.6574-4.0742-3.998-4.0742z" fill-opacity=".85204" filter="url(#d)" opacity=".15"/>
+ <path d="m32.002 16c-2.2088 0-4.002 1.7921-4.002 4.002 0 2.2087 1.7932 3.998 4.002 3.998 2.2066 0 3.998-1.7893 3.998-3.998 0-2.2098-1.7914-4.002-3.998-4.002zm0 11c-2.3418 0-4.002 1.8263-4.002 4.0742v13.854c0 2.2502 1.6601 4.0723 4.002 4.0723 2.3406 0 3.998-1.8221 3.998-4.0723v-13.854c0-2.2502-1.6574-4.0742-3.998-4.0742z" fill="#ffffff" fill-opacity=".97238"/>
+</svg>
