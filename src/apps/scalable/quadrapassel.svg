@@ -1,0 +1,33 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1000" x1="8.5867" x2="8.5867" y1="15.747" y2="1.0975" gradientTransform="matrix(1.0714 0 0 1.0714 -.60469 -.5958)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#333" offset="0"/>
+   <stop stop-color="#808080" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1050" x1="7.9373" x2="7.9373" y1="4.5712" y2="8.4726" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff7072" offset="0"/>
+   <stop stop-color="#ff3875" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1058" x1="8.4665" x2="8.4665" y1="8.7311" y2="12.435" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#59aef8" offset="0"/>
+   <stop stop-color="#3478d5" offset="1"/>
+  </linearGradient>
+  <filter id="filter1074" x="-.10499" y="-.11119" width="1.21" height="1.2224" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.41667484"/>
+  </filter>
+  <filter id="filter1062" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.203196"/>
+  </filter>
+ </defs>
+ <rect x=".52916" y=".52916" width="15.875" height="15.875" rx="7.9373" ry="7.9373" fill="#000000" filter="url(#filter1062)" opacity=".15" stroke-width="1.0714"/>
+ <rect x=".52916" y=".52916" width="15.875" height="15.875" rx="7.9373" ry="7.9373" fill="url(#linearGradient1000)" stroke-width="1.0714"/>
+ <g transform="matrix(.26458 0 0 .26458 1.9001 1.8477)">
+  <g transform="translate(1,1)"></g>
+ </g>
+ <g transform="translate(0 .26458)" fill="#000000" filter="url(#filter1074)" opacity=".35">
+  <path d="m3.7041 3.9687h9.5248v4.7624h-2.3812v-2.3812h-7.1436"/>
+  <path d="m3.7041 10.583v2.3796h9.5248v-2.3796h-3.4395v-2.3812h-2.6458v2.3812"/>
+ </g>
+ <path d="m3.7041 3.9687h9.5248v4.7624h-2.3812v-2.3812h-7.1436" fill="url(#linearGradient1050)"/>
+ <path d="m3.7041 10.583v2.3796h9.5248v-2.3796h-3.4395v-2.3812h-2.6458v2.3812" fill="url(#linearGradient1058)"/>
+</svg>

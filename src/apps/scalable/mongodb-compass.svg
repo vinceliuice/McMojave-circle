@@ -1,0 +1,26 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient862-3" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1efeb" offset="0"/>
+   <stop stop-color="#fdfcfc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient878" x1="21.989" x2="21.989" y1="29.084" y2="15.076" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#85ec51" offset="0"/>
+   <stop stop-color="#beff66" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient886" x1="25.382" x2="25.382" y1="30.613" y2="14.219" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#43db59" offset="0"/>
+   <stop stop-color="#6af1b0" offset="1"/>
+  </linearGradient>
+  <filter id="filter1053" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.768"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter1053)" opacity=".15" stroke-width="4.0494"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-3)" stroke-width="4.0494"/>
+ <image x="11.942" y="4.2678" width="37" height="57.5" opacity=".5" preserveAspectRatio="none" xlink:href="data:image/png;base64,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 evRoq/4AixI+h8w3rVoAAAAASUVORK5CYII= "/>
+ <g transform="matrix(1.6667 0 0 1.6667 -8 -6.3333)">
+  <path d="m24 10c-3.531 3.988-6 6.9-6 12 0 5.5 3.525 8.863 6 11 1-3 1-19 0-23z" fill="url(#linearGradient878)"/>
+  <path d="m24 10v25.199l1 0.801v-3c2.105-2.195 5-4.5 5-11 0-4-3-7-5-10-0.413-0.62-1-2-1-2z" fill="url(#linearGradient886)"/>
+ </g>
+</svg>

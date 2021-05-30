@@ -1,0 +1,14 @@
+<svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <circle cx="32" cy="32" r="30" fill="#000000" filter="url(#filter2296)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3004" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3004" style="paint-order:stroke fill markers"/>
+ <path d="m32 2a30 30 0 0 0-30 30 30 30 0 0 0 13.248 24.84c12.156-5.0265 21.24-9.567 21.25-14.598 0-0.18782-0.011696-0.38836-0.035156-0.57617-0.46959-3.4587-5.5263-5.5097-9.5977-7.1621-2.8371-1.1515-5.1943-2.109-5.1895-3.2129 0-0.14089 0.046947-0.2947 0.12891-0.44727 1.4416-2.5169 6.5078-2.7804 9.4883-2.9355h0.003906c0.5072-0.02636 0.9526-0.049438 1.3105-0.080078 0.42438-0.03642 0.9481-0.066046 1.5234-0.097656 2.7605-0.15203 6.74-0.37114 6.9727-1.8281 0.01168-0.058712 0.011718-0.10535 0.011718-0.16406 0.011785-1.6315-3.9609-2.2773-3.9609-2.2773s4.8165 0.71571 4.8047 2.5938c0 0.030429-0.001406 0.061366-0.003906 0.091796-0.00514 0.063426-0.01539 0.12798-0.03125 0.19141-0.51555 2.0189-4.7579 2.3944-7.5586 2.5352-2.6484 0.1291-6.6895 0.43341-6.7012 1.7363 0 0.070391 0.011697 0.1522 0.035157 0.23438 0.27728 0.83322 3.2743 1.4749 7.3516 2.3477 5.2275 1.119 12.229 2.619 17.549 5.3887 2.9436 1.5281 5.0863 3.618 6.6309 5.9902a30 30 0 0 0 2.7695-12.57 30 30 0 0 0-30-30z" fill="url(#paint0_linear)" stroke-width="1.0714"/>
+ <defs>
+  <linearGradient id="paint0_linear" x1="30" x2="30" y1="57" y2="6.9997" gradientTransform="matrix(1.0714 0 0 1.0714 -2.2856 -2.2518)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#B81E31" offset="0"/>
+   <stop stop-color="#FF5C5C" offset="1"/>
+  </linearGradient>
+  <filter id="filter2296" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.768"/>
+  </filter>
+ </defs>
+</svg>

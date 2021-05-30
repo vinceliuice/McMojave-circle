@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient949" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1fe0aa" offset="0"/>
+   <stop stop-color="#b2ff85" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1100" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient888" x1="23.813" x2="23.813" y1="13.436" y2="35.036" gradientTransform="matrix(1.2307 0 0 1.2307 3.6945 2.465)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#20adff" offset="0"/>
+   <stop stop-color="#345da2" offset="1"/>
+  </linearGradient>
+  <filter id="filter1063" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.768"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter1063)" opacity=".15" stroke-width="4.0494"/>
+ <rect width="64" height="64" rx="0" ry="0" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4464" style="paint-order:stroke fill markers"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient949)" stroke-width="4.0494"/>
+ <image x="12.75" y="16" width="38.5" height="36" preserveAspectRatio="none" xlink:href="data:image/png;base64,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 3QAAAABJRU5ErkJggg== "/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#linearGradient1100)" stroke-width="1.5715"/>
+ <path d="m31.877 17.233c-1.9777 0-3.569 1.5913-3.569 3.569v0.2449c0 0.45289 0.08984 0.88116 0.24244 1.2787l-4.7886 3.9898a5.538 5.538 0 0 0-2.2238-0.46889 5.538 5.538 0 0 0-5.538 5.538 5.538 5.538 0 0 0 5.538 5.538 5.538 5.538 0 0 0 2.3457-0.52919l4.8772 4.0649c-0.28059 0.56119-0.45412 1.1876-0.45412 1.8608v0.28306c0 2.3075 1.8583 4.1658 4.1658 4.1658h10.128c2.3075 0 4.1658-1.8583 4.1658-4.1658v-0.28306c0-2.3075-1.8583-4.1658-4.1658-4.1658h-10.128c-0.91685 0-1.7562 0.30028-2.4417 0.79748l-3.8262-4.5929a5.538 5.538 0 0 0 0.68549-1.5691l2.8466-0.25967c0.42212 1.1285 1.499 1.9322 2.7789 1.9322h12.509c1.6479 0 2.9758-1.3279 2.9758-2.9758v-0.20183c0-1.6479-1.3279-2.9758-2.9758-2.9758h-12.509c-1.2787 0-2.3567 0.8024-2.7789 1.9297l-2.8441-0.25721a5.538 5.538 0 0 0-0.74456-1.6639l3.649-4.38c0.58703 0.42212 1.3008 0.6781 2.0811 0.6781h11.321c1.9777 0 3.569-1.5913 3.569-3.569v-0.2449c0-1.9777-1.5913-3.569-3.569-3.569h-11.321z" fill="url(#linearGradient888)"/>
+ <g fill="#d0f9e7">
+  <rect x="29.539" y="18.464" width="15.999" height="4.9227" rx="2.3801"/>
+  <rect x="30.769" y="29.54" width="15.999" height="3.692" rx="1.7845"/>
+  <rect x="29.539" y="39.385" width="15.999" height="6.1534" rx="2.9745"/>
+ </g>
+ <circle cx="21.539" cy="31.386" r="4.3074" fill="#87c5e0"/>
+</svg>

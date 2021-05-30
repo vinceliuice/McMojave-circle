@@ -1,0 +1,29 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient913" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient971" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffc30d" offset="0"/>
+   <stop stop-color="#fff63f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3800" x2="0" y1="28" y2="20" gradientTransform="matrix(1.5 0 0 1.5 -4 -4)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5c431c" offset="0"/>
+   <stop stop-color="#6b4e21" offset="1"/>
+  </linearGradient>
+  <filter id="filter874" x="-.069429" y="-.243" width="1.1389" height="1.486" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.215"/>
+  </filter>
+  <filter id="filter1056" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.768"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter1056)" opacity=".15" stroke-width="4.0494"/>
+ <rect width="64" height="64" rx="0" ry="0" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4464" style="paint-order:stroke fill markers"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient971)" stroke-width="4.0494"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#linearGradient913)" stroke-width="1.5715"/>
+ <path d="m11 28v6h6v-6zm6 6v6h6v-6zm6 0h6v-6h-6zm6 0v6h6v-6zm6 0h6v-6h-6zm6 0v6h6v-6zm6 0h6v-6h-6z" fill="#784421" filter="url(#filter874)" opacity=".15"/>
+ <path d="m11 26v6h6v-6zm6 6v6h6v-6zm6 0h6v-6h-6zm6 0v6h6v-6zm6 0h6v-6h-6zm6 0v6h6v-6zm6 0h6v-6h-6z" fill="url(#linearGradient3800)"/>
+</svg>

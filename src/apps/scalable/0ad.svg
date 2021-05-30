@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1092" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9b6f27" offset="0"/>
+   <stop stop-color="#d0ab6a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1138" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="filter885" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.35"/>
+  </filter>
+  <filter id="filter1055" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.768"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter1055)" opacity=".15" stroke-width="4.0494"/>
+ <rect width="64" height="64" rx="0" ry="0" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4464" style="paint-order:stroke fill markers"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient1092)" stroke-width="4.0494"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#linearGradient1138)" stroke-width="1.5715"/>
+ <g transform="matrix(1.3043 0 0 1.3043 -83.876 -6.5223)">
+  <path d="m88.839 15.866c-8.285 0-15 6.715-15 15s6.715 15 15 15 15-6.715 15-15-6.715-15-15-15z" filter="url(#filter885)" opacity=".15"/>
+  <path d="m88.839 14.534c-8.285 0-15 6.715-15 15s6.715 15 15 15 15-6.715 15-15-6.715-15-15-15z" fill="#825d21"/>
+  <path d="m87.839 17.581a12 12 0 0 0-10.949 10.953h10.949zm2 0.0039v10.949h10.953a12 12 0 0 0-10.953-10.949zm-12.953 12.949a12 12 0 0 0 10.953 10.949v-10.949zm12.953 0v10.953a12 12 0 0 0 10.949-10.953z" fill="#d6b987"/>
+ </g>
+</svg>

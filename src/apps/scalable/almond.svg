@@ -1,0 +1,27 @@
+<svg id="SimpleNote" width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient885">
+   <stop stop-color="#dda641" offset="0"/>
+   <stop stop-color="#ffdf5e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient862-3" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient885">
+   <stop stop-color="#f6cd8f" offset="0"/>
+   <stop stop-color="#ffefd6" offset="1"/>
+  </linearGradient>
+  <filter id="filter877" x="-.138" y="-.088714" width="1.276" height="1.1774" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.035"/>
+  </filter>
+  <linearGradient id="linearGradient887" x1="26.176" x2="42.176" y1="32.806" y2="32.806" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient885"/>
+  <filter id="filter1148" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.768"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter1148)" opacity=".15" stroke-width="4.0494"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-3)" stroke-width="4.0494"/>
+ <g transform="matrix(1.4483 0 0 1.4483 -18.22 -16.238)">
+  <path d="m44.176 38.807c0 6-4 9-9 9s-9-3-9-9c0-7 4.8281-19 9-19s9 12 9 19z" filter="url(#filter877)" opacity=".1" style="paint-order:normal"/>
+  <path d="m43.176 37.807c0 6-4 9-9 9s-9-3-9-9c0-7 4.8281-19 9-19s9 12 9 19z" fill="#c4762f" style="paint-order:normal"/>
+  <path d="m34.176 19.806c-3.5312 0-8 11-8 18 0 5 3.1719 8 8 8 1.6143 0 3.0373-0.34126 4.2246-0.97461 1.5704-2.3842 2.7754-5.0846 2.7754-8.0254 0.5737 1.3028 0.29843 3.5142-0.30859 5.7988 0.84242-1.271 1.3086-2.8874 1.3086-4.7988 0-7-4.4688-18-8-18zm-1.5 2s-0.5 3.4328-0.5 5c0 2.0276 1 5 1 6 0 1.4843-1.5 4-1.5 4s0.5-1.7656 0.5-4c0-1-1-3.6094-1-6 0-1.6997 1.5-5 1.5-5zm3.5 0s3 4.2847 3 9c0 2-0.35828 3.593-1 5v-5c0-3.625-1-6-2-9zm-7 6v3c0 2-0.29302 3.7766-1 6v-4c0-1.6997 1-5 1-5z" fill="url(#linearGradient887)" style="paint-order:normal"/>
+  <path d="m29.676 38.806c-0.82843 0-1.5 0.89543-1.5 2 0.54417-0.99933 1.0847-1 1.5-1s0.92603 6.7e-4 1.5 1c0-1.1046-0.67157-2-1.5-2zm8 0c-0.82843 0-1.5 0.89543-1.5 2 0.54417-0.99933 1.0847-1 1.5-1s0.92603 6.7e-4 1.5 1c0-1.1046-0.67157-2-1.5-2zm-5 3a0.5 0.5 0 0 0-0.5 0.5c0 0.831 0.669 1.5 1.5 1.5s1.5-0.669 1.5-1.5a0.5 0.5 0 0 0-0.5-0.5 0.5 0.5 0 0 0-0.5 0.5c0 0.277-0.223 0.5-0.5 0.5s-0.5-0.223-0.5-0.5a0.5 0.5 0 0 0-0.5-0.5z" fill="#403b3c" style="paint-order:normal"/>
+ </g>
+</svg>

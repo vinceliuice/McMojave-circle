@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1092" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b76728" offset="0"/>
+   <stop stop-color="#d09d6a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1138" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="filter1149" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.768"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter1149)" opacity=".15" stroke-width="4.0494"/>
+ <rect width="64" height="64" rx="0" ry="0" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4464" style="paint-order:stroke fill markers"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient1092)" stroke-width="4.0494"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#linearGradient1138)" stroke-width="1.5715"/>
+ <rect x="6" y="6" width="52" height="52" rx="26" ry="26" opacity=".5" stroke-width="3.5096"/>
+ <image x="10.5" y="14" width="43" height="39" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAnCAYAAACWn7G7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABQRJREFUWIW1meGS2yAMhNd2Lsn1 +v5P2t4lsWP6I/rMouDMTadlxoODQVqEkBYyqC1DqnMpO++vxpVU5355zJ4OHWwAzxjPHtg1HlfG ON69P2N4l1o9PbCuYwPsYEdJb/FMSRCK7vHMUZfod7BxGSz9lwAwRL89PWtnTAHsYAKOkn5IOse3 Mc10kXSTdIl6jX5nG5PBLtH/Eu9j6DlH3QN7k/Ql6RqgV0nlYIKx7LuknyFsMpDM+Br9vuL3UdJH jJtsFTACfaYAMYXsj2gHpAz0VXWVSgCWg3XQWHgKoMxOpngKIK64hKI15JxC4Vv8vkb9EfJH1dUC z1vIYqJL1PeDWn9c4sEXAQRQfNqtdraJXWJit1B4igc9+Oh7tJfoO4d8vmP9ix4rOAJWqr4CWDaP O7yDxRfXUMpy4m9X+80qzCaHSMBv18WqPBV3A+/soYZ2/AlF+JS7hK8Q1vQxTHKyNtwOHXP08028 RQOZUJ9lSb+95HhKW+k8LndR9emi6lJH60efT1W3Wh3s35Ye6B5Q2j1GK+opcEzR5mGS/VIklb1M 9T+KZ0mA4t/E4EEP4Ce1SUOShj3LutCsxMsrF+m5CYkHa2JB/JRYf1YNaWSy+2iCqMf022sA9jZh sfE57zOhSQ+r/VDNlESFm2qGO8W3k8y6OYNNavN1j9iw2/E9uIHzi1U1ETAp4jdLTapFDhs0G20z VOYGB7XO7sLd8T/jWa0PWedkoAfV5WR3Z6McTQbp3S1NSHxiXQhYbcar1bNqWAHsLb6/2ypgVXb/ l6Tf0Zd4S+hyHIo+N0m/YhzJ5ykpMKNP1d3pPupgiZeAnc2aLhOwX/EOH1hUN5sDXU2Hgy2eFFAI UOemno4JN4uN4xu0ckhjnOoNNs5dDl0Yxd1AWLYkAZCKHIOdFEPCKXPIyHndXQiZg42Zra9vqi3F GraGLDuDZ3l6lpXasOVjsmWJAvhp5giezSaTxcYc9LDw0wajIzGQ3d3z2UnVZyHs73r2WakN+gCC 915UGRpy4MC0s4rNSSEfbSDHgATwNSZJNPCTAhEAd8DN8D3CIBY76rGJpJosiNNMqImzMuu5orf4 vlibhyUmclI9Kcz2kNtRzoRpI0OdAwNkfQxD+Obd3ABH9pMCVshHZeeuBGtcAGtdVV2EUwLuRDvJ 4xRjwTKqhi94wXYQcDfAsj4bT7keNbydrMfqEHawPP1k8mFWnHIpGOqqGrq2O4pMvv1CQmrTMIrv al2Dfj7eiY5/AwxkxY9ExGOO7SSbjdl9h3y7ZVCajzpOQnonDb6TVAY9lp9wRiHakETuJmf3msiL s3bG+Bls714sl3wo7AX+TD+b8sqy+SoHoezmxdq8vCLfvaumTAud+TUyss/ld990btksLN/C9AD7 KYCrI98DsDBPMA3gnBR6LL9X8p0CO9Y3ZJ6MJwROAGQ3xsKLicHNJst8Ni+BE3MAEpr8mogxkGmp ngSYCH3px9mKVAy3GNRyjeZirndSgPmw9PgWCiDfLCHgpJrhoH7saj8U0kaYKqoJgnH4Ntbtnm7J Hp/av0WEGEPWV7W3iEyO61GPr+j0ow6ThS/gYk3JGQxWX1QvxDyc9O5nsdJNz5STCbKBnHW5HMDP ag+Sfnu5CXaS8q9vvj1uOtd1HiL13dBvv9feRcZ3/1Pw+Ng9OqeJuoE8muzJ8e9FUukFbq97YHvv r8Y9ZaIX31+O/wPhA6GBpM+pRwAAAABJRU5ErkJggg== "/>
+ <path d="m14 16v1.7778h1.8v10.667h-1.8v1.7778h9v-1.7778h1.8v-10.667h-1.8v-1.7778zm14.4 0v1.7778h-1.8v10.667h1.8v1.7778h7.2v-1.7778h1.8v-10.667h-1.8v-1.7778zm12.6 0v1.7778h-1.8v3.5556h1.8v1.7778h3.6v1.7778h1.8v3.5556h-3.6v-3.5556h-3.6v3.5556h1.8v1.7778h7.2v-1.7778h1.8v-3.5556h-1.8v-1.7778h-1.8v-1.7778h-3.6v-3.5556h3.6v3.5556h3.6v-3.5556h-1.8v-1.7778zm-21.6 1.7778h1.8v10.667h-1.8zm10.8 0h3.6v10.667h-3.6zm-16.2 16v1.7778h1.8v10.667h-1.8v1.7778h9v-1.7778h1.8v-5.3333h-1.8v-1.7778h1.8v-3.5556h-1.8v-1.7778zm14.4 0v1.7778h-1.8v10.667h1.8v1.7778h7.2v-1.7778h1.8v-10.667h-1.8v-1.7778zm9 0v1.7778h1.8v3.5556h1.8v3.5556h-1.8v3.5556h-1.8v1.7778h3.6v-1.7778h1.8v-1.7778h1.8v1.7778h1.8v1.7778h3.6v-1.7778h-1.8v-3.5556h-1.8v-3.5556h1.8v-3.5556h1.8v-1.7778h-3.6v1.7778h-1.8v1.7778h-1.8v-1.7778h-1.8v-1.7778zm-18 1.7778h1.8v3.5556h-1.8zm10.8 0h3.6v10.667h-3.6zm-10.8 5.3333h1.8v5.3333h-1.8z" fill="#fff" stroke-width=".89443"/>
+</svg>
