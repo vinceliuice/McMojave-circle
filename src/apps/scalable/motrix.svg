@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient959" x1="30" x2="30" y1="49" y2="15" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e5e9f0" offset="0"/>
+   <stop stop-color="#fefefe" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1059" x1="50" x2="15" y1="55" y2="15" gradientTransform="matrix(1.08,0,0,1.08,-2.56,-2.56)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#746fe2" offset="0"/>
+   <stop stop-color="#bc7cd6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient862-3-3" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494,0,0,4.0494,-2.2856,-2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1efeb" offset="0"/>
+   <stop stop-color="#fdfcfc" offset="1"/>
+  </linearGradient>
+  <filter id="filter1053" x="-.03072" y="-.03072" width="1.0614" height="1.0614" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.768"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter1053)" opacity=".15" stroke-width="4.0494"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-3-3)" stroke-width="4.0494"/>
+ <rect x="5" y="5" width="54" height="54" rx="27" ry="27" fill="url(#linearGradient1059)" stroke-width="1.174"/>
+ <image x="11.5" y="13.422" width="41" height="41" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAApCAYAAACoYAD2AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAASlJREFUWIXtmcFuxCAMBSc0q/7/ 51ZNoIe1CXVoDpVhs5JHQmQTJEYm3sPLwt8sF89GUXo3rcjSzK+SLM01AGuzQMWSjFZ0pHArVYAs oz5TSRX6kLHKnAbKWTKwA5vMu4q2lUwi9gk8eIpqRUejFdyAb+BL7u3wu5JJfj9EVCVnkXkWCZHT Yy8rx1Hrca/NmNVAhaMgu3hUL9s4iXPjzOxyuz9w7m47zxJcOtf1nn3nZvzlXNHdf2Zj/JuQ9CIk vQhJL0LSi5D0IiS9CEkvQtKLkPQiJL14S8lT7DaZ7v7pYkGxiwfSyyW7+WSbDWbmvgo2m8wYydIM zQc13Zqdqm0c+WT10krafBBZ+Kp8cqOppg2n7pb0FqDYNOtOmXltprf4+nAlcpvvOD81jV5cHBI8 3wAAAABJRU5ErkJggg== "/>
+ <rect x="15" y="15" width="34" height="34" rx="3" ry="3" fill="url(#linearGradient959)"/>
+ <path d="m34 42c-0.554 0-1 0.3345-1 0.75v2.25h1v-2h1v2h1v-2h1v2h1v-2.25c0-0.4155-0.446-0.75-1-0.75h-3zm8 0c-0.554 0-1 0.3345-1 0.75v1.5c0 0.4155 0.446 0.75 1 0.75h3c0.554 0 1-0.3345 1-0.75v-1.5c0-0.4155-0.446-0.75-1-0.75h-3zm-2.5 1c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5 0.5-0.223 0.5-0.5-0.223-0.5-0.5-0.5zm2.5 0h3v1h-3v-1z" fill="#9aa0aa"/>
+ <path d="m22 15v5c0 1.662 1.338 3 3 3h14c1.662 0 3-1.338 3-3v-5h-20z" fill="#333333"/>
+ <path d="m26 19v1h4v-1h-4zm8 0v1h4v-1h-4z" fill="#fbe604"/>
+ <path d="m32 5c-14.958 0-27 12.042-27 27s12.042 27 27 27 27-12.042 27-27-12.042-27-27-27zm0 0.50586c14.678 0 26.494 11.817 26.494 26.494s-11.817 26.494-26.494 26.494-26.494-11.817-26.494-26.494 11.817-26.494 26.494-26.494z" fill="#000000" opacity=".15"/>
+</svg>
