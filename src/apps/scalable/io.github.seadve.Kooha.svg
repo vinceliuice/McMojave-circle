@@ -1,0 +1,36 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient862" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#767574" offset="0"/>
+   <stop stop-color="#d1e7ee" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient899" x1="33.097" x2="77.171" y1="169.9" y2="212.87" gradientTransform="matrix(-1.1303 0 0 1.1303 95.411 -186.04)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dc5df3" offset="0"/>
+   <stop stop-color="#ff3d4b" offset="1"/>
+  </linearGradient>
+  <filter id="filter1337" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <filter id="c" x="0" y="0" width="1" height="1">
+  <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+ </filter>
+ <mask id="d">
+  <g filter="url(#c)">
+   <rect width="128" height="128" fill-opacity=".5"/>
+  </g>
+ </mask>
+ <clipPath id="e">
+  <rect width="192" height="152"/>
+ </clipPath>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter1337)" opacity=".15" stroke-width="4.0494"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862)" stroke-width="4.0494"/>
+ <rect x="4.0001" y="4" width="56.001" height="55.939" rx="27.97" ry="27.97" fill="#030000" stroke-width="3.7775"/>
+ <rect x="6.002" y="6.002" width="51.998" height="51.998" rx="25.999" ry="25.999" fill="url(#linearGradient899)" stroke-width="3.5092"/>
+ <image x="15" y="24" width="31" height="22" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAWCAYAAAA4oUfxAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAbxJREFUSIm9Vu2SgyAMXFDae/+n bRXhfpjVJei19maaGaYWYnbziQHXJFzU91I/MRbc+hRYV2coiKLuRQAjgMGerxIgYLZVANRRANQr ZRgM9AbgbiQ8ySrPakf1FgATgAeA2YMPtmCKizu7AfgR8CpGiwOPskggy28GEGiIAHd7zsZyEWMD WoLFzjWUEN3kCFTb3yLjPU+2R5aTC6WGcQbwFJLV2VrEmXhgYwP3BAbZyy58CvxEm55gEdBIBKwp 68SDk4AWlQ8djc/Y05LE1iJnE/ZUdR0yuv8kEM0gwVn1EHB6nLAWIvWz6LEuitg5BScB9ZTeRjGq bTiK5yTPyBRZEU66DZFuIv2h95EceU5P2Uaz7bGFtHKpN8v72nra8y/BdXDM2KdRFF0dtUWAmWu+ y772hA/BFXjB2kYPe07Yc0zwJJ5PBshoAPtUZOt26fHgNJTF64q+JUkGaIeM3gUJ65BJ2Iv3EFyB dbwWtFWvU4xGB5yP1xF952wkRrSDgwcMJwuN/zlUgpwR4OhioS1N53YJaTi1f/1VySJiX7+6UnW0 Am1ktxR982NC27ccgZ/JVz6j3iHxH2kq/hdyXNDoJNRuuAAAAABJRU5ErkJggg== "/>
+ <g transform="matrix(.75628 0 0 .75628 -16.883 -20.939)" fill="#ffffff">
+  <path d="m78.641 59.422h0.0039l-9.9766 0.0078c-6.5469 0-10.016-0.0039-10.016-0.0039-0.92188 0-1.6562 0.89062-1.6797 1.7617 0 0-0.03125-0.71875-0.03125 8.75l0.0078 8.8281c0.12109 1.3008 0.89453 1.7422 1.7227 1.8125l10.008-0.02344h9.8984c1.418 0 1.8516-0.95313 1.9258-1.8398v-8.7734l-0.003887-8.5508c0-1.2344-0.79688-1.9688-1.8594-1.9688zm-31.145 2.3438v16.453h0.48438l0.82812-0.01172 3.7422-4.0781c2.2461-2.25 4.0859-4.1484 4.0859-4.2227 0-0.07031-1.8008-1.9297-4.0039-4.1328l-3.6562-4-0.91406-0.0078zm21.234 0.60156c0.30469 0 0.60938 0.01953 0.91406 0.05469 4.1719 0.50781 7.1523 4.2891 6.668 8.4648l-0.01563 0.13672c-0.5625 4.1641-4.3828 7.0938-8.5547 6.5547-3.9727-0.54297-6.8516-4.0625-6.5898-8.0664 0.25781-4 3.5664-7.1211 7.5781-7.1445z"/>
+  <path d="m72.723 70.543c-0.29688 2.1953-2.3164 3.7422-4.5156 3.457-2.1992-0.28906-3.75-2.2969-3.4766-4.4961 0.27734-2.2031 2.2812-3.7656 4.4805-3.5 2.2031 0.26562 3.7773 2.2617 3.5195 4.4648"/>
+ </g>
+ <path d="m19.002 14.002c-2.77 0-5 2.23-5 5v1.998h0.99805v-1.998c0-2.2171 1.7848-4.002 4.002-4.002h2.998v-0.99805h-2.998zm22.998 0v0.99805h3c2.2171 0 3.9218 1.7862 4.002 4.002v1.998h0.99805v-1.998c0-2.77-2.23-5-5-5h-3zm-27.998 26.998v4c0 2.77 2.23 5 5 5h2.998v-0.99805h-2.998c-2.2171 0-3.9944-1.7848-4.002-4.002v-4h-0.99805zm35 0v4c0 2.2171-1.7848 4.002-4.002 4.002h-3v0.99805h3c2.77 0 4.9499-2.2305 5-5v-4h-0.99805z" fill="#ffffff"/>
+</svg>
