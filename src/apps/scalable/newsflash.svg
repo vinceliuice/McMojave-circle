@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f6921d" offset="0"/>
+   <stop stop-color="#f5d30a" offset="1"/>
+  </linearGradient>
+  <filter id="filter842" x="-.15429" y="-.083077" width="1.3086" height="1.1662" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.9"/>
+  </filter>
+  <filter id="filter1392" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.5175"/>
+  </filter>
+ </defs>
+ <g transform="matrix(1.3043 0 0 1.3043 .69565 .69565)">
+  <circle cx="24" cy="24.767" r="23" fill="#000000" filter="url(#filter1392)" opacity=".15"/>
+  <circle cx="24" cy="24" r="23" fill="url(#bg)"/>
+  <path d="m24 12h7l-4.5 10h6.5l-11.5 16h-1.5l4-12h-5z" filter="url(#filter842)" opacity=".1" stroke-linejoin="round" stroke-opacity=".45871" stroke-width=".54365"/>
+  <path d="m23 11h7l-4.5 10h6.5l-11.5 16h-1.5l4-12h-5z" fill="#f9efdc" stroke-linejoin="round" stroke-opacity=".45871" stroke-width=".54365"/>
+ </g>
+</svg>
