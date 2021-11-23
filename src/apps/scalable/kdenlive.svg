@@ -7,11 +7,11 @@
    <stop stop-color="#2e323e" offset="0"/>
    <stop stop-color="#505664" offset="1"/>
   </linearGradient>
-  <linearGradient id="c" x2="0" y1="54" y2="10" gradientUnits="userSpaceOnUse">
+  <linearGradient id="c" x2="0" y1="54" y2="10" gradientTransform="scale(1)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#dedede" offset="0"/>
    <stop stop-color="#ececec" offset="1"/>
   </linearGradient>
-  <filter id="a" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+  <filter id="a" x="-.059999" y="-.059999" width="1.12" height="1.12" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.14551797"/>
   </filter>
  </defs>
@@ -25,5 +25,5 @@
   <path d="m8.3205 5.3977a2.9104 2.9104 0 0 0-2.9104 2.9104 2.9104 2.9104 0 0 0 2.9104 2.9104 2.9104 2.9104 0 0 0 2.9104-2.9104 2.9104 2.9104 0 0 0-2.9104-2.9104m0.03824 0.25166a2.6458 2.6458 0 0 1 2.6458 2.6458 2.6458 2.6458 0 0 1-2.6458 2.6458 2.6458 2.6458 0 0 1-2.6458-2.6458 2.6458 2.6458 0 0 1 2.6458-2.6458" fill="#ececec"/>
   <path d="m9.908 8.1657-2.6458 1.9944v-3.7041z" fill="#edeef8"/>
  </g>
- <path transform="scale(.26458)" d="m9 12.746a30 30 0 0 0-2.3359 3.2539h2.3359v-3.2539zm46 0.037109v3.2168h2.3633a30 30 0 0 0-2.3633-3.2168zm-49.514 5.2168a30 30 0 0 0-0.48633 1.0098v2.9902h4v-4h-3.5137zm49.514 0v4h4v-3.0176a30 30 0 0 0-0.48828-0.98242h-3.5117zm-50 6v4h4v-4h-4zm50 0v4h4v-4h-4zm-50 6v4h4v-4h-4zm50 0v4h4v-4h-4zm-50 6v4h4v-4h-4zm50 0v4h4v-4h-4zm-50 6v3.0176a30 30 0 0 0 0.48828 0.98242h3.5117v-4h-4zm50 0v4h3.5137a30 30 0 0 0 0.48633-1.0098v-2.9902h-4zm-48.363 6a30 30 0 0 0 2.3633 3.2168v-3.2168h-2.3633zm48.363 0v3.2539a30 30 0 0 0 2.3359-3.2539h-2.3359z" fill="url(#c)"/>
+ <path transform="scale(.26458)" d="m7.752 18a28 28 0 0 0-1.8965 4h3.1445v-4h-1.248zm47.248 0v4h3.1504a28 28 0 0 0-1.9043-4h-1.2461zm-49.824 6a28 28 0 0 0-0.17578 0.65625v3.3438h4v-4h-3.8242zm49.824 0v4h4v-3.4082a28 28 0 0 0-0.16797-0.5918h-3.832zm-50 6v4h4v-4h-4zm50 0v4h4v-4h-4zm-50 6v3.3438a28 28 0 0 0 0.17578 0.65625h3.8242v-4h-4zm50 0v4h3.8242a28 28 0 0 0 0.17578-0.65625v-3.3438h-4zm-49.145 6a28 28 0 0 0 1.8965 4h1.248v-4h-3.1445zm49.145 0v4h1.248a28 28 0 0 0 1.8965-4h-3.1445z" fill="url(#c)"/>
 </svg>
