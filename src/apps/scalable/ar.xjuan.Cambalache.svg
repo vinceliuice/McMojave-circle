@@ -1,0 +1,40 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6075"/>
+  </filter>
+  <linearGradient id="b" x1="32.001" x2="32.001" y1="5" y2="59" gradientTransform="matrix(1.1111,0,0,1.1111,-3.557,-3.556)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffa355" offset="0"/>
+   <stop stop-color="#f55" offset="1"/>
+  </linearGradient>
+  <filter id="filter1140" x="-.029531" y="-.03375" width="1.0591" height="1.0675" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.38221535"/>
+  </filter>
+  <filter id="filter1144" x="-.025312" y="-.37303" width="1.0506" height="1.7461" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.38221535"/>
+  </filter>
+  <linearGradient id="linearGradient1181" x1="13.527" x2="49.767" y1="19.881" y2="19.881" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3f3f3f" offset="0"/>
+   <stop stop-color="#6b6b6b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1345" x1="12.233" x2="43.296" y1="32.824" y2="32.824" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5ad3b" offset="0"/>
+   <stop stop-color="#fff300" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="matrix(1.1111 0 0 1.1111 -3.557 -2.3955)" cx="32.001" cy="32" r="27" filter="url(#a)" opacity=".15" stroke-width=".9" style="paint-order:stroke markers fill"/>
+ <circle cx="31.999" cy="31.999" r="30" fill="url(#b)" stroke-width=".99999" style="paint-order:stroke markers fill"/>
+ <path d="m47.955 48.354c1.0038 0 1.8125-0.80865 1.8125-1.8125v-22.778h-36.24v22.779c0 1.0038 0.80892 1.8125 1.812 1.8125h32.616z" fill="#ffffff" stroke-width=".64714"/>
+ <path d="m47.955 15.998c1.0038 0 1.812 0.80762 1.812 1.812v5.9536h-36.24v-5.9536c0-1.0038 0.80814-1.812 1.812-1.812z" fill="url(#linearGradient1181)" stroke-width=".64714"/>
+ <path d="m15.34 15.998c-1.0038 0-1.8125 0.8085-1.8125 1.8121v0.647c0-1.0036 0.80866-1.8121 1.8125-1.8121h32.615c1.003 0 1.8125 0.8085 1.8125 1.8121v-0.647c0-1.0036-0.80944-1.8121-1.8125-1.8121z" fill="#ffffff" opacity=".1" stroke-width=".64714"/>
+ <path d="m13.527 46.543v0.647c0 1.0028 0.80866 1.8121 1.8125 1.8121h32.615c1.003 0 1.8125-0.80927 1.8125-1.8121v-0.647c0 1.0028-0.80944 1.8121-1.8125 1.8121h-32.615c-1.0038 0-1.8125-0.80927-1.8125-1.8121z" filter="url(#filter1144)" opacity=".2" stroke-width=".64714"/>
+ <circle cx="19.5" cy="39.5" r="1.5" fill="#000000" fill-rule="evenodd" opacity=".15" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m12.233 19.881v24.915c0 2.265 2.2188 2.265 2.2188 2.265h28.844zm5.1771 12.296 11.648 9.0599h-11.648z" filter="url(#filter1140)" opacity=".2" stroke-width=".64714"/>
+ <rect x="23" y="30" width="22" height="3" rx="1.5" ry="1.5" fill="#000000" fill-rule="evenodd" opacity=".15" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <rect x="23" y="38" width="22" height="3" rx="1.5" ry="1.5" fill="#000000" fill-rule="evenodd" opacity=".15" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <circle cx="19.5" cy="31.5" r="1.5" fill="#000000" fill-rule="evenodd" opacity=".15" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m12.233 19.234v24.915c0 2.265 2.2188 2.265 2.2188 2.265h28.844zm5.1771 12.296 11.648 9.0599h-11.648z" fill="url(#linearGradient1345)" stroke-width=".64714"/>
+ <circle cx="45.5" cy="20.5" r="1.5" fill="#000000" fill-rule="evenodd" opacity=".5" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0082"/>
+ <circle cx="40.5" cy="20.5" r="1.5" fill="#000000" fill-rule="evenodd" opacity=".5" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0082"/>
+ <circle cx="35.5" cy="20.5" r="1.5" fill="#000000" fill-rule="evenodd" opacity=".5" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0082"/>
+</svg>
