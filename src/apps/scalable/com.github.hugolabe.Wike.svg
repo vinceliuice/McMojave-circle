@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" aria-label="Wikipedia" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2523)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1efeb" offset="0"/>
+   <stop stop-color="#fdfcfc" offset="1"/>
+  </linearGradient>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".35" stroke-width="1.0714"/>
+ <rect width="64" height="64" rx="0" ry="0" fill="none" style="paint-order:stroke fill markers"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#a)" stroke-width="1.0714"/>
+ <image x="4.5" y="17.68" width="55" height="39" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAnCAYAAACrDdDdAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAwxJREFUaIHtmNGO6zAIREl6//+L N8k+3LKanI6x47QPKy2SlTYFzAAG3IgxWp7rV1HL4F8HJCIOvviH7ws+VyAPPBc8K/6Kd1bvy3cK LMXixke8KiZ/FPyO947eF1mNnHpoiYhVFg3Yn0uVLcKbT91Q+RfwLQ0+6qWj1ZYQ3QfBOWCP56IB 2/P7JrIr5NSITT6nAcqftONJveroA3y7AnPgCNQZS4WUSYeshmcTPhrMqKrO5KcdB3hP5MC5fKeH 1zCeMjIa8eSnwSvk1A7yqz7a262WmrOuACQwVwiiIaMgdrzn3jue1ug4nzV3Tn8MdQbuWNUBV1CU IT/leH4o68o8baN9PzIPugSkqeAOswOikXIRdi0m9WzhHekKT9cZDpzLcxrrSrwaz0i5PVaRobFJ rJSOv9Ubm5FjtXLey42qs8n+pM5SHRuAHQaYFqYusAqcGtqKYDUduFLvGrGmY6vJuz2ZvpYYCVKr uKRsdbbUaAWsPTB5R8YzN8GUAEfAtc6E8yzHqFbBYWGqWgjBdUGNgGPvYvqkvEZjtJrqHj1gTudt cEqt1Mxxq4oeK6ojNxW5lKQzbp+5VFABbA227oyo8STXAytwJY1GbmQCaRUXlQ/5zbUIV1W591DU IvqtQMkNvZWH87dHvF6dyEtH6RkmuGGqrjwkFz0FqNHTguOiGEYm5L2bhC6n5Sg4Vzldaj7M+4Bs QKYFTuV6BcnSTFqqYe7wk8eNbfl71QKcI4ejFnENHI1oVUnHp3TIOzqsFbWPR84Z44ZbVw01Ckmr 4VNq3deGaRacG6TdDSDiDKw3ifTGt0sAZ9NSjbsyY7q7Wg/YVEpGXGsFSs6A/ANI04282gPznf6j VfXAywBnwGlBILjscVwKbon/AzhTerqftWgmLSPqESrifIv4ivrq42Ry3QI5Cy7JgYw437B5y3Z0 FDLTdAeca9yahmpk60KaVDljGuDdyJEIbqRPVTK36F1pmdTqUVrxejJvKygutWZ19O5xLiXduEW5 24Z9Uk9lZEvuNrBPUeuW8EfvpG9wUAESYWOhpwAAAABJRU5ErkJggg=="/>
+ <path d="m9.82 21.986v0.929c0 0.232 0.117 0.348 0.465 0.348 2.323 0.116 2.323 0.58 3.252 2.671l10.45 22.76c0.814 1.626 1.859 1.858 2.904-0.116l5.225-10.219 4.877 10.219c0.93 1.742 1.858 1.858 2.787 0l9.987-22.527c0.929-1.974 2.206-2.787 4.18-2.787 0.232 0 0.232-0.116 0.232-0.348v-0.93h-9.29l-0.116 0.117v0.813c0 0.232 0.233 0.348 0.465 0.348 1.161 0 3.367 0.232 2.438 2.206l-8.128 19.276-0.348-0.116-4.994-10.219 4.297-8.36c0.929-1.742 1.161-2.787 2.903-2.787 0.232 0 0.464-0.116 0.464-0.349v-0.813l-0.116-0.116h-7.432l-0.116 0.116v0.813c0 0.349 0.465 0.349 0.813 0.349 2.09 0.116 1.858 0.929 1.161 2.206l-3.135 6.503-2.903-6.039c-1.045-1.857-1.277-2.438 0.232-2.554 0.349-0.116 0.93-0.116 0.93-0.465v-0.813l-0.118-0.116h-8.012l-0.116 0.116v0.93c0 0.232 0.232 0.232 0.58 0.232 1.394 0.232 1.394 0.348 2.671 3.019l4.645 9.754-4.297 8.71-0.348-0.117-8.825-19.392c-0.929-1.974 0.232-1.858 2.09-1.974 0.348 0 0.348-0.116 0.348-0.349v-0.812l-0.115-0.117z"/>
+</svg>

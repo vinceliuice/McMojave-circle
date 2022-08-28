@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2523)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1efeb" offset="0"/>
+   <stop stop-color="#fdfcfc" offset="1"/>
+  </linearGradient>
+  <filter id="filter943-6" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <g stroke-width="1.0714">
+  <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000" filter="url(#filter943-6)" opacity=".35"/>
+  <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#a)"/>
+  <rect x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".35"/>
+ </g>
+ <g transform="matrix(1.3125 0 0 1.3125 -24.415 -24.415)" stroke-width="2">
+  <path d="m42.975 26.983c-4.0846 0.0026-8.1788 1.5692-11.309 4.6992l5.6562 5.6562a8 8 0 0 1 5.6523-2.3555z" fill="#e647ff"/>
+  <path d="m42.975 26.983v8a8 8 0 0 1 0.0078 0 8 8 0 0 1 5.6523 2.3477l5.6484-5.6484c-3.13-3.13-7.2234-4.6966-11.309-4.6992z" fill="#ff3636"/>
+  <path d="m31.682 31.678c-3.13 3.1298-4.6966 7.224-4.6992 11.309h8a8 8 0 0 1 0-4e-3 8 8 0 0 1 2.3477-5.6562z" fill="#5964ff"/>
+  <path d="m26.983 42.987c0.0026 4.0844 1.5692 8.1786 4.6992 11.309l5.6523-5.6523a8 8 0 0 1-2.3516-5.6562z" fill="#53bdff"/>
+  <path d="m54.284 31.678-5.6484 5.6484a8 8 0 0 1 2.3477 5.6562 8 8 0 0 1 0 0.0038h8c-2e-3 -4.0846-1.5692-8.1788-4.6992-11.309z" fill="#ff7221"/>
+  <path d="m50.983 42.987a8 8 0 0 1-2.3516 5.6562l5.6523 5.6523c3.13-3.13 4.6972-7.2242 4.6992-11.309z" fill="#ffac29"/>
+  <path d="m37.323 48.628-5.6562 5.6562c3.1298 3.13 7.224 4.6972 11.309 4.6992v-8a8 8 0 0 1-5.6523-2.3555z" fill="#80ffe5"/>
+  <path d="m48.635 48.635a8 8 0 0 1-5.6523 2.3477 8 8 0 0 1-0.0078 0v8c4.0852-2e-3 8.1786-1.5692 11.309-4.6992z" fill="#73ff44"/>
+ </g>
+</svg>

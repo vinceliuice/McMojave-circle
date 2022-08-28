@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2523)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1fe0aa" offset="0"/>
+   <stop stop-color="#b2ff85" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.1552" y="-.13968" width="1.3104" height="1.2794" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.328"/>
+  </filter>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".35" stroke-width="1.0714"/>
+ <rect width="64" height="64" rx="0" ry="0" fill="none" style="paint-order:stroke fill markers"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#a)" stroke-width="1.0714"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill="none"/>
+ <path d="m34 50-16-24 28-8z" fill="none" opacity=".5" stroke="#fff" stroke-width="2"/>
+ <path d="m46 16a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm-28 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm16 24a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4z" filter="url(#b)" opacity=".1"/>
+ <g fill="#fff">
+  <circle cx="18" cy="26" r="4"/>
+  <circle cx="46" cy="18" r="4"/>
+  <circle cx="34" cy="50" r="4"/>
+ </g>
+</svg>

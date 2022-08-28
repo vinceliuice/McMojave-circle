@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(4.0495 0 0 4.0495 -2.2857 -2.2514)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#249a56" offset="0"/>
+   <stop stop-color="#34d07b" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.1435" y="-.15068" width="1.287" height="1.3014" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.51125"/>
+  </filter>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".35" stroke-width="1.0714"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#a)" stroke-width="1.0714"/>
+ <path d="m32 11.352-21 12v24l7 4 7-4v-8l-7-4v-8l14-8 14 8v8l-7 4v8l7 4 7-4v-24z" filter="url(#c)" opacity=".15"/>
+ <path d="m32 9.7739-21 12v24l7 4 7-4v-8l-7-4v-8l14-8 14 8v8l-7 4v8l7 4 7-4v-24z" fill="#fff"/>
+</svg>

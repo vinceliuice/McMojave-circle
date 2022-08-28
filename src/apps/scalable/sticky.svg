@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="e" x1="45" x2="57.008" y1="19" y2="6.992" gradientTransform="matrix(0 .26458 -.26458 0 17.342 .44099)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff3a8" offset="1"/>
+  </linearGradient>
+  <filter id="filter18808" x="-.038726" y="-.063115" width="1.0775" height="1.1262" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14143"/>
+  </filter>
+  <linearGradient id="linearGradient19378" x1="11.258" x2="26.429" y1="8.4846" y2="8.4846" gradientTransform="matrix(1.0464 0 0 1.0464 -11.251 -.41166)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fecd38" offset="0"/>
+   <stop stop-color="#ffd34c" offset="1"/>
+  </linearGradient>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <rect transform="scale(.26458)" x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".35" stroke-width="1.0714"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#linearGradient19378)" stroke-width="1.0464"/>
+ <path d="m16.284 9.702c-0.265 1.058-1.852 1.323-2.91 1.587-1.027 0.257-1.732 0.842-2.117 2.382-0.265 1.058-0.17 2.116-1.588 2.645h0.02c1.85-0.03 6.28-4.394 6.586-6.406 5e-3 -0.07 9e-3 -0.14 9e-3 -0.208z" fill="url(#e)"/>
+ <path d="M4.632 5.877c-.304 0-.548.222-.548.498s.244.498.548.498h7.67c.303 0 .547-.222.547-.498s-.244-.498-.548-.498zm-.005 2.191c-.3 0-.543.222-.543.498s.242.498.543.498h4.89c.3 0 .543-.222.543-.498s-.242-.498-.543-.498zm-.002 2.191c-.3 0-.54.222-.54.498s.24.498.54.498h2.703c.3 0 .54-.222.54-.498s-.24-.498-.54-.498z" filter="url(#filter18808)" opacity=".1"/>
+ <path d="M4.632 5.678c-.304 0-.548.222-.548.498s.244.498.548.498h7.67c.303 0 .547-.222.547-.498s-.244-.498-.548-.498zm-.005 2.19c-.3 0-.543.223-.543.499s.242.498.543.498h4.89c.3 0 .543-.222.543-.498s-.242-.498-.543-.498zm-.002 2.192c-.3 0-.54.222-.54.498s.24.498.54.498h2.703c.3 0 .54-.222.54-.498s-.24-.498-.54-.498z" fill="#4f4f4f"/>
+</svg>

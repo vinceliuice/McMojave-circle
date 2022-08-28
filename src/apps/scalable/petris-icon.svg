@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(1.0714 0 0 1.0714 -.60437 -.5958)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#767574" offset="0"/>
+   <stop stop-color="#d1e7ee" offset="1"/>
+  </linearGradient>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <rect transform="scale(.26458)" x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".35" stroke-width="1.0714"/>
+ <g stroke-width="1.0714">
+  <rect x=".52916" y=".52916" width="15.875" height="15.875" rx="7.9373" ry="7.9373" fill="url(#a)"/>
+  <rect x="1.097" y="1.105" width="14.739" height="14.723" rx="7.3615" ry="7.3615"/>
+  <rect x="1.9466" y="1.9466" width="13.04" height="13.04" rx="6.5199" ry="6.5199" fill="#1a211f"/>
+ </g>
+ <g fill="#f33">
+  <rect x="6.35" y="11.112" width="6.879" height="2.117" rx=".529" ry=".529"/>
+  <rect x="11.112" y="8.731" width="2.117" height="3.439" rx=".529" ry=".529"/>
+  <path d="M11.112 10.319c0 .44-.354.794-.794.794v.264h1.059V10.32z"/>
+ </g>
+ <g fill="#00e500">
+  <rect x="3.969" y="6.35" width="2.117" height="6.879" rx=".529" ry=".529"/>
+  <rect x="5.556" y="8.731" width="2.91" height="2.117" rx=".529" ry=".529"/>
+  <path d="M6.085 11.641c0-.44.354-.794.794-.794v-.264H5.821v1.058zm.794-2.91a.792.792 0 0 1-.794-.794h-.264v1.059h1.058z"/>
+ </g>
+ <g fill="#08c">
+  <rect x="8.731" y="6.35" width="2.117" height="4.498" rx=".529" ry=".529"/>
+  <rect x="9.789" y="6.35" width="3.439" height="2.117" rx=".529" ry=".529"/>
+  <rect x="11.112" y="3.969" width="2.117" height="3.439" rx=".529" ry=".529"/>
+  <path d="M11.112 5.556c0 .44-.354.794-.794.794v.264h1.059V5.556zm-.264 3.704c0-.44.354-.794.794-.794v-.264h-1.059V9.26z"/>
+ </g>
+</svg>

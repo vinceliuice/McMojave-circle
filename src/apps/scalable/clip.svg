@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="b" cx="32" cy="1096.5" r="11" gradientTransform="matrix(.90909 0 0 .90909 3.354 -963.98)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2845 -2.2856)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#000051" offset="0"/>
+   <stop stop-color="#191985" offset="1"/>
+  </linearGradient>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".5" stroke-width="1.0714"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#a)" stroke-width="1.0714"/>
+ <circle cx="32" cy="32" r="27" fill="#3f3fc1" opacity=".3"/>
+ <circle cx="32" cy="32" r="21.949" fill="#8080ff" opacity=".3"/>
+ <circle cx="32" cy="32" r="16.734" fill="#aaf" opacity=".3"/>
+ <circle cx="32" cy="32" r="11.873" fill="#d7d7f4" opacity=".3"/>
+ <circle cx="32.445" cy="32.9" r="10" fill="url(#b)"/>
+ <circle cx="32" cy="32" r="9" fill="#6746c3"/>
+ <path d="m29.433 27c-0.548 0.01-0.988 0.452-0.988 1v7.999a1 1 0 0 0 1.554 0.831l7-3.999a1 1 0 0 0 0-1.664l-7-3.999a1 1 0 0 0-0.566-0.168z" color="#000000" fill="#fff" fill-rule="evenodd" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+ <rect x="6.497" y="44.4" width="51.133" height="5.193" rx="2.5965" ry="2.5965" fill="#000051" opacity=".4"/>
+ <path d="m9.123 45c-1.1061 0-1.9961 0.89002-1.9961 1.9961 0 1.1061 0.89002 1.9961 1.9961 1.9961h29.939v-3.9922h-29.939z" fill="#6746c3" opacity=".9"/>
+ <path d="m39.062 45v3.9922h15.941c1.1061 0 1.9961-0.89002 1.9961-1.9961 0-1.1061-0.89002-1.9961-1.9961-1.9961h-15.941z" fill="#6746c3" opacity=".5"/>
+</svg>

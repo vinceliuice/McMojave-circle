@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="c" cx="1244.3" cy="919.87" r=".925" gradientTransform="matrix(610 0 0 -1000.5 -756324 921039)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9be03" offset="0"/>
+   <stop stop-color="#cc7c19" offset="1"/>
+  </radialGradient>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2523)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#343434" offset="0"/>
+   <stop stop-color="#767676" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.2026" y="-.18225" width="1.4052" height="1.3645" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="75.975"/>
+  </filter>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".35" stroke-width="1.0714"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#a)" stroke-width="1.0714"/>
+ <g transform="translate(-50.878 10.26) scale(.03114)" filter="url(#b)" opacity=".33889">
+  <path d="m3068.9 210.12h-290l-290 500 290 500h289.75l-289.75-499.75 290-500.25"/>
+  <path d="m2168.9 210.12h290l320 500.25-320 500.25h-290l320-500.25-320-500.25"/>
+ </g>
+ <path d="M45.06 17.853h-8.425l-8.424 14.524L36.635 46.9h8.417l-8.417-14.517 8.424-14.531" fill="#fff"/>
+ <path transform="translate(-44.087 11.75) scale(.02905)" d="m2168.9 210.12h290l320 500.25-320 500.25h-290l320-500.25-320-500.25" fill="url(#c)"/>
+</svg>

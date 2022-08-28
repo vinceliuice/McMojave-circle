@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000" filter="url(#filter943)" opacity=".35" stroke-width="1.0714"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#e)" stroke-width="1.0714"/>
+ <path d="M36.517 47c-2.757 0-5.221-.367-7.392-1.1-2.17-.763-4.004-1.819-5.5-3.168a13.93 13.93 0 0 1-3.432-4.884c-.792-1.877-1.188-3.96-1.188-6.248 0-2.288.396-4.37 1.188-6.248a13.505 13.505 0 0 1 3.432-4.84c1.526-1.379 3.359-2.435 5.5-3.168 2.171-.763 4.635-1.144 7.392-1.144h4.664v7.436h-4.356c-1.349 0-2.537.205-3.564.616-1.026.41-1.877.983-2.552 1.716a7.066 7.066 0 0 0-1.54 2.508 9.82 9.82 0 0 0-.484 3.124 9.82 9.82 0 0 0 .484 3.124 7.525 7.525 0 0 0 1.54 2.552c.675.704 1.526 1.261 2.552 1.672 1.027.41 2.215.616 3.564.616h4.356V47h-4.664Z" fill="#fff"/>
+ <defs>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+  <linearGradient id="e" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2523)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0e73de" offset="0"/>
+   <stop stop-color="#25c9ff" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

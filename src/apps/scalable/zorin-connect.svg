@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient862-5" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0e71de" offset="0"/>
+   <stop stop-color="#25c9ff" offset="1"/>
+  </linearGradient>
+  <filter id="filter2613" x="-.12971" y="-.16962" width="1.2594" height="1.3392" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.8375"/>
+  </filter>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#000" filter="url(#filter943)" opacity=".35" stroke-width="1.0714"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-5)" stroke-width="4.0494"/>
+ <path d="m22 20c-2.77 0-5 2.23-5 5v16h-2v5h19v-5h-12v-16h25v-5zm18 9c-1.108 0-2 0.892-2 2v13c0 1.108 0.892 2 2 2h7c1.108 0 2-0.892 2-2v-13c0-1.108-0.892-2-2-2zm0 2h7v11h-7z" fill="#000" filter="url(#filter2613)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <path d="m22 19c-2.77 0-5 2.23-5 5v16h-2v5h19v-5h-12v-16h25v-5zm18 9c-1.108 0-2 0.892-2 2v13c0 1.108 0.892 2 2 2h7c1.108 0 2-0.892 2-2v-13c0-1.108-0.892-2-2-2zm0 2h7v11h-7z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>
