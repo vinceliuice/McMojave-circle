@@ -1,0 +1,25 @@
+<svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="f" x1="32" x2="32" y1="15" y2="49" gradientTransform="scale(1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#303030" offset="0"/>
+   <stop stop-color="#424242" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".85"/>
+  </filter>
+  <linearGradient id="d" x1="500.28" x2="500.28" y1="-18.217" y2="1023.9" gradientTransform="matrix(.063648 0 0 .063648 -.56694 -.54048)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#af1df5" offset="0"/>
+   <stop stop-color="#ff8618" offset="1"/>
+  </linearGradient>
+  <filter id="a" x="-.035999" y="-.035999" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.143"/>
+  </filter>
+ </defs>
+ <path transform="matrix(.063648 0 0 .063648 -.56694 -.54048)" d="m983.25 511.35c0-7.95-0.2-15.85-0.5-23.55q-8-180.15-137.55-309.85c-92.05-92-203.2-138.05-333.4-138.05-130.15 0-241.35 46.05-333.35 138.05-92.05 92-138.1 203.2-138.1 333.4 0 130.15 46.05 241.35 138.1 333.35 86.15 86.3 189.35 132.15 309.15 137.6 8 0.3 16 0.5 24.2 0.5 130.2 0 241.35-46.1 333.4-138.1 92-92 138.05-203.2 138.05-333.35z" filter="url(#a)" opacity=".5"/>
+ <path d="m62.015 32.006c0-0.506-0.01273-1.0088-0.03182-1.4989q-0.50919-11.466-8.7549-19.721c-5.8588-5.8557-12.933-8.7867-21.22-8.7867-8.2839 0-15.362 2.931-21.217 8.7867-5.8588 5.8557-8.7899 12.933-8.7899 21.22 0 8.2839 2.931 15.362 8.7899 21.217 5.4833 5.4929 12.052 8.4111 19.677 8.758 0.50919 0.0191 1.0184 0.03183 1.5403 0.03183 8.287 0 15.362-2.9342 21.22-8.7899 5.8557-5.8557 8.7867-12.933 8.7867-21.217z" fill="url(#d)" stroke-width=".9982"/>
+ <rect transform="matrix(1 0 0 1 -.15874 -.15874)" x="15.16" y="15.16" width="34" height="34" ry="5" fill="#303030" fill-rule="evenodd" filter="url(#e)" opacity=".5" style="paint-order:stroke fill markers"/>
+ <rect x="15.001" y="15.001" width="34.001" height="34.001" ry="5.0004" fill="url(#f)" fill-rule="evenodd" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
+ <g transform="scale(3.7796)" fill="#f9f9f9" stroke-width=".265">
+  <path d="m5.291 10.88h3.106v0.621h-3.107z"/>
+ </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="-17.857" x2="-18.241" y1="-2.986" y2="57.398" gradientTransform="translate(75.051,4.817)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffd258" offset="0"/>
+   <stop stop-color="#f77647" offset="1"/>
+  </linearGradient>
+  <filter id="a" x="-.036001" y="-.036001" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="14.344"/>
+  </filter>
+ </defs>
+ <circle transform="matrix(.06274 0 0 .06274 -.125 -.125)" cx="512" cy="512" r="478.12" filter="url(#a)" opacity=".25" style="paint-order:stroke markers fill"/>
+ <circle cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke markers fill"/>
+ <circle cx="48.624" cy="38.603" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="42.019" cy="38.653" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="22.027" cy="38.603" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="15.316" cy="38.606" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="48.682" cy="31.98" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="41.997" cy="32.001" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="35.312" cy="32.001" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="28.669" cy="31.98" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="21.942" cy="31.98" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="15.298" cy="31.959" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="21.96" cy="25.306" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="28.612" cy="25.274" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="35.291" cy="25.295" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+ <circle cx="41.976" cy="25.316" r="2.6222" fill="#ffffff" stroke-width=".82919"/>
+</svg>

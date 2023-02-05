@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter943" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.972"/>
+  </filter>
+  <linearGradient id="linearGradient3919" x1="88.174" x2="106.49" y1="55.582" y2="218.65" gradientTransform="matrix(.29764 0 0 .29764 -1.5073 6.6254)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#6c6c6c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6015" x1="32" x2="32" y1="2" y2="62" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#333333" offset="0"/>
+   <stop stop-color="#4d4d4d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6814" x1="30" x2="30" y1="-15" y2="80" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffffff" offset="0"/>
+   <stop stop-color="#b2b2b2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" filter="url(#filter943)" opacity=".25" stroke-width="1.0714"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient6015)" stroke-width="1.0714"/>
+ <rect width="64" height="64" rx="0" ry="0" fill="none" style="paint-order:stroke fill markers"/>
+ <path d="m43.734 39.425c-0.89292 0-1.2501-0.53575-1.2501-0.53575-0.05953-0.23811-0.11906-3.78-0.14882-7.2921-0.02976-3.661 0-7.2921 0.17858-7.3219 1.0417-1.9346 4.3158-5.8337 4.3158-5.8337-6.1314 1.2203-9.4649 5.2384-9.4649 5.2384-0.98221-0.77386-3.0061-0.6548-3.0061-0.6548 0.95244 0.50599 1.8751 2.0239 1.8751 3.274v12.322s-2.0537 1.8156-3.6312 1.8156c-0.95244 0-1.518-0.50599-1.8454-0.92268-0.20835-0.29764-0.29764-0.53575-0.29764-0.53575v-15.209c-0.20835 0.14882-0.47622 0.26788-0.7441 0.26788-0.3274 0-0.68457-0.17858-0.92268-0.6548-0.17858-0.38693-0.29764-0.92268-0.29764-1.7561 0-2.7978 3.1847-4.6729 3.1847-4.6729-4.0181 1.0715-7.7684 3.155-12.739 8.8696s-4.0181 10.417-4.0181 10.417 1.3394-3.274 4.6432-6.6969c1.5775-1.6072 2.7383-2.143 3.5419-2.1728 0.89292 0 1.3096 0.6548 1.3096 1.2501v11.578c0 1.131-0.7441 1.3989-1.4287 1.3691-0.56551 0-1.1013-0.20835-1.1013-0.20835 3.3931 4.911 11.489 5.6254 11.489 5.6254l3.5717-3.8098 0.08929 0.05953 3.274 2.768c5.9528-3.5419 8.8399-10.12 8.8399-10.12-2.7085 2.8871-4.4051 3.5419-5.417 3.5419" fill="url(#linearGradient3919)" stroke-width=".29764"/>
+ <path d="m32 7a25 25 0 0 0-25 25 25 25 0 0 0 25 25 25 25 0 0 0 25-25 25 25 0 0 0-25-25zm0 1a24 24 0 0 1 24 24 24 24 0 0 1-24 24 24 24 0 0 1-24-24 24 24 0 0 1 24-24z" fill="url(#linearGradient6814)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.099"/>
+</svg>
