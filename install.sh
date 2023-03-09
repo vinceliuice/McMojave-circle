@@ -1,4 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
+set -eo pipefail
 
 ROOT_UID=0
 DEST_DIR=
@@ -15,6 +17,9 @@ SRC_DIR=$(cd $(dirname $0) && pwd)
 THEME_NAME=McMojave-circle
 THEME_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-yellow' '-orange' '-brown' '-grey' '-black')
 COLOR_VARIANTS=('' '-dark')
+
+themes=()
+colors=()
 
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...]"
@@ -228,3 +233,5 @@ if [[ "${all}" == 'true' ]]; then
   else
   install_theme
 fi
+
+exit 1
