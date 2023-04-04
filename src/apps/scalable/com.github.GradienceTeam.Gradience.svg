@@ -1,0 +1,29 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="g" x1="-1.04" x2=".548" y1="18.337" y2="18.337" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#915b45" offset="0"/>
+   <stop stop-color="#ac7a53" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c-7" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(.35125 0 0 .35125 -135.1 -175.55)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="b-5" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".9"/>
+  </filter>
+  <linearGradient id="linearGradient2758" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(.29273 0 0 .29273 -111.18 -144.89)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5f5f5" offset="0"/>
+   <stop stop-color="#e0e0e0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="scale(.26458)" cx="32" cy="32" r="30" fill-rule="evenodd" filter="url(#b-5)" opacity=".25" style="paint-order:fill markers stroke"/>
+ <rect x=".52969" y=".52969" width="15.874" height="15.874" ry="7.9368" fill="url(#c-7)" stroke-width=".26458"/>
+ <rect x="1.852" y="1.852" width="13.229" height="13.229" ry="6.6145" fill="url(#linearGradient2758)" stroke-width=".2205"/>
+ <path d="M10.921 5.283a.265.265 0 0 0 0 .373.265.265 0 0 0 .374.001l.375-.374 1.309 1.309-3.367 3.367a.265.265 0 0 0-.002.374l4.117 4.117a.265.265 0 0 0 .375-.001.265.265 0 0 0 0-.373l-3.93-3.93 3.369-3.368a.265.265 0 0 0-.001-.374l-1.684-1.683a.265.265 0 0 0-.373 0z" fill="#b3b3b3"/>
+ <path d="m1.5317 4.5929c-0.37656 0.67508-0.6572 1.4115-0.82422 2.191l5.1644 5.4223c0.20634 0.20706 0.54192 0.20706 0.74826 0l1.1229-1.1234-6.2114-6.4899z" fill="#70a7ea" style="paint-order:stroke fill markers"/>
+ <path d="m2.8261 2.8732c-0.50555 0.5098-0.94191 1.0881-1.2945 1.7203l6.2104 6.4894 1.4981-1.496-6.414-6.7137z" fill="#6fdda1" style="paint-order:stroke fill markers"/>
+ <path d="m4.4777 1.5973c-0.61838 0.35867-1.1828 0.79875-1.68 1.3053l6.4413 6.6832 1.497-1.496-6.2584-6.4925z" fill="#f6cc6a" style="paint-order:stroke fill markers"/>
+ <path d="m6.5974 0.74981c-0.75497 0.18094-1.4674 0.4688-2.1202 0.84748l6.2589 6.4935 1.1219-1.1239c0.20706-0.20634 0.20706-0.5414 0-0.74774l-5.2606-5.4693z" fill="#e35a65" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(-45)" x="-4.479" y="10.137" width="8.466" height="3.175" rx=".529" ry=".529" fill-rule="evenodd" opacity=".5" style="mix-blend-mode:soft-light;paint-order:stroke fill markers"/>
+ <rect transform="rotate(-45)" x="-1.04" y="16.22" width="1.587" height="4.233" rx=".529" ry=".529" fill="url(#g)" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+</svg>

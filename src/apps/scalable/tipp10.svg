@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276,0,0,1.3276,-510.62,-663.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".9"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill-rule="evenodd" filter="url(#b)" opacity=".25" style="paint-order:fill markers stroke"/>
+ <rect x="2.002" y="2.002" width="59.997" height="59.997" ry="29.998" fill="url(#c)"/>
+ <g transform="matrix(2 0 0 2 1 2)" fill="#d07517">
+  <rect x="14" y="14" width="3" height="3" ry=".721"/>
+  <rect x="14" y="10" width="3" height="3" ry=".721"/>
+  <rect x="14" y="22" width="3" height="3" ry=".721"/>
+  <rect x="14" y="18" width="3" height="3" ry=".721"/>
+  <rect x="14" y="6" width="3" height="3" ry=".721"/>
+  <rect x="10" y="6" width="3" height="3" ry=".721"/>
+  <rect x="6" y="6" width="3" height="3" ry=".721"/>
+  <rect x="22" y="6" width="3" height="3" ry=".721"/>
+  <rect x="18" y="6" width="3" height="3" ry=".721"/>
+ </g>
+</svg>

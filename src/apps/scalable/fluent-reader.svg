@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276,0,0,1.3276,-510.62,-663.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".9"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="32" r="30" fill-rule="evenodd" filter="url(#b)" opacity=".25" style="paint-order:fill markers stroke"/>
+ <rect x="2.002" y="2.002" width="59.997" height="59.997" ry="29.998" fill="url(#c)"/>
+ <g transform="translate(7.111 7.111) scale(.77778)">
+  <rect x="9" y="5" width="50" height="50" rx="2.778" ry="2.778" fill="#7ab8e8"/>
+  <rect x="7" y="15" width="42" height="42" rx="2.8" ry="2.8" fill="#5093c8"/>
+  <rect x="5" y="29" width="30" height="30" rx="2.727" ry="2.727" fill="#0077d3"/>
+  <path d="M13 35v18h4v-7h10v-3H17v-5h10v-3H17z" fill="#fff"/>
+ </g>
+</svg>

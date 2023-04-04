@@ -1,0 +1,16 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(.35125 0 0 .35125 -135.1 -175.55)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".9"/>
+  </filter>
+ </defs>
+ <circle transform="scale(.26458)" cx="32" cy="32" r="30" fill-rule="evenodd" filter="url(#b)" opacity=".25" style="paint-order:fill markers stroke"/>
+ <rect x=".52969" y=".52969" width="15.874" height="15.874" ry="7.9368" fill="url(#c)" stroke-width=".26458"/>
+ <path d="M8.467 13.977H6.51v-.355l-.178-.178-.888-.178H4.378v-.355l-.356-.356h-.355V12.2l-.178-.178-.355-.178-.356-.533v-.889c5.133-.963 5.64-.963 11.377 0v.889l-.356.533-.355.178-.178.178v.355h-.355l-.356.356v.355H11.49l-.89.178-.177.178v.355z" fill="#fff"/>
+ <path d="M8.467 11.74H5.845v-.698h-1.4v-.698h-1.4l-.178-1.217.178-1.217h.7V6.516h.7V5.12h.7v-.697h.7v-.698h1.4V3.03l1.222-.178 1.222.178v.697h1.4v.698h.7v.697h.7v1.395h.7V7.91h.7l.177 1.217-.178 1.217h-1.4v.698h-1.4v.697z" fill="#8fc46a"/>
+ <path d="M8.467 14.155H6.333v-.711H4.2v-.711h-.71v-.711h-.712v-.711h.711v.71H4.2v.712h2.133v.71H10.6v-.71h2.133v-.711h.71v-.711h.712v.71h-.711v.712h-.711v.71H10.6v.712zm0-2.133H5.622v-.711H4.2V10.6H2.778V7.755h.711V6.333H4.2V4.911h.711v-.71h.711v-.712h1.422v-.71H9.89v.71h1.422V4.2h.71v.711h.712v1.422h.71v1.422h.712V10.6h-1.422v.71H11.31v.712zm0-.711H10.6V9.889h.71v.71h.712v-.71h1.422V8.467H11.31v-.712h1.422v-.71h-.711V5.621h-.711v-.71H9.889V4.2h-.711v-.71H7.755v.71h-.71v.711H5.621v.711h-.71v1.422H4.2v.711h1.422v.712H3.49v1.422h1.422v.71h.711v-.71h.711v1.422zM6.689 9.889h-.356v-.711h.711v-.711h-.71v-.712h-.712V6.333h.711v-.71h.711V4.91H9.89v.711h.71v.711h.712v1.422H10.6v.712h-.711v.71h.71v.712h-.71v-.711H7.044v.71zm1.778-1.422h1.422v-.712h.71V6.333h-.71v-.71H7.044v.71h-.71v1.422h.71v.712z"/>
+</svg>
