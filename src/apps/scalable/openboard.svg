@@ -1,17 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="c" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="matrix(1.3276,0,0,1.3276,-510.62,-663.5)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fff" offset="0"/>
-   <stop stop-color="#e6e6e6" offset="1"/>
-  </linearGradient>
-  <filter id="b" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation=".9"/>
-  </filter>
- </defs>
- <circle cx="32" cy="32" r="30" fill-rule="evenodd" filter="url(#b)" opacity=".25" style="paint-order:fill markers stroke"/>
- <rect x="2.002" y="2.002" width="59.997" height="59.997" ry="29.998" fill="url(#c)"/>
- <g stroke-width="1.304">
-  <path d="M18.957 20.261a2.603 2.603 0 0 0-2.609 2.609v15.652a2.603 2.603 0 0 0 2.609 2.608h9.13v7.826l7.827-7.826h9.13a2.603 2.603 0 0 0 2.609-2.608V22.87a2.603 2.603 0 0 0-2.61-2.609zm1.304 2.609H43.74c.723 0 1.305.581 1.305 1.304v13.043c0 .723-.582 1.304-1.305 1.304h-8.608l-4.435 4.436V38.52H20.26a1.301 1.301 0 0 1-1.304-1.304V24.174a1.3 1.3 0 0 1 1.304-1.304z" fill="#505556" style="paint-order:normal"/>
-  <path d="M43.791 15.045a1.301 1.301 0 0 0-1.167.635L32.215 32.591a1.301 1.301 0 1 0 2.217 1.362l10.409-16.91a1.301 1.301 0 0 0-1.05-1.998z" fill="#f48c4f" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><defs><linearGradient id="b" x1="408.25" x2="407.94" y1="547.6" y2="498.89" gradientTransform="translate(-510.62 -663.5) scale(1.3276)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#e6e6e6"/></linearGradient><filter id="a" width="1.072" height="1.072" x="-.036" y="-.036" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".9"/></filter></defs><circle cx="32" cy="32" r="30" fill-rule="evenodd" filter="url(#a)" opacity=".25" style="paint-order:fill markers stroke"/><rect width="59.997" height="59.997" x="2.002" y="2.002" fill="url(#b)" ry="29.998"/><g stroke-width="1.304"><path fill="#505556" d="M18.957 20.261a2.603 2.603 0 0 0-2.609 2.609v15.652a2.603 2.603 0 0 0 2.609 2.608h9.13v7.826l7.827-7.826h9.13a2.603 2.603 0 0 0 2.609-2.608V22.87a2.603 2.603 0 0 0-2.61-2.609zm1.304 2.609H43.74c.723 0 1.305.581 1.305 1.304v13.043c0 .723-.582 1.304-1.305 1.304h-8.608l-4.435 4.436V38.52H20.26a1.301 1.301 0 0 1-1.304-1.304V24.174a1.3 1.3 0 0 1 1.304-1.304z" style="paint-order:normal"/><path fill="#f48c4f" d="M43.791 15.045a1.301 1.301 0 0 0-1.167.635L32.215 32.591a1.301 1.301 0 1 0 2.217 1.362l10.409-16.91a1.301 1.301 0 0 0-1.05-1.998z" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/></g></svg>

@@ -1,15 +1,1 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="b" x1="-39.605" x2="-39.605" y1="58.247" y2="6.988" gradientTransform="translate(70.543 .42)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#383838" offset="0"/>
-   <stop stop-color="#616161" offset="1"/>
-  </linearGradient>
-  <filter id="a" x="-.03888" y="-.03888" width="1.0778" height="1.0778" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation=".972"/>
-  </filter>
- </defs>
- <circle cx="32" cy="32" r="30" filter="url(#a)" opacity=".15" style="isolation:isolate;paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="30" fill="url(#b)" style="isolation:isolate;paint-order:stroke fill markers"/>
- <path d="m30.338 15.334-11.688 26.667h3.6198l3.1719-7.276h13.141l3.0729 7.276h3.6615l-11.339-26.667zm1.8125 3.2187c0.302 0.912 1.8977 5.049 4.7917 12.401l0.59896 1.349h-11.047z" fill="#ffffff"/>
- <path d="m16 45v3h32v-3z" fill="#27ae60"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><defs><linearGradient id="b" x1="-39.605" x2="-39.605" y1="58.247" y2="6.988" gradientTransform="translate(70.543 .42)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#383838"/><stop offset="1" stop-color="#616161"/></linearGradient><filter id="a" width="1.078" height="1.078" x="-.039" y="-.039" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".972"/></filter></defs><circle cx="32" cy="32" r="30" filter="url(#a)" opacity=".15" style="isolation:isolate;paint-order:stroke fill markers"/><circle cx="32" cy="32" r="30" fill="url(#b)" style="isolation:isolate;paint-order:stroke fill markers"/><path fill="#fff" d="M30.338 15.334 18.65 42.001h3.62l3.172-7.276h13.14l3.074 7.276h3.661L33.978 15.334zm1.813 3.219c.301.912 1.897 5.049 4.791 12.4l.6 1.35H26.493z"/><path fill="#27ae60" d="M16 45v3h32v-3z"/></svg>
