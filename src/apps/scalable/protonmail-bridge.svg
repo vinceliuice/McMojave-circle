@@ -1,0 +1,26 @@
+<svg width="64" height="64" fill="none" style="-webkit-print-color-adjust:exact" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="rumext-id-8-paint0_linear_9588_57903" x1="19.378" x2="54.202" y1="285.4" y2="186.95" gradientTransform="matrix(.14844 0 0 .14838 13 12.513)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#28B0E8" offset="0"/>
+   <stop stop-color="#C5B7FF" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="rumext-id-9-paint1_radial_9588_57903" cx="0" cy="0" r="1" gradientTransform="matrix(-32.498 -29.216 23.896 -26.561 47.138 53.627)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#E2DBFF" offset="0"/>
+   <stop stop-color="#6D4AFF" offset="1"/>
+  </radialGradient>
+  <filter id="filter964" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+  <linearGradient id="linearGradient862-3-2" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1efeb" offset="0"/>
+   <stop stop-color="#fdfcfc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter964)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-3-2)" stroke-width="4.0494"/>
+ <g rx="0" ry="0">
+  <path rx="0" ry="0" d="m31.913 12.5c-9.54 0-17.274 7.727-17.274 17.261v17.375c0 1.847 1.499 3.345 3.348 3.345h28.211c1.65 0 2.989-1.338 2.989-2.988v-17.732c0-9.532-7.733-17.261-17.274-17.261zm9.943 17.165-7.55 6.356c-1.362 1.147-3.356 1.147-4.718 0l-7.55-6.356c0-5.393 4.376-9.766 9.773-9.766h0.272c5.397 0 9.773 4.373 9.773 9.766z" fill="#6d4aff"/>
+  <path rx="0" ry="0" d="m31.913 12.5c-9.54 0-17.274 7.727-17.274 17.261v17.375c0 1.847 1.499 3.345 3.348 3.345h28.211c1.65 0 2.989-1.338 2.989-2.988v-17.732c0-9.532-7.733-17.261-17.274-17.261zm9.943 17.165-7.55 6.356c-1.362 1.147-3.356 1.147-4.718 0l-7.55-6.356c0-5.393 4.376-9.766 9.773-9.766h0.272c5.397 0 9.773 4.373 9.773 9.766z" fill="url(#rumext-id-8-paint0_linear_9588_57903)"/>
+  <path rx="0" ry="0" d="m34.311 36.098c-0.786 0.636-2.832 1.528-4.721 0-1.888-1.529-5.807-4.907-7.531-6.405h9e-3l-0.033-0.028c0-5.393 4.374-9.766 9.77-9.766h0.271c5.396 0 9.77 4.373 9.77 9.766l-0.033 0.028h0.03v20.788h4.342c1.65 0 2.989-1.338 2.989-2.987v-17.733c0-9.532-7.73-17.261-17.267-17.261s-17.267 7.728-17.267 17.261v1.091l10.679 9.179c0.787 0.749 2.855 1.797 4.833 0 1.979-1.798 3.597-3.372 4.159-3.933z" fill="url(#rumext-id-9-paint1_radial_9588_57903)"/>
+ </g>
+</svg>

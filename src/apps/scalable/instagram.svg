@@ -1,0 +1,21 @@
+<svg width="64" height="64" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter964)" opacity=".15"/>
+ <circle cx="32" cy="32" r="30" fill="url(#linearGradient5629)" stroke-width=".97658"/>
+ <g clip-path="url(#d)" fill="#fff">
+  <path d="M39.169 16H24.831c-4.87 0-8.83 3.962-8.83 8.83V39.17c0 4.87 3.96 8.83 8.83 8.83h14.338C44.039 48 48 44.039 48 39.17V24.83C48 19.96 44.039 16 39.169 16zm5.992 23.169a5.998 5.998 0 0 1-5.992 5.992H24.831a5.998 5.998 0 0 1-5.991-5.992V24.831a5.998 5.998 0 0 1 5.991-5.992H39.17a5.999 5.999 0 0 1 5.992 5.992v14.338z"/>
+  <path d="M32 23.755c-4.547 0-8.245 3.699-8.245 8.246 0 4.546 3.698 8.245 8.245 8.245s8.245-3.699 8.245-8.245c0-4.547-3.698-8.246-8.245-8.246zm0 13.651A5.412 5.412 0 0 1 26.594 32c0-2.981 2.425-5.406 5.406-5.406s5.406 2.425 5.406 5.406A5.412 5.412 0 0 1 32 37.406zM40.591 21.347a2.09 2.09 0 0 0-1.47.61 2.092 2.092 0 0 0-.612 1.472 2.1 2.1 0 0 0 .611 1.473c.386.386.924.61 1.471.61.549 0 1.085-.224 1.472-.61.389-.388.61-.926.61-1.473a2.09 2.09 0 0 0-.61-1.472 2.09 2.09 0 0 0-1.472-.61z"/>
+ </g>
+ <defs>
+  <clipPath id="d">
+   <path d="M0 0h64v64H0z" fill="#fff"/>
+  </clipPath>
+  <linearGradient id="linearGradient5629" x1="99.552" x2="11.024" y1="-37.262" y2="53.447" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#575DCC" offset="0"/>
+   <stop stop-color="#E0316B" offset=".677"/>
+   <stop stop-color="#FED373" offset="1"/>
+  </linearGradient>
+  <filter id="filter964" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+</svg>

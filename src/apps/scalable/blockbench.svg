@@ -1,0 +1,15 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient862-5" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0e71de" offset="0"/>
+   <stop stop-color="#25c9ff" offset="1"/>
+  </linearGradient>
+  <filter id="filter964" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter964)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-5)" stroke-width="4.0494"/>
+ <image x="8.5" y="18.654" width="47" height="36" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAkCAYAAAAZ4GNvAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAlRJREFUWMPVmOFuwyAMhG3C3v+F G7w/UHnXA0xINi0SStp1yWdzPkzUzOS/HvnpB6iq3nUvg0znhwFH4NH/acCmqj8CyDdBKzxUB0Ar f2vwJiJFRIoPIN8AnupDEwTBoKLftes3tIic9ft3ALuySXUc7swC6IHOgrEK/XKB7Gm+Zr2No94n uyA0AB7Nurog1H3e0ry6bH/VkQn8TOcjrZd6frHf5A1wD58h+7rpOOLA/UzswYPDNPhjIJudmf2w Sx/EHZlnQzbhDUZhmU+bevejZ5NX4VH37WzN59OGy2gHXFiWLoKzsa55spomCMRmBRYsVCGSKUsF S/oV7YDjEq5BK1yRTCzzkGGEZnIRt/KlwOIz8npz98MxzvxEGonYYyJZWmm+2LW5XgbBbdZV9mzw cO1Az2VsoWBnmX/Vca5qXjtZHoGPtCsBJ0KtX4YfdZCJaF4D8DZZiAwkcwK4RXdS/kYJroVV/qSL 7Pl3gQI9B/DjPayZmXPIduPTwRRsSwEWvZ8FY6Td9QG8SLF+ZJ1mHgLA7Bs8rH3WjiuxYFj3WIjD DMFnmrfOdOHKVyCANKiPnh364jwj4F34mn2dBOV1aQGb9UH0ijMMHnUbA2CFvWWBvSWTzjFY2MqK VFbgjUwxm3YjOvbwrLh7VhkCX4U3olnr1IYBoOIyH+kaL8M73Xs/VrYlY5kCx8LVU8jMLWV9mnln mxZ5dziZweKKG4v13sxfAIxsKsQF8FGoq8/SJ19xu20j9kK2I5dfe8U92P0Pa+bPMz97P78pyefh nzyS/OPjG7XFsQuak3ISAAAAAElFTkSuQmCC "/>
+ <path d="M50.036 18.846 25.19 20.308l-2.923 9.782 24.846 3.006zm-28.5 12.423-9.5 1.462 23.385 6.576 10.231-4.384zm-2.797 4.864L16.42 40.77l5.846-1.462.785-1.96zm21.965 2.498-5.184 2.22-.614-.17-1.679 4.473 6.577-2.923z" fill="#f9f9f9" style="paint-order:normal"/>
+</svg>

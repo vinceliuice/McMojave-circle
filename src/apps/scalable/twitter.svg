@@ -1,0 +1,18 @@
+<svg width="64" height="64" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter964)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-5)" stroke-width="4.0494"/>
+ <image x="11.5" y="17.499" width="41" height="35" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAjCAYAAAAJ+yOQAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAntJREFUWMO9mNtuwyAQRFni9P+/ t7WZvoA0mewu2HVaCTmJajjMXsEAlP/4MzPDxcXsU5BmZvyVPr8suAK+fRBQB0MOMLzuxQd/U9K8 txZ3TO/WDvboz/EdNJp8f9kAr7cFi7zt3szKok/VDsej0nwopRwdsglso2dq7kqTGr3UMtC+wQG4 lVKe/bkJ5ABT0IOG8Vqb40eshOmkZtbUHM67z1LKV396SnpgVUyOSEkjX3r2F8dkRs/muO6AHCo+ CZKtwqCPPufefz/EzVJzP8hsoJ3utPNGi6qpx1AVWU0TFzAPcJaCKqnAQbD30QTUC5aaLe6kpqZ5 NIKETPIIxlAUtKnNiWhbhNNInyoJWdxImWFSNvtY2IvmMlkDTrQjzJNRdAkkOqjungNnBolVFVfK IiTqB2QNfMgWfbEE1ad51e1M7dZqxLBeGrPFeSFV5rSSmcMbmTn7vwxuamoPEs5oopidhCmTNaaQ VbocUPI+NOJu7OYQKLncT46Xd0nKkZpXIZtTveA1MNXpGbn4R2XwDgWP1blr8LsH2oIcetXEB5VX nIIkub2er0kivmrm3bNS1Ktui2bZnQRdkxSUpZsB+EOguHoQ40j3IO1GQGRHk21yFPXUrIsqQvx7 wH0LZJudnWYHseg4qgFkQfPAOdcDXPLrLShpVVqzWSOLJIrZxD8E2WZmfoOUA32VJlabWS+6EeRB 9sH9LOAscEwO9nrAbwuJej+bblJIAOPKwxyTGflQZO7m1P1jtfSdVVJVYnWqBBQcyLQIXLlZy+6C 1MzmHE+RdNn4K1x69SepqEySOLzbsjvglu8nk3vG7Ch8C9zlS1TvahAfvi7+BSJ6ADCOQCbPAAAA AElFTkSuQmCC "/>
+ <path d="M44.724 25.473c.02.282.02.564.02.849 0 8.674-6.605 18.678-18.68 18.678v-.005A18.59 18.59 0 0 1 16 42.052a13.184 13.184 0 0 0 9.716-2.72 6.573 6.573 0 0 1-6.134-4.56c.985.19 1.999.15 2.964-.113a6.565 6.565 0 0 1-5.266-6.434v-.084c.913.509 1.935.79 2.98.822a6.573 6.573 0 0 1-2.032-8.765 18.635 18.635 0 0 0 13.53 6.858 6.573 6.573 0 0 1 11.188-5.987c1.471-.29 2.88-.83 4.17-1.594a6.59 6.59 0 0 1-2.886 3.63A13.056 13.056 0 0 0 48 22.072a13.334 13.334 0 0 1-3.276 3.4z" clip-path="url(#b)" fill="#fff"/>
+ <defs>
+  <clipPath id="b">
+   <path d="M0 0h64v64H0z" fill="#fff"/>
+  </clipPath>
+  <linearGradient id="linearGradient862-5" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0e71de" offset="0"/>
+   <stop stop-color="#25c9ff" offset="1"/>
+  </linearGradient>
+  <filter id="filter964" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+</svg>
