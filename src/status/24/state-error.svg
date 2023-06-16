@@ -27,7 +27,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#363636"
+     bordercolor="#ffffff"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -51,7 +51,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#363636
+        color:#ffffff
       }
       </style>
     <linearGradient
