@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-set -eo pipefail
-
 ROOT_UID=0
 DEST_DIR=
 
@@ -233,5 +231,3 @@ if [[ "${all}" == 'true' ]]; then
   else
   install_theme
 fi
-
-exit 1
