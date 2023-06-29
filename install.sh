@@ -16,9 +16,6 @@ THEME_NAME=McMojave-circle
 THEME_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-yellow' '-orange' '-brown' '-grey' '-black')
 COLOR_VARIANTS=('' '-dark')
 
-themes=()
-colors=()
-
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...]"
   printf "\n%s\n" "OPTIONS:"
