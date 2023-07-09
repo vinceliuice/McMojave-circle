@@ -15,7 +15,7 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |-n, --name           | Specify theme name (Default: McMojave-circle)|
 |-c, --circle         | Specify circle folder version|
 |-a, --all            | Install all color folder versions|
-|:--------------------|:-------------|
+|  COLORS:            | |
 |-black               | Black color folder version|
 |-blue                | Blue color folder version|
 |-brown               | Brown color folder version|
