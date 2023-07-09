@@ -32,8 +32,6 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 
 `./install.sh` : install default color version
 
-`./install.sh -black` : install black color versions
-
 `./install.sh -a` : install all color versions
 
 `./install.sh -c` : install circle folder version
