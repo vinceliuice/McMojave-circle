@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1040" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#363636" offset="0"/>
+   <stop stop-color="#6c6c6c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5418" x1="29.235" x2="29.235" y1="14" y2="32.183" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#37e079" offset="0"/>
+   <stop stop-color="#31d8ad" offset="1"/>
+  </linearGradient>
+  <filter id="filter922" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter922)" opacity=".15" stroke-width="4.0494"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient1040)" stroke-width="4.0494"/>
+ <image x="8.5" y="9.823" width="47" height="47" image-rendering="optimizeQuality" opacity=".5" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAvCAYAAABzJ5OsAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABKtJREFUaN7Fmtty4zgMREGJkr21 //+rmVgWiX0hM2c6oCVn4qyqWHJsCmyCQOOiJHe3s1dKKY1+8ycEfZuco7lYSO8f68k9BCCAT8k6 2sgQvIDuYxosGA1zdx/I4VBZNZJzGnxbkID7mIMN9AVLu1cB8C1yog3kA+Bzm8PRF+5XaWPHKFg4 AbDKmSGnBnL2vomU0qcTyAPgfbGljRWjL5qgnd3M7ma2tXFv33XwWeQs7bt+Eg4lbBhTk2XRBvID 4KuZXdq4trFAazzqexvv7fdb+7s2eYvI6kqh6RQo4dZkvbfft2gDajZJFvsHoy+qZkPN0yS2Bqgr 4hooYQrM5o510oAUfmtetJ4F/L/tvorAfs2BHXeTK00mT29tc4/kEDh9yLv2c6D1DE11rV8CU3Gh z0XYZBHNX6CAR3K4MZ5qkU1YDmgxyzFzQQqqclIzFu6mF81xmMeOObP41Ao/2OBXqRsLNU86IysQ eHckOuOlfb4KyAKtzsIqXc4mTn2FOSvb3SC3qsOSaWahRAebvMEZc7sb5mfcXSLpHWzyq913aJpK TCLvU2DLQa4xyWS1vVsb/TuDfdN+9apiMl37BaeyQLPzg4iczMzzKOcZ5C8M2wWgKiksyFs8SAMq nNCClGAka5weCAuoSXXn28U2VTMuz49MMwtNTg9ynmFu4wPt8vgyGMDwG7l7CuRRc8pmJrHgInJq MD4UkwdZ3Q4qy+DxKz5XiZ5rkPO4nFqfX6G8IlF9AUkQR9ETyMi5XYDfEfI7/V2EBqlJ8rgJ+ATz IDX3jSizmODYEBM+cvwcOGTn80VCdRa+1thArRu0FxUz/XOR+QnANyRnCn5oNnxQc4xZnCqJsyZs LipEkmzaZH5FWvzWYkEE/rfDNtPRzO5dgO+wa1ZFmlwlCW5aPpIitWraJYi9IaJ/2PwoJY6OkNpY JS2eJYybbE4pWHMVbqDAvnsAu0HrNLE/eV4cdw8YaIEfZAF+CZhFc/Uqec1NNlCEKFiR7VExnrVn gg7FHthhlLOvwjwedAdcUoN35Da6AdbBBczmD2tY2YA60RSYywo5F3GoBLu3QY70S3i8DIKSneoe BCZUg01MKD5KAFg1n07Yf5W1DptP+ajthlMw0SSdew5o9FFOo+xTowh61DHLR/1AbCJJwsWKiY58 BD7jmTnIh073K6ezTU0RmIQilwHwp595ptGa7fkrHXTBUgDcgmaWduDSs0BOgw8KdQU+wSe0V2mB f+QgtUhRW+87NW9BMIqAR20NJnRTkCe9RvMPSsQ0qFO1VzkHpzCi0peB90F9W6DxLehVrpJBevRi 4tXgoyJ6h2bZYSgoYmrbhLN1/TcbyM9QpXB9lT56P/oNeXiVoqMGnbc/ssVXUqUHte6GPk5FIUHN 04knKe3KoOXxMrOp0jzqgFy6YQRvqFcLcvXykzbvUtnfUIQ4Skj2IfnMBPD3KKd5CfhBuWgAWaXq d/A7wfNtyqfy7qfY5o7P2j4pA/Cs1va/MZv05Gaj91caYT1oOrEoT0Fn7mmtfxl8kOskAe+DZmk4 z78I4svgB6/2P73GH7y2P/2K/mXgo/8reATm7LwfBf9/Xf8B+SovZnhC3UIAAAAASUVORK5CYII= "/>
+ <g stroke-width=".64284">
+  <path d="m35.657 26.791c-2.1625 1.1748-5.7774 5.0027-7.1078 6.2453-8.698 8.1236-1.3936 16.964-1.3936 16.964 2.95-5.942 11.896-20.271 11.896-20.271s-2.4966-1.9726-3.3949-2.9379z" fill="#d8d8d8"/>
+  <path d="m28.381 26.791c2.1625 1.1748 5.7774 5.0027 7.1078 6.2453 8.698 8.1236 1.3936 16.964 1.3936 16.964-2.95-5.942-11.896-20.271-11.896-20.271s2.4966-1.9726 3.3949-2.9379z" fill="#e4e4e4"/>
+  <path d="m23 14c-4.9408 0-9.0013 4.0615-9 9.002-5.04e-4 4.9398 4.0597 9 9 9 4.9401 0 9.0002-4.0605 9-9-5.03e-4 4.9398 4.0597 9 9 9 4.9408 0 9.0013-4.0615 9-9.002 5.03e-4 -4.9398-4.0597-9-9-9-4.9401 0-9.0002 4.0605-9 9 5.03e-4 -4.9398-4.0597-9-9-9zm0 5.1445c2.1624 0 3.858 1.6963 3.8574 3.8574a2.6621 2.6606 0 0 0 0 2e-3c5.58e-4 2.1611-1.6951 3.8554-3.8574 3.8554s-3.858-1.6943-3.8574-3.8555a2.6621 2.6606 0 0 0 0-2e-3c-5.6e-4 -2.1611 1.6951-3.8574 3.8574-3.8574zm18 0c2.1624 0 3.858 1.6963 3.8574 3.8574a2.6621 2.6606 0 0 0 0 2e-3c5.58e-4 2.1611-1.6951 3.8554-3.8574 3.8554s-3.858-1.6943-3.8574-3.8555a2.6621 2.6606 0 0 0 0-2e-3c-5.59e-4 -2.1611 1.6951-3.8574 3.8574-3.8574z" fill="url(#linearGradient5418)"/>
+  <ellipse cx="32" cy="33.93" rx="1.9286" ry="1.9284" opacity=".2"/>
+ </g>
+</svg>

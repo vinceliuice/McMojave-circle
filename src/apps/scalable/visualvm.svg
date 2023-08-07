@@ -1,0 +1,26 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient862-3" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1efeb" offset="0"/>
+   <stop stop-color="#fdfcfc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1014" x1="27.925" x2="27.925" y1="11.764" y2="50.482" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff8a52" offset="0"/>
+   <stop stop-color="#e02f1f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1118" x1="27.586" x2="27.586" y1="16" y2="47.293" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#bc3d10" offset="0"/>
+   <stop stop-color="#932810" offset="1"/>
+  </linearGradient>
+  <filter id="filter922" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter922)" opacity=".15" stroke-width="4.0494"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-3)" stroke-width="4.0494"/>
+ <image x="12.824" y="8.9706" width="41" height="51" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAzCAYAAAAKLSELAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA1dJREFUaN7VWu2S3CAMw4S+/wN3 wf0DHa1Odkh2u3fdGSZz+ULItmyTM3cvP/3X1EkzM3Xev2lFxvMCQAbq3wX2CeQEyGMBxPFRoC0A eMxjBZADhn/cJ8nExxx1HguAe6y/zexjbGLgMJNtAjUAuMxtn2STo3uZeI0G55fJ7UdI0PxVCh4O pnuRekPeMpBvMycBUyB93aPANgFs0DCIaEfwZmZnwUNBqazhOLd6Z1vo10Lm6GDuqgBm5luTwLVK /o5AB5CzWH1iNGLSJlCjlXKQucpMBBwDEeXNiJQO8xYE2nD1wOYgkEZMsglLYD4DBhuMSkz2KXG/ YX7PAsfJN0ugiwgAgQ6Sqgq6+2seD5K1KtKvLTYb+xL55qD8XShdVjAfW8EFyEYgyzIvLK4DOakE McgqzBtlJpw08slD+PuggP17/QxkScxsYtIhnq9iXEoS9UT5VRCwL/LE2VBEhPK2m3H44Uq+aYkF SiLeI0keg9/TdjMbaVsRglzEBCYiv9Bzq8J6QND4LpOKjSquMeuD3KOIhRQh5AzSv4j5BrhDaGJk ar5nkNwoU/dtJqmNUPJhSSo18lsG40J2VGviYe6mioVFGDVR6WmHZ4dwAVVJqQh3WQUl1fkhgCqQ yD4WCoMy0BD6+3RM60kwcw1YRHNboqE8cU+YvF2Zm2DxEIFjAmShe5S5L28wtKSyOQIGFcCys6Fw d1OhnvhklGtLUFdGWzR21oidghTbK5xlsiIgArSTv19qad/RW6ssNbg1uGvuInQsa3N9s8B4YvOK 2Ss4s28K8FnFxJFsUae4CzTqcTin1oT5qNwaQeNWsWLa6d2zzYFO5XxLyi/s+B7wrAvVcHrWt5kM WtoHAVL7lk4AEagKoC8+fhZImbl7kDmqiNg+e2YuXovwRU6nfskngc0RVDoqPWamtqTO3NbNrFtU FTSCxHaiU88clWMjkat9kJNNo9LKJ6ghwJZArlwsuIr33mMSdsUUE0eSBs8sMkRV7lcl6IxVS9qE Euw7qi7RX2YyYbXQxmrdcH71MeBS6bbbd0e7DijGI2sFOAO+UvReMX0PGn2/unH/biZLsAnwpXV9 54eoSyCDQCp3guFSYXpnwWdfct/9Oc9eeR/Xg//qW6P9D/858AfdN3FKCXEJaQAAAABJRU5ErkJg gg== "/>
+ <g stroke-width=".72273">
+  <path d="m23.672 16-3.3594 0.88477s1.9915 3.8623 2.7207 6.9883c1.1315 4.851 1.1035 8.8125 1.1035 8.8125l3.5605-1.6973s-2.1272-2.4797-3.3262-7.4648c-0.69692-2.8977-0.69922-7.5234-0.69922-7.5234zm16.275 8.6523s-1.3935 3.6298-3.0469 5.1484c-1.6117 1.4803-5.248 3.0645-5.248 3.0645l2.7969 2.5801s0.98707-2.4922 3.0098-4.1953c1.9231-1.6193 5.9121-3.0781 5.9121-3.0781l-3.4238-3.5195zm-10.201 2.0586s0.45781 1.0533 0.10156 2.2617c-0.33269 1.1285-1.7051 2.623-1.7051 2.623l2.9102 0.48438s-0.27442-1.4853 0.076172-2.5996c0.38505-1.2238 1.4648-1.9707 1.4648-1.9707l-2.8477-0.79883zm1.0234 18.203-3.5684 0.35352s1.6467 1.0256 1.8164 2.0332c0.13356 0.79295 0.13477 1.4844 0.13477 1.4844l1.7617-0.41602s-0.50066-0.6137-0.7832-1.2832c-0.42572-1.0088 0.63867-2.1719 0.63867-2.1719z" fill="url(#linearGradient1118)"/>
+  <path d="m21.697 11.764a2.8909 2.8909 0 0 0-2.8906 2.8906 2.8909 2.8909 0 0 0 2.8906 2.8906 2.8909 2.8909 0 0 0 2.8926-2.8906 2.8909 2.8909 0 0 0-2.8926-2.8906zm22.406 7.2266a5.0591 5.0591 0 0 0-5.0605 5.0605 5.0591 5.0591 0 0 0 5.0605 5.0586 5.0591 5.0591 0 0 0 5.0586-5.0586 5.0591 5.0591 0 0 0-5.0586-5.0605zm-12.287 2.8906a2.8909 2.8909 0 0 0-2.8906 2.8926 2.8909 2.8909 0 0 0 2.8906 2.8906 2.8909 2.8909 0 0 0 2.8906-2.8906 2.8909 2.8909 0 0 0-2.8906-2.8926zm-4.3359 7.9512a7.95 7.95 0 0 0-7.9512 7.9492 7.95 7.95 0 0 0 7.9512 7.9512 7.95 7.95 0 0 0 7.9492-7.9512 7.95 7.95 0 0 0-7.9492-7.9492zm10.84 8.6719a1.4455 1.4455 0 0 0-1.4453 1.4453 1.4455 1.4455 0 0 0 1.4453 1.4473 1.4455 1.4455 0 0 0 1.4453-1.4473 1.4455 1.4455 0 0 0-1.4453-1.4453zm2.8906 4.3379a2.1682 2.1682 0 0 0-2.168 2.168 2.1682 2.1682 0 0 0 2.168 2.168 2.1682 2.1682 0 0 0 2.1699-2.168 2.1682 2.1682 0 0 0-2.1699-2.168zm-10.84 5.0586a2.1682 2.1682 0 0 0-2.168 2.168 2.1682 2.1682 0 0 0 2.168 2.168 2.1682 2.1682 0 0 0 2.168-2.168 2.1682 2.1682 0 0 0-2.168-2.168z" fill="url(#linearGradient1014)"/>
+ </g>
+</svg>
