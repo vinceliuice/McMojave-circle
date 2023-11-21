@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient862-5" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#316ca7" offset="0"/>
+   <stop stop-color="#1fa1cc" offset="1"/>
+  </linearGradient>
+  <filter id="filter7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-5)" stroke-width="4.0494"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill="none"/>
+ <path d="m17 11c-3.324 0-6 2.676-6 6v11h4v-11c0-1.108 0.892-2 2-2h11v-4h-11zm19 0v4h11c1.108 0 2 0.892 2 2v11h4v-11c0-3.324-2.676-6-6-6h-11zm-25 25v11c0 3.324 2.676 6 6 6h11v-4h-11c-1.108 0-2-0.892-2-2v-11h-4zm38 0v11c0 1.108-0.892 2-2 2h-11v4h11c3.324 0 6-2.676 6-6v-11h-4z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".93333"/>
+</svg>

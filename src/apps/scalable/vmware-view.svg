@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient949" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0495 0 0 4.0495 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#007a00" offset="0"/>
+   <stop stop-color="#489f38" offset="1"/>
+  </linearGradient>
+  <filter id="filter7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient949)" stroke-width="4.0495"/>
+ <g fill="#fff">
+  <path d="m16.916 16c-1.6158 0-2.916 1.2673-2.916 2.8418v21.316c0 1.5745 1.3002 2.8418 2.916 2.8418h29.168c1.6158 0 2.916-1.2673 2.916-2.8418v-21.316c0-1.5745-1.3002-2.8418-2.916-2.8418h-29.168zm0.083984 3h29v21h-29v-21z"/>
+  <rect x="30" y="42" width="3" height="7"/>
+  <rect transform="rotate(90)" x="47" y="-40" width="3" height="17" rx="1.5" ry="1.417"/>
+  <rect x="29" y="21" width="5" height="4"/>
+  <rect x="25" y="27" width="5" height="4"/>
+  <rect x="33" y="27" width="5" height="4"/>
+  <rect x="29" y="33" width="5" height="4"/>
+  <rect x="21" y="33" width="5" height="4"/>
+  <rect x="37" y="33" width="5" height="4"/>
+ </g>
+</svg>

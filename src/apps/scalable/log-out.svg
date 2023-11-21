@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1092" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f54800" offset="0"/>
+   <stop stop-color="#ffb200" offset="1"/>
+  </linearGradient>
+  <filter id="filter7" x="-.13403" y="-.16275" width="1.2681" height="1.3255" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.89875"/>
+  </filter>
+  <filter id="filter7-3" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7-3)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient1092)" stroke-width="4.0494"/>
+ <path d="m33 19 16 14.054-16 13.946v-10h-18v-7.856h18z" filter="url(#filter7)" opacity=".15" overflow="visible" stroke-width="2"/>
+ <path d="m33 18 16 14.054-16 13.946v-10h-18v-8h18z" fill="#fff" overflow="visible" stroke-width="2"/>
+</svg>

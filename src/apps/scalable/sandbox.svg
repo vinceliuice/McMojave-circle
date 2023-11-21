@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient949" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0495 0 0 4.0495 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#009400" offset="0"/>
+   <stop stop-color="#75b768" offset="1"/>
+  </linearGradient>
+  <filter id="filter7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient949)" stroke-width="4.0495"/>
+ <g transform="matrix(1.3043 0 0 1.3043 .69565 .69565)">
+  <rect x="12" y="14" width="24" height="22" ry="3" fill="#876e59"/>
+  <rect x="14" y="16" width="20" height="18" ry="1" fill="#ede89f"/>
+  <path d="m18 16v6h4v-6zm4 6v6h4v-6zm4 0h4v-6h-4zm4 0v6h4v-6zm0 6h-4v6h4zm-8 0h-4v6h4zm-4 0v-6h-4v6z" fill="#ebce70"/>
+  <path d="m22 10c-0.554 0-1 0.446-1 1v1a3 3 0 0 0 2 2.8203v8.1797h-1c-1.108 0-2 0.892-2 2v5c0 0.50838 0.37944 0.97013 1 1.3223h6c0.62056-0.35214 1-0.81389 1-1.3223v-5c0-1.108-0.892-2-2-2h-1v-8.1797a3 3 0 0 0 2-2.8203v-1c0-0.554-0.446-1-1-1zm1 1h2v1a1 1 0 0 1-1 1 1 1 0 0 1-1-1z" fill="#327ddc"/>
+  <path d="m22 25c-0.554 0-1 0.446-1 1v5.3223c0.73192 0.41533 1.8008 0.67773 3 0.67773s2.2681-0.2624 3-0.67773v-5.3223c0-0.554-0.446-1-1-1z" fill="#225faa"/>
+ </g>
+</svg>

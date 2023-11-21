@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1062" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -956.39 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient971" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(3.7796 0 0 3.7796 -130.03 0)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffc30d" offset="0"/>
+   <stop stop-color="#fff63f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1062-6" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="filter7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <circle cx="-98.006" cy="32.044" r="0" fill="url(#linearGradient1062)" stroke-width="1.5715"/>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient971)" stroke-width="4.0494"/>
+ <rect x="4" y="4" width="56" height="56" rx="28" ry="28" fill="#fff" opacity=".15"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#linearGradient1062-6)" stroke-width="1.5715"/>
+ <g fill="#fff">
+  <path d="m33 33v26.971h0.14062c14.646-0.58196 26.323-12.306 26.834-26.971z" opacity=".35" style="paint-order:stroke fill markers"/>
+  <path d="m20 20v-3h3v3h3v3h-3v3h-3v-3h-3v-3zm27 3h-9v-3h9zm-9 18.5h9v-3h-9zm9 5h-9v-3h9zm-29.879-6.257 2.121 2.121-2.121 2.121 2.121 2.122 2.122-2.122 2.121 2.122 2.121-2.122-2.121-2.121 2.121-2.121-2.121-2.122-2.121 2.122-2.122-2.122z" clip-rule="evenodd" fill-rule="evenodd"/>
+  <path d="m31 3.9688v27.031h-27v2h27v26.971h2v-26.971h27.002v-2h-27.002v-27.031z" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="1.323" y2="15.875" gradientTransform="matrix(1.0715 0 0 1.0715 -.60444 -.60444)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2dadf8" offset="0"/>
+   <stop stop-color="#1869ef" offset="1"/>
+  </linearGradient>
+  <filter id="filter7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect transform="scale(.26458)" x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7)" opacity=".15"/>
+ <rect x=".52916" y=".52916" width="15.875" height="15.875" rx="7.9373" ry="7.9373" fill="url(#a)" stroke-width="1.0715"/>
+ <path d="M4.498 3.307 3.175 5.688h10.583l-1.323-2.38zm-1.323 2.91v7.409h10.583V6.218zm2.91.794h6.88v5.821h-6.88zm.53.53v4.762h1.587V7.54zm2.116 0v4.762h1.588V7.54zm2.117 0v4.762h1.587V7.54zm-6.615.264h1.058v1.058H4.233zm2.646 0h1.058v1.058H6.88zm2.117 0h1.058v1.058H8.996zm2.116 0h1.058v1.058h-1.058z" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+</svg>

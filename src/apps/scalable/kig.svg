@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="#ccc" stroke-width="1.0714"/>
+ <g transform="matrix(1.4615 0 0 1.4615 -4.5385 -3.0769)">
+  <rect x="13" y="13" width="22" height="24" rx="1.7448" ry="1.7448" fill="#fff"/>
+  <path d="m21 20a6 6 0 0 0-6 6 6 6 0 0 0 3 5.1797v3.8203h11v-11h-2.3438a6 6 0 0 0-5.6562-4zm0 1a5 5 0 0 1 4.5801 3h-7.5801v5.9922a5 5 0 0 1-2-3.9922 5 5 0 0 1 5-5zm-2 4h6.8965a5 5 0 0 1 0.10352 1 5 5 0 0 1-5 5 5 5 0 0 1-2-0.43359v-5.5664zm7.9141 0h1.0859v9h-9v-2.3594a6 6 0 0 0 2 0.35938 6 6 0 0 0 6-6 6 6 0 0 0-0.08594-1z" fill="#4d4d4d"/>
+  <path d="m19 11 18 22v-22m-9.7 4h5.7v7" fill="#7fc422"/>
+ </g>
+</svg>

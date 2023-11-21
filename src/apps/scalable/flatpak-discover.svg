@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient862-5" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0e71de" offset="0"/>
+   <stop stop-color="#25c9ff" offset="1"/>
+  </linearGradient>
+  <filter id="filter6" x="-.16296" y="-.13389" width="1.3259" height="1.2678" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.0370271"/>
+  </filter>
+  <filter id="filter7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7)" opacity=".15"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-5)" stroke-width="4.0494"/>
+ <path d="m32 15-0.7793 0.48047-14.221 8.6836v18.187l15 9.1641 15-9.1641v-18.187zm0 3.5098v12.984l-1.4297 0.87891-10.57-6.5215zm12 9.1055v13.049l-12 7.3359v-12.979z" filter="url(#filter6)" opacity=".15"/>
+ <path d="m32 13.742-0.7793 0.48047-14.221 8.6836v18.187l15 9.1641 15-9.1641v-18.187zm0 3.5098v12.984l-1.4297 0.87891-10.57-6.5215zm12 9.1055v13.049l-12 7.3359v-12.979z" fill="#fff"/>
+</svg>
