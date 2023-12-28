@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <linearGradient id="linearGradient862-5" x1="7.9373" x2="7.9373" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2519)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#124aa0" offset="0"/>
-   <stop stop-color="#008bd1" offset="1"/>
-  </linearGradient>
-  <filter id="filter7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.675"/>
-  </filter>
- </defs>
- <rect x="2" y="3" width="60" height="60" rx="30" ry="30" filter="url(#filter7)" opacity=".15"/>
- <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#linearGradient862-5)" stroke-width="4.0494"/>
- <path d="m20.537 18c-3.0364 0-5.9916 2.4767-5.4785 5.4551l3.2871 19.09c0.51304 2.9784 2.4441 5.4551 5.4805 5.4551h15.348c3.0364 0 4.9674-2.4767 5.4805-5.4551l3.2871-19.09c0.51304-2.9784-2.4422-5.4551-5.4785-5.4551h-21.926zm10.963 7a5.5 5.5 0 0 1 5.5 5.5 5.5 5.5 0 0 1-3 4.8984v5.1016c0 0.831-0.669 1.5-1.5 1.5h-2c-0.831 0-1.5-0.669-1.5-1.5v-5.1074a5.5 5.5 0 0 1-3-4.8926 5.5 5.5 0 0 1 5.5-5.5z" fill="#fff"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><defs><linearGradient id="b" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="translate(-2.286 -2.252) scale(4.0494)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#124aa0"/><stop offset="1" stop-color="#008bd1"/></linearGradient><filter id="a" width="1.054" height="1.054" x="-.027" y="-.027" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".675"/></filter></defs><rect width="60" height="60" x="2" y="3" filter="url(#a)" opacity=".15" rx="30" ry="30"/><rect width="60" height="60" x="2" y="2" fill="url(#b)" rx="30" ry="30"/><path fill="#fff" d="M20.537 18c-3.036 0-5.992 2.477-5.479 5.455l3.288 19.09C18.859 45.524 20.79 48 23.826 48h15.348c3.036 0 4.967-2.476 5.48-5.455l3.288-19.09C48.455 20.477 45.499 18 42.463 18H20.537zM31.5 25a5.5 5.5 0 0 1 5.5 5.5 5.5 5.5 0 0 1-3 4.898V40.5c0 .831-.669 1.5-1.5 1.5h-2c-.831 0-1.5-.669-1.5-1.5v-5.107a5.5 5.5 0 0 1-3-4.893 5.5 5.5 0 0 1 5.5-5.5z"/></svg>
