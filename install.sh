@@ -82,9 +82,9 @@ install() {
 
   if [[ ${color} == '-light' ]]; then
     mkdir -p                                                                               ${THEME_DIR}/status
-    cp -r ${SRC_DIR}/src/status/{16,22,24}                                                 ${THEME_DIR}/status
-    sed -i "s/#dedede/#363636/g" "${THEME_DIR}"/status/{16,22,24}/*
-    cp -r ${SRC_DIR}/links/status/{16,22,24}                                               ${THEME_DIR}/status
+    cp -r ${SRC_DIR}/src/status/{16,22,24,32}                                              ${THEME_DIR}/status
+    sed -i "s/#dfdfdf/#363636/g" "${THEME_DIR}"/status/{16,22,24,32}/*
+    cp -r ${SRC_DIR}/links/status/{16,22,24,32}                                            ${THEME_DIR}/status
 
     cd ${dest}
     ln -s ../${name}${theme}/actions ${name}${theme}-light/actions
@@ -95,30 +95,28 @@ install() {
     ln -s ../${name}${theme}/apps ${name}${theme}-light/apps
     ln -s ../${name}${theme}/devices ${name}${theme}-light/devices
     ln -s ../${name}${theme}/places ${name}${theme}-light/places
-    ln -s ../../${name}${theme}/status/32 ${name}${theme}-light/status/32
     ln -s ../../${name}${theme}/status/symbolic ${name}${theme}-light/status/symbolic
   fi
 
   if [[ ${color} == '-dark' ]]; then
     mkdir -p                                                                               ${THEME_DIR}/{apps,categories,emblems,devices,mimes,places,status}
 
-    cp -r ${SRC_DIR}/src/actions                                                           ${THEME_DIR}
+    cp -r ${SRC_DIR}/src/{actions,status}                                                  ${THEME_DIR}
     cp -r ${SRC_DIR}/src/apps/symbolic                                                     ${THEME_DIR}/apps
     cp -r ${SRC_DIR}/src/categories/symbolic                                               ${THEME_DIR}/categories
     cp -r ${SRC_DIR}/src/emblems/symbolic                                                  ${THEME_DIR}/emblems
     cp -r ${SRC_DIR}/src/mimes/symbolic                                                    ${THEME_DIR}/mimes
     cp -r ${SRC_DIR}/src/devices/{16,22,24,symbolic}                                       ${THEME_DIR}/devices
     cp -r ${SRC_DIR}/src/places/{16,22,24,symbolic}                                        ${THEME_DIR}/places
-    cp -r ${SRC_DIR}/src/status/{16,22,24,symbolic}                                        ${THEME_DIR}/status
 
     # Change icon color for dark theme
-    sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
-    sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places,status}/symbolic/*
+    sed -i "s/#363636/#dfdfdf/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
+    sed -i "s/#363636/#dfdfdf/g" "${THEME_DIR}"/{actions,status}/32/*
+    sed -i "s/#363636/#dfdfdf/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places,status}/symbolic/*
 
-    cp -r ${SRC_DIR}/links/actions/{16,22,24,32,symbolic}                                  ${THEME_DIR}/actions
+    cp -r ${SRC_DIR}/links/{actions,status}                                                ${THEME_DIR}
     cp -r ${SRC_DIR}/links/devices/{16,22,24,symbolic}                                     ${THEME_DIR}/devices
     cp -r ${SRC_DIR}/links/places/{16,22,24,symbolic}                                      ${THEME_DIR}/places
-    cp -r ${SRC_DIR}/links/status/{16,22,24,symbolic}                                      ${THEME_DIR}/status
     cp -r ${SRC_DIR}/links/apps/symbolic                                                   ${THEME_DIR}/apps
     cp -r ${SRC_DIR}/links/categories/symbolic                                             ${THEME_DIR}/categories
     cp -r ${SRC_DIR}/links/mimes/symbolic                                                  ${THEME_DIR}/mimes
@@ -131,11 +129,10 @@ install() {
     ln -s ../../${name}${theme}/emblems/24 ${name}${theme}-dark/emblems/24
     ln -s ../../${name}${theme}/mimes/16 ${name}${theme}-dark/mimes/16
     ln -s ../../${name}${theme}/mimes/22 ${name}${theme}-dark/mimes/22
-    ln -s ../../${name}${theme}/mimes/48 ${name}${theme}-dark/mimes/48
+    ln -s ../../${name}${theme}/mimes/scalable ${name}${theme}-dark/mimes/scalable
     ln -s ../../${name}${theme}/apps/scalable ${name}${theme}-dark/apps/scalable
     ln -s ../../${name}${theme}/devices/scalable ${name}${theme}-dark/devices/scalable
     ln -s ../../${name}${theme}/places/scalable ${name}${theme}-dark/places/scalable
-    ln -s ../../${name}${theme}/status/32 ${name}${theme}-dark/status/32
 
     cd ${THEME_DIR}
     sed -i "s/Numix-Circle-Light/Numix-Circle/g" index.theme
