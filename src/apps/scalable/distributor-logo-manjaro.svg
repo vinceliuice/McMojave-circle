@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><defs><linearGradient id="c" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="translate(-826.36 -1107.6) scale(2.1428)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3889e9"/><stop offset="1" stop-color="#5ea5fb"/></linearGradient><linearGradient id="b" x1="399.99" x2="399.99" y1="545.14" y2="518.14" gradientTransform="translate(-826.36 -1107.6) scale(2.1428)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#009859"/><stop offset="1" stop-color="#37ce97"/></linearGradient><linearGradient id="a" x1="408.81" x2="408.81" y1="511.86" y2="537.65" gradientTransform="translate(-495.4 -643.96) scale(1.2901)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#defff4"/><stop offset="1" stop-color="#c7ffe0"/></linearGradient><filter id="e" width="1.072" height="1.072" x="-.036" y="-.036" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".42"/></filter><filter id="filter1283" width="1.163" height="1.139" x="-.082" y="-.069" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".962"/></filter><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#31363b}.ColorScheme-Background{color:#eff0f1}.ColorScheme-ViewText{color:#31363b}.ColorScheme-ViewBackground{color:#fcfcfc}.ColorScheme-ViewFocus,.ColorScheme-ViewHover{color:#3daee9}.ColorScheme-ButtonText{color:#31363b}.ColorScheme-ButtonBackground{color:#eff0f1}.ColorScheme-ButtonFocus,.ColorScheme-ButtonHover{color:#3daee9}</style></defs><circle cx="400.57" cy="531.8" r="14" stroke-width=".8" filter="url(#e)" opacity=".25" transform="translate(-826.36 -1107.6) scale(2.1428)"/><circle cx="31.991" cy="31.994" r="30" fill="url(#b)" stroke-width="1.714"/><path stroke-width="1.032" d="M26.171 30.309v-4.99h9.982V17h-18.3v33.273h8.318v-18.3zM37.816 17v33.272h8.318V17zm-9.982 9.982v23.29h8.318v-23.29z" color="#000" enable-background="new" filter="url(#filter1283)" opacity=".15"/><path fill="url(#a)" stroke-width="1.032" d="M26.171 29.699v-4.99h9.982V16.39h-18.3v33.273h8.318v-18.3zM37.816 16.39v33.272h8.318V16.39zm-9.982 9.982v23.29h8.318v-23.29z" color="#000" enable-background="new"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="399.99" x2="399.99" y1="545.14" y2="518.14" gradientTransform="translate(-826.36 -1107.6) scale(2.1428)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#009859" offset="0"/>
+   <stop stop-color="#37ce97" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="408.81" x2="408.81" y1="511.86" y2="537.65" gradientTransform="translate(-495.4 -643.96) scale(1.2901)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#defff4" offset="0"/>
+   <stop stop-color="#c7ffe0" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".42"/>
+  </filter>
+  <filter id="filter1283" x="-.081638" y="-.06939" width="1.1633" height="1.1388" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".962"/>
+  </filter>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#31363b}.ColorScheme-Background{color:#eff0f1}.ColorScheme-ViewText{color:#31363b}.ColorScheme-ViewBackground{color:#fcfcfc}.ColorScheme-ViewFocus,.ColorScheme-ViewHover{color:#3daee9}.ColorScheme-ButtonText{color:#31363b}.ColorScheme-ButtonBackground{color:#eff0f1}.ColorScheme-ButtonFocus,.ColorScheme-ButtonHover{color:#3daee9}</style>
+  <filter id="filter26" x="-.013853" y="-.013853" width="1.0277" height="1.0277" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.29776566"/>
+  </filter>
+  <filter id="filter25" x="-.029663" y="-.029663" width="1.0593" height="1.0593" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.29776566"/>
+  </filter>
+ </defs>
+ <circle transform="translate(-826.36 -1107.6) scale(2.1428)" cx="400.57" cy="531.8" r="14" filter="url(#e)" opacity=".25" stroke-width=".8"/>
+ <circle cx="31.991" cy="31.994" r="30" fill="url(#b)" stroke-width="1.714"/>
+ <path d="M26.171 30.309v-4.99h9.982V17h-18.3v33.273h8.318v-18.3zM37.816 17v33.272h8.318V17zm-9.982 9.982v23.29h8.318v-23.29z" enable-background="new" filter="url(#filter1283)" opacity=".15" stroke-width="1.032"/>
+ <path d="M26.171 29.699v-4.99h9.982V16.39h-18.3v33.273h8.318v-18.3zM37.816 16.39v33.272h8.318V16.39zm-9.982 9.982v23.29h8.318v-23.29z" enable-background="new" fill="url(#a)" stroke-width="1.032"/>
+ <path d="m10.787 10.787c-11.752 11.752-11.752 30.674 0 42.426 0.11855 0.11855 0.24184 0.22911 0.36184 0.34527-11.399-11.775-11.288-30.431 0.34527-42.065 11.634-11.634 30.289-11.744 42.065-0.34527-0.11616-0.12-0.22671-0.24329-0.34527-0.36184-11.752-11.752-30.674-11.752-42.426 0z" fill="#ffffff" filter="url(#filter26)" opacity=".35"/>
+ <path d="m37.435 61.526c5.7718-1.0635 11.297-3.831 15.779-8.3126s7.2491-10.007 8.3126-15.779c-1.5917 5.4332-4.6056 10.657-9.0198 15.072s-9.6384 7.428-15.072 9.0198z" fill="#ffffff" filter="url(#filter25)" opacity=".35"/>
+</svg>
