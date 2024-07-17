@@ -17,28 +17,24 @@ THEME_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-yellow' '-orange'
 COLOR_VARIANTS=('' '-light' '-dark')
 
 usage() {
-  printf "%s\n" "Usage: $0 [OPTIONS...]"
-  printf "\n%s\n" "OPTIONS:"
-  printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
-  printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
-  printf "  %-25s%s\n" "-c, --circle" "Install circle folder version"
-  printf "  %-25s%s\n" "-a, --all" "Install all color folder versions"
-  printf "  %-25s%s\n" "-red" "Red color folder version"
-  printf "  %-25s%s\n" "-pink" "Pink color folder version"
-  printf "  %-25s%s\n" "-purple" "Purple color folder version"
-  printf "  %-25s%s\n" "-blue" "Blue color folder version"
-  printf "  %-25s%s\n" "-green" "Green color folder version"
-  printf "  %-25s%s\n" "-yellow" "Yellow color folder version"
-  printf "  %-25s%s\n" "-orange" "Orange color folder version"
-  printf "  %-25s%s\n" "-brown" "Brown color folder version"
-  printf "  %-25s%s\n" "-black" "Black color folder version"
-  printf "  %-25s%s\n" "-h, --help" "Show this help"
+cat << EOF
+Usage: $0 [OPTION]
+
+OPTIONS:
+  -a, --all                Install all color folder versions
+  -d, --dest               Specify theme destination directory (Default: $HOME/.local/share/icons)
+  -n, --name               Specify theme name (Default: ${THEME_NAME})
+  -c, --circle             Specify circle folder version
+  -t, --theme VARIANT      Specify theme color variant(s) [default|red|pink|purple|blue|green|yellow|orange|brown|grey|black|all] (Default: light blue)
+  -h, --help               Show this help
+EOF
 }
 
 install() {
   local dest=${1}
   local name=${2}
-  local color=${3}
+  local theme=${3}
+  local color=${4}
 
   local THEME_DIR=${dest}/${name}${theme}${color}
 
@@ -153,6 +149,17 @@ install() {
   gtk-update-icon-cache ${name}${theme}${color}
 }
 
+themes=()
+colors=()
+
+if [[ "${#themes[@]}" -eq 0 ]]; then
+  themes=("${THEME_VARIANTS[0]}")
+fi
+
+if [[ "${#colors[@]}" -eq 0 ]]; then
+  colors=("${COLOR_VARIANTS[@]}")
+fi
+
 while [[ $# -gt 0 ]]; do
   case "${1}" in
     -d|--dest)
@@ -171,40 +178,73 @@ while [[ $# -gt 0 ]]; do
       circle='true'
       ;;
     -a|--all)
-      all="true"
+      themes=("${THEME_VARIANTS[@]}")
       ;;
     -w|--white)
       white="true"
       ;;
-    -black)
-      theme="-black"
-      ;;
-    -blue)
-      theme="-blue"
-      ;;
-    -brown)
-      theme="-brown"
-      ;;
-    -green)
-      theme="-green"
-      ;;
-    -grey)
-      theme="-grey"
-      ;;
-    -orange)
-      theme="-orange"
-      ;;
-    -pink)
-      theme="-pink"
-      ;;
-    -purple)
-      theme="-purple"
-      ;;
-    -red)
-      theme="-red"
-      ;;
-    -yellow)
-      theme="-yellow"
+    -t|--theme)
+      shift
+      for theme in "${@}"; do
+        case "${theme}" in
+          default)
+            themes+=("${THEME_VARIANTS[0]}")
+            shift
+            ;;
+          red)
+            themes+=("${THEME_VARIANTS[1]}")
+            shift
+            ;;
+          pink)
+            themes+=("${THEME_VARIANTS[2]}")
+            shift
+            ;;
+          purple)
+            themes+=("${THEME_VARIANTS[3]}")
+            shift
+            ;;
+          blue)
+            themes+=("${THEME_VARIANTS[4]}")
+            shift
+            ;;
+          green)
+            themes+=("${THEME_VARIANTS[5]}")
+            shift
+            ;;
+          yellow)
+            themes+=("${THEME_VARIANTS[6]}")
+            shift
+            ;;
+          orange)
+            themes+=("${THEME_VARIANTS[7]}")
+            shift
+            ;;
+          brown)
+            themes+=("${THEME_VARIANTS[8]}")
+            shift
+            ;;
+          grey)
+            themes+=("${THEME_VARIANTS[9]}")
+            shift
+            ;;
+          black)
+            themes+=("${THEME_VARIANTS[10]}")
+            shift
+            ;;
+          all)
+            themes+=("${THEME_VARIANTS[@]}")
+            shift
+            ;;
+          -*|--*)
+            break
+            ;;
+          *)
+            echo "ERROR: Unrecognized theme variant '$1'."
+            echo "Try '$0 --help' for more information."
+            exit 1
+            ;;
+        esac
+      done
       ;;
     -h|--help)
       usage
@@ -220,21 +260,12 @@ while [[ $# -gt 0 ]]; do
 done
 
 install_theme() {
-  for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
-    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
+  for theme in "${themes[@]}"; do
+    for color in "${colors[@]}"; do
+      install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${theme}" "${color}"
+    done
   done
 }
 
-install_all() {
-for theme in "${themes[@]-${THEME_VARIANTS[@]}}"; do
-  for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
-    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
-  done
-done
-}
+install_theme
 
-if [[ "${all}" == 'true' ]]; then
-  install_all
-  else
-  install_theme
-fi

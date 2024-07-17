@@ -9,30 +9,22 @@ Based on OSX_ONE: https://github.com/unc926/OSX_ONE
 
 Usage:  `./install.sh`  **[OPTIONS...]**
 
-|  OPTIONS:           | |
-|:--------------------|:-------------|
-|-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
-|-n, --name           | Specify theme name (Default: McMojave-circle)|
-|-c, --circle         | Specify circle folder version|
-|-a, --all            | Install all color folder versions|
-|  COLORS:            | |
-|-black               | Black color folder version|
-|-blue                | Blue color folder version|
-|-brown               | Brown color folder version|
-|-green               | Green color folder version|
-|-grey                | Grey color folder version|
-|-orange              | Orange color folder version|
-|-pink                | Pink color folder version|
-|-purple              | Purple color folder version|
-|-red                 | Red color folder version|
-|-yellow              | yellow color folder version|
-|-h, --help           | Show this help|
+```
+OPTIONS:
+  -a, --all                Install all color folder versions
+  -d, --dest               Specify theme destination directory (Default: $HOME/.local/share/icons)
+  -n, --name               Specify theme name (Default: McMojave-circle)
+  -c, --circle             Specify circle folder version
+  -t, --theme VARIANT      Specify theme color variant(s) [default|red|pink|purple|blue|green|yellow|orange|brown|grey|black|all] (Default: light blue)
+  -h, --help               Show this help
+
+```
 
 #### For example
 
 `./install.sh` : install default color version
 
-`./install.sh -a` : install all color versions
+`./install.sh -t all` : install all color versions
 
 `./install.sh -c` : install circle folder version
 
