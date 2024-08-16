@@ -33,7 +33,7 @@ for theme in "${_THEME_VARIANTS[@]}"; do
 done
 }
 
-cd .. && ./install.sh -t all -d $THEME_DIR
+cd .. && ./install.sh -a -d $THEME_DIR
 
 cd $THEME_DIR && Tar_themes && Clear_theme
 
