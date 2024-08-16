@@ -1,0 +1,18 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x2="0" y1="537.8" y2="525.8" gradientTransform="translate(-384.57 -515.8)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#999a9c" offset="0"/>
+   <stop stop-color="#f4f5f5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(2.0247 0 0 2.0247 -1.1418 -1.1268)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1f1f1f" offset="0"/>
+   <stop stop-color="#333333" offset="1"/>
+  </linearGradient>
+  <filter id="filter3" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+ </defs>
+ <rect x="1" y="2" width="30" height="30" rx="15" ry="15" fill="#000000" filter="url(#filter3)" opacity=".1" stroke-width="1.0714"/>
+ <rect x="1" y="1" width="30" height="30" rx="15" ry="15" fill="url(#a)" stroke-width="1.0714"/>
+ <path d="m10.454 16.992 1.998-5.656 1.804 5.655h-3.802zm5.573 4.842h1.43L13.281 9.971h-1.69l-4.42 11.863h1.43l1.414-3.754h4.712zm4.935-.845c-.829 0-1.446-.406-1.446-1.381 0-1.22.731-1.61 3.201-1.934.016 0 .796-.114.796-.114v2.145c-.568.78-1.722 1.284-2.55 1.284zm2.584-.114.195.959h1.089v-6.403c0-1.95-1.35-2.518-3.072-2.518-1.235 0-2.388.308-3.055.666l.374 1.04c.715-.341 1.755-.585 2.714-.585 1.202 0 1.722.552 1.722 1.609v.99l-.877.098c-2.243.325-4.453.634-4.453 2.925 0 1.625 1.22 2.373 2.65 2.373.91 0 1.95-.293 2.713-1.154z" fill="url(#b)"/>
+</svg>

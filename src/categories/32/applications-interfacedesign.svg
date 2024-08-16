@@ -1,0 +1,19 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(2.0247 0 0 2.0247 -1.1418 -1.1268)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#8e8d92" offset="0"/>
+   <stop stop-color="#b3b2b6" offset="1"/>
+  </linearGradient>
+  <filter id="filter3" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6"/>
+  </filter>
+ </defs>
+ <rect x="1" y="2" width="30" height="30" rx="15" ry="15" fill="#000000" filter="url(#filter3)" opacity=".1" stroke-width="1.0714"/>
+ <rect x="1" y="1" width="30" height="30" rx="15" ry="15" fill="url(#a)" stroke-width="1.0714"/>
+ <g transform="translate(0,-1)" fill="#ffffff">
+  <path d="m11.5 16a2.5 2.5 0 0 0-1.9922 1h-1.5078c-0.554 0-1 0.446-1 1v1c0 0.554 0.446 1 1 1h1.5078a2.5 2.5 0 0 0 1.9922 1 2.5 2.5 0 0 0 1.9922-1h10.508c0.554 0 1-0.446 1-1v-1c0-0.554-0.446-1-1-1h-10.502a2.5 2.5 0 0 0-1.998-1zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5zm-3.5 1h1.0566a2.5 2.5 0 0 0-0.056641 0.5 2.5 2.5 0 0 0 0.056641 0.5h-1.0566zm5.9492 0h10.051v1h-10.057a2.5 2.5 0 0 0 0.056641-0.5 2.5 2.5 0 0 0-0.050781-0.5z"/>
+  <path d="m10.5 8c-1.939 0-3.5 1.561-3.5 3.5s1.561 3.5 3.5 3.5h11c1.939 0 3.5-1.561 3.5-3.5s-1.561-3.5-3.5-3.5zm0 1h11c1.385 0 2.5 1.115 2.5 2.5s-1.115 2.5-2.5 2.5h-11c-1.385 0-2.5-1.115-2.5-2.5s1.115-2.5 2.5-2.5z" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="21.5" cy="11.5" r="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m20.5 21a2.5 2.5 0 0 1 1.9922 1h1.5078c0.554 0 1 0.446 1 1v1c0 0.554-0.446 1-1 1h-1.5078a2.5 2.5 0 0 1-1.9922 1 2.5 2.5 0 0 1-1.9922-1h-10.508c-0.554 0-1-0.446-1-1v-1c0-0.554 0.446-1 1-1h10.502a2.5 2.5 0 0 1 1.998-1zm0 1a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm3.5 1h-1.0566a2.5 2.5 0 0 1 0.056641 0.5 2.5 2.5 0 0 1-0.056641 0.5h1.0566zm-5.9492 0h-10.051v1h10.057a2.5 2.5 0 0 1-0.056641-0.5 2.5 2.5 0 0 1 0.050781-0.5z"/>
+ </g>
+</svg>

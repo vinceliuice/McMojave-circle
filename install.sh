@@ -79,7 +79,7 @@ install() {
   if [[ ${color} == '-light' ]]; then
     mkdir -p                                                                               ${THEME_DIR}/status
     cp -r ${SRC_DIR}/src/status/{16,22,24,32}                                              ${THEME_DIR}/status
-    sed -i "s/#dfdfdf/#363636/g" "${THEME_DIR}"/status/{16,22,24,32}/*
+    sed -i "s/#f2f2f2/#363636/g" "${THEME_DIR}"/status/{16,22,24,32}/*
     cp -r ${SRC_DIR}/links/status/{16,22,24,32}                                            ${THEME_DIR}/status
 
     cd ${dest}
