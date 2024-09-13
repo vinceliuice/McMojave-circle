@@ -1,10 +1,10 @@
-<svg width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" enable-background="new 0 0 1024 1024" image-rendering="optimizeSpeed" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="f" x1="29.565" x2="29.728" y1="11.048" y2="53.559" gradientUnits="userSpaceOnUse">
    <stop stop-color="#e7e7e7" offset="0"/>
    <stop stop-color="#fff" offset="1"/>
   </linearGradient>
-  <linearGradient id="d" x1="35.011" x2="35.011" y1="2" y2="62" gradientTransform="translate(-.542 -62.542)scale(.06356)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="d" x1="511.99" x2="511.99" y1="1022.8" y2="1959.4" gradientTransform="translate(-.542 -62.542)scale(.06356)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#353535" offset="0"/>
    <stop stop-color="#6d6d6d" offset="1"/>
   </linearGradient>

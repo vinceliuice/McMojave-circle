@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=McMojave-circle
 Comment=MacOSX style icon theme for linux.
-Inherits=Numix-Circle-Light,hicolor
+Inherits=Numix-Circle-Light,hicolor,breeze
 Example=folder
 
 # KDE/Plasma Stuff

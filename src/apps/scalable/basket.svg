@@ -1,1 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><defs><filter id="a" width="1.072" height="1.072" x="-.036" y="-.036" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".42"/></filter><filter id="c" width="1.077" height="1.067" x="-.039" y="-.034" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".42"/></filter><linearGradient id="b" x1="399.99" x2="399.99" y1="545.14" y2="518.14" gradientTransform="translate(-826.36 -1107.5)scale(2.1429)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#197ff1"/><stop offset="1" stop-color="#21c6fb"/></linearGradient></defs><circle cx="400.57" cy="531.8" r="14" filter="url(#a)" opacity=".25" transform="translate(-826.36 -1107.5)scale(2.1429)"/><g stroke-width="1.571"><circle cx="32.02" cy="32.044" r="30.001" fill="url(#b)"/><circle cx="32.02" cy="32.044" r="30.001" fill="none"/></g><g transform="translate(-.66 2.338)"><rect width="26" height="30.002" x="19.66" y="14.661" filter="url(#c)" opacity=".25" rx="1.999" ry="1.999" style="paint-order:markers stroke fill"/><path fill="#fff" d="M21.66 14.66c-1.108 0-2 .892-2 2v26.004c0 1.108.892 2 2 2h22c1.108 0 2-.892 2-2V16.66c0-1.108-.892-2-2-2zm1.002 1.996a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002m0 6.002a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002m0 5.998a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002m0 6.002a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002m0 5.998a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002" style="paint-order:markers stroke fill"/><path d="M19.66 19.661h26.004v.998H19.66zm0 5.998h26.004v1.002H19.66zm0 6.002h26.004v.998H19.66zm0 5.998h26.004v1.002H19.66z" opacity=".1" style="paint-order:markers stroke fill"/></g></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".42"/>
+  </filter>
+  <filter id="c" x="-.038769" y="-.033598" width="1.0775" height="1.0672" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".42"/>
+  </filter>
+  <linearGradient id="b" x1="399.99" x2="399.99" y1="545.14" y2="518.14" gradientTransform="translate(-826.36 -1107.5)scale(2.1429)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#197ff1" offset="0"/>
+   <stop stop-color="#21c6fb" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.013864" y="-.013864" width="1.0277" height="1.0277" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".298"/>
+  </filter>
+  <filter id="f" x="-.029686" y="-.029686" width="1.0594" height="1.0594" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".298"/>
+  </filter>
+ </defs>
+ <circle transform="translate(-826.36 -1107.5)scale(2.1429)" cx="400.57" cy="531.8" r="14" filter="url(#a)" opacity=".25"/>
+ <g stroke-width="1.571">
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#b)"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill="none"/>
+ </g>
+ <g transform="translate(-.66 2.338)">
+  <rect x="19.66" y="14.661" width="26" height="30.002" rx="1.999" ry="1.999" filter="url(#c)" opacity=".25" style="paint-order:markers stroke fill"/>
+  <path d="M21.66 14.66c-1.108 0-2 .892-2 2v26.004c0 1.108.892 2 2 2h22c1.108 0 2-.892 2-2V16.66c0-1.108-.892-2-2-2zm1.002 1.996a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002m0 6.002a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002m0 5.998a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002m0 6.002a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002m0 5.998a1 1 0 0 1 1 1.002 1 1 0 0 1-1 1.002 1 1 0 0 1-1.002-1.002 1 1 0 0 1 1.002-1.002" fill="#fff" style="paint-order:markers stroke fill"/>
+  <path d="M19.66 19.661h26.004v.998H19.66zm0 5.998h26.004v1.002H19.66zm0 6.002h26.004v.998H19.66zm0 5.998h26.004v1.002H19.66z" opacity=".1" style="paint-order:markers stroke fill"/>
+ </g>
+ <path d="m10.787 10.787a29.934 29.934 0 0 0 0 42.426c0.119 0.119 0.242 0.23 0.362 0.345-11.4-11.775-11.288-30.43 0.345-42.065s30.29-11.743 42.066-0.345c-0.116-0.12-0.227-0.243-0.345-0.362a29.934 29.934 0 0 0-42.426 0z" fill="#ffffff" filter="url(#e)" opacity=".45"/>
+ <path d="m37.435 61.526c5.772-1.063 11.297-3.831 15.779-8.313s7.25-10.007 8.313-15.779c-1.592 5.434-4.606 10.657-9.02 15.072s-9.639 7.428-15.072 9.02" fill="#ffffff" filter="url(#f)" opacity=".35"/>
+</svg>

@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><defs><filter id="a" width="1.072" height="1.072" x="-.036" y="-.036" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".42"/></filter><filter id="c" width="1.12" height="1.12" x="-.06" y="-.06" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="1.2"/></filter><filter id="d" width="1.12" height="1.12" x="-.06" y="-.06" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation=".7"/></filter><linearGradient id="e" x1="408.57" x2="408.57" y1="535.2" y2="512.4" gradientTransform="translate(-469.71 -611.2)scale(1.228)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2e3436"/><stop offset="1" stop-color="#555753"/></linearGradient><linearGradient id="b" x1="32.02" x2="32.02" y1="2.043" y2="62.045" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1064d3"/><stop offset="1" stop-color="#14c6fd"/></linearGradient></defs><circle cx="400.57" cy="531.8" r="14" filter="url(#a)" opacity=".25" transform="translate(-826.36 -1107.5)scale(2.1429)"/><g stroke-width="1.571"><circle cx="32.02" cy="32.044" r="30.001" fill="url(#b)"/><circle cx="32" cy="32" r="24" filter="url(#c)" opacity=".15"/><circle cx="32.02" cy="32.044" r="30.001" fill="none"/><circle cx="32" cy="32" r="24" fill="#fff"/></g><path d="M18 18v28h12.727v-6.364h-6.364V24.363h6.364V18h-6.505zm15.273 0v6.364h6.364v15.273h-6.364V46H46V18z" filter="url(#d)" opacity=".25"/><path fill="url(#e)" d="M18 18v28h12.727v-6.364h-6.364V24.363h6.364V18h-6.505zm15.273 0v6.364h6.364v15.273h-6.364V46H46V18z"/></svg>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".42"/>
+  </filter>
+  <filter id="c" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+  <filter id="d" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".7"/>
+  </filter>
+  <linearGradient id="e" x1="408.57" x2="408.57" y1="535.2" y2="512.4" gradientTransform="translate(-469.71 -611.2)scale(1.228)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e3436" offset="0"/>
+   <stop stop-color="#555753" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="32.02" x2="32.02" y1="2.043" y2="62.045" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1064d3" offset="0"/>
+   <stop stop-color="#14c6fd" offset="1"/>
+  </linearGradient>
+  <filter id="e-4" x="-.013864" y="-.013864" width="1.0277" height="1.0277" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".298"/>
+  </filter>
+  <filter id="f" x="-.029686" y="-.029686" width="1.0594" height="1.0594" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".298"/>
+  </filter>
+ </defs>
+ <circle transform="translate(-826.36 -1107.5)scale(2.1429)" cx="400.57" cy="531.8" r="14" filter="url(#a)" opacity=".25"/>
+ <g stroke-width="1.571">
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#b)"/>
+  <circle cx="32" cy="32" r="24" filter="url(#c)" opacity=".15"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill="none"/>
+  <circle cx="32" cy="32" r="24" fill="#fff"/>
+ </g>
+ <path d="M18 18v28h12.727v-6.364h-6.364V24.363h6.364V18h-6.505zm15.273 0v6.364h6.364v15.273h-6.364V46H46V18z" filter="url(#d)" opacity=".25"/>
+ <path d="M18 18v28h12.727v-6.364h-6.364V24.363h6.364V18h-6.505zm15.273 0v6.364h6.364v15.273h-6.364V46H46V18z" fill="url(#e)"/>
+ <path d="m10.787 10.787a29.934 29.934 0 0 0 0 42.426c0.119 0.119 0.242 0.23 0.362 0.345-11.4-11.775-11.288-30.43 0.345-42.065s30.29-11.743 42.066-0.345c-0.116-0.12-0.227-0.243-0.345-0.362a29.934 29.934 0 0 0-42.426 0z" fill="#ffffff" filter="url(#e-4)" opacity=".45"/>
+ <path d="m37.435 61.526c5.772-1.063 11.297-3.831 15.779-8.313s7.25-10.007 8.313-15.779c-1.592 5.434-4.606 10.657-9.02 15.072s-9.639 7.428-15.072 9.02" fill="#ffffff" filter="url(#f)" opacity=".35"/>
+</svg>
