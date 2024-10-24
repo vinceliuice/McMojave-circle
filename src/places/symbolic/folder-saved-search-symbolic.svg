@@ -2,5 +2,5 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
  </defs>
- <path d="m6.5 1c-3.026 0-5.5 2.474-5.5 5.5s2.474 5.5 5.5 5.5a5.46 5.46 0 0 0 3.112-0.975l3.681 3.682a1 1 0 1 0 1.414-1.414l-3.681-3.682a5.46 5.46 0 0 0 0.974-3.111c0-3.026-2.474-5.5-5.5-5.5zm0 1.25a4.25 4.25 0 0 1 4.25 4.25 4.25 4.25 0 0 1-4.25 4.25 4.25 4.25 0 0 1-4.25-4.25 4.25 4.25 0 0 1 4.25-4.25z" color="#000000" fill="#363636" font-family="sans-serif" font-weight="400" opacity=".8" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+ <path class="ColorScheme-Text" d="m6.5 1c3.0376 0 5.5 2.4624 5.5 5.5 0 1.3388-0.4783 2.5659-1.2734 3.5196l4.127 4.1268c0.1952 0.1953 0.1952 0.5119 0 0.7072-0.1736 0.1735-0.443 0.1928-0.6379 0.0578l-0.0693-0.0578-4.1268-4.127c-0.9537 0.7951-2.1808 1.2734-3.5196 1.2734-3.0376 0-5.5-2.4624-5.5-5.5s2.4624-5.5 5.5-5.5zm0 1c-2.4853 0-4.5 2.0147-4.5 4.5s2.0147 4.5 4.5 4.5 4.5-2.0147 4.5-4.5-2.0147-4.5-4.5-4.5z" fill="currentColor"/>
 </svg>
