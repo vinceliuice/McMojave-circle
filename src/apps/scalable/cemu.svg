@@ -1,0 +1,23 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(4.0494 0 0 4.0494 -2.2856 -2.2523)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#363636" offset="0"/>
+   <stop stop-color="#6c6c6c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="7.937" x2="7.937" y1="15.081" y2="1.852" gradientTransform="matrix(3.5095 0 0 3.5095 2.286 2.315)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0089bc" offset="0"/>
+   <stop stop-color="#00adee" offset="1"/>
+  </linearGradient>
+  <filter id="d" x="-.16076" y="-.13541" width="1.3215" height="1.2708" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.189"/>
+  </filter>
+  <filter id="filter6" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.675"/>
+  </filter>
+ </defs>
+ <rect x="2" y="3" width="60" height="60" rx="30" ry="30" fill="#000000" filter="url(#filter6)" opacity=".15" stroke-width="1.0714"/>
+ <rect x="2" y="2" width="60" height="60" rx="30" ry="30" fill="url(#b)" stroke-width="1.0714"/>
+ <rect x="6" y="6" width="52" height="52" rx="26" ry="26" fill="url(#c)" stroke-width="1.0743"/>
+ <path d="m40.996 36.934 7.345 2.33q-1.689 6.141-5.63 9.135-3.916 2.969-9.955 2.969-7.473 0-12.284-5.093-4.811-5.118-4.811-13.973 0-9.366 4.837-14.536 4.836-5.195 12.719-5.195 6.884 0 11.183 4.07 2.56 2.405 3.839 6.909l-7.499 1.791q-.665-2.917-2.789-4.606-2.099-1.69-5.118-1.69-4.172 0-6.782 2.995-2.585 2.994-2.585 9.7 0 7.114 2.56 10.133 2.559 3.02 6.653 3.02 3.02 0 5.195-1.92t3.122-6.039" filter="url(#d)" opacity=".25" stroke-linecap="round" stroke-linejoin="round" stroke-width="13.014" style="paint-order:markers stroke fill" aria-label="C"/>
+ <path d="m40.996 36.934 7.345 2.33q-1.689 6.141-5.63 9.135-3.916 2.969-9.955 2.969-7.473 0-12.284-5.093-4.811-5.118-4.811-13.973 0-9.366 4.837-14.536 4.836-5.195 12.719-5.195 6.884 0 11.183 4.07 2.56 2.405 3.839 6.909l-7.499 1.791q-.665-2.917-2.789-4.606-2.099-1.69-5.118-1.69-4.172 0-6.782 2.995-2.585 2.994-2.585 9.7 0 7.114 2.56 10.133 2.559 3.02 6.653 3.02 3.02 0 5.195-1.92t3.122-6.039" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="13.014" style="paint-order:markers stroke fill" aria-label="C"/>
+</svg>
