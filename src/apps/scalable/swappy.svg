@@ -1,0 +1,24 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="e" x="-.029686" y="-.029686" width="1.0594" height="1.0594" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".298"/>
+  </filter>
+  <filter id="d" x="-.013864" y="-.013864" width="1.0277" height="1.0277" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".298"/>
+  </filter>
+  <linearGradient id="b" x1="32.86" x2="32.86" y1="59.084" y2="5.542" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0b8282" offset="0"/>
+   <stop stop-color="#11a79b" offset="1"/>
+  </linearGradient>
+  <filter id="a" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".675"/>
+  </filter>
+ </defs>
+ <circle cx="32" cy="33" r="30" filter="url(#a)" opacity=".15" style="paint-order:stroke fill markers"/>
+ <circle cx="32" cy="32" r="30" fill="url(#b)" style="paint-order:stroke fill markers"/>
+ <path d="m10.787 10.787a29.934 29.934 0 0 0 0 42.426c0.119 0.119 0.242 0.23 0.362 0.345-11.4-11.775-11.288-30.43 0.345-42.065s30.29-11.743 42.066-0.345c-0.116-0.12-0.227-0.243-0.345-0.362a29.934 29.934 0 0 0-42.426 0z" fill="#ffffff" filter="url(#d)" opacity=".38"/>
+ <path d="m37.435 61.526c5.772-1.063 11.297-3.831 15.779-8.313s7.25-10.007 8.313-15.779c-1.592 5.434-4.606 10.657-9.02 15.072s-9.639 7.428-15.072 9.02" fill="#ffffff" filter="url(#e)" opacity=".38"/>
+ <path d="m32 15.043c-5.0478 0-9.1304 4.0826-9.1304 9.1304 0 11.739 14.348 7.1739 14.348 15.652 0 2.8826-2.3348 5.2174-5.2174 5.2174s-5.2174-2.3348-5.2174-5.2174h-3.913c0 5.0478 4.0826 9.1304 9.1304 9.1304s9.1304-4.0826 9.1304-9.1304c0-11.739-14.348-7.1739-14.348-15.652 0-2.8826 2.3348-5.2174 5.2174-5.2174s5.2174 2.3348 5.2174 5.2174h3.913c0-5.0478-4.0826-9.1304-9.1304-9.1304z" fill="#fafafa" stroke-width="1.3044"/>
+ <rect x="33.304" y="21.565" width="10.435" height="7.8261" fill="#b72eb7" stroke-width="1.3956"/>
+ <path d="m20.261 32 10.435 6.5217-10.435 6.5217z" fill="#eaa648" stroke-width="1.3044"/>
+</svg>
